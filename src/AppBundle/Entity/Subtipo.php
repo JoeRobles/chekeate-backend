@@ -22,6 +22,12 @@ class Subtipo
     private $id;
 
     /**
+     * @ORM\ManyToOne(targetEntity="Servicio", inversedBy="subtipos")
+     * @ORM\JoinColumn(name="servicio_id", referencedColumnName="id")
+     */
+    protected $servicio;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="muestra", type="string", length=255)

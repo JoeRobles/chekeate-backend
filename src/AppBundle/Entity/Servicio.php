@@ -38,6 +38,11 @@ class Servicio
     protected $userLocations;
 
     /**
+     * @ORM\OneToMany(targetEntity="Subtipo", mappedBy="servicio")
+     */
+    protected $subtipos;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="nombre", type="string", length=255)
@@ -74,6 +79,7 @@ class Servicio
         $this->precios = new ArrayCollection();
         $this->preventivos = new ArrayCollection();
         $this->userLocations = new ArrayCollection();
+        $this->subtipos = new ArrayCollection();
     }
 
     /**
