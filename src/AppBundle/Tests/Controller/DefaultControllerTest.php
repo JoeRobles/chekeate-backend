@@ -13,6 +13,6 @@ class DefaultControllerTest extends WebTestCase
         $client->request('GET', '/');
 
         $this->assertEquals(201, $client->getResponse()->getStatusCode());
-        $this->assertContains('Star Wars: Episode VII - The Force Awakens', $client->getResponse()->getContent());
+        $this->assertContains('[]', $client->getResponse()->getContent());
     }
 }
