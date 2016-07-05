@@ -22,9 +22,15 @@ class Precio
     private $id;
 
     /**
+     * @ORM\ManyToOne(targetEntity="Centro", inversedBy="precios")
+     * @ORM\JoinColumn(name="centro_id", referencedColumnName="id")
+     */
+    protected $centro;
+
+    /**
      * @var float
      *
-     * @ORM\Column(name="Precio", type="float")
+     * @ORM\Column(name="precio", type="float")
      */
     private $precio;
 

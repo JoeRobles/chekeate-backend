@@ -2,6 +2,7 @@
 
 namespace AppBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
@@ -20,6 +21,11 @@ class Centro
      * @ORM\GeneratedValue(strategy="AUTO")
      */
     private $id;
+
+    /**
+     * @ORM\OneToMany(targetEntity="Precio", mappedBy="centro")
+     */
+    protected $precios;
 
     /**
      * @var string
@@ -77,6 +83,14 @@ class Centro
      */
     private $longitud;
 
+
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->precios = new ArrayCollection();
+    }
 
     /**
      * Get id
