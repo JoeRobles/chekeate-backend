@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Causa list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombreenfermedad</th>
+                <th>Tipocausa</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for causa in causas %}
+            <tr>
+                <td><a href="{{ path('causa_show', { 'id': causa.id }) }}">{{ causa.id }}</a></td>
+                <td>{{ causa.nombreEnfermedad }}</td>
+                <td>{{ causa.tipoCausa }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('causa_show', { 'id': causa.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('causa_edit', { 'id': causa.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('causa_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}
