@@ -33,6 +33,11 @@ class Servicio
     protected $preventivos;
 
     /**
+     * @ORM\OneToMany(targetEntity="UserLocation", mappedBy="servicio")
+     */
+    protected $userLocations;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="nombre", type="string", length=255)
@@ -68,6 +73,7 @@ class Servicio
     {
         $this->precios = new ArrayCollection();
         $this->preventivos = new ArrayCollection();
+        $this->userLocations = new ArrayCollection();
     }
 
     /**

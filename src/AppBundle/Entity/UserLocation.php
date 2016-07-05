@@ -22,6 +22,12 @@ class UserLocation
     private $id;
 
     /**
+     * @ORM\ManyToOne(targetEntity="Servicio", inversedBy="userLocations")
+     * @ORM\JoinColumn(name="servicio_id", referencedColumnName="id")
+     */
+    protected $servicio;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="longitude", type="decimal", precision=18, scale=12, nullable=true)
