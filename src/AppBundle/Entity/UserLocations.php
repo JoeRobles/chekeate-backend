@@ -7,10 +7,10 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * UserLocation
  *
- * @ORM\Table(name="UserLocation")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\UserLocationRepository")
+ * @ORM\Table(name="UserLocations")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\UserLocationsRepository")
  */
-class UserLocation
+class UserLocations
 {
     /**
      * @var int
@@ -50,7 +50,7 @@ class UserLocation
      * Set longitude
      *
      * @param string $longitude
-     * @return UserLocation
+     * @return UserLocations
      */
     public function setLongitude($longitude)
     {
@@ -73,7 +73,7 @@ class UserLocation
      * Set latitude
      *
      * @param string $latitude
-     * @return UserLocation
+     * @return UserLocations
      */
     public function setLatitude($latitude)
     {

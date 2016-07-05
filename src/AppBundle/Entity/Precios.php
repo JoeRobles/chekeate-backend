@@ -50,7 +50,7 @@ class Precios
      * Set precio
      *
      * @param float $precio
-     * @return Precio
+     * @return Precios
      */
     public function setPrecio($precio)
     {
@@ -73,7 +73,7 @@ class Precios
      * Set compra
      *
      * @param integer $compra
-     * @return Precio
+     * @return Precios
      */
     public function setCompra($compra)
     {
