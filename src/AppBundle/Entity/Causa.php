@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Causas
+ * Causa
  *
- * @ORM\Table(name="Causas")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\CausasRepository")
+ * @ORM\Table(name="Causa")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\CausaRepository")
  */
-class Causas
+class Causa
 {
     /**
      * @var int
@@ -50,7 +50,7 @@ class Causas
      * Set nombreEnfermedad
      *
      * @param string $nombreEnfermedad
-     * @return Causas
+     * @return Causa
      */
     public function setNombreEnfermedad($nombreEnfermedad)
     {
@@ -73,7 +73,7 @@ class Causas
      * Set tipoCausa
      *
      * @param string $tipoCausa
-     * @return Causas
+     * @return Causa
      */
     public function setTipoCausa($tipoCausa)
     {

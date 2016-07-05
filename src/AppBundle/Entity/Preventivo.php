@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Preventivos
+ * Preventivo
  *
- * @ORM\Table(name="Preventivos")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\PreventivosRepository")
+ * @ORM\Table(name="Preventivo")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\PreventivoRepository")
  */
-class Preventivos
+class Preventivo
 {
     /**
      * @var int
@@ -64,7 +64,7 @@ class Preventivos
      * Set enfermedadPreventivo
      *
      * @param string $enfermedadPreventivo
-     * @return Preventivos
+     * @return Preventivo
      */
     public function setEnfermedadPreventivo($enfermedadPreventivo)
     {
@@ -87,7 +87,7 @@ class Preventivos
      * Set descripcionPreventivo
      *
      * @param string $descripcionPreventivo
-     * @return Preventivos
+     * @return Preventivo
      */
     public function setDescripcionPreventivo($descripcionPreventivo)
     {
@@ -110,7 +110,7 @@ class Preventivos
      * Set grupoRiesgoPreventivo
      *
      * @param string $grupoRiesgoPreventivo
-     * @return Preventivos
+     * @return Preventivo
      */
     public function setGrupoRiesgoPreventivo($grupoRiesgoPreventivo)
     {
@@ -133,7 +133,7 @@ class Preventivos
      * Set recomendacion
      *
      * @param string $recomendacion
-     * @return Preventivos
+     * @return Preventivo
      */
     public function setRecomendacion($recomendacion)
     {

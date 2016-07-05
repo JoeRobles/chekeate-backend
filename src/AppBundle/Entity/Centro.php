@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Centros
+ * Centro
  *
- * @ORM\Table(name="Centros")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\CentrosRepository")
+ * @ORM\Table(name="Centro")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\CentroRepository")
  */
-class Centros
+class Centro
 {
     /**
      * @var int
@@ -92,7 +92,7 @@ class Centros
      * Set nombre
      *
      * @param string $nombre
-     * @return Centros
+     * @return Centro
      */
     public function setNombre($nombre)
     {
@@ -115,7 +115,7 @@ class Centros
      * Set direccion
      *
      * @param string $direccion
-     * @return Centros
+     * @return Centro
      */
     public function setDireccion($direccion)
     {
@@ -138,7 +138,7 @@ class Centros
      * Set telefono
      *
      * @param string $telefono
-     * @return Centros
+     * @return Centro
      */
     public function setTelefono($telefono)
     {
@@ -161,7 +161,7 @@ class Centros
      * Set horarioatencion
      *
      * @param string $horarioatencion
-     * @return Centros
+     * @return Centro
      */
     public function setHorarioatencion($horarioatencion)
     {
@@ -184,7 +184,7 @@ class Centros
      * Set linkwebsite
      *
      * @param string $linkwebsite
-     * @return Centros
+     * @return Centro
      */
     public function setLinkwebsite($linkwebsite)
     {
@@ -207,7 +207,7 @@ class Centros
      * Set imagen
      *
      * @param string $imagen
-     * @return Centros
+     * @return Centro
      */
     public function setImagen($imagen)
     {
@@ -230,7 +230,7 @@ class Centros
      * Set latitud
      *
      * @param string $latitud
-     * @return Centros
+     * @return Centro
      */
     public function setLatitud($latitud)
     {
@@ -253,7 +253,7 @@ class Centros
      * Set longitud
      *
      * @param string $longitud
-     * @return Centros
+     * @return Centro
      */
     public function setLongitud($longitud)
     {

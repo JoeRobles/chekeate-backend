@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Molestias
+ * Servicio
  *
- * @ORM\Table(name="Molestias")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\MolestiasRepository")
+ * @ORM\Table(name="Servicio")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\ServicioRepository")
  */
-class Molestias
+class Servicio
 {
     /**
      * @var int
@@ -24,23 +24,23 @@ class Molestias
     /**
      * @var string
      *
-     * @ORM\Column(name="nombre_molestia", type="string", length=255)
+     * @ORM\Column(name="nombre", type="string", length=255)
      */
-    private $nombreMolestia;
+    private $nombre;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="descripcion_molestia", type="text", nullable=true)
+     * @ORM\Column(name="descripcion", type="text", nullable=true)
      */
-    private $descripcionMolestia;
+    private $descripcion;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="causas", type="text", nullable=true)
+     * @ORM\Column(name="tipo", type="string", length=255, nullable=true)
      */
-    private $causas;
+    private $tipo;
 
     /**
      * @var string
@@ -61,79 +61,79 @@ class Molestias
     }
 
     /**
-     * Set nombreMolestia
+     * Set nombre
      *
-     * @param string $nombreMolestia
-     * @return Molestias
+     * @param string $nombre
+     * @return Servicio
      */
-    public function setNombreMolestia($nombreMolestia)
+    public function setNombre($nombre)
     {
-        $this->nombreMolestia = $nombreMolestia;
+        $this->nombre = $nombre;
 
         return $this;
     }
 
     /**
-     * Get nombreMolestia
+     * Get nombre
      *
      * @return string 
      */
-    public function getNombreMolestia()
+    public function getNombre()
     {
-        return $this->nombreMolestia;
+        return $this->nombre;
     }
 
     /**
-     * Set descripcionMolestia
+     * Set descripcion
      *
-     * @param string $descripcionMolestia
-     * @return Molestias
+     * @param string $descripcion
+     * @return Servicio
      */
-    public function setDescripcionMolestia($descripcionMolestia)
+    public function setDescripcion($descripcion)
     {
-        $this->descripcionMolestia = $descripcionMolestia;
+        $this->descripcion = $descripcion;
 
         return $this;
     }
 
     /**
-     * Get descripcionMolestia
+     * Get descripcion
      *
      * @return string 
      */
-    public function getDescripcionMolestia()
+    public function getDescripcion()
     {
-        return $this->descripcionMolestia;
+        return $this->descripcion;
     }
 
     /**
-     * Set causas
+     * Set tipo
      *
-     * @param string $causas
-     * @return Molestias
+     * @param string $tipo
+     * @return Servicio
      */
-    public function setCausas($causas)
+    public function setTipo($tipo)
     {
-        $this->causas = $causas;
+        $this->tipo = $tipo;
 
         return $this;
     }
 
     /**
-     * Get causas
+     * Get tipo
      *
      * @return string 
      */
-    public function getCausas()
+    public function getTipo()
     {
-        return $this->causas;
+        return $this->tipo;
     }
 
     /**
      * Set keywords
      *
      * @param string $keywords
-     * @return Molestias
+     * @return Servicio
      */
     public function setKeywords($keywords)
     {

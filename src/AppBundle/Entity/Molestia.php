@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Servicios
+ * Molestia
  *
- * @ORM\Table(name="Servicios")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\ServiciosRepository")
+ * @ORM\Table(name="Molestia")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\MolestiaRepository")
  */
-class Servicios
+class Molestia
 {
     /**
      * @var int
@@ -24,23 +24,23 @@ class Servicios
     /**
      * @var string
      *
-     * @ORM\Column(name="nombre", type="string", length=255)
+     * @ORM\Column(name="nombre_molestia", type="string", length=255)
      */
-    private $nombre;
+    private $nombreMolestia;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="descripcion", type="text", nullable=true)
+     * @ORM\Column(name="descripcion_molestia", type="text", nullable=true)
      */
-    private $descripcion;
+    private $descripcionMolestia;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="tipo", type="string", length=255, nullable=true)
+     * @ORM\Column(name="causas", type="text", nullable=true)
      */
-    private $tipo;
+    private $causas;
 
     /**
      * @var string
@@ -61,79 +61,79 @@ class Servicios
     }
 
     /**
-     * Set nombre
+     * Set nombreMolestia
      *
-     * @param string $nombre
-     * @return Servicios
+     * @param string $nombreMolestia
+     * @return Molestia
      */
-    public function setNombre($nombre)
+    public function setNombreMolestia($nombreMolestia)
     {
-        $this->nombre = $nombre;
+        $this->nombreMolestia = $nombreMolestia;
 
         return $this;
     }
 
     /**
-     * Get nombre
+     * Get nombreMolestia
      *
      * @return string 
      */
-    public function getNombre()
+    public function getNombreMolestia()
     {
-        return $this->nombre;
+        return $this->nombreMolestia;
     }
 
     /**
-     * Set descripcion
+     * Set descripcionMolestia
      *
-     * @param string $descripcion
-     * @return Servicios
+     * @param string $descripcionMolestia
+     * @return Molestia
      */
-    public function setDescripcion($descripcion)
+    public function setDescripcionMolestia($descripcionMolestia)
     {
-        $this->descripcion = $descripcion;
+        $this->descripcionMolestia = $descripcionMolestia;
 
         return $this;
     }
 
     /**
-     * Get descripcion
+     * Get descripcionMolestia
      *
      * @return string 
      */
-    public function getDescripcion()
+    public function getDescripcionMolestia()
     {
-        return $this->descripcion;
+        return $this->descripcionMolestia;
     }
 
     /**
-     * Set tipo
+     * Set causas
      *
-     * @param string $tipo
-     * @return Servicios
+     * @param string $causas
+     * @return Molestia
      */
-    public function setTipo($tipo)
+    public function setCausas($causas)
     {
-        $this->tipo = $tipo;
+        $this->causas = $causas;
 
         return $this;
     }
 
     /**
-     * Get tipo
+     * Get causas
      *
      * @return string 
      */
-    public function getTipo()
+    public function getCausas()
     {
-        return $this->tipo;
+        return $this->causas;
     }
 
     /**
      * Set keywords
      *
      * @param string $keywords
-     * @return Servicios
+     * @return Molestia
      */
     public function setKeywords($keywords)
     {

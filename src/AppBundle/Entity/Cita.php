@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Citas
+ * Cita
  *
- * @ORM\Table(name="Citas")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\CitasRepository")
+ * @ORM\Table(name="Cita")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\CitaRepository")
  */
-class Citas
+class Cita
 {
     /**
      * @var int
@@ -106,7 +106,7 @@ class Citas
      * Set precioServicio
      *
      * @param float $precioServicio
-     * @return Citas
+     * @return Cita
      */
     public function setPrecioServicio($precioServicio)
     {
@@ -129,7 +129,7 @@ class Citas
      * Set nombrePersona
      *
      * @param string $nombrePersona
-     * @return Citas
+     * @return Cita
      */
     public function setNombrePersona($nombrePersona)
     {
@@ -152,7 +152,7 @@ class Citas
      * Set fechaNacimientoPersona
      *
      * @param \DateTime $fechaNacimientoPersona
-     * @return Citas
+     * @return Cita
      */
     public function setFechaNacimientoPersona($fechaNacimientoPersona)
     {
@@ -175,7 +175,7 @@ class Citas
      * Set sexoPersona
      *
      * @param string $sexoPersona
-     * @return Citas
+     * @return Cita
      */
     public function setSexoPersona($sexoPersona)
     {
@@ -198,7 +198,7 @@ class Citas
      * Set correoPersona
      *
      * @param string $correoPersona
-     * @return Citas
+     * @return Cita
      */
     public function setCorreoPersona($correoPersona)
     {
@@ -221,7 +221,7 @@ class Citas
      * Set telefonoPersona
      *
      * @param string $telefonoPersona
-     * @return Citas
+     * @return Cita
      */
     public function setTelefonoPersona($telefonoPersona)
     {
@@ -244,7 +244,7 @@ class Citas
      * Set nombreImagen
      *
      * @param string $nombreImagen
-     * @return Citas
+     * @return Cita
      */
     public function setNombreImagen($nombreImagen)
     {
@@ -267,7 +267,7 @@ class Citas
      * Set estadoCita
      *
      * @param integer $estadoCita
-     * @return Citas
+     * @return Cita
      */
     public function setEstadoCita($estadoCita)
     {
@@ -290,7 +290,7 @@ class Citas
      * Set fechaReserva
      *
      * @param \DateTime $fechaReserva
-     * @return Citas
+     * @return Cita
      */
     public function setFechaReserva($fechaReserva)
     {
@@ -313,7 +313,7 @@ class Citas
      * Set fechaCreacion
      *
      * @param \DateTime $fechaCreacion
-     * @return Citas
+     * @return Cita
      */
     public function setFechaCreacion($fechaCreacion)
     {

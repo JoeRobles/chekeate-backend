@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Subtipos
+ * Subtipo
  *
- * @ORM\Table(name="Subtipos")
- * @ORM\Entity(repositoryClass="AppBundle\Repository\SubtiposRepository")
+ * @ORM\Table(name="Subtipo")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\SubtipoRepository")
  */
-class Subtipos
+class Subtipo
 {
     /**
      * @var int
@@ -99,7 +99,7 @@ class Subtipos
      * Set muestra
      *
      * @param string $muestra
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setMuestra($muestra)
     {
@@ -122,7 +122,7 @@ class Subtipos
      * Set unidades
      *
      * @param string $unidades
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setUnidades($unidades)
     {
@@ -145,7 +145,7 @@ class Subtipos
      * Set valorinferiorh
      *
      * @param float $valorinferiorh
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setValorinferiorh($valorinferiorh)
     {
@@ -168,7 +168,7 @@ class Subtipos
      * Set valorsuperiorh
      *
      * @param float $valorsuperiorh
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setValorsuperiorh($valorsuperiorh)
     {
@@ -191,7 +191,7 @@ class Subtipos
      * Set valorinferiorm
      *
      * @param float $valorinferiorm
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setValorinferiorm($valorinferiorm)
     {
@@ -214,7 +214,7 @@ class Subtipos
      * Set valorsuperiorm
      *
      * @param float $valorsuperiorm
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setValorsuperiorm($valorsuperiorm)
     {
@@ -237,7 +237,7 @@ class Subtipos
      * Set interpretacionvalorinferior
      *
      * @param string $interpretacionvalorinferior
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setInterpretacionvalorinferior($interpretacionvalorinferior)
     {
@@ -260,7 +260,7 @@ class Subtipos
      * Set interpretacionvalorsuperior
      *
      * @param string $interpretacionvalorsuperior
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setInterpretacionvalorsuperior($interpretacionvalorsuperior)
     {
@@ -283,7 +283,7 @@ class Subtipos
      * Set indicacion
      *
      * @param string $indicacion
-     * @return Subtipos
+     * @return Subtipo
      */
     public function setIndicacion($indicacion)
     {
