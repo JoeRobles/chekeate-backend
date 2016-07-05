@@ -285,4 +285,37 @@ class Centro
     {
         return $this->longitud;
     }
+
+    /**
+     * Add precios
+     *
+     * @param \AppBundle\Entity\Precio $precios
+     * @return Centro
+     */
+    public function addPrecio(\AppBundle\Entity\Precio $precios)
+    {
+        $this->precios[] = $precios;
+
+        return $this;
+    }
+
+    /**
+     * Remove precios
+     *
+     * @param \AppBundle\Entity\Precio $precios
+     */
+    public function removePrecio(\AppBundle\Entity\Precio $precios)
+    {
+        $this->precios->removeElement($precios);
+    }
+
+    /**
+     * Get precios
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getPrecios()
+    {
+        return $this->precios;
+    }
 }

@@ -2,6 +2,7 @@
 
 namespace AppBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
@@ -20,6 +21,11 @@ class Servicio
      * @ORM\GeneratedValue(strategy="AUTO")
      */
     private $id;
+
+    /**
+     * @ORM\OneToMany(targetEntity="Precio", mappedBy="servicio")
+     */
+    protected $precios;
 
     /**
      * @var string
@@ -49,6 +55,14 @@ class Servicio
      */
     private $keywords;
 
+
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->precios = new ArrayCollection();
+    }
 
     /**
      * Get id
@@ -150,5 +164,38 @@ class Servicio
     public function getKeywords()
     {
         return $this->keywords;
+    }
+
+    /**
+     * Add precios
+     *
+     * @param \AppBundle\Entity\Precio $precios
+     * @return Servicio
+     */
+    public function addPrecio(\AppBundle\Entity\Precio $precios)
+    {
+        $this->precios[] = $precios;
+
+        return $this;
+    }
+
+    /**
+     * Remove precios
+     *
+     * @param \AppBundle\Entity\Precio $precios
+     */
+    public function removePrecio(\AppBundle\Entity\Precio $precios)
+    {
+        $this->precios->removeElement($precios);
+    }
+
+    /**
+     * Get precios
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getPrecios()
+    {
+        return $this->precios;
     }
 }
