@@ -43,6 +43,11 @@ class Servicio
     protected $subtipos;
 
     /**
+     * @ORM\OneToMany(targetEntity="Cita", mappedBy="servicio")
+     */
+    protected $citas;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="nombre", type="string", length=255)
@@ -80,6 +85,7 @@ class Servicio
         $this->preventivos = new ArrayCollection();
         $this->userLocations = new ArrayCollection();
         $this->subtipos = new ArrayCollection();
+        $this->citas = new ArrayCollection();
     }
 
     /**
@@ -215,5 +221,137 @@ class Servicio
     public function getPrecios()
     {
         return $this->precios;
+    }
+
+    /**
+     * Add preventivos
+     *
+     * @param \AppBundle\Entity\Preventivo $preventivos
+     * @return Servicio
+     */
+    public function addPreventivo(\AppBundle\Entity\Preventivo $preventivos)
+    {
+        $this->preventivos[] = $preventivos;
+
+        return $this;
+    }
+
+    /**
+     * Remove preventivos
+     *
+     * @param \AppBundle\Entity\Preventivo $preventivos
+     */
+    public function removePreventivo(\AppBundle\Entity\Preventivo $preventivos)
+    {
+        $this->preventivos->removeElement($preventivos);
+    }
+
+    /**
+     * Get preventivos
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getPreventivos()
+    {
+        return $this->preventivos;
+    }
+
+    /**
+     * Add userLocations
+     *
+     * @param \AppBundle\Entity\UserLocation $userLocations
+     * @return Servicio
+     */
+    public function addUserLocation(\AppBundle\Entity\UserLocation $userLocations)
+    {
+        $this->userLocations[] = $userLocations;
+
+        return $this;
+    }
+
+    /**
+     * Remove userLocations
+     *
+     * @param \AppBundle\Entity\UserLocation $userLocations
+     */
+    public function removeUserLocation(\AppBundle\Entity\UserLocation $userLocations)
+    {
+        $this->userLocations->removeElement($userLocations);
+    }
+
+    /**
+     * Get userLocations
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getUserLocations()
+    {
+        return $this->userLocations;
+    }
+
+    /**
+     * Add subtipos
+     *
+     * @param \AppBundle\Entity\Subtipo $subtipos
+     * @return Servicio
+     */
+    public function addSubtipo(\AppBundle\Entity\Subtipo $subtipos)
+    {
+        $this->subtipos[] = $subtipos;
+
+        return $this;
+    }
+
+    /**
+     * Remove subtipos
+     *
+     * @param \AppBundle\Entity\Subtipo $subtipos
+     */
+    public function removeSubtipo(\AppBundle\Entity\Subtipo $subtipos)
+    {
+        $this->subtipos->removeElement($subtipos);
+    }
+
+    /**
+     * Get subtipos
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSubtipos()
+    {
+        return $this->subtipos;
+    }
+
+    /**
+     * Add citas
+     *
+     * @param \AppBundle\Entity\Cita $citas
+     * @return Servicio
+     */
+    public function addCita(\AppBundle\Entity\Cita $citas)
+    {
+        $this->citas[] = $citas;
+
+        return $this;
+    }
+
+    /**
+     * Remove citas
+     *
+     * @param \AppBundle\Entity\Cita $citas
+     */
+    public function removeCita(\AppBundle\Entity\Cita $citas)
+    {
+        $this->citas->removeElement($citas);
+    }
+
+    /**
+     * Get citas
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getCitas()
+    {
+        return $this->citas;
     }
 }

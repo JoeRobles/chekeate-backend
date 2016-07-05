@@ -22,6 +22,12 @@ class Cita
     private $id;
 
     /**
+     * @ORM\ManyToOne(targetEntity="Servicio", inversedBy="citas")
+     * @ORM\JoinColumn(name="servicio_id", referencedColumnName="id")
+     */
+    protected $servicio;
+
+    /**
      * @var float
      *
      * @ORM\Column(name="precio_servicio", type="float")
@@ -330,5 +336,28 @@ class Cita
     public function getFechaCreacion()
     {
         return $this->fechaCreacion;
+    }
+
+    /**
+     * Set servicio
+     *
+     * @param \AppBundle\Entity\Servicio $servicio
+     * @return Cita
+     */
+    public function setServicio(\AppBundle\Entity\Servicio $servicio = null)
+    {
+        $this->servicio = $servicio;
+
+        return $this;
+    }
+
+    /**
+     * Get servicio
+     *
+     * @return \AppBundle\Entity\Servicio 
+     */
+    public function getServicio()
+    {
+        return $this->servicio;
     }
 }

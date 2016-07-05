@@ -97,4 +97,27 @@ class UserLocation
     {
         return $this->latitude;
     }
+
+    /**
+     * Set servicio
+     *
+     * @param \AppBundle\Entity\Servicio $servicio
+     * @return UserLocation
+     */
+    public function setServicio(\AppBundle\Entity\Servicio $servicio = null)
+    {
+        $this->servicio = $servicio;
+
+        return $this;
+    }
+
+    /**
+     * Get servicio
+     *
+     * @return \AppBundle\Entity\Servicio 
+     */
+    public function getServicio()
+    {
+        return $this->servicio;
+    }
 }

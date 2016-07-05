@@ -307,4 +307,27 @@ class Subtipo
     {
         return $this->indicacion;
     }
+
+    /**
+     * Set servicio
+     *
+     * @param \AppBundle\Entity\Servicio $servicio
+     * @return Subtipo
+     */
+    public function setServicio(\AppBundle\Entity\Servicio $servicio = null)
+    {
+        $this->servicio = $servicio;
+
+        return $this;
+    }
+
+    /**
+     * Get servicio
+     *
+     * @return \AppBundle\Entity\Servicio 
+     */
+    public function getServicio()
+    {
+        return $this->servicio;
+    }
 }
