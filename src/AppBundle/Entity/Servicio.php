@@ -28,6 +28,11 @@ class Servicio
     protected $precios;
 
     /**
+     * @ORM\OneToMany(targetEntity="Preventivo", mappedBy="servicio")
+     */
+    protected $preventivos;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="nombre", type="string", length=255)
@@ -62,6 +67,7 @@ class Servicio
     public function __construct()
     {
         $this->precios = new ArrayCollection();
+        $this->preventivos = new ArrayCollection();
     }
 
     /**

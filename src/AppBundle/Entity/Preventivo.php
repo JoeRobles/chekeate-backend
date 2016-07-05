@@ -22,6 +22,12 @@ class Preventivo
     private $id;
 
     /**
+     * @ORM\ManyToOne(targetEntity="Servicio", inversedBy="preventivos")
+     * @ORM\JoinColumn(name="servicio_id", referencedColumnName="id")
+     */
+    protected $servicio;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="enfermedad_preventivo", type="string", length=255)
