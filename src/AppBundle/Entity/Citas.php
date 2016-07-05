@@ -38,9 +38,9 @@ class Citas
     /**
      * @var \DateTime
      *
-     * @ORM\Column(name="fecha_nacimiento_ppersona", type="date", nullable=true)
+     * @ORM\Column(name="fecha_nacimiento_persona", type="date", nullable=true)
      */
-    private $fechaNacimientoPpersona;
+    private $fechaNacimientoPersona;
 
     /**
      * @var string
@@ -149,26 +149,26 @@ class Citas
     }
 
     /**
-     * Set fechaNacimientoPpersona
+     * Set fechaNacimientoPersona
      *
-     * @param \DateTime $fechaNacimientoPpersona
+     * @param \DateTime $fechaNacimientoPersona
      * @return Citas
      */
-    public function setFechaNacimientoPpersona($fechaNacimientoPpersona)
+    public function setFechaNacimientoPersona($fechaNacimientoPersona)
     {
-        $this->fechaNacimientoPpersona = $fechaNacimientoPpersona;
+        $this->fechaNacimientoPersona = $fechaNacimientoPersona;
 
         return $this;
     }
 
     /**
-     * Get fechaNacimientoPpersona
+     * Get fechaNacimientoPersona
      *
      * @return \DateTime 
      */
-    public function getFechaNacimientoPpersona()
+    public function getFechaNacimientoPersona()
     {
-        return $this->fechaNacimientoPpersona;
+        return $this->fechaNacimientoPersona;
     }
 
     /**
