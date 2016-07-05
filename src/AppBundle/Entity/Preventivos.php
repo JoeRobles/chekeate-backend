@@ -42,6 +42,13 @@ class Preventivos
      */
     private $grupoRiesgoPreventivo;
 
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="recomendacion", type="text", nullable=true)
+     */
+    private $recomendacion;
+
 
     /**
      * Get id
@@ -120,5 +127,28 @@ class Preventivos
     public function getGrupoRiesgoPreventivo()
     {
         return $this->grupoRiesgoPreventivo;
+    }
+
+    /**
+     * Set recomendacion
+     *
+     * @param string $recomendacion
+     * @return Preventivos
+     */
+    public function setRecomendacion($recomendacion)
+    {
+        $this->recomendacion = $recomendacion;
+
+        return $this;
+    }
+
+    /**
+     * Get recomendacion
+     *
+     * @return string
+     */
+    public function getRecomendacion()
+    {
+        return $this->recomendacion;
     }
 }

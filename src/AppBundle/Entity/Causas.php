@@ -24,7 +24,7 @@ class Causas
     /**
      * @var string
      *
-     * @ORM\Column(name="nombre_enfermedad", type="text", unique=true)
+     * @ORM\Column(name="nombre_enfermedad", type="text")
      */
     private $nombreEnfermedad;
 
