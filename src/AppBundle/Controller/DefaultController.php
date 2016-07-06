@@ -20,6 +20,6 @@ class DefaultController extends Controller
             )
         );
 
-        return new Response ($response, 201, array('Access-Control-Allow-Origin' => '*', 'Content-Type' => 'application/json'));
+        return new Response ($response, 200, array('Access-Control-Allow-Origin' => '*', 'Content-Type' => 'application/json'));
     }
 }
