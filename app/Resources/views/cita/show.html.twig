@@ -1,0 +1,68 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Cita</h1>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ citum.id }}</td>
+            </tr>
+            <tr>
+                <th>Precioservicio</th>
+                <td>{{ citum.precioServicio }}</td>
+            </tr>
+            <tr>
+                <th>Nombrepersona</th>
+                <td>{{ citum.nombrePersona }}</td>
+            </tr>
+            <tr>
+                <th>Fechanacimientopersona</th>
+                <td>{% if citum.fechaNacimientoPersona %}{{ citum.fechaNacimientoPersona|date('Y-m-d') }}{% endif %}</td>
+            </tr>
+            <tr>
+                <th>Sexopersona</th>
+                <td>{{ citum.sexoPersona }}</td>
+            </tr>
+            <tr>
+                <th>Correopersona</th>
+                <td>{{ citum.correoPersona }}</td>
+            </tr>
+            <tr>
+                <th>Telefonopersona</th>
+                <td>{{ citum.telefonoPersona }}</td>
+            </tr>
+            <tr>
+                <th>Nombreimagen</th>
+                <td>{{ citum.nombreImagen }}</td>
+            </tr>
+            <tr>
+                <th>Estadocita</th>
+                <td>{{ citum.estadoCita }}</td>
+            </tr>
+            <tr>
+                <th>Fechareserva</th>
+                <td>{% if citum.fechaReserva %}{{ citum.fechaReserva|date('Y-m-d H:i:s') }}{% endif %}</td>
+            </tr>
+            <tr>
+                <th>Fechacreacion</th>
+                <td>{% if citum.fechaCreacion %}{{ citum.fechaCreacion|date('Y-m-d H:i:s') }}{% endif %}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('cita_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('cita_edit', { 'id': citum.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}

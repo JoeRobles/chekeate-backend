@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>UserLocation list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Longitude</th>
+                <th>Latitude</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for userLocation in userLocations %}
+            <tr>
+                <td><a href="{{ path('userlocation_show', { 'id': userLocation.id }) }}">{{ userLocation.id }}</a></td>
+                <td>{{ userLocation.longitude }}</td>
+                <td>{{ userLocation.latitude }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('userlocation_show', { 'id': userLocation.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('userlocation_edit', { 'id': userLocation.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('userlocation_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}

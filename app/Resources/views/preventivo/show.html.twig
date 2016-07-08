@@ -1,0 +1,44 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Preventivo</h1>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ preventivo.id }}</td>
+            </tr>
+            <tr>
+                <th>Enfermedadpreventivo</th>
+                <td>{{ preventivo.enfermedadPreventivo }}</td>
+            </tr>
+            <tr>
+                <th>Descripcionpreventivo</th>
+                <td>{{ preventivo.descripcionPreventivo }}</td>
+            </tr>
+            <tr>
+                <th>Gruporiesgopreventivo</th>
+                <td>{{ preventivo.grupoRiesgoPreventivo }}</td>
+            </tr>
+            <tr>
+                <th>Recomendacion</th>
+                <td>{{ preventivo.recomendacion }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('preventivo_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('preventivo_edit', { 'id': preventivo.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}

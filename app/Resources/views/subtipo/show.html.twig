@@ -1,0 +1,64 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Subtipo</h1>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ subtipo.id }}</td>
+            </tr>
+            <tr>
+                <th>Muestra</th>
+                <td>{{ subtipo.muestra }}</td>
+            </tr>
+            <tr>
+                <th>Unidades</th>
+                <td>{{ subtipo.unidades }}</td>
+            </tr>
+            <tr>
+                <th>Valorinferiorh</th>
+                <td>{{ subtipo.valorinferiorh }}</td>
+            </tr>
+            <tr>
+                <th>Valorsuperiorh</th>
+                <td>{{ subtipo.valorsuperiorh }}</td>
+            </tr>
+            <tr>
+                <th>Valorinferiorm</th>
+                <td>{{ subtipo.valorinferiorm }}</td>
+            </tr>
+            <tr>
+                <th>Valorsuperiorm</th>
+                <td>{{ subtipo.valorsuperiorm }}</td>
+            </tr>
+            <tr>
+                <th>Interpretacionvalorinferior</th>
+                <td>{{ subtipo.interpretacionvalorinferior }}</td>
+            </tr>
+            <tr>
+                <th>Interpretacionvalorsuperior</th>
+                <td>{{ subtipo.interpretacionvalorsuperior }}</td>
+            </tr>
+            <tr>
+                <th>Indicacion</th>
+                <td>{{ subtipo.indicacion }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('subtipo_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('subtipo_edit', { 'id': subtipo.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}

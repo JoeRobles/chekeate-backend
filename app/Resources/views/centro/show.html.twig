@@ -1,0 +1,60 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Centro</h1>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ centro.id }}</td>
+            </tr>
+            <tr>
+                <th>Nombre</th>
+                <td>{{ centro.nombre }}</td>
+            </tr>
+            <tr>
+                <th>Direccion</th>
+                <td>{{ centro.direccion }}</td>
+            </tr>
+            <tr>
+                <th>Telefono</th>
+                <td>{{ centro.telefono }}</td>
+            </tr>
+            <tr>
+                <th>Horarioatencion</th>
+                <td>{{ centro.horarioatencion }}</td>
+            </tr>
+            <tr>
+                <th>Linkwebsite</th>
+                <td>{{ centro.linkwebsite }}</td>
+            </tr>
+            <tr>
+                <th>Imagen</th>
+                <td>{{ centro.imagen }}</td>
+            </tr>
+            <tr>
+                <th>Latitud</th>
+                <td>{{ centro.latitud }}</td>
+            </tr>
+            <tr>
+                <th>Longitud</th>
+                <td>{{ centro.longitud }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('centro_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('centro_edit', { 'id': centro.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}

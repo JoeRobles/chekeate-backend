@@ -1,0 +1,45 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Molestia list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombremolestia</th>
+                <th>Descripcionmolestia</th>
+                <th>Causas</th>
+                <th>Keywords</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for molestium in molestias %}
+            <tr>
+                <td><a href="{{ path('molestia_show', { 'id': molestium.id }) }}">{{ molestium.id }}</a></td>
+                <td>{{ molestium.nombreMolestia }}</td>
+                <td>{{ molestium.descripcionMolestia }}</td>
+                <td>{{ molestium.causas }}</td>
+                <td>{{ molestium.keywords }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('molestia_show', { 'id': molestium.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('molestia_edit', { 'id': molestium.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('molestia_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}

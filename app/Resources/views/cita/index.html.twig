@@ -1,0 +1,57 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Cita list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Precioservicio</th>
+                <th>Nombrepersona</th>
+                <th>Fechanacimientopersona</th>
+                <th>Sexopersona</th>
+                <th>Correopersona</th>
+                <th>Telefonopersona</th>
+                <th>Nombreimagen</th>
+                <th>Estadocita</th>
+                <th>Fechareserva</th>
+                <th>Fechacreacion</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for citum in citas %}
+            <tr>
+                <td><a href="{{ path('cita_show', { 'id': citum.id }) }}">{{ citum.id }}</a></td>
+                <td>{{ citum.precioServicio }}</td>
+                <td>{{ citum.nombrePersona }}</td>
+                <td>{% if citum.fechaNacimientoPersona %}{{ citum.fechaNacimientoPersona|date('Y-m-d') }}{% endif %}</td>
+                <td>{{ citum.sexoPersona }}</td>
+                <td>{{ citum.correoPersona }}</td>
+                <td>{{ citum.telefonoPersona }}</td>
+                <td>{{ citum.nombreImagen }}</td>
+                <td>{{ citum.estadoCita }}</td>
+                <td>{% if citum.fechaReserva %}{{ citum.fechaReserva|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{% if citum.fechaCreacion %}{{ citum.fechaCreacion|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('cita_show', { 'id': citum.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('cita_edit', { 'id': citum.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('cita_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}

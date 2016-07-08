@@ -1,0 +1,45 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Preventivo list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Enfermedadpreventivo</th>
+                <th>Descripcionpreventivo</th>
+                <th>Gruporiesgopreventivo</th>
+                <th>Recomendacion</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for preventivo in preventivos %}
+            <tr>
+                <td><a href="{{ path('preventivo_show', { 'id': preventivo.id }) }}">{{ preventivo.id }}</a></td>
+                <td>{{ preventivo.enfermedadPreventivo }}</td>
+                <td>{{ preventivo.descripcionPreventivo }}</td>
+                <td>{{ preventivo.grupoRiesgoPreventivo }}</td>
+                <td>{{ preventivo.recomendacion }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('preventivo_show', { 'id': preventivo.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('preventivo_edit', { 'id': preventivo.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('preventivo_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}

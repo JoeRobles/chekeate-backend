@@ -1,0 +1,55 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Subtipo list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Muestra</th>
+                <th>Unidades</th>
+                <th>Valorinferiorh</th>
+                <th>Valorsuperiorh</th>
+                <th>Valorinferiorm</th>
+                <th>Valorsuperiorm</th>
+                <th>Interpretacionvalorinferior</th>
+                <th>Interpretacionvalorsuperior</th>
+                <th>Indicacion</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for subtipo in subtipos %}
+            <tr>
+                <td><a href="{{ path('subtipo_show', { 'id': subtipo.id }) }}">{{ subtipo.id }}</a></td>
+                <td>{{ subtipo.muestra }}</td>
+                <td>{{ subtipo.unidades }}</td>
+                <td>{{ subtipo.valorinferiorh }}</td>
+                <td>{{ subtipo.valorsuperiorh }}</td>
+                <td>{{ subtipo.valorinferiorm }}</td>
+                <td>{{ subtipo.valorsuperiorm }}</td>
+                <td>{{ subtipo.interpretacionvalorinferior }}</td>
+                <td>{{ subtipo.interpretacionvalorsuperior }}</td>
+                <td>{{ subtipo.indicacion }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('subtipo_show', { 'id': subtipo.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('subtipo_edit', { 'id': subtipo.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('subtipo_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}
