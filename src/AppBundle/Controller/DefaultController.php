@@ -12,14 +12,8 @@ class DefaultController extends Controller
     /**
      * @Route("/", name="homepage")
      */
-    public function indexAction(Request $request)
+    public function indexAction()
     {
-        $response = json_encode(
-            array(
-                "data" => array()
-            )
-        );
-
-        return new Response ($response, 200, array('Access-Control-Allow-Origin' => '*', 'Content-Type' => 'application/json'));
+        return $this->render('default/index.html.twig', array());
     }
 }

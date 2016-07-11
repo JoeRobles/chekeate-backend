@@ -6,13 +6,6 @@ use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
 class CausaControllerTest extends WebTestCase
 {
-    public function testIndexReturnsData()
-    {
-        $client = static::createClient();
-        $crawler = $client->request('GET', '/causa/');
-        $this->assertEquals(200, $client->getResponse()->getStatusCode(), "Unexpected HTTP status code for GET /causa/");
-        $this->assertContains('mis pies', $client->getResponse()->getContent(), 'Missing element contains("mis pies")');
-    }
     /*
     public function testCompleteScenario()
     {

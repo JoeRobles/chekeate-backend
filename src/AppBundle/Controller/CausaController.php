@@ -6,11 +6,6 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Serializer\Serializer;
-use Symfony\Component\Serializer\Encoder\JsonEncoder;
-use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
-use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use AppBundle\Entity\Causa;
 use AppBundle\Form\CausaType;
 
@@ -21,10 +16,6 @@ use AppBundle\Form\CausaType;
  */
 class CausaController extends Controller
 {
-    private $headers = array(
-        'Access-Control-Allow-Origin' => '*',
-        'Content-Type' => 'application/json'
-    );
     /**
      * Lists all Causa entities.
      *
@@ -37,21 +28,16 @@ class CausaController extends Controller
 
         $causas = $em->getRepository('AppBundle:Causa')->findAll();
 
-        $encoders = array(new JsonEncoder());
-        $normalizers = array(new ObjectNormalizer());
-
-        $serializer = new Serializer($normalizers, $encoders);
-
-        $jsonContent = $serializer->serialize(array('causas' => $causas),'json');
-
-        return new Response($jsonContent, 200, $this->headers);
+        return $this->render('causa/index.html.twig', array(
+            'causas' => $causas,
+        ));
     }
 
     /**
      * Creates a new Causa entity.
      *
-     * @Route("/", name="causa_new")
-     * @Method("POST")
+     * @Route("/new", name="causa_new")
+     * @Method({"GET", "POST"})
      */
     public function newAction(Request $request)
     {
@@ -59,24 +45,18 @@ class CausaController extends Controller
         $form = $this->createForm('AppBundle\Form\CausaType', $causa);
         $form->handleRequest($request);
 
-        $encoders = array(new JsonEncoder());
-        $normalizers = array(new ObjectNormalizer());
-
-        $serializer = new Serializer($normalizers, $encoders);
-
         if ($form->isSubmitted() && $form->isValid()) {
             $em = $this->getDoctrine()->getManager();
             $em->persist($causa);
             $em->flush();
 
-            $jsonContent = $serializer->serialize(array('causa' => 'created'), 'json');
-
-            return new Response($jsonContent, 302, $this->headers);
+            return $this->redirectToRoute('causa_show', array('id' => $causa->getId()));
         }
 
-        $jsonContent = $serializer->serialize(array('exception' => 'Form has to be submitted'), 'json');
-
-        return new Response($jsonContent, 400, $this->headers);
+        return $this->render('causa/new.html.twig', array(
+            'causa' => $causa,
+            'form' => $form->createView(),
+        ));
     }
 
     /**
@@ -85,33 +65,21 @@ class CausaController extends Controller
      * @Route("/{id}", name="causa_show")
      * @Method("GET")
      */
-    public function showAction($id)
+    public function showAction(Causa $causa)
     {
-        $em = $this->getDoctrine()->getManager();
+        $deleteForm = $this->createDeleteForm($causa);
 
-        $causa = $em->getRepository('AppBundle:Causa')->find($id);
-
-        $encoders = array(new JsonEncoder());
-        $normalizers = array(new ObjectNormalizer());
-
-        $serializer = new Serializer($normalizers, $encoders);
-
-        if (!$causa instanceof Causa) {
-            $jsonContent = $serializer->serialize(array('exception' => 'User not found'), 'json');
-
-            return new Response($jsonContent, 404, $this->headers);
-        }
-
-        $jsonContent = $serializer->serialize(array('causa' => $causa),'json');
-
-        return new Response($jsonContent, 200, $this->headers);
+        return $this->render('causa/show.html.twig', array(
+            'causa' => $causa,
+            'delete_form' => $deleteForm->createView(),
+        ));
     }
 
     /**
      * Displays a form to edit an existing Causa entity.
      *
-     * @Route("/{id}", name="causa_edit")
-     * @Method("POST")
+     * @Route("/{id}/edit", name="causa_edit")
+     * @Method({"GET", "POST"})
      */
     public function editAction(Request $request, Causa $causa)
     {
