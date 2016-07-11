@@ -51,8 +51,7 @@ class CausaController extends Controller
     /**
      * Creates a new Causa entity.
      *
-     * @Route("/", name="causa_new")
-     * @Method("POST")
+     * @Route("/", name="api_causa_new")
      */
     public function newAction(Request $request)
     {
