@@ -1,0 +1,18 @@
+Servicio:
+  1:
+    nombre: Abastonados (Hemograma)
+    descripcion: Conocidos también con neutrófilos inmaduros o neutrófilo en banda, constituyen la forma inmadura de las células granulocíticas, que pueden verse en sangre periférica de personas normales y comprenden entre 1 a 3% del total leucocitario.
+    tipo: HEMATOLÓGICOS
+    keywords:
+
+  2:
+    nombre: Acetona (sangre)
+    descripcion: Conocida también como CETONA o CUERPOS CETÓNICOS . Es una sustancia química que se forma en la sangre cuando el organismo usa la grasa en lugar de la glucosa para proveer de energía a las células. La causa puede estar en relacióna la FALTA DE INSULINA que hace que las células utilizan la glucosa para producir energía, o una CANTIDAD INSUFICIENTE DE INSULINA.
+    tipo: BIOQUÍMICO
+    keywords:
+
+  3:
+    nombre: Acetona (orina)
+    descripcion: Conocida también como CETONA o CUERPOS CETÓNICOS . Es una sustancia química que se forma en la sangre cuando el organismo usa la grasa en lugar de la glucosa para proveer de energía a las células. La causa puede estar en relacióna la FALTA DE INSULINA que hace que las células utilizan la glucosa para producir energía, o una CANTIDAD INSUFICIENTE DE INSULINA.
+    tipo: BIOQUÍMICO
+    keywords:

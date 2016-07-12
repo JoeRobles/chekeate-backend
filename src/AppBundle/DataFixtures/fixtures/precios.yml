@@ -1,0 +1,18 @@
+Precio:
+  1:
+    precio: 10
+    compra: 1
+    servicio: 1
+    centro: 1
+
+  2:
+    precio: 17
+    compra: 1
+    servicio: 2
+    centro: 1
+
+  3:
+    precio: 22
+    compra: 1
+    servicio: 3
+    centro: 1

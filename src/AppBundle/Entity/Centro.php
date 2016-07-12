@@ -58,7 +58,7 @@ class Centro
     /**
      * @var string
      *
-     * @ORM\Column(name="linkwebsite", type="string", length=255, nullable=true, unique=true)
+     * @ORM\Column(name="linkwebsite", type="string", length=255, nullable=true)
      */
     private $linkwebsite;
 

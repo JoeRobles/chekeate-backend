@@ -1,0 +1,200 @@
+Centro:
+  1:
+    nombre: Checkeate
+    direccion: Av. Angamos 2520, San Borja
+    telefono: 2243244
+    horarioatencion: Lunes a sábado de 6:00 a 19:00
+    linkwebsite: www.checkeate.com
+    imagen: checkeate.png
+    latitud: -12.111401
+    longitud: -76.999552
+
+  2:
+    nombre: Suizalab
+    direccion: av. Angamos este 1010
+    telefono: 6126666
+    horarioatencion: lunes a sabado 7 a 19 horas sábados s 7 a 14 horas
+    linkwebsite: www.suizalab.com
+    imagen: suizalab.png
+    latitud: -12.113527
+    longitud: -77.031307
+
+  3:
+    nombre: Brycer Laboratorios
+    direccion:  Av. San Borja Sur N° 285 San Borja
+    telefono: 998499328
+    horarioatencion: lunes a sabado 8 a 20 horas
+    linkwebsite:
+    imagen: suizalab.png
+    latitud: -12095272
+    longitud: -76.994506
+
+  4:
+    nombre: CIMEDIC
+    direccion: av. Arequipa 3010
+    telefono: 4422222
+    horarioatencion: lunes a sabado 8 a 20 horas
+    linkwebsite: www.cimedic.com
+    imagen: cidemic.png
+    latitud: -12.099339
+    longitud: -77.032262
+
+  5:
+    nombre: Centro Especializado de diagnóstico Príncipe
+    direccion: Av. Arequipa 1840, Lince
+    telefono: 4718506
+    horarioatencion: atención las 24 horas
+    linkwebsite: www.labprincipe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.082961
+    longitud: -77.034599
+
+  6:
+    nombre: Centro Médico Dr. Luis Quito
+    direccion: Av. Grau Nº 740 La Victoria
+    telefono: 4312309
+    horarioatencion: atención las 24 horas
+    linkwebsite: www.drluisquito.com.pe
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.058228
+    longitud: -77.023283
+
+  7:
+    nombre: RESOMASA
+    direccion: Av. Javier Prado Este 1178, San Isidro
+    telefono: 2122034
+    horarioatencion: lunes a sabado 8 a 20 horas
+    linkwebsite: www.resomasa.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.089938
+    longitud: -77.01668
+
+  8:
+    nombre: RESOCENTRO
+    direccion: Av. Petit Thouars 4427, Miraflores
+    telefono: 5124400
+    horarioatencion: lunes a sabado 8 a 20 horas
+    linkwebsite: www.resocentro.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.106472
+    longitud: -77.029753
+
+  9:
+    nombre: DPI
+    direccion: Av. Dos de Mayo, San Isidro
+    telefono: 2023333
+    horarioatencion: lunes a sabado 7 a 23:30 horas
+    linkwebsite: www.dpi.com.pe
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.090871
+    longitud: -77.038149
+
+  10:
+    nombre: CEREMA
+    direccion: Av. Javier Prado Este 2700, San Borja
+    telefono: 2250030
+    horarioatencion: lunes a sabado 8 a 22 horas
+    linkwebsite: www.cerema.com.pe
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.087323
+    longitud: -76.997786
+
+  11:
+    nombre: ROE SAN ISIDRO
+    direccion: Av. Dos de Mayo 1741, San Isidro
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.092698
+    longitud: -77.049005
+
+  12:
+    nombre: ROE SURCO
+    direccion: Av. Primavera 410, Chacarilla, Surco
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.101287
+    longitud: -76.990743
+
+  13:
+    nombre: ROE MIRAFLORES
+    direccion: Av. Armendáriz 500, Miraflores
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.134615
+    longitud: -77.02483
+
+  14:
+    nombre: ROE LA MOLINA
+    direccion: Av. Los Constructores 1250, La Molina
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.062836
+    longitud: -76.944932
+
+  15:
+    nombre: ROE CHORRILLOS
+    direccion: Prolongación Ariosto Matellini 287, Center Matellini Chorillos
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.180445
+    longitud: -77.011593
+
+  16:
+    nombre: ROE JESÚS MARÍA
+    direccion: Av. Gregorio Escobedo 650, Jesús María
+    telefono: 5136666
+    horarioatencion: atención las 24 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.086332
+    longitud: -77.053887
+
+  17:
+    nombre: ROE SURCO
+    direccion: Av. Alfredo Benavides 4498, Surco
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.127902
+    longitud: -76.989517
+
+  18:
+    nombre: ROE SAN BORJA
+    direccion: Av. Guardia Civil 711, Corpac, San Borja
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.085261
+    longitud: -77.011214
+
+  19:
+    nombre: ROE SAN MIGUEL
+    direccion: Calle Mantaro local v-17 Centro Comercial San Miguel
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -12.076044
+    longitud: -77.082263
+
+  20:
+    nombre: ROE LOS OLIVOS
+    direccion: Av. Carlos Alberto Izaguirre 1278, Los Olivos
+    telefono: 5136666
+    horarioatencion: lunes a sabado 7 a 20 horas sábados s 7 a 13 horas
+    linkwebsite: www.labroe.com
+    imagen: http://www.gmkfreelogos.com/logos/L/img/Laboratorio_Clinico_ROE.gif
+    latitud: -11.991428
+    longitud: -77.077678
