@@ -1,0 +1,39 @@
+Cita:
+  1:
+    precio_servicio: 87
+    nombre_persona: María Paula Benavides
+    fecha_nacimiento_persona: '1999-03-08'
+    sexo_persona: FEMENINO
+    correo_persona: mariabenavidessol16@gmail.com
+    telefono_persona: 3057161582
+    nombre_imagen: Iz6YvnOxR2_20160111_112446.jpg
+    estado_cita: 3
+    fecha_reserva: ''
+    fecha_creacion: '2016-01-11 16:24:47'
+    servicio: 1
+
+  2:
+    precio_servicio: 50
+    nombre_persona: Luis
+    fecha_nacimiento_persona: '1960-01-11'
+    sexo_persona: MASCULINO
+    correo_persona: ldlddd@gif.com
+    telefono_persona: 3658007
+    nombre_imagen: zTRyJsLGpN_20160112_203438.jpg
+    estado_cita: 3
+    fecha_reserva: ''
+    fecha_creacion: '2016-01-13 01:34:38'
+    servicio: 2
+
+  3:
+    precio_servicio: 300
+    nombre_persona: Lusi
+    fecha_nacimiento_persona: '2007-01-13'
+    sexo_persona: MASCULINO
+    correo_persona: lpacora@hotmail.com
+    telefono_persona: 55886555
+    nombre_imagen: b3myxucLfz_20160113_085711.jpg
+    estado_cita: 3
+    fecha_reserva: ''
+    fecha_creacion: '2016-01-13 13:57:11'
+    servicio: 3
