@@ -17,8 +17,8 @@ class MolestiaType extends AbstractType
         $builder
             ->add('nombreMolestia')
             ->add('descripcionMolestia')
-            ->add('causas')
             ->add('keywords')
+            ->add('causas')
         ;
     }
     

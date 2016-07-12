@@ -3,6 +3,7 @@
 namespace AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * Molestia
@@ -22,6 +23,15 @@ class Molestia
     private $id;
 
     /**
+     * @ORM\ManyToMany(targetEntity="Causa")
+     * @ORM\JoinTable(name="molestias_causas",
+     *      joinColumns={@ORM\JoinColumn(name="molestia_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="causa_id", referencedColumnName="id")}
+     *      )
+     */
+    protected $causas;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="nombre_molestia", type="string", length=255)
@@ -38,22 +48,23 @@ class Molestia
     /**
      * @var string
      *
-     * @ORM\Column(name="causas", type="text", nullable=true)
-     */
-    private $causas;
-
-    /**
-     * @var string
-     *
      * @ORM\Column(name="keywords", type="text", nullable=true)
      */
     private $keywords;
 
 
     /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->causas = new ArrayCollection();
+    }
+
+    /**
      * Get id
      *
-     * @return integer 
+     * @return integer
      */
     public function getId()
     {
@@ -76,7 +87,7 @@ class Molestia
     /**
      * Get nombreMolestia
      *
-     * @return string 
+     * @return string
      */
     public function getNombreMolestia()
     {
@@ -99,34 +110,11 @@ class Molestia
     /**
      * Get descripcionMolestia
      *
-     * @return string 
+     * @return string
      */
     public function getDescripcionMolestia()
     {
         return $this->descripcionMolestia;
-    }
-
-    /**
-     * Set causas
-     *
-     * @param string $causas
-     * @return Molestia
-     */
-    public function setCausas($causas)
-    {
-        $this->causas = $causas;
-
-        return $this;
-    }
-
-    /**
-     * Get causas
-     *
-     * @return string 
-     */
-    public function getCausas()
-    {
-        return $this->causas;
     }
 
     /**
@@ -145,10 +133,43 @@ class Molestia
     /**
      * Get keywords
      *
-     * @return string 
+     * @return string
      */
     public function getKeywords()
     {
         return $this->keywords;
+    }
+
+    /**
+     * Add causas
+     *
+     * @param \AppBundle\Entity\Causa $causas
+     * @return Molestia
+     */
+    public function addCausa(\AppBundle\Entity\Causa $causas)
+    {
+        $this->causas[] = $causas;
+
+        return $this;
+    }
+
+    /**
+     * Remove causas
+     *
+     * @param \AppBundle\Entity\Causa $causas
+     */
+    public function removeCausa(\AppBundle\Entity\Causa $causas)
+    {
+        $this->causas->removeElement($causas);
+    }
+
+    /**
+     * Get causas
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getCausas()
+    {
+        return $this->causas;
     }
 }

@@ -37,6 +37,14 @@ class Causa
 
 
     /**
+     * Object to string
+     */
+    public function __toString()
+    {
+        return $this->nombreEnfermedad;
+    }
+
+    /**
      * Get id
      *
      * @return integer 
@@ -91,4 +99,5 @@ class Causa
     {
         return $this->tipoCausa;
     }
+
 }

@@ -1,0 +1,18 @@
+Molestia:
+  1:
+    nombre_molestia: Fiebre
+    descripcion_molestia: Se denomina fiebre al aumento de la temperatura del cuerpo por encima de lo normal. Constituye una parte importante de las defensas del cuerpo contra los procesos infecciosos e inflamatorios. Tiene que ser confirmada mediante el uso de un termómetro, de lo contrario sólo será una calentura. Para cuantificar la temperatura corporal se puede utilizar como indicar la temparatura bucal, axilar, timpánica, rectal o vaginal.
+    causas: [1,2,3]
+    keywords: calor,aumento de temperatura,fiebre,calentura
+
+  2:
+    nombre_molestia: Fiebre de orígen desconocido (FOD)
+    descripcion_molestia: Presencia de fiebre en donde los análisis de laboratorio no encuentran una causa aparente. Se pueden presentar 4 escenarios:
+    causas: [1,3]
+    keywords: fiebre sin causa aparente,fiebre inexplicable, fiebre de origen poco común
+
+  3:
+    nombre_molestia: Fiebre Nosocomial
+    descripcion_molestia: Fiebre que se desarrolla transcurridas las 24 horas desde el ingreso a un centro hospitalario, registrada al menos en dos ocaciones, en un paciente que no ha tenido cuadro febril en los 7 días previos.
+    causas: [2,3]
+    keywords: fiebre hospitalaria,paciente hospitalizado

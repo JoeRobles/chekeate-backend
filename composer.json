@@ -33,7 +33,8 @@
         "phploc/phploc": "^3.0",
         "phpmd/phpmd": "^2.4",
         "phpunit/phpunit": "^5.3",
-        "squizlabs/php_codesniffer": "^2.6"
+        "squizlabs/php_codesniffer": "^2.6",
+        "doctrine/doctrine-fixtures-bundle": "^2.3"
     },
     "scripts": {
         "post-install-cmd": [
