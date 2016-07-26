@@ -6,9 +6,9 @@ use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 
 use AppBundle\DataFixtures\ORM\LoadAppData;
-use AppBundle\Entity\Causa as Causa;
+use AppBundle\Entity\Subtipo as Subtipo;
 
-class LoadCausaData extends LoadAppData implements OrderedFixtureInterface
+class LoadSubtipoData extends LoadAppData implements OrderedFixtureInterface
 {
     /**
      * Main load function.
@@ -17,19 +17,27 @@ class LoadCausaData extends LoadAppData implements OrderedFixtureInterface
      */
     function load(ObjectManager $manager)
     {
-        $causas = $this->getModelFixtures();
+        $subtipos = $this->getModelFixtures();
 
         // Now iterate thought all fixtures
-        foreach ($causas['Causa'] as $reference => $columns)
+        foreach ($subtipos['Subtipo'] as $reference => $columns)
         {
-            $causa = new Causa();
-            $causa->setNombreEnfermedad($columns['nombre_enfermedad']);
-            $causa->setTipoCausa($columns['tipo_causa']);
+            $subtipo = new Subtipo();
+            $subtipo->setServicio($manager->merge($this->getReference('Servicio_' . $columns['servicio'])));
+            $subtipo->setMuestra($columns['muestra']);
+            $subtipo->setUnidades($columns['unidades']);
+            $subtipo->setValorinferiorh($columns['valor_inferior_h']);
+            $subtipo->setValorsuperiorh($columns['valor_superior_h']);
+            $subtipo->setValorinferiorm($columns['valor_inferior_m']);
+            $subtipo->setValorsuperiorm($columns['valor_superior_m']);
+            $subtipo->setInterpretacionvalorinferior($columns['interpretacion_valor_inferior']);
+            $subtipo->setInterpretacionvalorsuperior($columns['interpretacion_valor_superior']);
+            $subtipo->setIndicacion($columns['indicacion']);
 
-            $manager->persist($causa);
+            $manager->persist($subtipo);
 
             // Add a reference to be able to use this object in others entities loaders
-            $this->addReference('Causa_'. $reference, $causa);
+            $this->addReference('Subtipo_'. $reference, $subtipo);
         }
         $manager->flush();
     }
@@ -39,7 +47,7 @@ class LoadCausaData extends LoadAppData implements OrderedFixtureInterface
      */
     public function getModelFile()
     {
-        return 'causas';
+        return 'subtipos';
     }
 
     /**
@@ -47,6 +55,6 @@ class LoadCausaData extends LoadAppData implements OrderedFixtureInterface
      */
     public function getOrder()
     {
-        return 1;
+        return 8;
     }
 }

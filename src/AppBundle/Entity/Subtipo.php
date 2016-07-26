@@ -72,21 +72,21 @@ class Subtipo
     /**
      * @var string
      *
-     * @ORM\Column(name="interpretacionvalorinferior", type="text")
+     * @ORM\Column(name="interpretacionvalorinferior", type="text", nullable=true)
      */
     private $interpretacionvalorinferior;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="interpretacionvalorsuperior", type="text")
+     * @ORM\Column(name="interpretacionvalorsuperior", type="text", nullable=true)
      */
     private $interpretacionvalorsuperior;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="indicacion", type="string", length=255)
+     * @ORM\Column(name="indicacion", type="string", length=255, nullable=true)
      */
     private $indicacion;
 

@@ -1,12 +1,36 @@
-Causa:
+Subtipo:
   1:
-    nombre_enfermedad: Granuloma dentario
-    tipo_causa: Infección local
+    servicio: 1
+    muestra: SANGRE
+    unidades: %
+    valor_inferior_h: 1
+    valor_superior_h: 4
+    valor_inferior_m: 1
+    valor_superior_m: 4
+    interpretacion_valor_inferior:
+    interpretacion_valor_superior: Desviaicón izquierda, indica presencia de infeccio...
+    indicacion:
 
   2:
-    nombre_enfermedad: Granuloma dentario
-    tipo_causa: Infección local
+    servicio: 2
+    muestra: SANGRE
+    unidades: mg/dl
+    valor_inferior_h: 0.3
+    valor_superior_h: 2
+    valor_inferior_m: 0.3
+    valor_superior_m: 2
+    interpretacion_valor_inferior: Contaminación bacteriana, evaporación de la muestr...
+    interpretacion_valor_superior: Cetoacidosis diabética, ayuno prolongado, inanició...
+    indicacion: Diabetes
 
   3:
-    nombre_enfermedad: Fiebre reumática
-    tipo_causa: Infecciosa
+    servicio: 3
+    muestra: ORINA
+    unidades: mb/dl
+    valor_inferior_h: 0
+    valor_superior_h: 0
+    valor_inferior_m: 0
+    valor_superior_m: 0
+    interpretacion_valor_inferior: Contaminación bacteriana, evaporación de la muestr...
+    interpretacion_valor_superior: Cetoacidosis diabética, ayuno prolongado, inanició...
+    indicacion: Coma
