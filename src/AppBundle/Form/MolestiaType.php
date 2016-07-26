@@ -15,8 +15,8 @@ class MolestiaType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('nombreMolestia')
-            ->add('descripcionMolestia')
+            ->add('nombre')
+            ->add('descripcion')
             ->add('keywords')
             ->add('causas')
         ;

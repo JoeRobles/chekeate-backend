@@ -28,11 +28,6 @@ class Servicio
     protected $precios;
 
     /**
-     * @ORM\OneToMany(targetEntity="Preventivo", mappedBy="servicio")
-     */
-    protected $preventivos;
-
-    /**
      * @ORM\OneToMany(targetEntity="UserLocation", mappedBy="servicio")
      */
     protected $userLocations;
@@ -82,10 +77,17 @@ class Servicio
     public function __construct()
     {
         $this->precios = new ArrayCollection();
-        $this->preventivos = new ArrayCollection();
         $this->userLocations = new ArrayCollection();
         $this->subtipos = new ArrayCollection();
         $this->citas = new ArrayCollection();
+    }
+
+    /**
+     * Magic method
+     */
+    public function __toString()
+    {
+        return $this->nombre;
     }
 
     /**
@@ -221,39 +223,6 @@ class Servicio
     public function getPrecios()
     {
         return $this->precios;
-    }
-
-    /**
-     * Add preventivos
-     *
-     * @param \AppBundle\Entity\Preventivo $preventivos
-     * @return Servicio
-     */
-    public function addPreventivo(\AppBundle\Entity\Preventivo $preventivos)
-    {
-        $this->preventivos[] = $preventivos;
-
-        return $this;
-    }
-
-    /**
-     * Remove preventivos
-     *
-     * @param \AppBundle\Entity\Preventivo $preventivos
-     */
-    public function removePreventivo(\AppBundle\Entity\Preventivo $preventivos)
-    {
-        $this->preventivos->removeElement($preventivos);
-    }
-
-    /**
-     * Get preventivos
-     *
-     * @return \Doctrine\Common\Collections\Collection 
-     */
-    public function getPreventivos()
-    {
-        return $this->preventivos;
     }
 
     /**

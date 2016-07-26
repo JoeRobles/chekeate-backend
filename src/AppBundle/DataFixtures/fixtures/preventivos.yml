@@ -1,0 +1,23 @@
+Preventivo:
+  1:
+    enfermedad: Diabetes Gestacional
+    descripcion: Forma de diabetes mellitus INDUCIDA POR EL EMBARAZO.  La diabetes mellitus es una enfermedad crónica en la cual el cuerpo NO PUEDE REGULAR LA CANTIDAD DE AZUCAR EN LA SANGRE (glucosa).
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: Se debe realizar glicemia en ayunas en el primer control prenatal. El tamizaje para diabetes gestacional en embarazadas se debe realizar cundo hay factores de riesgo.
+    servicios: [1,2]
+
+  2:
+    enfermedad: Infección por VIH
+    descripcion: La infección por el VIH (virus de inmunodeficiencia humana) es una enfermedad en la cual el virus AFECTA AL SISTEMA INMUNITARIO, en forma gradual, dificultando la capacidad del organismo de combatir las infecciones, cuadro que es catalogado como SIDA (sindrome de inmunodeficiencia adquirida).
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: Se debe ofrecer la prueba de Elisa para VIH a todas las embarazadas en el segundo control de embarazo. Este examen se debe realizar con consejeri?a abreviada pre y post test y consentimiento de aprobacio?n o rechazo por escrito.A las mujeres que lleguen al pre- parto y que no se realizaron la Prueba de Elisa durante el embarazo, se les debe ofrecer la Prueba Ra?pida o Visual para la Deteccio?n del VIH en la maternidad, con consejeri?a abreviada pre y post test y consentimiento o rechazo por escrito.
+    servicios: [1,3]
+
+  3:
+    enfermedad: Sífilis
+    descripcion: La sífilis es una ENFERMEDAD DE TRANSMISIÓN SEXUAL causada por una bacteria llamada Treponema Pallidum. A menudo no presenta síntomas o son tan leves que las personas no los notan. La sífilis NO tratada progresa por cuatro etapas, las cuales presentan signos y sintomas únicos:
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: |
+      Realizar los exámenes de tamizaje a todas las embarazadas.
+      Realizar exámenes de VDRL o RPR en tres oportunidades durante el embarazo: Al primer control, a las 28 semanas y entre las 32 y 34 semanas. Tratar a toda persona con examen alterado.
+    servicios: [1,3]

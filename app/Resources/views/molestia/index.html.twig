@@ -7,8 +7,8 @@
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Nombremolestia</th>
-                <th>Descripcionmolestia</th>
+                <th>Nombre</th>
+                <th>Descripcion</th>
                 <th>Keywords</th>
                 <th>Actions</th>
             </tr>
@@ -17,8 +17,8 @@
         {% for molestium in molestias %}
             <tr>
                 <td><a href="{{ path('molestia_show', { 'id': molestium.id }) }}">{{ molestium.id }}</a></td>
-                <td>{{ molestium.nombreMolestia }}</td>
-                <td>{{ molestium.descripcionMolestia }}</td>
+                <td>{{ molestium.nombre }}</td>
+                <td>{{ molestium.descripcion }}</td>
                 <td>{{ molestium.keywords }}</td>
                 <td>
                     <ul>

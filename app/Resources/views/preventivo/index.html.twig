@@ -7,9 +7,9 @@
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Enfermedadpreventivo</th>
-                <th>Descripcionpreventivo</th>
-                <th>Gruporiesgopreventivo</th>
+                <th>Enfermedad</th>
+                <th>Descripcion</th>
+                <th>Gruporiesgo</th>
                 <th>Recomendacion</th>
                 <th>Actions</th>
             </tr>
@@ -18,9 +18,9 @@
         {% for preventivo in preventivos %}
             <tr>
                 <td><a href="{{ path('preventivo_show', { 'id': preventivo.id }) }}">{{ preventivo.id }}</a></td>
-                <td>{{ preventivo.enfermedadPreventivo }}</td>
-                <td>{{ preventivo.descripcionPreventivo }}</td>
-                <td>{{ preventivo.grupoRiesgoPreventivo }}</td>
+                <td>{{ preventivo.enfermedad }}</td>
+                <td>{{ preventivo.descripcion }}</td>
+                <td>{{ preventivo.grupoRiesgo }}</td>
                 <td>{{ preventivo.recomendacion }}</td>
                 <td>
                     <ul>

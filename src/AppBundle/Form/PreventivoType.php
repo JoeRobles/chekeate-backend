@@ -15,11 +15,11 @@ class PreventivoType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('enfermedadPreventivo')
-            ->add('descripcionPreventivo')
-            ->add('grupoRiesgoPreventivo')
+            ->add('enfermedad')
+            ->add('descripcion')
+            ->add('grupoRiesgo')
             ->add('recomendacion')
-            ->add('servicio')
+            ->add('servicios')
         ;
     }
     

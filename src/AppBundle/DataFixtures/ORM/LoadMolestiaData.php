@@ -23,8 +23,8 @@ class LoadMolestiaData extends LoadAppData implements OrderedFixtureInterface
         foreach ($molestias['Molestia'] as $reference => $columns)
         {
             $molestia = new Molestia();
-            $molestia->setNombreMolestia($columns['nombre_molestia']);
-            $molestia->setDescripcionMolestia($columns['descripcion_molestia']);
+            $molestia->setNombre($columns['nombre_molestia']);
+            $molestia->setDescripcion($columns['descripcion_molestia']);
             foreach ($columns['causas'] as $causa) {
                 $molestia->addCausa($manager->merge($this->getReference('Causa_' . $causa)));
             }

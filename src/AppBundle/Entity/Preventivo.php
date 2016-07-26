@@ -22,31 +22,34 @@ class Preventivo
     private $id;
 
     /**
-     * @ORM\ManyToOne(targetEntity="Servicio", inversedBy="preventivos")
-     * @ORM\JoinColumn(name="servicio_id", referencedColumnName="id")
+     * @ORM\ManyToMany(targetEntity="Servicio")
+     * @ORM\JoinTable(name="PreventivosServicios",
+     *      joinColumns={@ORM\JoinColumn(name="preventivo_id", referencedColumnName="id")},
+     *      inverseJoinColumns={@ORM\JoinColumn(name="servicio_id", referencedColumnName="id")}
+     *      )
      */
-    protected $servicio;
+    protected $servicios;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="enfermedad_preventivo", type="string", length=255)
+     * @ORM\Column(name="enfermedad", type="string", length=255)
      */
-    private $enfermedadPreventivo;
+    private $enfermedad;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="descripcion_preventivo", type="text", nullable=true)
+     * @ORM\Column(name="descripcion", type="text", nullable=true)
      */
-    private $descripcionPreventivo;
+    private $descripcion;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="grupo_riesgo_preventivo", type="string", length=255, nullable=true)
+     * @ORM\Column(name="grupo_riesgo", type="string", length=255, nullable=true)
      */
-    private $grupoRiesgoPreventivo;
+    private $grupoRiesgo;
 
     /**
      * @var string
@@ -54,7 +57,15 @@ class Preventivo
      * @ORM\Column(name="recomendacion", type="text", nullable=true)
      */
     private $recomendacion;
+    
 
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->servicios = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id
@@ -67,72 +78,72 @@ class Preventivo
     }
 
     /**
-     * Set enfermedadPreventivo
+     * Set enfermedad
      *
-     * @param string $enfermedadPreventivo
+     * @param string $enfermedad
      * @return Preventivo
      */
-    public function setEnfermedadPreventivo($enfermedadPreventivo)
+    public function setEnfermedad($enfermedad)
     {
-        $this->enfermedadPreventivo = $enfermedadPreventivo;
+        $this->enfermedad = $enfermedad;
 
         return $this;
     }
 
     /**
-     * Get enfermedadPreventivo
+     * Get enfermedad
      *
      * @return string 
      */
-    public function getEnfermedadPreventivo()
+    public function getEnfermedad()
     {
-        return $this->enfermedadPreventivo;
+        return $this->enfermedad;
     }
 
     /**
-     * Set descripcionPreventivo
+     * Set descripcion
      *
-     * @param string $descripcionPreventivo
+     * @param string $descripcion
      * @return Preventivo
      */
-    public function setDescripcionPreventivo($descripcionPreventivo)
+    public function setDescripcion($descripcion)
     {
-        $this->descripcionPreventivo = $descripcionPreventivo;
+        $this->descripcion = $descripcion;
 
         return $this;
     }
 
     /**
-     * Get descripcionPreventivo
+     * Get descripcion
      *
      * @return string 
      */
-    public function getDescripcionPreventivo()
+    public function getDescripcion()
     {
-        return $this->descripcionPreventivo;
+        return $this->descripcion;
     }
 
     /**
-     * Set grupoRiesgoPreventivo
+     * Set grupoRiesgo
      *
-     * @param string $grupoRiesgoPreventivo
+     * @param string $grupoRiesgo
      * @return Preventivo
      */
-    public function setGrupoRiesgoPreventivo($grupoRiesgoPreventivo)
+    public function setGrupoRiesgo($grupoRiesgo)
     {
-        $this->grupoRiesgoPreventivo = $grupoRiesgoPreventivo;
+        $this->grupoRiesgo = $grupoRiesgo;
 
         return $this;
     }
 
     /**
-     * Get grupoRiesgoPreventivo
+     * Get grupoRiesgo
      *
      * @return string 
      */
-    public function getGrupoRiesgoPreventivo()
+    public function getGrupoRiesgo()
     {
-        return $this->grupoRiesgoPreventivo;
+        return $this->grupoRiesgo;
     }
 
     /**
@@ -159,25 +170,35 @@ class Preventivo
     }
 
     /**
-     * Set servicio
+     * Add servicios
      *
-     * @param \AppBundle\Entity\Servicio $servicio
+     * @param \AppBundle\Entity\Servicio $servicios
      * @return Preventivo
      */
-    public function setServicio(\AppBundle\Entity\Servicio $servicio = null)
+    public function addServicio(\AppBundle\Entity\Servicio $servicios)
     {
-        $this->servicio = $servicio;
+        $this->servicios[] = $servicios;
 
         return $this;
     }
 
     /**
-     * Get servicio
+     * Remove servicios
      *
-     * @return \AppBundle\Entity\Servicio 
+     * @param \AppBundle\Entity\Servicio $servicios
      */
-    public function getServicio()
+    public function removeServicio(\AppBundle\Entity\Servicio $servicios)
     {
-        return $this->servicio;
+        $this->servicios->removeElement($servicios);
+    }
+
+    /**
+     * Get servicios
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getServicios()
+    {
+        return $this->servicios;
     }
 }

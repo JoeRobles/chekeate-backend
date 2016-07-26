@@ -24,7 +24,7 @@ class Molestia
 
     /**
      * @ORM\ManyToMany(targetEntity="Causa")
-     * @ORM\JoinTable(name="molestias_causas",
+     * @ORM\JoinTable(name="MolestiasCausas",
      *      joinColumns={@ORM\JoinColumn(name="molestia_id", referencedColumnName="id")},
      *      inverseJoinColumns={@ORM\JoinColumn(name="causa_id", referencedColumnName="id")}
      *      )
@@ -34,16 +34,16 @@ class Molestia
     /**
      * @var string
      *
-     * @ORM\Column(name="nombre_molestia", type="string", length=255)
+     * @ORM\Column(name="nombre", type="string", length=255)
      */
-    private $nombreMolestia;
+    private $nombre;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="descripcion_molestia", type="text", nullable=true)
+     * @ORM\Column(name="descripcion", type="text", nullable=true)
      */
-    private $descripcionMolestia;
+    private $descripcion;
 
     /**
      * @var string
@@ -72,49 +72,49 @@ class Molestia
     }
 
     /**
-     * Set nombreMolestia
+     * Set nombre
      *
-     * @param string $nombreMolestia
+     * @param string $nombre
      * @return Molestia
      */
-    public function setNombreMolestia($nombreMolestia)
+    public function setNombre($nombre)
     {
-        $this->nombreMolestia = $nombreMolestia;
+        $this->nombre = $nombre;
 
         return $this;
     }
 
     /**
-     * Get nombreMolestia
+     * Get nombre
      *
      * @return string
      */
-    public function getNombreMolestia()
+    public function getNombre()
     {
-        return $this->nombreMolestia;
+        return $this->nombre;
     }
 
     /**
-     * Set descripcionMolestia
+     * Set descripcion
      *
-     * @param string $descripcionMolestia
+     * @param string $descripcion
      * @return Molestia
      */
-    public function setDescripcionMolestia($descripcionMolestia)
+    public function setDescripcion($descripcion)
     {
-        $this->descripcionMolestia = $descripcionMolestia;
+        $this->descripcion = $descripcion;
 
         return $this;
     }
 
     /**
-     * Get descripcionMolestia
+     * Get descripcion
      *
      * @return string
      */
-    public function getDescripcionMolestia()
+    public function getDescripcion()
     {
-        return $this->descripcionMolestia;
+        return $this->descripcion;
     }
 
     /**
