@@ -27,9 +27,8 @@ class LoadCitaData extends LoadAppData implements OrderedFixtureInterface
             $cita->setPrecioServicio($columns['precio_servicio']);
             $cita->setNombrePersona($columns['nombre_persona']);
 
-            $fecha_nacimiento_persona = new \DateTime();
-            $date = explode('-', $columns['fecha_nacimiento_persona']);
-            $fecha_nacimiento_persona->setDate($date[0], $date[1], $date[2]);
+            $date = gmdate('Y-m-d H:i:s', strtotime($columns['fecha_nacimiento_persona']));
+            $fecha_nacimiento_persona = new \DateTime($date);
             $cita->setFechaNacimientoPersona($fecha_nacimiento_persona);
 
             $cita->setSexoPersona($columns['sexo_persona']);
