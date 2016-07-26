@@ -1,0 +1,12 @@
+Causa:
+  1:
+    nombre_enfermedad: Granuloma dentario
+    tipo_causa: Infección local
+
+  2:
+    nombre_enfermedad: Granuloma dentario
+    tipo_causa: Infección local
+
+  3:
+    nombre_enfermedad: Fiebre reumática
+    tipo_causa: Infecciosa
