@@ -6,9 +6,9 @@ use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 
 use AppBundle\DataFixtures\ORM\LoadAppData;
-use AppBundle\Entity\Molestia as Molestia;
+use AppBundle\Entity\UserLocation as UserLocation;
 
-class LoadMolestiaData extends LoadAppData implements OrderedFixtureInterface
+class LoadUserLocationData extends LoadAppData implements OrderedFixtureInterface
 {
     /**
      * Main load function.
@@ -17,23 +17,20 @@ class LoadMolestiaData extends LoadAppData implements OrderedFixtureInterface
      */
     function load(ObjectManager $manager)
     {
-        $molestias = $this->getModelFixtures();
+        $userLocations = $this->getModelFixtures();
 
         // Now iterate thought all fixtures
-        foreach ($molestias['Molestia'] as $reference => $columns)
+        foreach ($userLocations['UserLocation'] as $reference => $columns)
         {
-            $molestia = new Molestia();
-            $molestia->setNombre($columns['nombre']);
-            $molestia->setDescripcion($columns['descripcion']);
-            foreach ($columns['causas'] as $causa) {
-                $molestia->addCausa($manager->merge($this->getReference('Causa_' . $causa)));
-            }
-            $molestia->setKeywords($columns['keywords']);
+            $userLocation = new UserLocation();
+            $userLocation->setLongitude($columns['longitude']);
+            $userLocation->setLatitude($columns['latitude']);
+            $userLocation->setServicio($manager->merge($this->getReference('Servicio_' . $columns['servicio'])));
 
-            $manager->persist($molestia);
+            $manager->persist($userLocation);
 
             // Add a reference to be able to use this object in others entities loaders
-            $this->addReference('Molestia_'. $reference, $molestia);
+            $this->addReference('UserLocation_'. $reference, $userLocation);
         }
         $manager->flush();
     }
@@ -43,7 +40,7 @@ class LoadMolestiaData extends LoadAppData implements OrderedFixtureInterface
      */
     public function getModelFile()
     {
-        return 'molestias';
+        return 'user_locations';
     }
 
     /**
@@ -51,6 +48,6 @@ class LoadMolestiaData extends LoadAppData implements OrderedFixtureInterface
      */
     public function getOrder()
     {
-        return 2;
+        return 9;
     }
 }

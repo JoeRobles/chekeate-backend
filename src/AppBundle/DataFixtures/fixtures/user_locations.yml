@@ -1,0 +1,66 @@
+UserLocation:
+  1:
+    longitude: -77.022144
+    latitude: -12.113402
+    servicio: 2
+
+  2:
+    longitude: -77.022144
+    latitude: -12.113402
+    servicio: 2
+  3:
+    longitude: -77.022144
+    latitude: -12.113402
+    servicio: 1
+  4:
+    longitude: -77.022144
+    latitude: -12.113402
+    servicio: 2
+
+  5:
+    longitude: -77.022144
+    latitude: -12.113402
+    servicio: 2
+  6:
+    longitude: -77.021585
+    latitude: -12.110999
+    servicio: 2
+  7:
+    longitude: -77.022434
+    latitude: -12.114350
+    servicio: 3
+
+  8:
+    longitude: -77.022434
+    latitude: -12.114350
+    servicio: 3
+  9:
+    longitude: -77.021587
+    latitude: -12.110964
+    servicio: 3
+  10:
+    longitude: -77.021585
+    latitude: -12.110954
+    servicio: 2
+
+  11:
+    longitude: -77.021585
+    latitude: -12.110954
+    servicio: 2
+  12:
+    longitude: -77.021585
+    latitude: -12.110954
+    servicio: 2
+  13:
+    longitude: -77.021585
+    latitude: -12.110953
+    servicio: 3
+
+  14:
+    longitude: -77.021585
+    latitude: -12.110953
+    servicio: 3
+  15:
+    longitude: -312.123100
+    latitude: 123.312300
+    servicio: 2
