@@ -10,14 +10,14 @@ use Symfony\Component\Serializer\Serializer;
 use Symfony\Component\Serializer\Encoder\JsonEncoder;
 use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use AppBundle\Entity\Causa;
+use AppBundle\Entity\Precio;
 
 /**
- * Causa controller.
+ * Precio controller.
  *
- * @Route("/api/causa")
+ * @Route("/api/precio")
  */
-class CausaController extends Controller
+class PrecioController extends Controller
 {
     private $headers = array(
         'Access-Control-Allow-Origin' => '*',
@@ -25,51 +25,65 @@ class CausaController extends Controller
     );
 
     /**
-     * Lists all Causa entities.
+     * Lists all Precio entities.
      *
-     * @Route("/", name="api_causa_index")
+     * @Route("/", name="api_precio_index")
      * @Method("GET")
      */
     public function indexAction()
     {
         $em = $this->getDoctrine()->getManager();
 
-        $causas = $em->getRepository('AppBundle:Causa')->findAll();
+        $precios = $em->getRepository('AppBundle:Precio')->findAll();
+
+        $normalizer = new ObjectNormalizer();
+        $normalizer->setIgnoredAttributes(array('storageKey'));
+
+        $normalizer->setCircularReferenceHandler(function($object) {
+            return $object->getId();
+        });
 
         $encoders = array(new JsonEncoder());
-        $normalizers = array(new ObjectNormalizer());
+        $normalizers = array($normalizer);
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('causas' => $causas),'json');
+        $jsonContent = $serializer->serialize(array('precios' => $precios),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
 
     /**
-     * Finds and displays a Causa entity.
+     * Finds and displays a Precio entity.
      *
-     * @Route("/{id}", name="api_causa_show")
+     * @Route("/{id}", name="api_precio_show")
      * @Method("GET")
      */
     public function showAction($id)
     {
         $em = $this->getDoctrine()->getManager();
 
-        $causa = $em->getRepository('AppBundle:Causa')->find($id);
+        $precio = $em->getRepository('AppBundle:Precio')->find($id);
+
+        $normalizer = new ObjectNormalizer();
+        $normalizer->setIgnoredAttributes(array('storageKey'));
+
+        $normalizer->setCircularReferenceHandler(function($object) {
+            return $object->getId();
+        });
 
         $encoders = array(new JsonEncoder());
-        $normalizers = array(new ObjectNormalizer());
+        $normalizers = array($normalizer);
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        if (!$causa instanceof Causa) {
+        if (!$precio instanceof Precio) {
             $jsonContent = $serializer->serialize(array('exception' => 'User not found'), 'json');
 
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('causa' => $causa),'json');
+        $jsonContent = $serializer->serialize(array('precio' => $precio),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
