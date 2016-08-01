@@ -325,8 +325,7 @@ Causa:
 
   82:
     nombre_enfermedad: Absceso subfrénico:
-    nombre_enfermedad: :
-    nombre_enfermedad: Infecciosa
+    tipo_causa: Infecciosa
 
   83:
     nombre_enfermedad: Absceso apendicular
@@ -781,8 +780,7 @@ Causa:
     tipo_causa: Infección viral
 
   196:
-    nombre_enfermedad: Fiebre aftosa glosopeda
- Estomatitis vesicular
+    nombre_enfermedad: Fiebre aftosa glosopeda Estomatitis vesicular
     tipo_causa: Infección viral
 
   197:
@@ -871,267 +869,267 @@ Causa:
 
   218:
     nombre_enfermedad: Salmonelosis
-    tipo_causa:
+    tipo_causa: ~
 
   219:
     nombre_enfermedad: Shigelosis
-    tipo_causa:
+    tipo_causa: ~
 
   220:
     nombre_enfermedad: Cólera
-    tipo_causa:
+    tipo_causa: ~
 
   221:
     nombre_enfermedad: Amebosis
-    tipo_causa:
+    tipo_causa: ~
 
   222:
     nombre_enfermedad: Gastroenteritis aguda
-    tipo_causa:
+    tipo_causa: ~
 
   223:
     nombre_enfermedad: Colitis ulcerativa
-    tipo_causa:
+    tipo_causa: ~
 
   224:
     nombre_enfermedad: Enfermedad de Crohn
-    tipo_causa:
+    tipo_causa: ~
 
   225:
     nombre_enfermedad: Gripe gripe entérica
-    tipo_causa:
+    tipo_causa: ~
 
   226:
     nombre_enfermedad: Tifus abdominal
-    tipo_causa:
+    tipo_causa: ~
 
   227:
     nombre_enfermedad: Brucelosis Enf. de Sang
-    tipo_causa:
+    tipo_causa: ~
 
   228:
     nombre_enfermedad: Enfermedad de Weil
-    tipo_causa:
+    tipo_causa: ~
 
   229:
     nombre_enfermedad: Sepsis
-    tipo_causa:
+    tipo_causa: ~
 
   230:
     nombre_enfermedad: TBC intestinal
-    tipo_causa:
+    tipo_causa: ~
 
   231:
     nombre_enfermedad: Escarlatina
-    tipo_causa:
+    tipo_causa: ~
 
   232:
     nombre_enfermedad: Erisipela
-    tipo_causa:
+    tipo_causa: ~
 
   233:
     nombre_enfermedad: Poliomielitis
-    tipo_causa:
+    tipo_causa: ~
 
   234:
     nombre_enfermedad: Botulismo
-    tipo_causa:
+    tipo_causa: ~
 
   235:
     nombre_enfermedad: Triquinosis
-    tipo_causa:
+    tipo_causa: ~
 
   236:
     nombre_enfermedad: Psitacosis
-    tipo_causa:
+    tipo_causa: ~
 
   237:
     nombre_enfermedad: SIDA
-    tipo_causa:
+    tipo_causa: ~
 
   238:
     nombre_enfermedad: Esipela
-    tipo_causa:
+    tipo_causa: ~
 
   239:
     nombre_enfermedad: Abscesos linfoma regional
-    tipo_causa:
+    tipo_causa: ~
 
   240:
     nombre_enfermedad: Mononucleosis infecciosa
-    tipo_causa:
+    tipo_causa: ~
 
   241:
     nombre_enfermedad: Listeriosis
-    tipo_causa:
+    tipo_causa: ~
 
   242:
     nombre_enfermedad: Brucelosis
-    tipo_causa:
+    tipo_causa: ~
 
   243:
     nombre_enfermedad: Hepatitis aguda
-    tipo_causa:
+    tipo_causa: ~
 
   244:
     nombre_enfermedad: Enfermedad de Kikuchi, Fujimoto o linfadenitishistiocitica necrotizante
-    tipo_causa:
+    tipo_causa: ~
 
   245:
     nombre_enfermedad: Sarampión
-    tipo_causa:
+    tipo_causa: ~
 
   246:
     nombre_enfermedad: Rubéola
-    tipo_causa:
+    tipo_causa: ~
 
   247:
     nombre_enfermedad: Linfocitosis infecciosa
-    tipo_causa:
+    tipo_causa: ~
 
   248:
     nombre_enfermedad: Toxoplasmosis aguda
-    tipo_causa:
+    tipo_causa: ~
 
   249:
     nombre_enfermedad: Sifilis II
-    tipo_causa:
+    tipo_causa: ~
 
   250:
     nombre_enfermedad: Leucemia aguda
-    tipo_causa:
+    tipo_causa: ~
 
   251:
     nombre_enfermedad: Tularemia
-    tipo_causa:
+    tipo_causa: ~
 
   252:
     nombre_enfermedad: Endocarditis lenta
-    tipo_causa:
+    tipo_causa: ~
 
   253:
     nombre_enfermedad: Tifus abdominal
-    tipo_causa:
+    tipo_causa: ~
 
   254:
     nombre_enfermedad: Enfermedad de Weil leptospirosis
-    tipo_causa:
+    tipo_causa: ~
 
   255:
     nombre_enfermedad: Brucelosis
-    tipo_causa:
+    tipo_causa: ~
 
   256:
     nombre_enfermedad: Mononucleosis
-    tipo_causa:
+    tipo_causa: ~
 
   257:
     nombre_enfermedad: Rickettsiosis
-    tipo_causa:
+    tipo_causa: ~
 
   258:
     nombre_enfermedad: Sepsis
-    tipo_causa:
+    tipo_causa: ~
 
   259:
     nombre_enfermedad: Paludismo malaria
-    tipo_causa:
+    tipo_causa: ~
 
   260:
     nombre_enfermedad: Kala-azar
-    tipo_causa:
+    tipo_causa: ~
 
   261:
     nombre_enfermedad: Meningitis
-    tipo_causa:
+    tipo_causa: ~
 
   262:
     nombre_enfermedad: Poliomielitis
-    tipo_causa:
+    tipo_causa: ~
 
   263:
     nombre_enfermedad: Encefalitis
-    tipo_causa:
+    tipo_causa: ~
 
   264:
     nombre_enfermedad: Absceso cerebral
-    tipo_causa:
+    tipo_causa: ~
 
   265:
     nombre_enfermedad: Botulismo
-    tipo_causa:
+    tipo_causa: ~
 
   266:
     nombre_enfermedad: Leptospirosis
-    tipo_causa:
+    tipo_causa: ~
 
   267:
     nombre_enfermedad: Fiebre papataci fiebre por flebotomus
-    tipo_causa:
+    tipo_causa: ~
 
   268:
     nombre_enfermedad: Ent. De Bornholm mialgia epidémica o pleurodinia epidémica
-    tipo_causa:
+    tipo_causa: ~
 
   269:
     nombre_enfermedad: Fiebre reumática aguda
-    tipo_causa:
+    tipo_causa: ~
 
   270:
     nombre_enfermedad: Artritis infecciosa
-    tipo_causa:
+    tipo_causa: ~
 
   271:
     nombre_enfermedad: Síndrome de Lófgren Enfermedad aguda de Boeck
-    tipo_causa:
+    tipo_causa: ~
 
   272:
     nombre_enfermedad: Triquinosis
-    tipo_causa:
+    tipo_causa: ~
 
   273:
     nombre_enfermedad: Enfermedad de Weil leptospirosis
-    tipo_causa:
+    tipo_causa: ~
 
   274:
     nombre_enfermedad: Brucelosis
-    tipo_causa:
+    tipo_causa: ~
 
   275:
     nombre_enfermedad: Enfermedad de Bornholm
-    tipo_causa:
+    tipo_causa: ~
 
   276:
     nombre_enfermedad: Poliartritis crónica primaria
-    tipo_causa:
+    tipo_causa: ~
 
   277:
     nombre_enfermedad: Enfermedad de Still
-    tipo_causa:
+    tipo_causa: ~
 
   278:
     nombre_enfermedad: Osteomielitis
-    tipo_causa:
+    tipo_causa: ~
 
   279:
     nombre_enfermedad: Empiema articular
-    tipo_causa:
+    tipo_causa: ~
 
   280:
     nombre_enfermedad: Poliomielitis
-    tipo_causa:
+    tipo_causa: ~
 
   281:
     nombre_enfermedad: Dengue fiebre quebrantahuesos
-    tipo_causa:
+    tipo_causa: ~
 
   282:
     nombre_enfermedad: Enfermedad por arañazo de gato
-    tipo_causa:
+    tipo_causa: ~
 
   283:
     nombre_enfermedad: Fiebre papataci
-    tipo_causa:
+    tipo_causa: ~
 
   284:
     nombre_enfermedad: Hipertermia del ejercicio
@@ -3914,8 +3912,7 @@ Causa:
     tipo_causa: Ganglios epitrocleares
 
   979:
-    nombre_enfermedad: Enfermedades venéreas: Sífilis etapa inicial
- linfagranuloma venéreo
+    nombre_enfermedad: Enfermedades venéreas: Sífilis etapa inicial linfagranuloma venéreo
     tipo_causa: Ganglios inguinales
 
   980:
@@ -5523,9 +5520,7 @@ Causa:
     tipo_causa: Ojo indoloro
 
   1381:
-    nombre_enfermedad: Blefaritis alérgica: angular Moraxella lacunata
- Marginal herpes
- parasitaria
+    nombre_enfermedad: Blefaritis alérgica: angular Moraxella lacunata Marginal herpes parasitaria
     tipo_causa: Ojo indoloro
 
   1382:

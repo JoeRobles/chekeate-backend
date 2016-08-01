@@ -31,7 +31,7 @@ class Causa
     /**
      * @var string
      *
-     * @ORM\Column(name="tipo_causa", type="text")
+     * @ORM\Column(name="tipo_causa", type="text", nullable=true)
      */
     private $tipoCausa;
 
