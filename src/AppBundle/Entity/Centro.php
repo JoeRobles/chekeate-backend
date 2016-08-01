@@ -93,6 +93,14 @@ class Centro
     }
 
     /**
+     * Magic Method
+     */
+    public function __toString()
+    {
+        return $this->nombre;
+    }
+
+    /**
      * Get id
      *
      * @return integer 

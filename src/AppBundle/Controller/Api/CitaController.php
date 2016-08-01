@@ -48,7 +48,7 @@ class CitaController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('citas' => $citas),'json');
+        $jsonContent = $serializer->serialize(array('data' => $citas),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class CitaController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('cita' => $cita),'json');
+        $jsonContent = $serializer->serialize(array('data' => $cita),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

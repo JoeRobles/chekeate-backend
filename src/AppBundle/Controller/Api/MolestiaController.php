@@ -48,7 +48,7 @@ class MolestiaController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('molestias' => $molestias),'json');
+        $jsonContent = $serializer->serialize(array('data' => $molestias),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class MolestiaController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('molestia' => $molestia),'json');
+        $jsonContent = $serializer->serialize(array('data' => $molestia),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

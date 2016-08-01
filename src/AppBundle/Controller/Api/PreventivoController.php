@@ -48,7 +48,7 @@ class PreventivoController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('preventivos' => $preventivos),'json');
+        $jsonContent = $serializer->serialize(array('data' => $preventivos),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class PreventivoController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('preventivo' => $preventivo),'json');
+        $jsonContent = $serializer->serialize(array('data' => $preventivo),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

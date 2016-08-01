@@ -49,7 +49,7 @@ class CentroController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('centros' => $centros),'json');
+        $jsonContent = $serializer->serialize(array('data' => $centros),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -84,7 +84,7 @@ class CentroController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('centro' => $centro),'json');
+        $jsonContent = $serializer->serialize(array('data' => $centro),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

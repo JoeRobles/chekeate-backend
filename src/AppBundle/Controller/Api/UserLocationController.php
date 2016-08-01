@@ -48,7 +48,7 @@ class UserLocationController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('userLocations' => $userLocations),'json');
+        $jsonContent = $serializer->serialize(array('data' => $userLocations),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class UserLocationController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('userLocation' => $userLocation),'json');
+        $jsonContent = $serializer->serialize(array('data' => $userLocation),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

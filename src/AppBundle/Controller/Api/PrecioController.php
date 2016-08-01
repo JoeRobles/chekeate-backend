@@ -48,7 +48,7 @@ class PrecioController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('precios' => $precios),'json');
+        $jsonContent = $serializer->serialize(array('data' => $precios),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class PrecioController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('precio' => $precio),'json');
+        $jsonContent = $serializer->serialize(array('data' => $precio),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

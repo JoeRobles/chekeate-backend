@@ -48,7 +48,7 @@ class ServicioController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('servicios' => $servicios),'json');
+        $jsonContent = $serializer->serialize(array('data' => $servicios),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class ServicioController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('servicio' => $servicio),'json');
+        $jsonContent = $serializer->serialize(array('data' => $servicio),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

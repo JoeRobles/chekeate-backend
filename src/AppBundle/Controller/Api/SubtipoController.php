@@ -48,7 +48,7 @@ class SubtipoController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('subtipos' => $subtipos),'json');
+        $jsonContent = $serializer->serialize(array('data' => $subtipos),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -83,7 +83,7 @@ class SubtipoController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('subtipo' => $subtipo),'json');
+        $jsonContent = $serializer->serialize(array('data' => $subtipo),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }

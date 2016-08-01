@@ -41,7 +41,7 @@ class CausaController extends Controller
 
         $serializer = new Serializer($normalizers, $encoders);
 
-        $jsonContent = $serializer->serialize(array('causas' => $causas),'json');
+        $jsonContent = $serializer->serialize(array('data' => $causas),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
@@ -69,7 +69,7 @@ class CausaController extends Controller
             return new Response($jsonContent, 404, $this->headers);
         }
 
-        $jsonContent = $serializer->serialize(array('causa' => $causa),'json');
+        $jsonContent = $serializer->serialize(array('data' => $causa),'json');
 
         return new Response($jsonContent, 200, $this->headers);
     }
