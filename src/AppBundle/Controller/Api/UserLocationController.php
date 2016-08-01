@@ -15,7 +15,7 @@ use AppBundle\Entity\UserLocation;
 /**
  * UserLocation controller.
  *
- * @Route("/api/userLocation")
+ * @Route("/api/userlocation")
  */
 class UserLocationController extends Controller
 {
