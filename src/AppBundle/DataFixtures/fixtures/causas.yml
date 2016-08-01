@@ -10,3 +10,7732 @@ Causa:
   3:
     nombre_enfermedad: Fiebre reumática
     tipo_causa: Infecciosa
+
+  4:
+    nombre_enfermedad: Ascarosis
+    tipo_causa: Parasitosis
+
+  5:
+    nombre_enfermedad: Intoxicación crónica por mercurio
+    tipo_causa: Intoxicación
+
+  6:
+    nombre_enfermedad: Púrpura de Henoch-Schónlein
+    tipo_causa: Vasculitis
+
+  7:
+    nombre_enfermedad: Colecistitis
+    tipo_causa: Inflamatoria
+
+  8:
+    nombre_enfermedad: Ferropenia
+    tipo_causa: Nutricional
+
+  9:
+    nombre_enfermedad: Sepsis
+    tipo_causa: Infecciosa
+
+  10:
+    nombre_enfermedad: Infección bacteriana
+    tipo_causa: Infecciosa
+
+  11:
+    nombre_enfermedad: Infección viral
+    tipo_causa: Infecciosa
+
+  12:
+    nombre_enfermedad: Infección por hongos
+    tipo_causa: Infecciosa
+
+  13:
+    nombre_enfermedad: Tuberculosis TBC
+    tipo_causa: Infecciosa
+
+  14:
+    nombre_enfermedad: Endocarditis
+    tipo_causa: Infecciosa
+
+  15:
+    nombre_enfermedad: Brucelosis
+    tipo_causa: Infecciosa
+
+  16:
+    nombre_enfermedad: Salmonelosis
+    tipo_causa: Infecciosa
+
+  17:
+    nombre_enfermedad: Abscesos
+    tipo_causa: Infecciosa
+
+  18:
+    nombre_enfermedad: Sinusitis
+    tipo_causa: Infecciosa
+
+  19:
+    nombre_enfermedad: Osteomielitis
+    tipo_causa: Infecciosa
+
+  20:
+    nombre_enfermedad: Gonococemia
+    tipo_causa: Infecciosa
+
+  21:
+    nombre_enfermedad: Meningococemia
+    tipo_causa: Infecciosa
+
+  22:
+    nombre_enfermedad: Fiebre Q
+    tipo_causa: Infecciosa
+
+  23:
+    nombre_enfermedad: Psitacosis
+    tipo_causa: Infecciosa
+
+  24:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa: Infecciosa
+
+  25:
+    nombre_enfermedad: Amebiasis
+    tipo_causa: Infecciosa
+
+  26:
+    nombre_enfermedad: Paludismo
+    tipo_causa: Infecciosa
+
+  27:
+    nombre_enfermedad: Kala-azar
+    tipo_causa: Infecciosa
+
+  28:
+    nombre_enfermedad: Candidiasis
+    tipo_causa: Infecciosa
+
+  29:
+    nombre_enfermedad: Criptococosis
+    tipo_causa: Infecciosa
+
+  30:
+    nombre_enfermedad: Linfoma
+    tipo_causa: Ganglionar
+
+  31:
+    nombre_enfermedad: Leucosis
+    tipo_causa: Ganglionar
+
+  32:
+    nombre_enfermedad: Linfagranuloma
+    tipo_causa: Ganglionar
+
+  33:
+    nombre_enfermedad: Cáncer de hígado
+    tipo_causa: Oncológica
+
+  34:
+    nombre_enfermedad: Cáncer renal
+    tipo_causa: Oncológica
+
+  35:
+    nombre_enfermedad: Cáncer gástrico
+    tipo_causa: Oncológica
+
+  36:
+    nombre_enfermedad: Trauma
+    tipo_causa: Destrucción de tejidos
+
+  37:
+    nombre_enfermedad: Necrosis local
+    tipo_causa: Destrucción de tejidos
+
+  38:
+    nombre_enfermedad: Rabdomiolisis
+    tipo_causa: Destrucción de tejidos
+
+  39:
+    nombre_enfermedad: Acromegalia
+    tipo_causa: Hormonal
+
+  40:
+    nombre_enfermedad: Gigantismo
+    tipo_causa: Hormonal
+
+  41:
+    nombre_enfermedad: Hiperfunsión corticosuprarenal
+    tipo_causa: Hormonal
+
+  42:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Hormonal
+
+  43:
+    nombre_enfermedad: Gestación
+    tipo_causa: Fisiológica
+
+  44:
+    nombre_enfermedad: Pre-menstrual
+    tipo_causa: Fisiológica
+
+  45:
+    nombre_enfermedad: Lupus eritematoso sistémico
+    tipo_causa: Autoinmunitaria
+
+  46:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Autoinmunitaria
+
+  47:
+    nombre_enfermedad: Alergia medicamentosa
+    tipo_causa: Alérgica
+
+  48:
+    nombre_enfermedad: Neumonía asociada a ventilador mecánico
+    tipo_causa: Infecciosa
+
+  49:
+    nombre_enfermedad: Sinusitis
+    tipo_causa: Infecciosa
+
+  50:
+    nombre_enfermedad: Infección asociada a catéter central
+    tipo_causa: Infecciosa
+
+  51:
+    nombre_enfermedad: Endocarditis
+    tipo_causa: Infecciosa
+
+  52:
+    nombre_enfermedad: Diarrea nosocomial por Clostridium difficile
+    tipo_causa: Infecciosa
+
+  53:
+    nombre_enfermedad: Sepsis intraabdorninal
+    tipo_causa: Infecciosa
+
+  54:
+    nombre_enfermedad: Infección del tracto urinario
+    tipo_causa: Infecciosa
+
+  55:
+    nombre_enfermedad: Infección de herida quirúrgica
+    tipo_causa: Infecciosa
+
+  56:
+    nombre_enfermedad: Flebitis
+    tipo_causa: No infecciosa
+
+  57:
+    nombre_enfermedad: Infarto cerebral
+    tipo_causa: No infecciosa
+
+  58:
+    nombre_enfermedad: Embolia pulmonar
+    tipo_causa: No infecciosa
+
+  59:
+    nombre_enfermedad: Fiebre de origen neoplásico
+    tipo_causa: No infecciosa
+
+  60:
+    nombre_enfermedad: Reabsorción post contraste
+    tipo_causa: No infecciosa
+
+  61:
+    nombre_enfermedad: Reabsorción de hematomas
+    tipo_causa: No infecciosa
+
+  62:
+    nombre_enfermedad: Hemorragia  subaracnoidea
+    tipo_causa: No infecciosa
+
+  63:
+    nombre_enfermedad: Úlceras de decúbito
+    tipo_causa: No infecciosa
+
+  64:
+    nombre_enfermedad: Trombosis venosa profunda
+    tipo_causa: No infecciosa
+
+  65:
+    nombre_enfermedad: Fiebre por fármacos
+    tipo_causa: No infecciosa
+
+  66:
+    nombre_enfermedad: Atelectasia
+    tipo_causa: No infecciosa
+
+  67:
+    nombre_enfermedad: Embolia grasa
+    tipo_causa: No infecciosa
+
+  68:
+    nombre_enfermedad: Fiebre post transfusión
+    tipo_causa: No infecciosa
+
+  69:
+    nombre_enfermedad: Hemorragia digestiva
+    tipo_causa: No infecciosa
+
+  70:
+    nombre_enfermedad: Pancreatitis
+    tipo_causa: No infecciosa
+
+  71:
+    nombre_enfermedad: TBC >extrapulmonar
+    tipo_causa: Infecciosa
+
+  72:
+    nombre_enfermedad: VIH
+    tipo_causa: Infecciosa
+
+  73:
+    nombre_enfermedad: Endocarditis subaguda
+    tipo_causa: Infecciosa
+
+  74:
+    nombre_enfermedad: Brucelosis
+    tipo_causa: Infecciosa
+
+  75:
+    nombre_enfermedad: Meningococemia crónica
+    tipo_causa: Infecciosa
+
+  76:
+    nombre_enfermedad: Gonococemia
+    tipo_causa: Infecciosa
+
+  77:
+    nombre_enfermedad: Toxoplasmosis
+    tipo_causa: Infecciosa
+
+  78:
+    nombre_enfermedad: Infección por CMV
+    tipo_causa: Infecciosa
+
+  79:
+    nombre_enfermedad: Micosis diseminadas
+    tipo_causa: Infecciosa
+
+  80:
+    nombre_enfermedad: Infs. piógenas localizadas
+    tipo_causa: Infecciosa
+
+  81:
+    nombre_enfermedad: Infecciones hepáticas: Absceso hepático, colangitis
+    tipo_causa: Infecciosa
+
+  82:
+    nombre_enfermedad: Absceso subfrénico:
+    nombre_enfermedad: :
+    nombre_enfermedad: Infecciosa
+
+  83:
+    nombre_enfermedad: Absceso apendicular
+    tipo_causa: Infecciosa
+
+  84:
+    nombre_enfermedad: Absceso tubo-ovárico
+    tipo_causa: Infecciosa
+
+  85:
+    nombre_enfermedad: Absceso pélvico
+    tipo_causa: Infecciosa
+
+  86:
+    nombre_enfermedad: Diverticulitis
+    tipo_causa: Infecciosa
+
+  87:
+    nombre_enfermedad: Pielonefritis
+    tipo_causa: Infecciosa
+
+  88:
+    nombre_enfermedad: Psitacosis
+    tipo_causa: Infecciosa
+
+  89:
+    nombre_enfermedad: Absceso prostático
+    tipo_causa: Infecciosa
+
+  90:
+    nombre_enfermedad: Carbunco renal
+    tipo_causa: Infecciosa
+
+  91:
+    nombre_enfermedad: Absceso perinefrítico
+    tipo_causa: Infecciosa
+
+  92:
+    nombre_enfermedad: Hipemefroma
+    tipo_causa: Neoplásica
+
+  93:
+    nombre_enfermedad: Carcinoma del TGI
+    tipo_causa: Neoplásica
+
+  94:
+    nombre_enfermedad: Tumor pancreático
+    tipo_causa: Neoplásica
+
+  95:
+    nombre_enfermedad: Carcinoma hepático.
+    tipo_causa: Neoplásica
+
+  96:
+    nombre_enfermedad: Carcinoma bronquial
+    tipo_causa: Neoplásica
+
+  97:
+    nombre_enfermedad: Linfosarcoma
+    tipo_causa: Neoplásica
+
+  98:
+    nombre_enfermedad: Hemoblastosis
+    tipo_causa: Neoplásica
+
+  99:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Neoplásica
+
+  100:
+    nombre_enfermedad: Mixoma auricular
+    tipo_causa: Neoplásica
+
+  101:
+    nombre_enfermedad: Sarcoma
+    tipo_causa: Neoplásica
+
+  102:
+    nombre_enfermedad: Artritis reumatoidea
+    tipo_causa: Colagenosis
+
+  103:
+    nombre_enfermedad: GranulomatosiaWegener
+    tipo_causa: Colagenosis
+
+  104:
+    nombre_enfermedad: Fiebre reumática
+    tipo_causa: Colagenosis
+
+  105:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Colagenosis
+
+  106:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: Colagenosis
+
+  107:
+    nombre_enfermedad: Polimiositis
+    tipo_causa: Colagenosis
+
+  108:
+    nombre_enfermedad: Lupus eritematoso sistémico LES
+    tipo_causa: Colagenosis
+
+  109:
+    nombre_enfermedad: Arteritis de células gigantes
+    tipo_causa: Colagenosis
+
+  110:
+    nombre_enfermedad: Arteritis temporal
+    tipo_causa: Colagenosis
+
+  111:
+    nombre_enfermedad: Barbitúricos
+    tipo_causa: Medicamentosa
+
+  112:
+    nombre_enfermedad: Aminopirina
+    tipo_causa: Medicamentosa
+
+  113:
+    nombre_enfermedad: PAS
+    tipo_causa: Medicamentosa
+
+  114:
+    nombre_enfermedad: Sulfamidas
+    tipo_causa: Medicamentosa
+
+  115:
+    nombre_enfermedad: Antibióticos
+    tipo_causa: Medicamentosa
+
+  116:
+    nombre_enfermedad: Metildopa
+    tipo_causa: Medicamentosa
+
+  117:
+    nombre_enfermedad: Fenilbutazona
+    tipo_causa: Medicamentosa
+
+  118:
+    nombre_enfermedad: Citostáticos
+    tipo_causa: Medicamentosa
+
+  119:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Endocrinopatías
+
+  120:
+    nombre_enfermedad: Hiperparatiroidismo
+    tipo_causa: Endocrinopatías
+
+  121:
+    nombre_enfermedad: Crisis de Addison
+    tipo_causa: Endocrinopatías
+
+  122:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Hematológicas
+
+  123:
+    nombre_enfermedad: Crisis hemolitica aguda
+    tipo_causa: Hematológicas
+
+  124:
+    nombre_enfermedad: Anemia perniciosa
+    tipo_causa: Hematológicas
+
+  125:
+    nombre_enfermedad: Anemia ferropénica
+    tipo_causa: Hematológicas
+
+  126:
+    nombre_enfermedad: Talasemia
+    tipo_causa: Hematológicas
+
+  127:
+    nombre_enfermedad: Infarto de miocardio
+    tipo_causa: Enfermedad vascular
+
+  128:
+    nombre_enfermedad: Infarto pulmonar
+    tipo_causa: Enfermedad vascular
+
+  129:
+    nombre_enfermedad: Hemorragia subaracnoidea
+    tipo_causa: Enfermedad vascular
+
+  130:
+    nombre_enfermedad: Edema pulmonar
+    tipo_causa: Enfermedad vascular
+
+  131:
+    nombre_enfermedad: Derrame sanguíneo en resorción
+    tipo_causa: Otras causas
+
+  132:
+    nombre_enfermedad: Postoperatorio hipertermia simpaticomimética
+    tipo_causa: Otras causas
+
+  133:
+    nombre_enfermedad: Ulceras gástrica y duodenal
+    tipo_causa: Otras causas
+
+  134:
+    nombre_enfermedad: Enfermedades electrolíticas y metabólicas
+    tipo_causa: Otras causas
+
+  135:
+    nombre_enfermedad: Exicosis insuficiencia hídrica
+    tipo_causa: Otras causas
+
+  136:
+    nombre_enfermedad: Gota
+    tipo_causa: Otras causas
+
+  137:
+    nombre_enfermedad: Sarampión
+    tipo_causa: Infección viral
+
+  138:
+    nombre_enfermedad: Gripe
+    tipo_causa: Infección viral
+
+  139:
+    nombre_enfermedad: Infección viral gripal
+    tipo_causa: Infección viral
+
+  140:
+    nombre_enfermedad: Mononucleosis infecciosa
+    tipo_causa: Infección viral
+
+  141:
+    nombre_enfermedad: Carbunco pulmonar
+    tipo_causa: Infección bacteriana
+
+  142:
+    nombre_enfermedad: Poliomielítis
+    tipo_causa: Infección viral
+
+  143:
+    nombre_enfermedad: Angina amigdalar
+    tipo_causa: Infecciosa
+
+  144:
+    nombre_enfermedad: Neumonía
+    tipo_causa: Infección bacteriana
+
+  145:
+    nombre_enfermedad: Ornitosis  o Psitacosis
+    tipo_causa: Infección bacteriana
+
+  146:
+    nombre_enfermedad: TBC
+    tipo_causa: Infección bacteriana
+
+  147:
+    nombre_enfermedad: Difteria
+    tipo_causa: Infección bacteriana
+
+  148:
+    nombre_enfermedad: Parotiditis
+    tipo_causa: Infección viral
+
+  149:
+    nombre_enfermedad: Angina de Vincent unilateral
+    tipo_causa: Infección bacteriana
+
+  150:
+    nombre_enfermedad: Fiebre Q
+    tipo_causa: Infección bacteriana
+
+  151:
+    nombre_enfermedad: Muermo Burkholderiamallei
+    tipo_causa: Infección bacteriana
+
+  152:
+    nombre_enfermedad: Endocarditis, neumonía por Coxiella burnetti
+    tipo_causa: Infección bacteriana
+
+  153:
+    nombre_enfermedad: Sarampión manchas grandes, escamas pequeñas
+    tipo_causa: Infección viral
+
+  154:
+    nombre_enfermedad: Rubéola
+    tipo_causa: Infección viral
+
+  155:
+    nombre_enfermedad: Enterovirus coxackie, virus ECHO
+    tipo_causa: Infección viral
+
+  156:
+    nombre_enfermedad: Adenovirus
+    tipo_causa: Infección viral
+
+  157:
+    nombre_enfermedad: Virus de Epstein-Barr
+    tipo_causa: Infección viral
+
+  158:
+    nombre_enfermedad: CMV
+    tipo_causa: Infección viral
+
+  159:
+    nombre_enfermedad: Parvovirus B19, Reovirus, Arbovirus
+    tipo_causa: Infección viral
+
+  160:
+    nombre_enfermedad: Virus del herpes simple de tipo 6
+    tipo_causa: Infección viral
+
+  161:
+    nombre_enfermedad: Estreptococo del grupo A: escarlatina, erisipela, fiebre reumática
+    tipo_causa: Infección no viral
+
+  162:
+    nombre_enfermedad: Estafilococo :síndrome de shock tóxico, síndrome de piel escaldada estafilocócica
+    tipo_causa: Infección no viral
+
+  163:
+    nombre_enfermedad: Fiebre tifoidea roséola tífica
+    tipo_causa: Infección no viral
+
+  164:
+    nombre_enfermedad: Sífilis secundaria
+    tipo_causa: Infección no viral
+
+  165:
+    nombre_enfermedad: Meningococemia crónica
+    tipo_causa: Infección no viral
+
+  166:
+    nombre_enfermedad: Enfermedad de Lyme infección producida por espiroquetas del género Borrelia
+    tipo_causa: Infección no viral
+
+  167:
+    nombre_enfermedad: Rickettsiosis
+    tipo_causa: Infección no viral
+
+  168:
+    nombre_enfermedad: Psitacosis
+    tipo_causa: Infección no viral
+
+  169:
+    nombre_enfermedad: M. pneumorriae
+    tipo_causa: Infección no viral
+
+  170:
+    nombre_enfermedad: Toxoplasmosis
+    tipo_causa: Infección no viral
+
+  171:
+    nombre_enfermedad: Triquinosis
+    tipo_causa: Infección no viral
+
+  172:
+    nombre_enfermedad: Erisipela de Rosenbach
+    tipo_causa: Infección no viral
+
+  173:
+    nombre_enfermedad: Listeriosis forma seudomononucleósica
+    tipo_causa: Infección no viral
+
+  174:
+    nombre_enfermedad: Micosis por ej. Candidiasis diserninada
+    tipo_causa: Infección no viral
+
+  175:
+    nombre_enfermedad: Quiste hidatídico roto
+    tipo_causa: Infección no viral
+
+  176:
+    nombre_enfermedad: Primera enfermedad: Sarampión.
+    tipo_causa: Exantemas clásicos de la infancia
+
+  177:
+    nombre_enfermedad: Segunda enfermedad: Fiebre escariatina
+    tipo_causa: Exantemas clásicos de la infancia
+
+  178:
+    nombre_enfermedad: Tercera enfermedad: Rubéola
+    tipo_causa: Exantemas clásicos de la infancia
+
+  179:
+    nombre_enfermedad: Cuarta enfermedad: Enfermedad de FilatowDukes
+    tipo_causa: Exantemas clásicos de la infancia
+
+  180:
+    nombre_enfermedad: Quinta enfermedad: Eritema infeccioso
+    tipo_causa: Exantemas clásicos de la infancia
+
+  181:
+    nombre_enfermedad: Sexta enfermedad: roséola infantil exantema súbito
+    tipo_causa: Exantemas clásicos de la infancia
+
+  182:
+    nombre_enfermedad: Artritis crónica juvenil, enfermedad de StilI del adulto
+    tipo_causa: No infecciosa
+
+  183:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: No infecciosa
+
+  184:
+    nombre_enfermedad: LES
+    tipo_causa: No infecciosa
+
+  185:
+    nombre_enfermedad: Eritema mutiforme
+    tipo_causa: No infecciosa
+
+  186:
+    nombre_enfermedad: Enfermedad de Kawasaki
+    tipo_causa: No infecciosa
+
+  187:
+    nombre_enfermedad: Urticaria
+    tipo_causa: No infecciosa
+
+  188:
+    nombre_enfermedad: Hipersensibilidad redicamentosa toxicodemia
+    tipo_causa: No infecciosa
+
+  189:
+    nombre_enfermedad: Virus del herpes simple tipos 1 y 2
+    tipo_causa: Infección viral
+
+  190:
+    nombre_enfermedad: Virus del herpes zóster
+    tipo_causa: Infección viral
+
+  191:
+    nombre_enfermedad: Coxackie virus A16 enfermedad mano-pie-boca
+    tipo_causa: Infección viral
+
+  192:
+    nombre_enfermedad: Orf ectima contagioso o nódulo de los ordeñadores de ovejas y cabras
+    tipo_causa: Infección viral
+
+  193:
+    nombre_enfermedad: Coxsackievirus A 5, A9, A1O
+    tipo_causa: Infección viral
+
+  194:
+    nombre_enfermedad: Echovirus 4,9, 11, 17,25
+    tipo_causa: Infección viral
+
+  195:
+    nombre_enfermedad: Viruela, Vacuna
+    tipo_causa: Infección viral
+
+  196:
+    nombre_enfermedad: Fiebre aftosa glosopeda
+ Estomatitis vesicular
+    tipo_causa: Infección viral
+
+  197:
+    nombre_enfermedad: Viruela rickettsiósica
+    tipo_causa: Infección no viral
+
+  198:
+    nombre_enfermedad: Síndrome de la piel escaldada estafilococida
+    tipo_causa: Infección no viral
+
+  199:
+    nombre_enfermedad: Eritema multiforme
+    tipo_causa: Causas No infecciosa
+
+  200:
+    nombre_enfermedad: Necrólisis epidérmica tóxica sínd. de Steven-Johnsofl
+    tipo_causa: Causas No infecciosa
+
+  201:
+    nombre_enfermedad: Síndrome de Reiter
+    tipo_causa: Causas No infecciosa
+
+  202:
+    nombre_enfermedad: Síndrome de Behcet
+    tipo_causa: Causas No infecciosa
+
+  203:
+    nombre_enfermedad: Síndrome de Swet
+    tipo_causa: Causas No infecciosa
+
+  204:
+    nombre_enfermedad: Alergia medicamentosa
+    tipo_causa: Causas No infecciosa
+
+  205:
+    nombre_enfermedad: Bacteriemia septicemia: meningococo, estafilococo, gonococo, pseudomona
+    tipo_causa: Infecciosa
+
+  206:
+    nombre_enfermedad: Enfermedades rickettsiales: fiebre de las montoñas rocosas, tifus
+    tipo_causa: Infecciosa
+
+  207:
+    nombre_enfermedad: Endocarditis infecciosa
+    tipo_causa: Infecciosa
+
+  208:
+    nombre_enfermedad: Listeriosis diseminada
+    tipo_causa: Infecciosa
+
+  209:
+    nombre_enfermedad: Dengue fiebre quebrantahuesos
+    tipo_causa: Infecciosa
+
+  210:
+    nombre_enfermedad: Enterovirus
+    tipo_causa: Infecciosa
+
+  211:
+    nombre_enfermedad: Leptospirosis
+    tipo_causa: Infecciosa
+
+  212:
+    nombre_enfermedad: Sarampión hemorrágico
+    tipo_causa: Infecciosa
+
+  213:
+    nombre_enfermedad: Púrpura trombocitopénica trombótica
+    tipo_causa: Causas No infecciosa
+
+  214:
+    nombre_enfermedad: Púrpura trombocitopénicaidiopálica
+    tipo_causa: Causas No infecciosa
+
+  215:
+    nombre_enfermedad: Vasculitis sistémica
+    tipo_causa: Causas No infecciosa
+
+  216:
+    nombre_enfermedad: Embolismo de colesterol
+    tipo_causa: Causas No infecciosa
+
+  217:
+    nombre_enfermedad: Hipersensibilidad medicamentosa
+    tipo_causa: Causas No infecciosa
+
+  218:
+    nombre_enfermedad: Salmonelosis
+    tipo_causa:
+
+  219:
+    nombre_enfermedad: Shigelosis
+    tipo_causa:
+
+  220:
+    nombre_enfermedad: Cólera
+    tipo_causa:
+
+  221:
+    nombre_enfermedad: Amebosis
+    tipo_causa:
+
+  222:
+    nombre_enfermedad: Gastroenteritis aguda
+    tipo_causa:
+
+  223:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa:
+
+  224:
+    nombre_enfermedad: Enfermedad de Crohn
+    tipo_causa:
+
+  225:
+    nombre_enfermedad: Gripe gripe entérica
+    tipo_causa:
+
+  226:
+    nombre_enfermedad: Tifus abdominal
+    tipo_causa:
+
+  227:
+    nombre_enfermedad: Brucelosis Enf. de Sang
+    tipo_causa:
+
+  228:
+    nombre_enfermedad: Enfermedad de Weil
+    tipo_causa:
+
+  229:
+    nombre_enfermedad: Sepsis
+    tipo_causa:
+
+  230:
+    nombre_enfermedad: TBC intestinal
+    tipo_causa:
+
+  231:
+    nombre_enfermedad: Escarlatina
+    tipo_causa:
+
+  232:
+    nombre_enfermedad: Erisipela
+    tipo_causa:
+
+  233:
+    nombre_enfermedad: Poliomielitis
+    tipo_causa:
+
+  234:
+    nombre_enfermedad: Botulismo
+    tipo_causa:
+
+  235:
+    nombre_enfermedad: Triquinosis
+    tipo_causa:
+
+  236:
+    nombre_enfermedad: Psitacosis
+    tipo_causa:
+
+  237:
+    nombre_enfermedad: SIDA
+    tipo_causa:
+
+  238:
+    nombre_enfermedad: Esipela
+    tipo_causa:
+
+  239:
+    nombre_enfermedad: Abscesos linfoma regional
+    tipo_causa:
+
+  240:
+    nombre_enfermedad: Mononucleosis infecciosa
+    tipo_causa:
+
+  241:
+    nombre_enfermedad: Listeriosis
+    tipo_causa:
+
+  242:
+    nombre_enfermedad: Brucelosis
+    tipo_causa:
+
+  243:
+    nombre_enfermedad: Hepatitis aguda
+    tipo_causa:
+
+  244:
+    nombre_enfermedad: Enfermedad de Kikuchi, Fujimoto o linfadenitishistiocitica necrotizante
+    tipo_causa:
+
+  245:
+    nombre_enfermedad: Sarampión
+    tipo_causa:
+
+  246:
+    nombre_enfermedad: Rubéola
+    tipo_causa:
+
+  247:
+    nombre_enfermedad: Linfocitosis infecciosa
+    tipo_causa:
+
+  248:
+    nombre_enfermedad: Toxoplasmosis aguda
+    tipo_causa:
+
+  249:
+    nombre_enfermedad: Sifilis II
+    tipo_causa:
+
+  250:
+    nombre_enfermedad: Leucemia aguda
+    tipo_causa:
+
+  251:
+    nombre_enfermedad: Tularemia
+    tipo_causa:
+
+  252:
+    nombre_enfermedad: Endocarditis lenta
+    tipo_causa:
+
+  253:
+    nombre_enfermedad: Tifus abdominal
+    tipo_causa:
+
+  254:
+    nombre_enfermedad: Enfermedad de Weil leptospirosis
+    tipo_causa:
+
+  255:
+    nombre_enfermedad: Brucelosis
+    tipo_causa:
+
+  256:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa:
+
+  257:
+    nombre_enfermedad: Rickettsiosis
+    tipo_causa:
+
+  258:
+    nombre_enfermedad: Sepsis
+    tipo_causa:
+
+  259:
+    nombre_enfermedad: Paludismo malaria
+    tipo_causa:
+
+  260:
+    nombre_enfermedad: Kala-azar
+    tipo_causa:
+
+  261:
+    nombre_enfermedad: Meningitis
+    tipo_causa:
+
+  262:
+    nombre_enfermedad: Poliomielitis
+    tipo_causa:
+
+  263:
+    nombre_enfermedad: Encefalitis
+    tipo_causa:
+
+  264:
+    nombre_enfermedad: Absceso cerebral
+    tipo_causa:
+
+  265:
+    nombre_enfermedad: Botulismo
+    tipo_causa:
+
+  266:
+    nombre_enfermedad: Leptospirosis
+    tipo_causa:
+
+  267:
+    nombre_enfermedad: Fiebre papataci fiebre por flebotomus
+    tipo_causa:
+
+  268:
+    nombre_enfermedad: Ent. De Bornholm mialgia epidémica o pleurodinia epidémica
+    tipo_causa:
+
+  269:
+    nombre_enfermedad: Fiebre reumática aguda
+    tipo_causa:
+
+  270:
+    nombre_enfermedad: Artritis infecciosa
+    tipo_causa:
+
+  271:
+    nombre_enfermedad: Síndrome de Lófgren Enfermedad aguda de Boeck
+    tipo_causa:
+
+  272:
+    nombre_enfermedad: Triquinosis
+    tipo_causa:
+
+  273:
+    nombre_enfermedad: Enfermedad de Weil leptospirosis
+    tipo_causa:
+
+  274:
+    nombre_enfermedad: Brucelosis
+    tipo_causa:
+
+  275:
+    nombre_enfermedad: Enfermedad de Bornholm
+    tipo_causa:
+
+  276:
+    nombre_enfermedad: Poliartritis crónica primaria
+    tipo_causa:
+
+  277:
+    nombre_enfermedad: Enfermedad de Still
+    tipo_causa:
+
+  278:
+    nombre_enfermedad: Osteomielitis
+    tipo_causa:
+
+  279:
+    nombre_enfermedad: Empiema articular
+    tipo_causa:
+
+  280:
+    nombre_enfermedad: Poliomielitis
+    tipo_causa:
+
+  281:
+    nombre_enfermedad: Dengue fiebre quebrantahuesos
+    tipo_causa:
+
+  282:
+    nombre_enfermedad: Enfermedad por arañazo de gato
+    tipo_causa:
+
+  283:
+    nombre_enfermedad: Fiebre papataci
+    tipo_causa:
+
+  284:
+    nombre_enfermedad: Hipertermia del ejercicio
+    tipo_causa: Aumento en la producción de calor
+
+  285:
+    nombre_enfermedad: Tirotoxicosis
+    tipo_causa: Aumento en la producción de calor
+
+  286:
+    nombre_enfermedad: Feocromocitoma
+    tipo_causa: Aumento en la producción de calor
+
+  287:
+    nombre_enfermedad: Hipertermia maligna
+    tipo_causa: Aumento en la producción de calor
+
+  288:
+    nombre_enfermedad: Golpe de calor
+    tipo_causa: Disminución en la disipación de calor
+
+  289:
+    nombre_enfermedad: Intoxicación por anticotnérgicos
+    tipo_causa: Disminución en la disipación de calor
+
+  290:
+    nombre_enfermedad: Disfunción autonómica
+    tipo_causa: Disminución en la disipación de calor
+
+  291:
+    nombre_enfermedad: Deshidratación
+    tipo_causa: Disminución en la disipación de calor
+
+  292:
+    nombre_enfermedad: Ropa oclusiva
+    tipo_causa: Disminución en la disipación de calor
+
+  293:
+    nombre_enfermedad: Infecciones, trauma, tumor, infarto
+    tipo_causa: Trastorno hipotalámico
+
+  294:
+    nombre_enfermedad: Fármacos fenotiazinas
+    tipo_causa: Trastorno hipotalámico
+
+  295:
+    nombre_enfermedad: Poiquilotermia
+    tipo_causa: Trastorno hipotalámico
+
+  296:
+    nombre_enfermedad: Termoterapia
+    tipo_causa: Inducida
+
+  297:
+    nombre_enfermedad: Gastritis aguda
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  298:
+    nombre_enfermedad: Gastritis crónica
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  299:
+    nombre_enfermedad: Carcinoma gástrico
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  300:
+    nombre_enfermedad: Estenosis pilórica
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  301:
+    nombre_enfermedad: Gastroptosis
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  302:
+    nombre_enfermedad: Úlcera gástrica
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  303:
+    nombre_enfermedad: Estadio preictérico de la hepatitis aguda
+    tipo_causa: Hepáticas y biliares
+
+  304:
+    nombre_enfermedad: Cirrosis hepática
+    tipo_causa: Hepáticas y biliares
+
+  305:
+    nombre_enfermedad: Colangitis crónica
+    tipo_causa: Hepáticas y biliares
+
+  306:
+    nombre_enfermedad: Pancreatitis aguda
+    tipo_causa: Afecciones pancreáticas
+
+  307:
+    nombre_enfermedad: Pancreatitis crónica con insuficiencia pancreática
+    tipo_causa: Afecciones pancreáticas
+
+  308:
+    nombre_enfermedad: Carcinoma de páncreas
+    tipo_causa: Afecciones pancreáticas
+
+  309:
+    nombre_enfermedad: íleo
+    tipo_causa: Alteraciones intestinales
+
+  310:
+    nombre_enfermedad: Apendicitis
+    tipo_causa: Alteraciones intestinales
+
+  311:
+    nombre_enfermedad: Gastroenteritis aguda
+    tipo_causa: Alteraciones intestinales
+
+  312:
+    nombre_enfermedad: Estreñimiento crónico
+    tipo_causa: Alteraciones intestinales
+
+  313:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Alteraciones intestinales
+
+  314:
+    nombre_enfermedad: Enfermedad celíaca
+    tipo_causa: Alteraciones intestinales
+
+  315:
+    nombre_enfermedad: Parasitosis
+    tipo_causa: Infestación parasitaria
+
+  316:
+    nombre_enfermedad: Infecciones agudas sarampión, griupe, escarlatina
+    tipo_causa: Enfermedades infecciosas
+
+  317:
+    nombre_enfermedad: Infecciones crónicas TBC
+    tipo_causa: Enfermedades infecciosas
+
+  318:
+    nombre_enfermedad: Déficit de vitamina 812
+    tipo_causa: Enfermedades deficitarias
+
+  319:
+    nombre_enfermedad: Déficit de ácido nicotinico
+    tipo_causa: Enfermedades deficitarias
+
+  320:
+    nombre_enfermedad: Déficit de vitamina D
+    tipo_causa: Enfermedades deficitarias
+
+  321:
+    nombre_enfermedad: Sideropenia déficit de hierro
+    tipo_causa: Enfermedades deficitarias
+
+  322:
+    nombre_enfermedad: Hipotiroidismo
+    tipo_causa: Causas endocrinológicas
+
+  323:
+    nombre_enfermedad: Precoma diabético
+    tipo_causa: Causas endocrinológicas
+
+  324:
+    nombre_enfermedad: Hiporcalcemia
+    tipo_causa: Causas endocrinológicas
+
+  325:
+    nombre_enfermedad: Hiperparatiroidismo
+    tipo_causa: Causas endocrinológicas
+
+  326:
+    nombre_enfermedad: Insuficiencia hipofisiaria
+    tipo_causa: Causas endocrinológicas
+
+  327:
+    nombre_enfermedad: Enfermedad de Addison
+    tipo_causa: Causas endocrinológicas
+
+  328:
+    nombre_enfermedad: Anorexia nerviosa
+    tipo_causa: Causas psíquicas y emocionales
+
+  329:
+    nombre_enfermedad: Depresión
+    tipo_causa: Causas psíquicas y emocionales
+
+  330:
+    nombre_enfermedad: Ansiedad
+    tipo_causa: Causas psíquicas y emocionales
+
+  331:
+    nombre_enfermedad: Estrés
+    tipo_causa: Causas psíquicas y emocionales
+
+  332:
+    nombre_enfermedad: Insuficiencia renal azoemia
+    tipo_causa: Causa tóxica endógena
+
+  333:
+    nombre_enfermedad: Sobredosis de digital
+    tipo_causa: Causa tóxica exógena
+
+  334:
+    nombre_enfermedad: Anoréxicos
+    tipo_causa: Causa tóxica exógena
+
+  335:
+    nombre_enfermedad: Tabaquismo
+    tipo_causa: Causa tóxica exógena
+
+  336:
+    nombre_enfermedad: Abuso de alcohol
+    tipo_causa: Causa tóxica exógena
+
+  337:
+    nombre_enfermedad: Antibióticos amplio espectro
+    tipo_causa: Causa tóxica exógena
+
+  338:
+    nombre_enfermedad: Intoxicación por vitamina D
+    tipo_causa: Causa tóxica exógena
+
+  339:
+    nombre_enfermedad: Citostáticos
+    tipo_causa: Causa tóxica exógena
+
+  340:
+    nombre_enfermedad: Anfetaminas
+    tipo_causa: Causa yatrógena
+
+  341:
+    nombre_enfermedad: Antibióticos orales
+    tipo_causa: Causa yatrógena
+
+  342:
+    nombre_enfermedad: de amplio espectro
+    tipo_causa: Causa yatrógena
+
+  343:
+    nombre_enfermedad: Antimetabolitos
+    tipo_causa: Causa yatrógena
+
+  344:
+    nombre_enfermedad: Codeina
+    tipo_causa: Causa yatrógena
+
+  345:
+    nombre_enfermedad: Digitálicos
+    tipo_causa: Causa yatrógena
+
+  346:
+    nombre_enfermedad: Fenfluramina
+    tipo_causa: Causa yatrógena
+
+  347:
+    nombre_enfermedad: Metifenidato
+    tipo_causa: Causa yatrógena
+
+  348:
+    nombre_enfermedad: Morfina
+    tipo_causa: Causa yatrógena
+
+  349:
+    nombre_enfermedad: Propranolol
+    tipo_causa: Causa yatrógena
+
+  350:
+    nombre_enfermedad: Salicilatos
+    tipo_causa: Causa yatrógena
+
+  351:
+    nombre_enfermedad: Radioterapia
+    tipo_causa: Causa yatrógena
+
+  352:
+    nombre_enfermedad: Tumores malignos
+    tipo_causa: Otras causas
+
+  353:
+    nombre_enfermedad: Heridas o inflamaciones en zona bucal y faringea
+    tipo_causa: Otras causas
+
+  354:
+    nombre_enfermedad: Anemia
+    tipo_causa: Causas hematológicas
+
+  355:
+    nombre_enfermedad: Leucemia
+    tipo_causa: Causas hematológicas
+
+  356:
+    nombre_enfermedad: Agranulocitopenia cíclica
+    tipo_causa: Causas hematológicas
+
+  357:
+    nombre_enfermedad: Plasmocitoma
+    tipo_causa: Causas hematológicas
+
+  358:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Causas hematológicas
+
+  359:
+    nombre_enfermedad: Hipoglucemia
+    tipo_causa: Causas metabólicas
+
+  360:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas metabólicas
+
+  361:
+    nombre_enfermedad: Coma diabético incipiente
+    tipo_causa: Causas metabólicas
+
+  362:
+    nombre_enfermedad: Enf. de Addison
+    tipo_causa: Causas endocrinológicas
+
+  363:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Causas endocrinológicas
+
+  364:
+    nombre_enfermedad: Hipotiroidismo
+    tipo_causa: Causas endocrinológicas
+
+  365:
+    nombre_enfermedad: Enfermedad de Cushing
+    tipo_causa: Causas endocrinológicas
+
+  366:
+    nombre_enfermedad: Síndrome Cohn hiperaldosteronismo
+    tipo_causa: Causas endocrinológicas
+
+  367:
+    nombre_enfermedad: Acromegalia
+    tipo_causa: Causas endocrinológicas
+
+  368:
+    nombre_enfermedad: Hipopituarismo Sindrome de Sheeham
+    tipo_causa: Causas endocrinológicas
+
+  369:
+    nombre_enfermedad: Distrofia adiposogenital
+    tipo_causa: Causas endocrinológicas
+
+  370:
+    nombre_enfermedad: Tumores malignos
+    tipo_causa: Causas oncológicas
+
+  371:
+    nombre_enfermedad: Hipokalemia
+    tipo_causa: Desiquilibrio electrolítico
+
+  372:
+    nombre_enfermedad: Hiperkalemia
+    tipo_causa: Desiquilibrio electrolítico
+
+  373:
+    nombre_enfermedad: Déficit de vitamina B12 anemia perniciosa
+    tipo_causa: Enfermedades deficitarias
+
+  374:
+    nombre_enfermedad: Déficit del complejo B Déficit de vit. C escorbuto
+    tipo_causa: Enfermedades deficitarias
+
+  375:
+    nombre_enfermedad: Malnutrición déficit proteico
+    tipo_causa: Enfermedades deficitarias
+
+  376:
+    nombre_enfermedad: Déficit de hierro ferropenia
+    tipo_causa: Enfermedades deficitarias
+
+  377:
+    nombre_enfermedad: TBC
+    tipo_causa: Infecciones crónicas
+
+  378:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Infecciones crónicas
+
+  379:
+    nombre_enfermedad: Pielonefritis crónica
+    tipo_causa: Infecciones crónicas
+
+  380:
+    nombre_enfermedad: Infecciones locales granuloma dentario
+    tipo_causa: Infecciones crónicas
+
+  381:
+    nombre_enfermedad: Infección bacteriana
+    tipo_causa: Infecciones agudas
+
+  382:
+    nombre_enfermedad: Anquilostomosis
+    tipo_causa: Parasitosis
+
+  383:
+    nombre_enfermedad: Ascariosis
+    tipo_causa: Parasitosis
+
+  384:
+    nombre_enfermedad: Oxiurosis
+    tipo_causa: Parasitosis
+
+  385:
+    nombre_enfermedad: Insuficiencia cardíaca
+    tipo_causa: Enfermedad cardíaca
+
+  386:
+    nombre_enfermedad: Hipertensión
+    tipo_causa: Enfermedad cardíaca
+
+  387:
+    nombre_enfermedad: Arterioesclerosis cerebral
+    tipo_causa: Enfermedad cardíaca
+
+  388:
+    nombre_enfermedad: Hipotensión
+    tipo_causa: Enfermedad cardíaca
+
+  389:
+    nombre_enfermedad: Endocarditis lenta
+    tipo_causa: Enfermedad cardíaca
+
+  390:
+    nombre_enfermedad: Síndrome yeyunal
+    tipo_causa: Enfermedad gastrointestinal
+
+  391:
+    nombre_enfermedad: Hemorragia gástrica
+    tipo_causa: Enfermedad gastrointestinal
+
+  392:
+    nombre_enfermedad: Hernia hiatal
+    tipo_causa: Enfermedad gastrointestinal
+
+  393:
+    nombre_enfermedad: Enteritis crónica
+    tipo_causa: Enfermedad gastrointestinal
+
+  394:
+    nombre_enfermedad: Esprue
+    tipo_causa: Enfermedad gastrointestinal
+
+  395:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Enfermedad gastrointestinal
+
+  396:
+    nombre_enfermedad: Hepatitis
+    tipo_causa: Enfermedad gastrointestinal
+
+  397:
+    nombre_enfermedad: Pancreatitis crónica
+    tipo_causa: Enfermedad gastrointestinal
+
+  398:
+    nombre_enfermedad: Coma hepático
+    tipo_causa: Enfermedad gastrointestinal
+
+  399:
+    nombre_enfermedad: Hepatopatías crónicas
+    tipo_causa: Enfermedad gastrointestinal
+
+  400:
+    nombre_enfermedad: Insuficiencia renal crónica
+    tipo_causa: Nefropatías
+
+  401:
+    nombre_enfermedad: Glomerulonefritis
+    tipo_causa: Nefropatías
+
+  402:
+    nombre_enfermedad: Síndrome nefrótico
+    tipo_causa: Nefropatías
+
+  403:
+    nombre_enfermedad: Intox. crónica por CO
+    tipo_causa: Intoxicaciones y medicamentos
+
+  404:
+    nombre_enfermedad: Intox. por plomo saturnismo
+    tipo_causa: Intoxicaciones y medicamentos
+
+  405:
+    nombre_enfermedad: Opiáceos
+    tipo_causa: Intoxicaciones y medicamentos
+
+  406:
+    nombre_enfermedad: Sedantes
+    tipo_causa: Intoxicaciones y medicamentos
+
+  407:
+    nombre_enfermedad: Somníferos
+    tipo_causa: Intoxicaciones y medicamentos
+
+  408:
+    nombre_enfermedad: Tranquilizantes
+    tipo_causa: Intoxicaciones y medicamentos
+
+  409:
+    nombre_enfermedad: Antihipertensivos
+    tipo_causa: Intoxicaciones y medicamentos
+
+  410:
+    nombre_enfermedad: Miopatías
+    tipo_causa: Problemas musculares
+
+  411:
+    nombre_enfermedad: Artritis reumatoidea
+    tipo_causa: Enfermedad reumática
+
+  412:
+    nombre_enfermedad: Encefalomielitis
+    tipo_causa: Enfermedades neurológicas
+
+  413:
+    nombre_enfermedad: Sínd. deGuillain-Barré
+    tipo_causa: Enfermedades neurológicas
+
+  414:
+    nombre_enfermedad: Miastenia gravis
+    tipo_causa: Enfermedades neurológicas
+
+  415:
+    nombre_enfermedad: Mielosis funicular
+    tipo_causa: Enfermedades neurológicas
+
+  416:
+    nombre_enfermedad: Polineuropatía
+    tipo_causa: Enfermedades neurológicas
+
+  417:
+    nombre_enfermedad: Poliomielitis
+    tipo_causa: Enfermedades neurológicas
+
+  418:
+    nombre_enfermedad: Enfisema obstructivo
+    tipo_causa: Enfermedades pulmonares
+
+  419:
+    nombre_enfermedad: Insuficiencia pulmonar
+    tipo_causa: Enfermedades pulmonares
+
+  420:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: Colagenosis
+
+  421:
+    nombre_enfermedad: Esclerodermia difusa
+    tipo_causa: Colagenosis
+
+  422:
+    nombre_enfermedad: Agotamiento
+    tipo_causa: Causa fisiológica
+
+  423:
+    nombre_enfermedad: Insomnio
+    tipo_causa: Causa fisiológica
+
+  424:
+    nombre_enfermedad: Depresión
+    tipo_causa: Causas psíquicas y emocionales
+
+  425:
+    nombre_enfermedad: Astenia
+    tipo_causa: Causas psíquicas y emocionales
+
+  426:
+    nombre_enfermedad: Psicosis
+    tipo_causa: Causas psíquicas y emocionales
+
+  427:
+    nombre_enfermedad: Sindrome de abstinencia
+    tipo_causa: Causas psíquicas y emocionales
+
+  428:
+    nombre_enfermedad: Toxicomanías
+    tipo_causa: Causas psíquicas y emocionales
+
+  429:
+    nombre_enfermedad: Sobrealimentación
+    tipo_causa: Causas psíquicas y emocionales
+
+  430:
+    nombre_enfermedad: Ansiedad
+    tipo_causa: Causas psíquicas y emocionales
+
+  431:
+    nombre_enfermedad: Bulimia polifagia compulsiva que alterna ingesta excesiva con periodos de ayuno
+    tipo_causa: Causas psíquicas y emocionales
+
+  432:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Endocrinopatías
+
+  433:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Endocrinopatías
+
+  434:
+    nombre_enfermedad: Embarazo
+    tipo_causa: Causa fisiológica
+
+  435:
+    nombre_enfermedad: Adenoma de células insulares
+    tipo_causa: Tumoral
+
+  436:
+    nombre_enfermedad: Medicamentos: estrógenos, corticoides, ciproheptadina.
+    tipo_causa: Medicamentosa
+
+  437:
+    nombre_enfermedad: Tumor hipotalámico
+    tipo_causa: Tumoral
+
+  438:
+    nombre_enfermedad:  Síndrome de Kleine-Levin
+    tipo_causa: Causas psíquicas y emocionales
+
+  439:
+    nombre_enfermedad: Sindrome premenstrual
+    tipo_causa: Causa fisiológica
+
+  440:
+    nombre_enfermedad: Ascariosis
+    tipo_causa: Parasitosis
+
+  441:
+    nombre_enfermedad: Diabetes meltitus
+    tipo_causa: Eliminación hídrica renal
+
+  442:
+    nombre_enfermedad: Diabetes insipida
+    tipo_causa: Eliminación hídrica renal
+
+  443:
+    nombre_enfermedad: Hipercalcemia: Plasmocitoma, Metástasis ósea
+    tipo_causa: Eliminación hídrica renal
+
+  444:
+    nombre_enfermedad: Hiperparatiroidismo
+    tipo_causa: Eliminación hídrica renal
+
+  445:
+    nombre_enfermedad: Hipopotasemia produce nefropatia que se manifiesta en polidipsia, poliuria y nicturia
+    tipo_causa: Eliminación hídrica renal
+
+  446:
+    nombre_enfermedad: Procesos hipotalámicos
+    tipo_causa: Eliminación hídrica renal
+
+  447:
+    nombre_enfermedad: Síndrome de Sheehan necrosis hipofisaria posparto
+    tipo_causa: Eliminación hídrica renal
+
+  448:
+    nombre_enfermedad: Vómitos profusos
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  449:
+    nombre_enfermedad: Diarreas crónicas
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  450:
+    nombre_enfermedad: Fiebre
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  451:
+    nombre_enfermedad: Quemaduras
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  452:
+    nombre_enfermedad: Hiperhidrosis
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  453:
+    nombre_enfermedad: Climas tropicales
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  454:
+    nombre_enfermedad: Situaciones de shock
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  455:
+    nombre_enfermedad: Edemas importantes
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  456:
+    nombre_enfermedad: Ileo del intestino grueso
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  457:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Eliminación hídrica extrarrenal
+
+  458:
+    nombre_enfermedad: Alteraciones en la deglución
+    tipo_causa: Aporte hídrico insuficiente
+
+  459:
+    nombre_enfermedad: Parálisis en la deglución
+    tipo_causa: Aporte hídrico insuficiente
+
+  460:
+    nombre_enfermedad: Estenosis esofágica, cardial y duodenal
+    tipo_causa: Aporte hídrico insuficiente
+
+  461:
+    nombre_enfermedad: Atropina
+    tipo_causa: Intoxicaciones y medicamentos
+
+  462:
+    nombre_enfermedad: Escopolamina
+    tipo_causa: Intoxicaciones y medicamentos
+
+  463:
+    nombre_enfermedad: Opiaceos
+    tipo_causa: Intoxicaciones y medicamentos
+
+  464:
+    nombre_enfermedad: Cloruro de sodio ClNa
+    tipo_causa: Intoxicaciones y medicamentos
+
+  465:
+    nombre_enfermedad: Diureticos
+    tipo_causa: Intoxicaciones y medicamentos
+
+  466:
+    nombre_enfermedad: Alcoholismo
+    tipo_causa: Intoxicaciones y medicamentos
+
+  467:
+    nombre_enfermedad: Tranquilizantes
+    tipo_causa: Intoxicaciones y medicamentos
+
+  468:
+    nombre_enfermedad: Vitamina D
+    tipo_causa: Intoxicaciones y medicamentos
+
+  469:
+    nombre_enfermedad: Arsenico
+    tipo_causa: Intoxicaciones y medicamentos
+
+  470:
+    nombre_enfermedad: Talio
+    tipo_causa: Intoxicaciones y medicamentos
+
+  471:
+    nombre_enfermedad: Dinitrofenol
+    tipo_causa: Intoxicaciones y medicamentos
+
+  472:
+    nombre_enfermedad: CCI4
+    tipo_causa: Intoxicaciones y medicamentos
+
+  473:
+    nombre_enfermedad: Malnutrición déficit proteico
+    tipo_causa: Enfermedades deficitarias
+
+  474:
+    nombre_enfermedad: Endocrinopatías hipertiroidismo, diabetes mellitus, insuficiencia corticosuprarrenal
+    tipo_causa: Utilización calórica aumentada
+
+  475:
+    nombre_enfermedad: Ansiedad
+    tipo_causa: Utilización calórica aumentada
+
+  476:
+    nombre_enfermedad: Fármacos tiroideos, anfetaminas
+    tipo_causa: Utilización calórica aumentada
+
+  477:
+    nombre_enfermedad: Malabsorción intestinal:
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  478:
+    nombre_enfermedad: Hipermotilidad
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  479:
+    nombre_enfermedad: Esteatorreas
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  480:
+    nombre_enfermedad: Ileitis
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  481:
+    nombre_enfermedad: Esprue
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  482:
+    nombre_enfermedad: Hodgkin intestinal
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  483:
+    nombre_enfermedad: Gastrógena gastrectomia
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  484:
+    nombre_enfermedad: Hepatobiliar
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  485:
+    nombre_enfermedad: Hepatitis
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  486:
+    nombre_enfermedad: Cirrosis
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  487:
+    nombre_enfermedad: Insuficiencia pancreática
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  488:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Sindrome de malabsorción digestiva
+
+  489:
+    nombre_enfermedad: Diabetes mellitus glucosuria
+    tipo_causa: Pérdida anormal
+
+  490:
+    nombre_enfermedad: Fístulas
+    tipo_causa: Pérdida anormal
+
+  491:
+    nombre_enfermedad: Parásitos intestinales
+    tipo_causa: Pérdida anormal
+
+  492:
+    nombre_enfermedad: Depresión
+    tipo_causa: Causas psíquicas y emocionales
+
+  493:
+    nombre_enfermedad: Anorexia nerviosa
+    tipo_causa: Causas psíquicas y emocionales
+
+  494:
+    nombre_enfermedad: Absorción disminuida
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  495:
+    nombre_enfermedad: Esprue, enteropatía, etc.
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  496:
+    nombre_enfermedad: Enfermedad hepatobiliar
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  497:
+    nombre_enfermedad: Obstrucción Instestinal: bridas, daherencias, neoplasias
+    tipo_causa: Trastornos del tracto gastrointestinal
+
+  498:
+    nombre_enfermedad: Neoplasias malignas
+    tipo_causa: Enfermedades generales
+
+  499:
+    nombre_enfermedad: Infección
+    tipo_causa: Enfermedades generales
+
+  500:
+    nombre_enfermedad: Uremia
+    tipo_causa: Enfermedades generales
+
+  501:
+    nombre_enfermedad: Enfermedad cardiovascular
+    tipo_causa: Enfermedades generales
+
+  502:
+    nombre_enfermedad: Enfermedades endocrinas y metabólicas: insuficiencia suprarenal, hipercalcemia,hipokalemia
+    tipo_causa: Enfermedades generales
+
+  503:
+    nombre_enfermedad: Trastornos hematológicos: mielofibrosis, leucemia
+    tipo_causa: Enfermedades generales
+
+  504:
+    nombre_enfermedad: Intoxicaciones: plomo, alcohol
+    tipo_causa: Enfermedades generales
+
+  505:
+    nombre_enfermedad: Estrés
+    tipo_causa: Causas psíquicas y emocionales
+
+  506:
+    nombre_enfermedad: Ansiedad
+    tipo_causa: Causas psíquicas y emocionales
+
+  507:
+    nombre_enfermedad: Miedo
+    tipo_causa: Causas psíquicas y emocionales
+
+  508:
+    nombre_enfermedad: Depresión
+    tipo_causa: Causas psíquicas y emocionales
+
+  509:
+    nombre_enfermedad: Infecciones agudas
+    tipo_causa: Trastornos médicos
+
+  510:
+    nombre_enfermedad: Cardiopatia isquémica
+    tipo_causa: Trastornos médicos
+
+  511:
+    nombre_enfermedad: Úlcera duodenal
+    tipo_causa: Trastornos médicos
+
+  512:
+    nombre_enfermedad: Asma bronquial
+    tipo_causa: Trastornos médicos
+
+  513:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Trastornos médicos
+
+  514:
+    nombre_enfermedad: Embarazo
+    tipo_causa: Trastornos médicos
+
+  515:
+    nombre_enfermedad: Neuralgia migrañosa
+    tipo_causa: Trastornos médicos
+
+  516:
+    nombre_enfermedad: Acroparestesias
+    tipo_causa: Trastornos médicos
+
+  517:
+    nombre_enfermedad: Post traumatismo encefalo craneano TEC
+    tipo_causa: Trastornos médicos
+
+  518:
+    nombre_enfermedad: Dolores intensos
+    tipo_causa: Trastornos médicos
+
+  519:
+    nombre_enfermedad: Hipertrofia prostática
+    tipo_causa: Trastornos médicos
+
+  520:
+    nombre_enfermedad: Climaterio
+    tipo_causa: Trastornos médicos
+
+  521:
+    nombre_enfermedad: Delirium tremens alcoholismo
+    tipo_causa: Trastornos médicos
+
+  522:
+    nombre_enfermedad: Encefalitis
+    tipo_causa: Trastornos médicos
+
+  523:
+    nombre_enfermedad: Apnea del sueño
+    tipo_causa: Trastornos médicos
+
+  524:
+    nombre_enfermedad: Barbitúricos
+    tipo_causa: Dependencia medicamentosa
+
+  525:
+    nombre_enfermedad: Metiprilon
+    tipo_causa: Dependencia medicamentosa
+
+  526:
+    nombre_enfermedad: Etildorobinol
+    tipo_causa: Dependencia medicamentosa
+
+  527:
+    nombre_enfermedad: Qlutetimida
+    tipo_causa: Dependencia medicamentosa
+
+  528:
+    nombre_enfermedad: Monóxido de carbono
+    tipo_causa: Intoxicación crónica
+
+  529:
+    nombre_enfermedad: Talio
+    tipo_causa: Intoxicación crónica
+
+  530:
+    nombre_enfermedad: Plomo
+    tipo_causa: Intoxicación crónica
+
+  531:
+    nombre_enfermedad: Cafeína
+    tipo_causa: Causa yatrógena
+
+  532:
+    nombre_enfermedad: Analépticos
+    tipo_causa: Causa yatrógena
+
+  533:
+    nombre_enfermedad: Anfetaminas
+    tipo_causa: Causa yatrógena
+
+  534:
+    nombre_enfermedad: Síndrome de Kleine-Levin en varones adolescentes
+    tipo_causa: Narcolepsia
+
+  535:
+    nombre_enfermedad: Síndrome de Pickwick obesidad-hipoventilación
+    tipo_causa: Narcolepsia
+
+  536:
+    nombre_enfermedad: Apnea del sueño
+    tipo_causa: Narcolepsia
+
+  537:
+    nombre_enfermedad: Anemia
+    tipo_causa: Trastorno hematológico
+
+  538:
+    nombre_enfermedad: Encefalitis
+    tipo_causa: Enfermedades infecciosas
+
+  539:
+    nombre_enfermedad: Meningitis tuberculosa
+    tipo_causa: Enfermedades infecciosas
+
+  540:
+    nombre_enfermedad: Enfermedad del sueño
+    tipo_causa: Enfermedades infecciosas
+
+  541:
+    nombre_enfermedad: Tifus
+    tipo_causa: Enfermedades infecciosas
+
+  542:
+    nombre_enfermedad: TBC miliar
+    tipo_causa: Enfermedades infecciosas
+
+  543:
+    nombre_enfermedad: Psitacosis
+    tipo_causa: Enfermedades infecciosas
+
+  544:
+    nombre_enfermedad: Traumatismo craneal
+    tipo_causa: Lesiones del Sistema nervioso central
+
+  545:
+    nombre_enfermedad: Tumor cerebral
+    tipo_causa: Lesiones del Sistema nervioso central
+
+  546:
+    nombre_enfermedad: Trastornos vasculocerebrales
+    tipo_causa: Lesiones del Sistema nervioso central
+
+  547:
+    nombre_enfermedad: Encefalitis
+    tipo_causa: Lesiones del Sistema nervioso central
+
+  548:
+    nombre_enfermedad: Absceso cerebral
+    tipo_causa: Lesiones del Sistema nervioso central
+
+  549:
+    nombre_enfermedad: Obesidad
+    tipo_causa: Trastorno metabólico
+
+  550:
+    nombre_enfermedad: Retención de C02
+    tipo_causa: Trastorno metabólico
+
+  551:
+    nombre_enfermedad: Encefalopatía hepática
+    tipo_causa: Trastorno metabólico
+
+  552:
+    nombre_enfermedad: Hipotiroidismo
+    tipo_causa: Trastorno metabólico
+
+  553:
+    nombre_enfermedad: Uremia
+    tipo_causa: Trastorno metabólico
+
+  554:
+    nombre_enfermedad: Insuficiencia hipofisiaria
+    tipo_causa: Trastorno metabólico
+
+  555:
+    nombre_enfermedad: Enfermedad de Addison
+    tipo_causa: Trastorno metabólico
+
+  556:
+    nombre_enfermedad: Farmacodependencía
+    tipo_causa: Trastorno metabólico
+
+  557:
+    nombre_enfermedad: Barbitúricos
+    tipo_causa: Causa yatrógena
+
+  558:
+    nombre_enfermedad: Hipnóticos
+    tipo_causa: Causa yatrógena
+
+  559:
+    nombre_enfermedad: Tranquilizantes
+    tipo_causa: Causa yatrógena
+
+  560:
+    nombre_enfermedad: Insuficiencia ventricular derecha
+    tipo_causa: Causas cardíacas
+
+  561:
+    nombre_enfermedad: Defecto valvular estenosis mitral
+    tipo_causa: Causas cardíacas
+
+  562:
+    nombre_enfermedad: Corpulmonale
+    tipo_causa: Causas cardíacas
+
+  563:
+    nombre_enfermedad: Pericarditis obstructiva
+    tipo_causa: Causas cardíacas
+
+  564:
+    nombre_enfermedad: Miocardiopatía
+    tipo_causa: Causas cardíacas
+
+  565:
+    nombre_enfermedad: Fibrosis endomiócárdica secundaria a insuficiencia del VI
+    tipo_causa: Causas cardíacas
+
+  566:
+    nombre_enfermedad: Hipertensión descompensada
+    tipo_causa: Causas cardíacas
+
+  567:
+    nombre_enfermedad: Sindrome nefrótico
+    tipo_causa: Causas renales
+
+  568:
+    nombre_enfermedad: Nefropatia crónica
+    tipo_causa: Causas renales
+
+  569:
+    nombre_enfermedad: Glomerulonefritis aguda
+    tipo_causa: Causas renales
+
+  570:
+    nombre_enfermedad: Causas hepáticas: cirrosis, trombosis de venas suprahepáticas Sd. Budd Chiari
+    tipo_causa: Deficit proteico hipoproteinemia
+
+  571:
+    nombre_enfermedad: Trombosis de la vena porta
+    tipo_causa: Deficit proteico hipoproteinemia
+
+  572:
+    nombre_enfermedad: Síndrome de malabsorción Gastroenteropatia con pérdida de proteínas: Enf. Crohn, Esprue, Colitis ulcerativa
+    tipo_causa: Deficit proteico hipoproteinemia
+
+  573:
+    nombre_enfermedad: Alimentación deficitaria en proteínas
+    tipo_causa: Deficit proteico hipoproteinemia
+
+  574:
+    nombre_enfermedad: Enfermedad de Cushing
+    tipo_causa: Causas endocrinas
+
+  575:
+    nombre_enfermedad: Síndrome de Cohn
+    tipo_causa: Causas endocrinas
+
+  576:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Causas endocrinas
+
+  577:
+    nombre_enfermedad: Síndrome premenstrual
+    tipo_causa: Causas endocrinas
+
+  578:
+    nombre_enfermedad: Gestación
+    tipo_causa: Causas endocrinas
+
+  579:
+    nombre_enfermedad: Bloqueadores de canales de calcio.
+    tipo_causa: Fármacos
+
+  580:
+    nombre_enfermedad: Beta-bloqueadores adrenérgicos
+    tipo_causa: Fármacos
+
+  581:
+    nombre_enfermedad: Clonidina
+    tipo_causa: Fármacos
+
+  582:
+    nombre_enfermedad: Guanetidina
+    tipo_causa: Fármacos
+
+  583:
+    nombre_enfermedad: Metildopa
+    tipo_causa: Fármacos
+
+  584:
+    nombre_enfermedad: Hidralazina
+    tipo_causa: Fármacos
+
+  585:
+    nombre_enfermedad: Diasóxido
+    tipo_causa: Fármacos
+
+  586:
+    nombre_enfermedad: AINES
+    tipo_causa: Fármacos
+
+  587:
+    nombre_enfermedad: Laxantes edema hipokalémico
+    tipo_causa: Fármacos
+
+  588:
+    nombre_enfermedad: Hormonas
+    tipo_causa: Fármacos
+
+  589:
+    nombre_enfermedad: Corticoides
+    tipo_causa: Fármacos
+
+  590:
+    nombre_enfermedad: Estrógenos anticonceptivos orales, testosterna
+    tipo_causa: Fármacos
+
+  591:
+    nombre_enfermedad: Antidepresivos inhibidopres de la MAO
+    tipo_causa: Fármacos
+
+  592:
+    nombre_enfermedad: Insuficiencia venosa
+    tipo_causa: Otras causas
+
+  593:
+    nombre_enfermedad: Tromboflebitis
+    tipo_causa: Otras causas
+
+  594:
+    nombre_enfermedad: Celulitis
+    tipo_causa: Otras causas
+
+  595:
+    nombre_enfermedad: Hipopotasemia laxantes
+    tipo_causa: Otras causas
+
+  596:
+    nombre_enfermedad: Erisipela
+    tipo_causa: Otras causas
+
+  597:
+    nombre_enfermedad: Carbunco
+    tipo_causa: Otras causas
+
+  598:
+    nombre_enfermedad: Linfedema secundario compresión abdominal de vasos linfáticos o venas: tumor
+    tipo_causa: Otras causas
+
+  599:
+    nombre_enfermedad: Esclerodermia progresiva
+    tipo_causa: Otras causas
+
+  600:
+    nombre_enfermedad: Edema neurotrófico
+    tipo_causa: Otras causas
+
+  601:
+    nombre_enfermedad: Parálisis
+    tipo_causa: Otras causas
+
+  602:
+    nombre_enfermedad: Polineuropatía
+    tipo_causa: Otras causas
+
+  603:
+    nombre_enfermedad: Apoplejía
+    tipo_causa: Otras causas
+
+  604:
+    nombre_enfermedad: Siringomielia
+    tipo_causa: Otras causas
+
+  605:
+    nombre_enfermedad: Anemia perniciosa
+    tipo_causa: Otras causas
+
+  606:
+    nombre_enfermedad: Lipodema
+    tipo_causa: Otras causas
+
+  607:
+    nombre_enfermedad: Linfedema hereditario
+    tipo_causa: Otras causas
+
+  608:
+    nombre_enfermedad: Elefantiasis
+    tipo_causa: Otras causas
+
+  609:
+    nombre_enfermedad: Trombosis venosa profunda
+    tipo_causa: Edema unilateral agudo
+
+  610:
+    nombre_enfermedad: Linfangitis aguda
+    tipo_causa: Edema unilateral agudo
+
+  611:
+    nombre_enfermedad: Problema musculoesquelético:
+    tipo_causa: Edema unilateral agudo
+
+  612:
+    nombre_enfermedad: Quiste de Baker
+    tipo_causa: Edema unilateral agudo
+
+  613:
+    nombre_enfermedad: Celulitis
+    tipo_causa: Edema unilateral agudo
+
+  614:
+    nombre_enfermedad: Eritema nodoso
+    tipo_causa: Edema unilateral agudo
+
+  615:
+    nombre_enfermedad: Miositis
+    tipo_causa: Edema unilateral agudo
+
+  616:
+    nombre_enfermedad: Artritis piógena
+    tipo_causa: Edema unilateral agudo
+
+  617:
+    nombre_enfermedad: Rotura tendinosa tendón de Aquiles o gemelos
+    tipo_causa: Edema unilateral agudo
+
+  618:
+    nombre_enfermedad: Rabdomiolisis
+    tipo_causa: Edema unilateral agudo
+
+  619:
+    nombre_enfermedad: Linfedema idiopàtico
+    tipo_causa: Edema unilateral crónico
+
+  620:
+    nombre_enfermedad: Linfedema secundario: infección, tumor, post flebitis, traumatismo, sarcoidosis, postcirugía
+    tipo_causa: Edema unilateral crónico
+
+  621:
+    nombre_enfermedad: Distrofia simpática refleja
+    tipo_causa: Edema unilateral crónico
+
+  622:
+    nombre_enfermedad: Hemiplejia
+    tipo_causa: Edema unilateral crónico
+
+  623:
+    nombre_enfermedad: Glomeruíoneíritisaguda
+    tipo_causa: Causas renales
+
+  624:
+    nombre_enfermedad: Nefropatia crónica
+    tipo_causa: Causas renales
+
+  625:
+    nombre_enfermedad: Nefropatia diabética
+    tipo_causa: Causas renales
+
+  626:
+    nombre_enfermedad: Nefrosis tóxico-corrosivo
+    tipo_causa: Causas renales
+
+  627:
+    nombre_enfermedad: Nefropatia del embarazo
+    tipo_causa: Causas renales
+
+  628:
+    nombre_enfermedad: Nefritis subaguda
+    tipo_causa: Causas renales
+
+  629:
+    nombre_enfermedad: Sínd. nefrótico
+    tipo_causa: Causas renales
+
+  630:
+    nombre_enfermedad: Sínd. Kimmesteil-Wilson
+    tipo_causa: Causas renales
+
+  631:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Causas endocrinas
+
+  632:
+    nombre_enfermedad: Síndrome de Cushing
+    tipo_causa: Causas endocrinas
+
+  633:
+    nombre_enfermedad: Déficit de la adenohipófisis síndrome de Sheeham
+    tipo_causa: Causas endocrinas
+
+  634:
+    nombre_enfermedad: Exoftalmia maligna
+    tipo_causa: Causas endocrinas
+
+  635:
+    nombre_enfermedad: Carcinoma bronquial
+    tipo_causa: Obstrucción venosa
+
+  636:
+    nombre_enfermedad: Sarcoma mediastínico
+    tipo_causa: Obstrucción venosa
+
+  637:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Obstrucción venosa
+
+  638:
+    nombre_enfermedad: Tumor retroesternal
+    tipo_causa: Obstrucción venosa
+
+  639:
+    nombre_enfermedad: Edema de Quincke
+    tipo_causa: Otras causas
+
+  640:
+    nombre_enfermedad: Exantema medicamentoso cremas cutáneas
+    tipo_causa: Otras causas
+
+  641:
+    nombre_enfermedad: Erisipela facial
+    tipo_causa: Otras causas
+
+  642:
+    nombre_enfermedad: Sarampión
+    tipo_causa: Otras causas
+
+  643:
+    nombre_enfermedad: Inflamación local dental
+    tipo_causa: Otras causas
+
+  644:
+    nombre_enfermedad: Parkinsonismo
+    tipo_causa: Otras causas
+
+  645:
+    nombre_enfermedad: Síndrome de Melkerson-Rosenthal Esclerodermia lactantes
+    tipo_causa: Otras causas
+
+  646:
+    nombre_enfermedad: Dermatitis seborreica
+    tipo_causa: Otras causas
+
+  647:
+    nombre_enfermedad: Medicamentos
+    tipo_causa: Otras causas
+
+  648:
+    nombre_enfermedad: Anticonceptivos orales
+    tipo_causa: Otras causas
+
+  649:
+    nombre_enfermedad: Corticoides
+    tipo_causa: Otras causas
+
+  650:
+    nombre_enfermedad: Ictericia obstructiva
+    tipo_causa: Enfermedades hepáticas
+
+  651:
+    nombre_enfermedad: Ictericia parenquimatosa hepatitis vírica
+    tipo_causa: Enfermedades hepáticas
+
+  652:
+    nombre_enfermedad: Cirrosis biliar
+    tipo_causa: Enfermedades hepáticas
+
+  653:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Enfermedades hemáticas
+
+  654:
+    nombre_enfermedad: Policitemia vera especialmente después del baño
+    tipo_causa: Enfermedades hemáticas
+
+  655:
+    nombre_enfermedad: Anemia ferropénica
+    tipo_causa: Enfermedades hemáticas
+
+  656:
+    nombre_enfermedad: Reticulosiscrónica
+    tipo_causa: Enfermedades hemáticas
+
+  657:
+    nombre_enfermedad: Linfoma y leucemia
+    tipo_causa: Neoplasias malignas
+
+  658:
+    nombre_enfermedad: Carcinoma pulmonar
+    tipo_causa: Neoplasias malignas
+
+  659:
+    nombre_enfermedad: Carcinoma gástrico
+    tipo_causa: Neoplasias malignas
+
+  660:
+    nombre_enfermedad: Carcinoma de colon
+    tipo_causa: Neoplasias malignas
+
+  661:
+    nombre_enfermedad: Carcinoma mamario
+    tipo_causa: Neoplasias malignas
+
+  662:
+    nombre_enfermedad: Carcinoma prostático
+    tipo_causa: Neoplasias malignas
+
+  663:
+    nombre_enfermedad: Tumores SNC
+    tipo_causa: Neoplasias malignas
+
+  664:
+    nombre_enfermedad: Mieloma múltiple
+    tipo_causa: Neoplasias malignas
+
+  665:
+    nombre_enfermedad: Micosis fungoide
+    tipo_causa: Neoplasias malignas
+
+  666:
+    nombre_enfermedad: Insuficiencia renal crónica
+    tipo_causa: Enfermedad renal
+
+  667:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Causas endocrinas
+
+  668:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas endocrinas
+
+  669:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Causas endocrinas
+
+  670:
+    nombre_enfermedad: Embarazo colestasis
+    tipo_causa: Causas endocrinas
+
+  671:
+    nombre_enfermedad: Síndrome carcinoide
+    tipo_causa: Causas endocrinas
+
+  672:
+    nombre_enfermedad: Periodos de sobrecarga emocional
+    tipo_causa: Causas psíquicas y emocionales
+
+  673:
+    nombre_enfermedad: Delirios de parasitosis
+    tipo_causa: Causas psíquicas y emocionales
+
+  674:
+    nombre_enfermedad: Triquinosis
+    tipo_causa: Parasitosis
+
+  675:
+    nombre_enfermedad: Ascariosis
+    tipo_causa: Parasitosis
+
+  676:
+    nombre_enfermedad: Anquiloslomosis
+    tipo_causa: Parasitosis
+
+  677:
+    nombre_enfermedad: Pediculosis corporis
+    tipo_causa: Parasitosis
+
+  678:
+    nombre_enfermedad: Herpes Zoster
+    tipo_causa: Infección viral
+
+  679:
+    nombre_enfermedad: Tumor talámico
+    tipo_causa: Enfermedades del SNC
+
+  680:
+    nombre_enfermedad: Cocaína
+    tipo_causa: Fármacos Opiáceos
+
+  681:
+    nombre_enfermedad: Morfina
+    tipo_causa: Fármacos Opiáceos
+
+  682:
+    nombre_enfermedad: Butorfanol
+    tipo_causa: Fármacos Opiáceos
+
+  683:
+    nombre_enfermedad: Fenotiazinas
+    tipo_causa: Fármacos que producen colestasis
+
+  684:
+    nombre_enfermedad: Tolbutamida
+    tipo_causa: Fármacos que producen colestasis
+
+  685:
+    nombre_enfermedad: Eritromicina
+    tipo_causa: Fármacos que producen colestasis
+
+  686:
+    nombre_enfermedad: Hormonas anabólicas
+    tipo_causa: Fármacos que producen colestasis
+
+  687:
+    nombre_enfermedad: Estrógenos
+    tipo_causa: Fármacos que producen colestasis
+
+  688:
+    nombre_enfermedad: Progestágenos
+    tipo_causa: Fármacos que producen colestasis
+
+  689:
+    nombre_enfermedad: Testosterona
+    tipo_causa: Fármacos que producen colestasis
+
+  690:
+    nombre_enfermedad: Aspirina
+    tipo_causa: Fármacos que producen colestasis
+
+  691:
+    nombre_enfermedad: Quinidina
+    tipo_causa: Fármacos que producen colestasis
+
+  692:
+    nombre_enfermedad: Prurito senil
+    tipo_causa: Otras causas
+
+  693:
+    nombre_enfermedad: Xerosis
+    tipo_causa: Otras causas
+
+  694:
+    nombre_enfermedad: Mastocitosis
+    tipo_causa: Otras causas
+
+  695:
+    nombre_enfermedad: Pediculosis
+    tipo_causa: Parasitosis
+
+  696:
+    nombre_enfermedad: Escabiosis
+    tipo_causa: Parasitosis
+
+  697:
+    nombre_enfermedad: Picaduras de insectos
+    tipo_causa: Parasitosis
+
+  698:
+    nombre_enfermedad: Filariosis
+    tipo_causa: Parasitosis
+
+  699:
+    nombre_enfermedad: Oxiurosis
+    tipo_causa: Parasitosis
+
+  700:
+    nombre_enfermedad: Penfigoide
+    tipo_causa: Enfermedades inflamatorias
+
+  701:
+    nombre_enfermedad: Dermatitis herpetiíorme
+    tipo_causa: Enfermedades inflamatorias
+
+  702:
+    nombre_enfermedad: Dermatitis atópica
+    tipo_causa: Enfermedades inflamatorias
+
+  703:
+    nombre_enfermedad: Hipersensib. por fármacos
+    tipo_causa: Enfermedades inflamatorias
+
+  704:
+    nombre_enfermedad: Miliaria
+    tipo_causa: Enfermedades inflamatorias
+
+  705:
+    nombre_enfermedad: Erupción lumínica polimorfa
+    tipo_causa: Enfermedades inflamatorias
+
+  706:
+    nombre_enfermedad: Liquen escleroso y atrófico
+    tipo_causa: Enfermedades inflamatorias
+
+  707:
+    nombre_enfermedad: Prurigo de hebra
+    tipo_causa: Enfermedades inflamatorias
+
+  708:
+    nombre_enfermedad: Prurito acuagénico
+    tipo_causa: Enfermedades inflamatorias
+
+  709:
+    nombre_enfermedad: Liquen plano
+    tipo_causa: Enfermedades inflamatorias
+
+  710:
+    nombre_enfermedad: Psoriasis
+    tipo_causa: Enfermedades inflamatorias
+
+  711:
+    nombre_enfermedad: Urticaria
+    tipo_causa: Enfermedades inflamatorias
+
+  712:
+    nombre_enfermedad: Dermatofitos
+    tipo_causa: Enfermedades infecciosas
+
+  713:
+    nombre_enfermedad: Varicela
+    tipo_causa: Enfermedades infecciosas
+
+  714:
+    nombre_enfermedad: SIDA
+    tipo_causa: Enfermedades infecciosas
+
+  715:
+    nombre_enfermedad: Candidiasis
+    tipo_causa: Otras causas
+
+  716:
+    nombre_enfermedad: Déficit de vitamina B
+    tipo_causa: Otras causas
+
+  717:
+    nombre_enfermedad: Piel seca
+    tipo_causa: Otras causas
+
+  718:
+    nombre_enfermedad: Piel senil
+    tipo_causa: Otras causas
+
+  719:
+    nombre_enfermedad: Exantema medicamentoso
+    tipo_causa: Otras causas
+
+  720:
+    nombre_enfermedad: Micosis fungoide
+    tipo_causa: Otras causas
+
+  721:
+    nombre_enfermedad: Mastocitosis cutánea
+    tipo_causa: Otras causas
+
+  722:
+    nombre_enfermedad: Seborrea
+    tipo_causa: Prurito en zonas vellosas
+
+  723:
+    nombre_enfermedad: Seborragia
+    tipo_causa: Prurito en zonas vellosas
+
+  724:
+    nombre_enfermedad: Pediculosis inguinalis ladillas
+    tipo_causa: Prurito en zonas vellosas
+
+  725:
+    nombre_enfermedad: Pediculosis capitis piojos
+    tipo_causa: Prurito en zonas vellosas
+
+  726:
+    nombre_enfermedad: Pediculosis vestimentipiojo de la ropa
+    tipo_causa: Prurito en zonas vellosas
+
+  727:
+    nombre_enfermedad: Hemorroides
+    tipo_causa: Prurito anogenital
+
+  728:
+    nombre_enfermedad: Eccema perianal
+    tipo_causa: Prurito anogenital
+
+  729:
+    nombre_enfermedad: Fístula perianal
+    tipo_causa: Prurito anogenital
+
+  730:
+    nombre_enfermedad: Enteritis
+    tipo_causa: Prurito anogenital
+
+  731:
+    nombre_enfermedad: Diabetes meliitus
+    tipo_causa: Prurito anogenital
+
+  732:
+    nombre_enfermedad: Oxiurosis
+    tipo_causa: Prurito anogenital
+
+  733:
+    nombre_enfermedad: Carcinomas anal y rectal
+    tipo_causa: Prurito anogenital
+
+  734:
+    nombre_enfermedad: Úlcera anal venérea: Gonorrea, sífilis
+    tipo_causa: Prurito anogenital
+
+  735:
+    nombre_enfermedad: Trichomonosis
+    tipo_causa: Prurito anogenital
+
+  736:
+    nombre_enfermedad: Muguet candidiasis
+    tipo_causa: Prurito anogenital
+
+  737:
+    nombre_enfermedad: Dermatitis por contacto
+    tipo_causa: Prurito anogenital
+
+  738:
+    nombre_enfermedad: Alergias especias
+    tipo_causa: Prurito anogenital
+
+  739:
+    nombre_enfermedad: Pediculosis inguinalis
+    tipo_causa: Prurito anogenital
+
+  740:
+    nombre_enfermedad: Eccema marginado
+    tipo_causa: Prurito anogenital
+
+  741:
+    nombre_enfermedad: Intertrigo
+    tipo_causa: Prurito anogenital
+
+  742:
+    nombre_enfermedad: Eritrasma
+    tipo_causa: Prurito anogenital
+
+  743:
+    nombre_enfermedad: Escabiosis
+    tipo_causa: Prurito vulvar
+
+  744:
+    nombre_enfermedad: Micosis
+    tipo_causa: Prurito vulvar
+
+  745:
+    nombre_enfermedad: Dermatitis de contacto
+    tipo_causa: Prurito vulvar
+
+  746:
+    nombre_enfermedad: Liquen escleroatrófico
+    tipo_causa: Prurito vulvar
+
+  747:
+    nombre_enfermedad: Leucoplasia
+    tipo_causa: Prurito vulvar
+
+  748:
+    nombre_enfermedad: Carcinomas
+    tipo_causa: Prurito vulvar
+
+  749:
+    nombre_enfermedad: Frío
+    tipo_causa: Transitoria
+
+  750:
+    nombre_enfermedad: Miedo
+    tipo_causa: Transitoria
+
+  751:
+    nombre_enfermedad: Dolor
+    tipo_causa: Transitoria
+
+  752:
+    nombre_enfermedad: Hipovolemia
+    tipo_causa: Transitoria
+
+  753:
+    nombre_enfermedad: Shock
+    tipo_causa: Transitoria
+
+  754:
+    nombre_enfermedad: Anemias
+    tipo_causa: Persistente
+
+  755:
+    nombre_enfermedad: Fiebre reumática
+    tipo_causa: Persistente
+
+  756:
+    nombre_enfermedad:  Infecciones crónicas
+    tipo_causa: Persistente
+
+  757:
+    nombre_enfermedad: Hipertensión maligna
+    tipo_causa: Persistente
+
+  758:
+    nombre_enfermedad: Procesos neoplásicos
+    tipo_causa: Persistente
+
+  759:
+    nombre_enfermedad: Insuf. renal crónica
+    tipo_causa: Persistente
+
+  760:
+    nombre_enfermedad: Hepatopatías crónicas
+    tipo_causa: Persistente
+
+  761:
+    nombre_enfermedad: Intoxicaciones
+    tipo_causa: Persistente
+
+  762:
+    nombre_enfermedad: Embolia
+    tipo_causa: Disminución aporte arterial
+
+  763:
+    nombre_enfermedad: Trombosis
+    tipo_causa: Disminución aporte arterial
+
+  764:
+    nombre_enfermedad: Sindrome de Raynaud
+    tipo_causa: Vasoconstucción cutánea
+
+  765:
+    nombre_enfermedad: Virus, bacterias
+    tipo_causa: Infecciones cutáneas
+
+  766:
+    nombre_enfermedad: Vitiligo
+    tipo_causa: Enfermedades autoinmutrarias
+
+  767:
+    nombre_enfermedad: Sindrome de kwashiorkor
+    tipo_causa: Enfermedades deficitarias
+
+  768:
+    nombre_enfermedad: Rubicundez congènita o familiar.
+    tipo_causa: Generalizada
+
+  769:
+    nombre_enfermedad: Aumento de glóbulos rojos y hemoglobina en la sangre: Polictemia vera, poliglobulia
+    tipo_causa: Generalizada
+
+  770:
+    nombre_enfermedad: Debido a vasodilación: rubicundez emotiva
+    tipo_causa: Generalizada
+
+  771:
+    nombre_enfermedad: Rubicundez tóxica: Atropina, escopolamina, antihistamínicos, Nitrito de amilo
+    tipo_causa: Generalizada
+
+  772:
+    nombre_enfermedad: Inflamación local
+    tipo_causa: Localizada
+
+  773:
+    nombre_enfermedad: Procesos alérgicos.
+    tipo_causa: Localizada
+
+  774:
+    nombre_enfermedad: Hipertensión esencial
+    tipo_causa: Localizada
+
+  775:
+    nombre_enfermedad: Climaterio sofocaciones
+    tipo_causa: Localizada
+
+  776:
+    nombre_enfermedad: Alcoholismo crónico
+    tipo_causa: Localizada
+
+  777:
+    nombre_enfermedad: Enfermedad de Cushing
+    tipo_causa: Localizada
+
+  778:
+    nombre_enfermedad: Síndrome de Cushing uso de corticoides
+    tipo_causa: Localizada
+
+  779:
+    nombre_enfermedad: Estenosis mitral
+    tipo_causa: Localizada
+
+  780:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Localizada
+
+  781:
+    nombre_enfermedad: Carcinoide metastizante
+    tipo_causa: Localizada
+
+  782:
+    nombre_enfermedad: Erisipela
+    tipo_causa: Localizada
+
+  783:
+    nombre_enfermedad: Influencias atmosféricas LES
+    tipo_causa: Localizada
+
+  784:
+    nombre_enfermedad: Enfermedad de Boeck
+    tipo_causa: Localizada
+
+  785:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: Localizada
+
+  786:
+    nombre_enfermedad: Enfisema pulmonar grave
+    tipo_causa: Localizada
+
+  787:
+    nombre_enfermedad: Enfermedades infecciosas con hipertermia: escarlatina, sarampión, rubéola, neumonía
+    tipo_causa: Localizada
+
+  788:
+    nombre_enfermedad: Síndrome de Pickwick
+    tipo_causa: Localizada
+
+  789:
+    nombre_enfermedad: Neumonías
+    tipo_causa: Acompañada de fiebre
+
+  790:
+    nombre_enfermedad: TBC sudoración nocturna
+    tipo_causa: Acompañada de fiebre
+
+  791:
+    nombre_enfermedad: Brucelosis sudoración parcelar
+    tipo_causa: Acompañada de fiebre
+
+  792:
+    nombre_enfermedad: SIDA
+    tipo_causa: Acompañada de fiebre
+
+  793:
+    nombre_enfermedad: Fiebre reumática
+    tipo_causa: Acompañada de fiebre
+
+  794:
+    nombre_enfermedad: Paludismo
+    tipo_causa: Acompañada de fiebre
+
+  795:
+    nombre_enfermedad: Endocarditis
+    tipo_causa: Acompañada de fiebre
+
+  796:
+    nombre_enfermedad: Artritis reumatoide
+    tipo_causa: Acompañada de fiebre
+
+  797:
+    nombre_enfermedad: Linfomas
+    tipo_causa: Acompañada de fiebre
+
+  798:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Sin Fiebre
+
+  799:
+    nombre_enfermedad: Feocromocitoma
+    tipo_causa: Sin Fiebre
+
+  800:
+    nombre_enfermedad: Isquemia aguda
+    tipo_causa: Sin Fiebre
+
+  801:
+    nombre_enfermedad: Shock
+    tipo_causa: Sin Fiebre
+
+  802:
+    nombre_enfermedad: Sindrome carcinoide
+    tipo_causa: Sin Fiebre
+
+  803:
+    nombre_enfermedad: Hipoglucemia
+    tipo_causa: Sin Fiebre
+
+  804:
+    nombre_enfermedad: Insulinoma
+    tipo_causa: Sin Fiebre
+
+  805:
+    nombre_enfermedad: Enfermedad de Parkinson
+    tipo_causa: Sin Fiebre
+
+  806:
+    nombre_enfermedad: Síndrome de Riley-Day
+    tipo_causa: Sin Fiebre
+
+  807:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Sin Fiebre
+
+  808:
+    nombre_enfermedad: Menopausia
+    tipo_causa: Sin Fiebre
+
+  809:
+    nombre_enfermedad: Enfermedad de Parkinson
+    tipo_causa: Sin Fiebre
+
+  810:
+    nombre_enfermedad: Síndrome de Riley-Day
+    tipo_causa: Sin Fiebre
+
+  811:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Sin Fiebre
+
+  812:
+    nombre_enfermedad: Menopausia
+    tipo_causa: Sin Fiebre
+
+  813:
+    nombre_enfermedad: Síndrome de abstinencia
+    tipo_causa: Sin Fiebre
+
+  814:
+    nombre_enfermedad: Síndrome del dumping
+    tipo_causa: Sin Fiebre
+
+  815:
+    nombre_enfermedad: Fenilcetonuria de Folling
+    tipo_causa: Sin Fiebre
+
+  816:
+    nombre_enfermedad: Delirium tremens
+    tipo_causa: Sin Fiebre
+
+  817:
+    nombre_enfermedad: Distonía neurovegetativa
+    tipo_causa: Sin Fiebre
+
+  818:
+    nombre_enfermedad: Tétanos
+    tipo_causa: Sin Fiebre
+
+  819:
+    nombre_enfermedad: Adipositis
+    tipo_causa: Sin Fiebre
+
+  820:
+    nombre_enfermedad: Climaterio
+    tipo_causa: Sin Fiebre
+
+  821:
+    nombre_enfermedad: Hemólisis aguda
+    tipo_causa: Sin Fiebre
+
+  822:
+    nombre_enfermedad: Raquitismo
+    tipo_causa: Sin Fiebre
+
+  823:
+    nombre_enfermedad: Síndrome neuroléptico maligno ADT
+    tipo_causa: Sin Fiebre
+
+  824:
+    nombre_enfermedad: Fármacos colinérgicos
+    tipo_causa: Sin Fiebre
+
+  825:
+    nombre_enfermedad: Fármacos adrenérgicos
+    tipo_causa: Sin Fiebre
+
+  826:
+    nombre_enfermedad: Inhibidores de la colinesterasa
+    tipo_causa: Sin Fiebre
+
+  827:
+    nombre_enfermedad: Intoxicación etílica o por drogas ilegales
+    tipo_causa: Sin Fiebre
+
+  828:
+    nombre_enfermedad: Abstinencia alcohólica
+    tipo_causa: Sin Fiebre
+
+  829:
+    nombre_enfermedad: Arsenicismo crónico
+    tipo_causa: Sin Fiebre
+
+  830:
+    nombre_enfermedad: Intoxicación crónica por mercurio
+    tipo_causa: Sin Fiebre
+
+  831:
+    nombre_enfermedad: Intoxicación por organofosforados.
+    tipo_causa: Sin Fiebre
+
+  832:
+    nombre_enfermedad: Vitíligo
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  833:
+    nombre_enfermedad: Eccema dishidrótico
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  834:
+    nombre_enfermedad: Paroniquia congènita
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  835:
+    nombre_enfermedad: Epidermolisis ampollosa
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  836:
+    nombre_enfermedad: Queratodermia palmoplantar sindrome de Papillón-Lefevre
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  837:
+    nombre_enfermedad: Acrodinia
+    tipo_causa: Acompañada de lesiones dermatológicas
+
+  838:
+    nombre_enfermedad: Sindrome auriculotemporal
+    tipo_causa: Asociada a otras manifestaciones
+
+  839:
+    nombre_enfermedad: Patología del ganglio estrellado
+    tipo_causa: Asociada a otras manifestaciones
+
+  840:
+    nombre_enfermedad: Polineuritis
+    tipo_causa: Asociada a otras manifestaciones
+
+  841:
+    nombre_enfermedad: Acrocianosis
+    tipo_causa: Asociada a otras manifestaciones
+
+  842:
+    nombre_enfermedad: Osteoartropatía hipertrófica
+    tipo_causa: Asociada a otras manifestaciones
+
+  843:
+    nombre_enfermedad: Cefalea acumulada
+    tipo_causa: Asociada a otras manifestaciones
+
+  844:
+    nombre_enfermedad: Distrofia simpática refleja/causalgia
+    tipo_causa: Asociada a otras manifestaciones
+
+  845:
+    nombre_enfermedad: Lesiones medulares siringomielia
+    tipo_causa: Asociada a otras manifestaciones
+
+  846:
+    nombre_enfermedad: Inflamación: Bronquiectasia, TBC, Absceso pulmonar, Empiema
+    tipo_causa: Causas pulmonares
+
+  847:
+    nombre_enfermedad: Neumoconiosis, Silicosis
+    tipo_causa: Causas pulmonares
+
+  848:
+    nombre_enfermedad: Neoplasias: Carcinoma bronquial, Mesotelioma pleural,  Metástasis pulmonar
+    tipo_causa: Causas pulmonares
+
+  849:
+    nombre_enfermedad: Enfisema
+    tipo_causa: Causas pulmonares
+
+  850:
+    nombre_enfermedad: Fibrosis pulmonar
+    tipo_causa: Causas pulmonares
+
+  851:
+    nombre_enfermedad: Arteriosclerosis pulmonar
+    tipo_causa: Causas pulmonares
+
+  852:
+    nombre_enfermedad: Cardiopatia congènita con derivación derecha-izquierda
+    tipo_causa: Causas cardíacas
+
+  853:
+    nombre_enfermedad: Endocarditis bacteriana subaguda
+    tipo_causa: Causas cardíacas
+
+  854:
+    nombre_enfermedad: Insuficiencia cardíaca
+    tipo_causa: Causas cardíacas
+
+  855:
+    nombre_enfermedad: Fístula arteriovenosa pulmonar
+    tipo_causa: Causas cardíacas
+
+  856:
+    nombre_enfermedad: Cor pulmonale avanzado
+    tipo_causa: Causas cardíacas
+
+  857:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Enfermedades gastrointestinales
+
+  858:
+    nombre_enfermedad: Osteoartropatia hipertrófica
+    tipo_causa: Enfermedades gastrointestinales
+
+  859:
+    nombre_enfermedad: Cefalea acumulada Distrofia simpática refleja/causalgia
+    tipo_causa: Enfermedades gastrointestinales
+
+  860:
+    nombre_enfermedad: Lesiones medulares siringomielia
+    tipo_causa: Enfermedades gastrointestinales
+
+  861:
+    nombre_enfermedad: Enteritis regional
+    tipo_causa: Enfermedades gastrointestinales
+
+  862:
+    nombre_enfermedad: Escarlatina
+    tipo_causa: Causas
+
+  863:
+    nombre_enfermedad: Angina catarral
+    tipo_causa: Causas
+
+  864:
+    nombre_enfermedad: Estomatitis catarral
+    tipo_causa: Causas
+
+  865:
+    nombre_enfermedad: Ferropenia
+    tipo_causa: Causas
+
+  866:
+    nombre_enfermedad: Déficit vitaminico: vitamina B12 , B6,  Ácido nicotínico, Vitamina C
+    tipo_causa: Causas
+
+  867:
+    nombre_enfermedad: Leucosis
+    tipo_causa: Causas
+
+  868:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Causas
+
+  869:
+    nombre_enfermedad: Muermo
+    tipo_causa: Causas
+
+  870:
+    nombre_enfermedad: Alergias: medicamentosa, picaduras de insectos, alimentos
+    tipo_causa: Causas
+
+  871:
+    nombre_enfermedad: Noxas: lejía, ácidos, hidantoína, mercurio
+    tipo_causa: Causas
+
+  872:
+    nombre_enfermedad: Esprue: enfermedad celíaca, eritema multiforme
+    tipo_causa: Causas
+
+  873:
+    nombre_enfermedad: Liquen rojo plano
+    tipo_causa: Causas
+
+  874:
+    nombre_enfermedad: Sífilis estadio II
+    tipo_causa: Causas
+
+  875:
+    nombre_enfermedad: Lupus vulgar
+    tipo_causa: Causas
+
+  876:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Causas
+
+  877:
+    nombre_enfermedad: Enfermedad de Darier
+    tipo_causa: Causas
+
+  878:
+    nombre_enfermedad: LES
+    tipo_causa: Causas
+
+  879:
+    nombre_enfermedad: Nevo pigmentado
+    tipo_causa: Causas
+
+  880:
+    nombre_enfermedad: Leucoplasia
+    tipo_causa: Causas
+
+  881:
+    nombre_enfermedad: Sarcoidosis
+    tipo_causa: Causas
+
+  882:
+    nombre_enfermedad: Angioqueratoma corporal difuso
+    tipo_causa: Causas
+
+  883:
+    nombre_enfermedad: Leucoqueratosis nicotinica
+    tipo_causa: Causas
+
+  884:
+    nombre_enfermedad: Enfermedad de Hand-Schuller-Christian
+    tipo_causa: Causas
+
+  885:
+    nombre_enfermedad: Eritema multiforme exudativo
+    tipo_causa: Causas
+
+  886:
+    nombre_enfermedad: Síndrome de Abt-Letterer-Siwe
+    tipo_causa: Causas
+
+  887:
+    nombre_enfermedad: Micosis Candida
+    tipo_causa: Infecciones
+
+  888:
+    nombre_enfermedad: Angina sifilítica
+    tipo_causa: Infecciones
+
+  889:
+    nombre_enfermedad: Estomatitis ulcerativa estreptococo, estafilococo
+    tipo_causa: Infecciones
+
+  890:
+    nombre_enfermedad: Estomatitis gangrenosa
+    tipo_causa: Infecciones
+
+  891:
+    nombre_enfermedad: Estomatitis aftosa virus del herpes simple
+    tipo_causa: Infecciones
+
+  892:
+    nombre_enfermedad: Difteria
+    tipo_causa: Infecciones
+
+  893:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa: Infecciones
+
+  894:
+    nombre_enfermedad: Angina de Paul-Vincent angina ulceromembranosa
+    tipo_causa: Infecciones
+
+  895:
+    nombre_enfermedad: Esprue
+    tipo_causa: Alteraciones metabólicas
+
+  896:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Alteraciones metabólicas
+
+  897:
+    nombre_enfermedad: Déficit de vitamina B
+    tipo_causa: Alteraciones metabólicas
+
+  898:
+    nombre_enfermedad: Déficit de ácido fólico
+    tipo_causa: Alteraciones metabólicas
+
+  899:
+    nombre_enfermedad: Déficit de vitamina A
+    tipo_causa: Alteraciones metabólicas
+
+  900:
+    nombre_enfermedad: Pelagra
+    tipo_causa: Alteraciones metabólicas
+
+  901:
+    nombre_enfermedad: Leucosis
+    tipo_causa: Otras enfermedades
+
+  902:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Otras enfermedades
+
+  903:
+    nombre_enfermedad: Úlcera por decúbito
+    tipo_causa: Otras enfermedades
+
+  904:
+    nombre_enfermedad: Enfermedad de Behcet
+    tipo_causa: Otras enfermedades
+
+  905:
+    nombre_enfermedad: Sarampión Koplik
+    tipo_causa: Causas
+
+  906:
+    nombre_enfermedad: Rubéola
+    tipo_causa: Causas
+
+  907:
+    nombre_enfermedad: Escarlatina
+    tipo_causa: Causas
+
+  908:
+    nombre_enfermedad: Varicela
+    tipo_causa: Causas
+
+  909:
+    nombre_enfermedad: Enfermedad de Addison
+    tipo_causa: Causas
+
+  910:
+    nombre_enfermedad: Enfermedad de Osler
+    tipo_causa: Causas
+
+  911:
+    nombre_enfermedad: Síndrome de Peutz-Jeghers
+    tipo_causa: Causas
+
+  912:
+    nombre_enfermedad: Dermatitis herpetiforme
+    tipo_causa: Causas
+
+  913:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: Causas
+
+  914:
+    nombre_enfermedad: Enfermedad de Darier
+    tipo_causa: Causas
+
+  915:
+    nombre_enfermedad: Xantelasma plano
+    tipo_causa: Causas
+
+  916:
+    nombre_enfermedad: Angioqueratoma corporal
+    tipo_causa: Causas
+
+  917:
+    nombre_enfermedad: Noxas: cobre, plomo, bismuto, mercurio
+    tipo_causa: Causas
+
+  918:
+    nombre_enfermedad: Estreptocócicas
+    tipo_causa: Infecciones bacterianas
+
+  919:
+    nombre_enfermedad: Estafilocócicas
+    tipo_causa: Infecciones bacterianas
+
+  920:
+    nombre_enfermedad: Salmonella tifoidea
+    tipo_causa: Infecciones bacterianas
+
+  921:
+    nombre_enfermedad: Leptospirosis
+    tipo_causa: Infecciones bacterianas
+
+  922:
+    nombre_enfermedad: Brucelosis
+    tipo_causa: Infecciones bacterianas
+
+  923:
+    nombre_enfermedad: Tuberculosis
+    tipo_causa: Infecciones bacterianas
+
+  924:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Infecciones bacterianas
+
+  925:
+    nombre_enfermedad: VIH
+    tipo_causa: Infección viral
+
+  926:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa: Infección viral
+
+  927:
+    nombre_enfermedad: Citomegalovirus
+    tipo_causa: Infección viral
+
+  928:
+    nombre_enfermedad: Sarampión
+    tipo_causa: Infección viral
+
+  929:
+    nombre_enfermedad: Rubéola
+    tipo_causa: Infección viral
+
+  930:
+    nombre_enfermedad: Hepatitis
+    tipo_causa: Infección viral
+
+  931:
+    nombre_enfermedad: Toxoplasmosis
+    tipo_causa: Protozoos
+
+  932:
+    nombre_enfermedad: Histoplasmosis
+    tipo_causa: Protozoos
+
+  933:
+    nombre_enfermedad: Coccidiomicosis
+    tipo_causa: Protozoos
+
+  934:
+    nombre_enfermedad: Paludismo
+    tipo_causa: Protozoos
+
+  935:
+    nombre_enfermedad: Histoplasmosis
+    tipo_causa: Micosis
+
+  936:
+    nombre_enfermedad: Criptococosis
+    tipo_causa: Micosis
+
+  937:
+    nombre_enfermedad: Conectivopatias: Artritis reumatoidea, dermatomiositis, Lupus sistémico
+    tipo_causa: Enfermedades inmunológicas
+
+  938:
+    nombre_enfermedad: Enfermedad del suero: reacción medicamentosa
+    tipo_causa: Enfermedades inmunológicas
+
+  939:
+    nombre_enfermedad: Reacciones a hidantoínas
+    tipo_causa: Enfermedades inmunológicas
+
+  940:
+    nombre_enfermedad: Sarcoidosis
+    tipo_causa: Enfermedades inmunológicas
+
+  941:
+    nombre_enfermedad: Miscelánea: Hiperplasia gigante de ganglios linfáticos angiofolicularHistiocitosis, Loinfadenetis dermatopática
+    tipo_causa: Enfermedades inmunológicas
+
+  942:
+    nombre_enfermedad: Linfomas
+    tipo_causa: Neoplasias hematológicas
+
+  943:
+    nombre_enfermedad: Leucemia aguda
+    tipo_causa: Neoplasias hematológicas
+
+  944:
+    nombre_enfermedad: Leucemia linfocítica crónica
+    tipo_causa: Neoplasias hematológicas
+
+  945:
+    nombre_enfermedad: Síndromes mieloproliferativos
+    tipo_causa: Neoplasias hematológicas
+
+  946:
+    nombre_enfermedad: Histiocitosis
+    tipo_causa: Neoplasias hematológicas
+
+  947:
+    nombre_enfermedad: Carcinomas de la cabeza y del cuello
+    tipo_causa: Neoplasias No hematológicas
+
+  948:
+    nombre_enfermedad: Carcinoma del pulmón y senos paranasales
+    tipo_causa: Neoplasias No hematológicas
+
+  949:
+    nombre_enfermedad: Neoplasias de mama
+    tipo_causa: Neoplasias No hematológicas
+
+  950:
+    nombre_enfermedad: Carcinoma renal
+    tipo_causa: Neoplasias No hematológicas
+
+  951:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Causas endocrinas
+
+  952:
+    nombre_enfermedad: Enf. de Graves-Basedow
+    tipo_causa: Causas endocrinas
+
+  953:
+    nombre_enfermedad: Enfermedad de Addison
+    tipo_causa: Causas endocrinas
+
+  954:
+    nombre_enfermedad: Enfermedad de Gaucher
+    tipo_causa: Enfermedades de almacenamiento de lípidos
+
+  955:
+    nombre_enfermedad: Enfermedad de Niemann-Píck
+    tipo_causa: Enfermedades de almacenamiento de lípidos
+
+  956:
+    nombre_enfermedad: Infección por Epstein-Barr: Mononucleosis infecciosa
+    tipo_causa: Ganglios cervicales
+
+  957:
+    nombre_enfermedad: Rubéola
+    tipo_causa: Ganglios cervicales
+
+  958:
+    nombre_enfermedad: Citomegalovirus
+    tipo_causa: Ganglios cervicales
+
+  959:
+    nombre_enfermedad: Infs. Dentales
+    tipo_causa: Ganglios cervicales
+
+  960:
+    nombre_enfermedad: Infs. Orofaríngeas
+    tipo_causa: Ganglios cervicales
+
+  961:
+    nombre_enfermedad: TBC
+    tipo_causa: Ganglios cervicales
+
+  962:
+    nombre_enfermedad:  Sífilis
+    tipo_causa: Ganglios cervicales
+
+  963:
+    nombre_enfermedad: Toxoplasmosis
+    tipo_causa: Ganglios cervicales
+
+  964:
+    nombre_enfermedad: Metástasis de cáncer de nasofaringe, cavidad oral, faringe, tiroides, pulmón, mama, riñon
+    tipo_causa: Ganglios cervicales
+
+  965:
+    nombre_enfermedad: Leucemia
+    tipo_causa: Ganglios cervicales
+
+  966:
+    nombre_enfermedad: Linfoma
+    tipo_causa: Ganglios cervicales
+
+  967:
+    nombre_enfermedad: Metástasis de cáncer digestivo estómago,colono intratorácio: GANGLIO DE VIRCHOW
+    tipo_causa: Ganglios supraclaviculares
+
+  968:
+    nombre_enfermedad: Infecciones de retroperitoneo
+    tipo_causa: Ganglios supraclaviculares
+
+  969:
+    nombre_enfermedad: Histoplasmosis
+    tipo_causa: Ganglios supraclaviculares
+
+  970:
+    nombre_enfermedad: Infección
+    tipo_causa: Ganglios axilares
+
+  971:
+    nombre_enfermedad: Enfermedad por arañazo de gato
+    tipo_causa: Ganglios axilares
+
+  972:
+    nombre_enfermedad: Cáncer de mama unilateral
+    tipo_causa: Ganglios axilares
+
+  973:
+    nombre_enfermedad: Brucelosis
+    tipo_causa: Ganglios axilares
+
+  974:
+    nombre_enfermedad: Lifoma
+    tipo_causa: Ganglios axilares
+
+  975:
+    nombre_enfermedad: Infección
+    tipo_causa: Ganglios epitrocleares
+
+  976:
+    nombre_enfermedad: Mordedura de perro o gato
+    tipo_causa: Ganglios epitrocleares
+
+  977:
+    nombre_enfermedad: Artritis reumatoidea
+    tipo_causa: Ganglios epitrocleares
+
+  978:
+    nombre_enfermedad: Sífilis secundaria bilateral
+    tipo_causa: Ganglios epitrocleares
+
+  979:
+    nombre_enfermedad: Enfermedades venéreas: Sífilis etapa inicial
+ linfagranuloma venéreo
+    tipo_causa: Ganglios inguinales
+
+  980:
+    nombre_enfermedad: Neoplasia pelviana
+    tipo_causa: Ganglios inguinales
+
+  981:
+    nombre_enfermedad: Peste bubónica
+    tipo_causa: Ganglios inguinales
+
+  982:
+    nombre_enfermedad: Sarcoidosis bilateral, simétrico
+    tipo_causa: Ganglios hiliares pulmonares
+
+  983:
+    nombre_enfermedad: TBC pulmonar
+    tipo_causa: Ganglios hiliares pulmonares
+
+  984:
+    nombre_enfermedad: Linfoma
+    tipo_causa: Ganglios hiliares pulmonares
+
+  985:
+    nombre_enfermedad: Carcinoma pulmonar unilateral
+    tipo_causa: Ganglios hiliares pulmonares
+
+  986:
+    nombre_enfermedad: Mononucleosis infecciosa
+    tipo_causa: Ganglios mediastínico
+
+  987:
+    nombre_enfermedad: Tumores pulmonares
+    tipo_causa: Ganglios mediastínico
+
+  988:
+    nombre_enfermedad: Tumores intratorácicos
+    tipo_causa: Ganglios mediastínico
+
+  989:
+    nombre_enfermedad: Linfomas
+    tipo_causa: Ganglios mediastínico
+
+  990:
+    nombre_enfermedad: Linfomas
+    tipo_causa: Ganglios abdominales
+
+  991:
+    nombre_enfermedad: Adenitis mesentérica TBC
+    tipo_causa: Ganglios abdominales
+
+  992:
+    nombre_enfermedad: Tumores de células germinales
+    tipo_causa: Ganglios abdominales
+
+  993:
+    nombre_enfermedad: Carcinoma prostático
+    tipo_causa: Ganglios abdominales
+
+  994:
+    nombre_enfermedad: Migraña pura
+    tipo_causa: Causas vasculares
+
+  995:
+    nombre_enfermedad: Cefalea vasomotora funcional
+    tipo_causa: Causas vasculares
+
+  996:
+    nombre_enfermedad: Neuralgia de Horton cefalalgia histaminica
+    tipo_causa: Causas vasculares
+
+  997:
+    nombre_enfermedad: Trastornos vasculares orgánicos: arterioesclerosis cerebral
+    tipo_causa: Causas vasculares
+
+  998:
+    nombre_enfermedad: Arteritis temporal de Horton
+    tipo_causa: Causas vasculares
+
+  999:
+    nombre_enfermedad: Enfermedades inflamatorias: sífilis, periarteritis nodosa
+    tipo_causa: Causas vasculares
+
+  1000:
+    nombre_enfermedad: Aneurisma intracraneal
+    tipo_causa: Causas vasculares
+
+  1001:
+    nombre_enfermedad: Angioma
+    tipo_causa: Causas vasculares
+
+  1002:
+    nombre_enfermedad: Cefalea postepiléptica
+    tipo_causa: Causas vasculares
+
+  1003:
+    nombre_enfermedad: Tumor cerebral
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1004:
+    nombre_enfermedad: Metástasis tumoral
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1005:
+    nombre_enfermedad: Absceso cerebral
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1006:
+    nombre_enfermedad: Hemorragia subaracnoidea, intracraneal
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1007:
+    nombre_enfermedad: Hematoma subdural traumatismo
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1008:
+    nombre_enfermedad: Inflamación: meningitis, encefalitis
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1009:
+    nombre_enfermedad: Hidrocefalia
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1010:
+    nombre_enfermedad: Parasitosis cisticerco, quiste hidatídico
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1011:
+    nombre_enfermedad: Enfermedad de Paget
+    tipo_causa: Procesos  expansivos e inflamatorios
+
+  1012:
+    nombre_enfermedad: Trigémina Nasociliar
+    tipo_causa: Neuralgias faciales
+
+  1013:
+    nombre_enfermedad: Glosofaríngea
+    tipo_causa: Neuralgias faciales
+
+  1014:
+    nombre_enfermedad: Nitropreparados
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1015:
+    nombre_enfermedad: Alcohol
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1016:
+    nombre_enfermedad: Tabaquismo
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1017:
+    nombre_enfermedad: Fenacetinas
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1018:
+    nombre_enfermedad: Trastornos de la ovulación
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1019:
+    nombre_enfermedad: Resorcina
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1020:
+    nombre_enfermedad: Intoxicación: fenol, plomo, monóxido de carbono, bromo
+    tipo_causa: Cefaleas tóxica y medicamentosas
+
+  1021:
+    nombre_enfermedad: Postconmoción
+    tipo_causa: Cefaleas postraumáticas
+
+  1022:
+    nombre_enfermedad: Postcontusión
+    tipo_causa: Cefaleas postraumáticas
+
+  1023:
+    nombre_enfermedad: Trastornos degenerativos de la columna cervical
+    tipo_causa: Cefaleas cervicales
+
+  1024:
+    nombre_enfermedad: Trastornos de la columna traumatismo
+    tipo_causa: Cefaleas cervicales
+
+  1025:
+    nombre_enfermedad: Anomalia congènita cervical paso o chamela occipitoatloidea
+    tipo_causa: Cefaleas cervicales
+
+  1026:
+    nombre_enfermedad: Miogelosis
+    tipo_causa: Cefaleas cervicales
+
+  1027:
+    nombre_enfermedad: Rinitis aguda
+    tipo_causa: Foco naso-faringeo-ótico
+
+  1028:
+    nombre_enfermedad: Sinusitis aguda
+    tipo_causa: Foco naso-faringeo-ótico
+
+  1029:
+    nombre_enfermedad: Colesteatoma
+    tipo_causa: Foco naso-faringeo-ótico
+
+  1030:
+    nombre_enfermedad: Catarro de oído medio
+    tipo_causa: Foco naso-faringeo-ótico
+
+  1031:
+    nombre_enfermedad: Enfermedad de Meniere
+    tipo_causa: Foco naso-faringeo-ótico
+
+  1032:
+    nombre_enfermedad: Enfs. Infecciosas agudas
+    tipo_causa: Causas internas
+
+  1033:
+    nombre_enfermedad: Infecciones crónicas sífilis
+    tipo_causa: Causas internas
+
+  1034:
+    nombre_enfermedad: Trastornos metabólicos: Diabetes mellitus
+    tipo_causa: Causas internas
+
+  1035:
+    nombre_enfermedad: Enfermedades hemáticas: anemia, poliglobulia, policetemia vera, leucemia
+    tipo_causa: Causas internas
+
+  1036:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Causas internas
+
+  1037:
+    nombre_enfermedad: Déficit de oxígeno: insuficiencia cardiaca, insuficiencia respiratoria
+    tipo_causa: Causas internas
+
+  1038:
+    nombre_enfermedad: Hipertensión arterial
+    tipo_causa: Causas internas
+
+  1039:
+    nombre_enfermedad: Hipotensión arterial
+    tipo_causa: Causas internas
+
+  1040:
+    nombre_enfermedad: Plasmodtoma
+    tipo_causa: Causas internas
+
+  1041:
+    nombre_enfermedad: Climaterio
+    tipo_causa: Causas internas
+
+  1042:
+    nombre_enfermedad: Síndrome premenstrual
+    tipo_causa: Causas internas
+
+  1043:
+    nombre_enfermedad: Eclampsia
+    tipo_causa: Causas internas
+
+  1044:
+    nombre_enfermedad: Glaucoma
+    tipo_causa: Trastornos oculares
+
+  1045:
+    nombre_enfermedad: Anomalia de refracción
+    tipo_causa: Trastornos oculares
+
+  1046:
+    nombre_enfermedad: Heteroforia
+    tipo_causa: Trastornos oculares
+
+  1047:
+    nombre_enfermedad: Súbita, intensa, explosiva
+    tipo_causa: Síndrome meningeo
+
+  1048:
+    nombre_enfermedad: Con fiebre: sospecha meningitis realizar punción lumbar.
+    tipo_causa: Síndrome meningeo
+
+  1049:
+    nombre_enfermedad: Hemorragias intraparenquimatosas
+    tipo_causa: Síndrome de hipertensión endocranena
+
+  1050:
+    nombre_enfermedad: Hemorragias intraventriculares
+    tipo_causa: Síndrome de hipertensión endocranena
+
+  1051:
+    nombre_enfermedad: Hematoma subdural
+    tipo_causa: Síndrome de hipertensión endocranena
+
+  1052:
+    nombre_enfermedad: Neoplasia
+    tipo_causa: Síndrome de hipertensión endocranena
+
+  1053:
+    nombre_enfermedad: Absceso
+    tipo_causa: Síndrome de hipertensión endocranena
+
+  1054:
+    nombre_enfermedad: Crisis hipertensiva
+    tipo_causa: Otras causas
+
+  1055:
+    nombre_enfermedad: Traumatismo craneal
+    tipo_causa: Otras causas
+
+  1056:
+    nombre_enfermedad: Infecciones sistémicas
+    tipo_causa: Otras causas
+
+  1057:
+    nombre_enfermedad: Queratitis
+    tipo_causa: Causas oftalmológica
+
+  1058:
+    nombre_enfermedad: Uveítis
+    tipo_causa: Causas oftalmológica
+
+  1059:
+    nombre_enfermedad: Glaucoma agudo ángulo cerrado
+    tipo_causa: Causas oftalmológica
+
+  1060:
+    nombre_enfermedad: Neuritis óptica
+    tipo_causa: Causas oftalmológica
+
+  1061:
+    nombre_enfermedad: Otitis.
+    tipo_causa: Causas de otorrinolaringología
+
+  1062:
+    nombre_enfermedad: Mastoiditis
+    tipo_causa: Causas de otorrinolaringología
+
+  1063:
+    nombre_enfermedad: Sinusitis
+    tipo_causa: Causas de otorrinolaringología
+
+  1064:
+    nombre_enfermedad: Caries
+    tipo_causa: Causas odontológicas
+
+  1065:
+    nombre_enfermedad: Absceso apical
+    tipo_causa: Causas odontológicas
+
+  1066:
+    nombre_enfermedad: Migraña.
+    tipo_causa: Causas
+
+  1067:
+    nombre_enfermedad: Cefalea en racimos o en acúmulos cleaster headache.
+    tipo_causa: Causas
+
+  1068:
+    nombre_enfermedad: Hemicránea paroxística crónica.
+    tipo_causa: Causas
+
+  1069:
+    nombre_enfermedad: Cefalea tensional episódica.
+    tipo_causa: Causas
+
+  1070:
+    nombre_enfermedad: Hidrocefalia
+    tipo_causa: Causas
+
+  1071:
+    nombre_enfermedad: Pseudotumor cerebral diplopia, obesa, edema de papila,paresia VI par.
+    tipo_causa: Causas
+
+  1072:
+    nombre_enfermedad: Neoplasia intracraneal.
+    tipo_causa: Causas
+
+  1073:
+    nombre_enfermedad: Hematoma subdural o epidural.
+    tipo_causa: Causas
+
+  1074:
+    nombre_enfermedad: Absceso cerebral
+    tipo_causa: Causas
+
+  1075:
+    nombre_enfermedad: Vasculitis.
+    tipo_causa: Causas
+
+  1076:
+    nombre_enfermedad: Cefalea por abuso de analgésicos y/o ergotaminicos
+    tipo_causa: Causas
+
+  1077:
+    nombre_enfermedad: Cefalea tensional crónica.
+    tipo_causa: Causas
+
+  1078:
+    nombre_enfermedad: Cefalea crónica diaria por abuso de analgésicos y/oergotaminicos.
+    tipo_causa: Causas
+
+  1079:
+    nombre_enfermedad: Trastornos psiquiátricos cefalea psíquica.
+    tipo_causa: Causas
+
+  1080:
+    nombre_enfermedad: Jaqueca hemicránea
+    tipo_causa: Causas
+
+  1081:
+    nombre_enfermedad: Herpes zoster
+    tipo_causa: Causas
+
+  1082:
+    nombre_enfermedad: Artralgia articular de la mandíbula
+    tipo_causa: Causas
+
+  1083:
+    nombre_enfermedad: Aneurisma de la arteria comunicante posterior
+    tipo_causa: Causas
+
+  1084:
+    nombre_enfermedad: Arteritis temporal
+    tipo_causa: Causas
+
+  1085:
+    nombre_enfermedad: Tumor en base del cráneo
+    tipo_causa: Causas
+
+  1086:
+    nombre_enfermedad: Síndrome fisura orbitaria superior
+    tipo_causa: Causas
+
+  1087:
+    nombre_enfermedad: Espondilitis en columna cervical
+    tipo_causa: Causas
+
+  1088:
+    nombre_enfermedad: Caries dental
+    tipo_causa: Causas
+
+  1089:
+    nombre_enfermedad: Sinusitis
+    tipo_causa: Causas
+
+  1090:
+    nombre_enfermedad: Otitis media
+    tipo_causa: Causas
+
+  1091:
+    nombre_enfermedad: Forúnculo intranasal
+    tipo_causa: Causas
+
+  1092:
+    nombre_enfermedad: Neuralgia del ganglio geniculado
+    tipo_causa: Causas
+
+  1093:
+    nombre_enfermedad: Infarto de miocardio
+    tipo_causa: Causas
+
+  1094:
+    nombre_enfermedad: Neuralgia del trigémino
+    tipo_causa: Causas
+
+  1095:
+    nombre_enfermedad: Neurinoma del acústico
+    tipo_causa: Causas
+
+  1096:
+    nombre_enfermedad: Neuralgia nasociliar
+    tipo_causa: Causas
+
+  1097:
+    nombre_enfermedad: Neuralgia del glosofaríngeo
+    tipo_causa: Causas
+
+  1098:
+    nombre_enfermedad: Neuralgia de Sluder
+    tipo_causa: Causas
+
+  1099:
+    nombre_enfermedad: Neuralgia auriculotemporal
+    tipo_causa: Causas
+
+  1100:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Causas
+
+  1101:
+    nombre_enfermedad: Infección
+    tipo_causa: Sensación cuerpo extraño
+
+  1102:
+    nombre_enfermedad: ALergias: medicamentosa, picaduras de insectos, alimentos
+    tipo_causa: Sensación cuerpo extraño
+
+  1103:
+    nombre_enfermedad: Cuerpo extraño
+    tipo_causa: Sensación cuerpo extraño
+
+  1104:
+    nombre_enfermedad: Rayos ultravioleta
+    tipo_causa: Sensación cuerpo extraño
+
+  1105:
+    nombre_enfermedad: Cansancio
+    tipo_causa: Sensación cuerpo extraño
+
+  1106:
+    nombre_enfermedad: Viento
+    tipo_causa: Sensación cuerpo extraño
+
+  1107:
+    nombre_enfermedad: Herpes
+    tipo_causa: Sensación cuerpo extraño
+
+  1108:
+    nombre_enfermedad: Daños por luz ultravioleta
+    tipo_causa: Sensación cuerpo extraño
+
+  1109:
+    nombre_enfermedad: Úlcera corneal
+    tipo_causa: Sensación cuerpo extraño
+
+  1110:
+    nombre_enfermedad: Iritis
+    tipo_causa: Dolor en región orbitaria
+
+  1111:
+    nombre_enfermedad: Tenositis
+    tipo_causa: Dolor en región orbitaria
+
+  1112:
+    nombre_enfermedad: Iridociclitis
+    tipo_causa: Dolor en región orbitaria
+
+  1113:
+    nombre_enfermedad: Glaucoma agudo ángulo cerrado
+    tipo_causa: Dolor en región orbitaria
+
+  1114:
+    nombre_enfermedad: Papilitis
+    tipo_causa: Dolor en región orbitaria
+
+  1115:
+    nombre_enfermedad: Flemones orbitarios
+    tipo_causa: Dolor en región orbitaria
+
+  1116:
+    nombre_enfermedad: Neuritis retrobulbar
+    tipo_causa: Dolor en región orbitaria
+
+  1117:
+    nombre_enfermedad: Oftalmia simpática
+    tipo_causa: Dolor en región orbitaria
+
+  1118:
+    nombre_enfermedad: Síndrome cervicovertebral
+    tipo_causa: Dolor en región orbitaria
+
+  1119:
+    nombre_enfermedad: Otitis media aguda
+    tipo_causa: Enfermedades del oído
+
+  1120:
+    nombre_enfermedad: Mastoiditis
+    tipo_causa: Enfermedades del oído
+
+  1121:
+    nombre_enfermedad: Rotura del tímpano
+    tipo_causa: Enfermedades del oído
+
+  1122:
+    nombre_enfermedad: Eccema húmedo del CAE
+    tipo_causa: Enfermedades del oído
+
+  1123:
+    nombre_enfermedad: Forúnculo del CAE
+    tipo_causa: Enfermedades del oído
+
+  1124:
+    nombre_enfermedad: Inflamación difusa del CAE
+    tipo_causa: Enfermedades del oído
+
+  1125:
+    nombre_enfermedad: Erisipela del pabellón auricular
+    tipo_causa: Enfermedades del oído
+
+  1126:
+    nombre_enfermedad: Pericondritis del pabellón auricular
+    tipo_causa: Enfermedades del oído
+
+  1127:
+    nombre_enfermedad: Cuerpos extraños o tapón de cerumen en el CAE
+    tipo_causa: Enfermedades del oído
+
+  1128:
+    nombre_enfermedad: Zoster del oido
+    tipo_causa: Enfermedades del oído
+
+  1129:
+    nombre_enfermedad: Catarro tubárico y de oído medio
+    tipo_causa: Enfermedades del oído
+
+  1130:
+    nombre_enfermedad: Tumor en oído medio o interno o en los nervios auditivos
+    tipo_causa: Enfermedades del oído
+
+  1131:
+    nombre_enfermedad: Caries de los molares
+    tipo_causa: Dolores relfejos en oído
+
+  1132:
+    nombre_enfermedad: Salida de la muela del juicio
+    tipo_causa: Dolores relfejos en oído
+
+  1133:
+    nombre_enfermedad: Aftas
+    tipo_causa: Dolores relfejos en oído
+
+  1134:
+    nombre_enfermedad: Pénfigo vulgar
+    tipo_causa: Dolores relfejos en oído
+
+  1135:
+    nombre_enfermedad: Prótresis dentaria
+    tipo_causa: Dolores relfejos en oído
+
+  1136:
+    nombre_enfermedad: Tumor de lengua
+    tipo_causa: Dolores relfejos en oído
+
+  1137:
+    nombre_enfermedad: Parotiditis
+    tipo_causa: Dolores relfejos en oído
+
+  1138:
+    nombre_enfermedad: Anginas
+    tipo_causa: Dolores relfejos en oído
+
+  1139:
+    nombre_enfermedad: Amigdalitis
+    tipo_causa: Dolores relfejos en oído
+
+  1140:
+    nombre_enfermedad: Absceso periamigdalino
+    tipo_causa: Dolores relfejos en oído
+
+  1141:
+    nombre_enfermedad: Rinofaringitis
+    tipo_causa: Dolores relfejos en oído
+
+  1142:
+    nombre_enfermedad: Tumor amigdaliano
+    tipo_causa: Dolores relfejos en oído
+
+  1143:
+    nombre_enfermedad: Tumor laringeo
+    tipo_causa: Dolores relfejos en oído
+
+  1144:
+    nombre_enfermedad: Pericondritis
+    tipo_causa: Dolores relfejos en oído
+
+  1145:
+    nombre_enfermedad: Sindrome de Costen
+    tipo_causa: Dolores relfejos en oído
+
+  1146:
+    nombre_enfermedad: Inflamación de articulación mandibular
+    tipo_causa: Dolores relfejos en oído
+
+  1147:
+    nombre_enfermedad: Tumor del glomus
+    tipo_causa: Pulsátil
+
+  1148:
+    nombre_enfermedad: Estenosis carotidea
+    tipo_causa: Pulsátil
+
+  1149:
+    nombre_enfermedad: Malformaciones arteriovenosas congénitas
+    tipo_causa: Pulsátil
+
+  1150:
+    nombre_enfermedad: Aneurismas de la porción intratemporal de la carótida interna
+    tipo_causa: Pulsátil
+
+  1151:
+    nombre_enfermedad: Bulbo yugular prominente
+    tipo_causa: Pulsátil
+
+  1152:
+    nombre_enfermedad: Hipertensión intracraneal benigna
+    tipo_causa: Pulsátil
+
+  1153:
+    nombre_enfermedad: Enfermedad de Paget
+    tipo_causa: Pulsátil
+
+  1154:
+    nombre_enfermedad: Disfunciones de las válvulas cardíacas
+    tipo_causa: Pulsátil
+
+  1155:
+    nombre_enfermedad: Estados de gasto cardíaco elevado:
+    tipo_causa: Pulsátil
+
+  1156:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Pulsátil
+
+  1157:
+    nombre_enfermedad: Anemia
+    tipo_causa: Pulsátil
+
+  1158:
+    nombre_enfermedad: Síndrome febril
+    tipo_causa: Pulsátil
+
+  1159:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Pulsátil
+
+  1160:
+    nombre_enfermedad: Malformación de Arnold-Chiari
+    tipo_causa: Pulsátil
+
+  1161:
+    nombre_enfermedad: Tumores de la base del cráneo y hueso temporal
+    tipo_causa: No pulsatil
+
+  1162:
+    nombre_enfermedad: Trompa de Eustaquio abierta
+    tipo_causa: No pulsatil
+
+  1163:
+    nombre_enfermedad: Mioclonus del paladar
+    tipo_causa: No pulsatil
+
+  1164:
+    nombre_enfermedad: Espasmo idiopático del músculo del estapedio
+    tipo_causa: No pulsatil
+
+  1165:
+    nombre_enfermedad: Factores otológicos: trauma, perbiacucia, barotrauma, perforación timpánica, entre otros
+    tipo_causa: No pulsatil
+
+  1166:
+    nombre_enfermedad: Factores vasculares: Sordera brusca, Hipertensión arterial, vasculitis
+    tipo_causa: No pulsatil
+
+  1167:
+    nombre_enfermedad: Ateroesclerosis
+    tipo_causa: No pulsatil
+
+  1168:
+    nombre_enfermedad: Factores hematológicso: anemia, policetemia vera
+    tipo_causa: No pulsatil
+
+  1169:
+    nombre_enfermedad: Fármacos: AINES, antibióticos doxiciclina, minociclina, Aminoglucósidos
+    tipo_causa: No pulsatil
+
+  1170:
+    nombre_enfermedad: Factores neurológicos: Traumatismo encefalocraneano, esguince cervical, meningitis
+    tipo_causa: No pulsatil
+
+  1171:
+    nombre_enfermedad: Crisis del lóbulo temporal
+    tipo_causa: No pulsatil
+
+  1172:
+    nombre_enfermedad: Idiopàtica
+    tipo_causa: Causas locales
+
+  1173:
+    nombre_enfermedad: Microtraumatismo hurgado, rascado de fosas nasales
+    tipo_causa: Causas locales
+
+  1174:
+    nombre_enfermedad: Resfriado común
+    tipo_causa: Causas locales
+
+  1175:
+    nombre_enfermedad: Rinitis
+    tipo_causa: Causas locales
+
+  1176:
+    nombre_enfermedad: Factores ambientales sequedad ambiental, humedad, altura
+    tipo_causa: Causas locales
+
+  1177:
+    nombre_enfermedad: Traumatismos: fractura de tabique nasal, base de cráneo, senos paranasales
+    tipo_causa: Causas locales
+
+  1178:
+    nombre_enfermedad: Cuerpos extraños o tapón de cerumen en el CAE
+    tipo_causa: Causas locales
+
+  1179:
+    nombre_enfermedad: Tumores: neoplasias, pólipos
+    tipo_causa: Causas locales
+
+  1180:
+    nombre_enfermedad: Abuso de descongestionantes
+    tipo_causa: Causas sistémicas
+
+  1181:
+    nombre_enfermedad: AAS y anticoagulantes
+    tipo_causa: Causas sistémicas
+
+  1182:
+    nombre_enfermedad: Gripe
+    tipo_causa: Causas sistémicas
+
+  1183:
+    nombre_enfermedad: Estreptococias
+    tipo_causa: Causas sistémicas
+
+  1184:
+    nombre_enfermedad: Fiebre reumática
+    tipo_causa: Causas sistémicas
+
+  1185:
+    nombre_enfermedad: Tifus abdominal
+    tipo_causa: Causas sistémicas
+
+  1186:
+    nombre_enfermedad: Fiebre tifoidea
+    tipo_causa: Causas sistémicas
+
+  1187:
+    nombre_enfermedad: Sarampión
+    tipo_causa: Causas sistémicas
+
+  1188:
+    nombre_enfermedad: Psitacosis
+    tipo_causa: Causas sistémicas
+
+  1189:
+    nombre_enfermedad: Hipertensión arterial
+    tipo_causa: Causas sistémicas
+
+  1190:
+    nombre_enfermedad: Arterieesclerosis
+    tipo_causa: Causas sistémicas
+
+  1191:
+    nombre_enfermedad: Coagulopatías
+    tipo_causa: Causas sistémicas
+
+  1192:
+    nombre_enfermedad: Leucemias
+    tipo_causa: Causas sistémicas
+
+  1193:
+    nombre_enfermedad: Anemia aplásica
+    tipo_causa: Causas sistémicas
+
+  1194:
+    nombre_enfermedad: Cirrosis
+    tipo_causa: Causas sistémicas
+
+  1195:
+    nombre_enfermedad: Hepatitis crónica
+    tipo_causa: Causas sistémicas
+
+  1196:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas sistémicas
+
+  1197:
+    nombre_enfermedad: Feocromocitoma
+    tipo_causa: Causas sistémicas
+
+  1198:
+    nombre_enfermedad: Nefritis
+    tipo_causa: Causas sistémicas
+
+  1199:
+    nombre_enfermedad: Embarazo
+    tipo_causa: Causas sistémicas
+
+  1200:
+    nombre_enfermedad: Diátesis hemorrágica
+    tipo_causa: Causas sistémicas
+
+  1201:
+    nombre_enfermedad: Hemofilia
+    tipo_causa: Causas sistémicas
+
+  1202:
+    nombre_enfermedad: Enf. Osler-Weber-Rendu
+    tipo_causa: Causas sistémicas
+
+  1203:
+    nombre_enfermedad: Granulomatosis Wegener
+    tipo_causa: Causas sistémicas
+
+  1204:
+    nombre_enfermedad: Estenosis del istmo aórtico
+    tipo_causa: Causas sistémicas
+
+  1205:
+    nombre_enfermedad: Enf. de Gaucher
+    tipo_causa: Causas sistémicas
+
+  1206:
+    nombre_enfermedad: Macroglobulinemia
+    tipo_causa: Causas sistémicas
+
+  1207:
+    nombre_enfermedad: Pancitopenia
+    tipo_causa: Causas sistémicas
+
+  1208:
+    nombre_enfermedad: Leucosis
+    tipo_causa: Causas sistémicas
+
+  1209:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Causas sistémicas
+
+  1210:
+    nombre_enfermedad: Trombocitopenia
+    tipo_causa: Causas sistémicas
+
+  1211:
+    nombre_enfermedad: Uremia
+    tipo_causa: Causas sistémicas
+
+  1212:
+    nombre_enfermedad: Escorbuto
+    tipo_causa: Causas sistémicas
+
+  1213:
+    nombre_enfermedad: Policitemiavera
+    tipo_causa: Causas sistémicas
+
+  1214:
+    nombre_enfermedad: Plasmocitoma
+    tipo_causa: Causas sistémicas
+
+  1215:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Enfermedades infecciosas
+
+  1216:
+    nombre_enfermedad: Tuberculosis
+    tipo_causa: Enfermedades infecciosas
+
+  1217:
+    nombre_enfermedad: Leptospirosis
+    tipo_causa: Enfermedades infecciosas
+
+  1218:
+    nombre_enfermedad: Cólera
+    tipo_causa: Enfermedades infecciosas
+
+  1219:
+    nombre_enfermedad: Muermo
+    tipo_causa: Enfermedades infecciosas
+
+  1220:
+    nombre_enfermedad: Acromegalia
+    tipo_causa: Endocripoatías
+
+  1221:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Endocripoatías
+
+  1222:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Endocripoatías
+
+  1223:
+    nombre_enfermedad: Hiperparatiroidismo primario
+    tipo_causa: Endocripoatías
+
+  1224:
+    nombre_enfermedad: Panhipopituarismo = Síndrome de Simmonds
+    tipo_causa: Endocripoatías
+
+  1225:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Enfermedades hemáticas
+
+  1226:
+    nombre_enfermedad: Leucosisaguda
+    tipo_causa: Enfermedades hemáticas
+
+  1227:
+    nombre_enfermedad: Reticulosis
+    tipo_causa: Enfermedades hemáticas
+
+  1228:
+    nombre_enfermedad: Déficit vbitamina C
+    tipo_causa: Nutricional
+
+  1229:
+    nombre_enfermedad: Tumores maxilares
+    tipo_causa: Tumoral
+
+  1230:
+    nombre_enfermedad: Sindrome de Hand-Schuller-Christian
+    tipo_causa: Problemas congénitos
+
+  1231:
+    nombre_enfermedad: Mercurio
+    tipo_causa: Intoxicaciones
+
+  1232:
+    nombre_enfermedad: Fósforo
+    tipo_causa: Intoxicaciones
+
+  1233:
+    nombre_enfermedad: Fármacos: Cloranfenicol, cistáticos, pirazolonas, fenilbutazona
+    tipo_causa: Intoxicaciones
+
+  1234:
+    nombre_enfermedad: Embolismo carotideo
+    tipo_causa: Causas embólicas
+
+  1235:
+    nombre_enfermedad: Embolismo cardíaco y aórtico
+    tipo_causa: Causas embólicas
+
+  1236:
+    nombre_enfermedad: Embolismo relacionado con fármacos endovenosos
+    tipo_causa: Causas embólicas
+
+  1237:
+    nombre_enfermedad: Hipoperfusión: insuficiencia cardíaca, hipovolemia, arteritis temporal Enf. Takayasu
+    tipo_causa: Causas hemodinámicas
+
+  1238:
+    nombre_enfermedad: Enfermedad ateroesclerótica oclusiva grave de fas arterias carótida interna u oftálmica
+    tipo_causa: Causas hemodinámicas
+
+  1239:
+    nombre_enfermedad: Disección carotidea
+    tipo_causa: Causas hemodinámicas
+
+  1240:
+    nombre_enfermedad: Crisis hipertensiva
+    tipo_causa: Causas hemodinámicas
+
+  1241:
+    nombre_enfermedad: Hemorragia del cristalino
+    tipo_causa: Causas oculares
+
+  1242:
+    nombre_enfermedad: Glaucoma
+    tipo_causa: Causas oculares
+
+  1243:
+    nombre_enfermedad: Papilitis
+    tipo_causa: Causas oculares
+
+  1244:
+    nombre_enfermedad: Congènita
+    tipo_causa: Causas oculares
+
+  1245:
+    nombre_enfermedad: Compresión del nervio óptico o del quiasma óptico
+    tipo_causa: Causa neurológica
+
+  1246:
+    nombre_enfermedad: Papiledema
+    tipo_causa: Causa neurológica
+
+  1247:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Causa neurológica
+
+  1248:
+    nombre_enfermedad: Migraña
+    tipo_causa: Causa neurológica
+
+  1249:
+    nombre_enfermedad: Psicogénica
+    tipo_causa: Causa neurológica
+
+  1250:
+    nombre_enfermedad: Idiopàtica
+    tipo_causa: Causa neurológica
+
+  1251:
+    nombre_enfermedad: Desviación ocular
+    tipo_causa: Binocular ambos ojos
+
+  1252:
+    nombre_enfermedad: Parálisis de los músculos extraoculares
+    tipo_causa: Binocular ambos ojos
+
+  1253:
+    nombre_enfermedad: Psiconeurosis
+    tipo_causa: Binocular ambos ojos
+
+  1254:
+    nombre_enfermedad: Botulismo = diplopía + disartria + disfagia + ptosis
+    tipo_causa: Binocular ambos ojos
+
+  1255:
+    nombre_enfermedad: Tumor cerebral
+    tipo_causa: Binocular ambos ojos
+
+  1256:
+    nombre_enfermedad: ACV
+    tipo_causa: Binocular ambos ojos
+
+  1257:
+    nombre_enfermedad: Aneurisma intracraneal
+    tipo_causa: Binocular ambos ojos
+
+  1258:
+    nombre_enfermedad: Miastenia grave
+    tipo_causa: Binocular ambos ojos
+
+  1259:
+    nombre_enfermedad: Intoxicación etílica
+    tipo_causa: Binocular ambos ojos
+
+  1260:
+    nombre_enfermedad: Trombosis del seno cavernoso
+    tipo_causa: Binocular ambos ojos
+
+  1261:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Binocular ambos ojos
+
+  1262:
+    nombre_enfermedad: Encefalitis
+    tipo_causa: Binocular ambos ojos
+
+  1263:
+    nombre_enfermedad: Cirugía ocular
+    tipo_causa: Binocular ambos ojos
+
+  1264:
+    nombre_enfermedad: TEC
+    tipo_causa: Binocular ambos ojos
+
+  1265:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Binocular ambos ojos
+
+  1266:
+    nombre_enfermedad: Migraña oftalmopléjica
+    tipo_causa: Binocular ambos ojos
+
+  1267:
+    nombre_enfermedad: Fractura orbitaria perforante
+    tipo_causa: Binocular ambos ojos
+
+  1268:
+    nombre_enfermedad: Celulitis o tumores orbitarios
+    tipo_causa: Binocular ambos ojos
+
+  1269:
+    nombre_enfermedad: Tirotoxicosis
+    tipo_causa: Binocular ambos ojos
+
+  1270:
+    nombre_enfermedad: Catarata
+    tipo_causa: Monocular un ojo
+
+  1271:
+    nombre_enfermedad: Edema o cicatriz retiniana
+    tipo_causa: Monocular un ojo
+
+  1272:
+    nombre_enfermedad: Iridodiálisis
+    tipo_causa: Monocular un ojo
+
+  1273:
+    nombre_enfermedad: Subluxación del cristalino
+    tipo_causa: Monocular un ojo
+
+  1274:
+    nombre_enfermedad: Mala adaptación de lentes de contacto
+    tipo_causa: Monocular un ojo
+
+  1275:
+    nombre_enfermedad: Error de refracción no corregido
+    tipo_causa: Monocular un ojo
+
+  1276:
+    nombre_enfermedad: Enfermedad de Graves-Basedow bocio exoftálmico
+    tipo_causa: Bilateral
+
+  1277:
+    nombre_enfermedad: Celullitis
+    tipo_causa: Unilateral
+
+  1278:
+    nombre_enfermedad: Escleritis
+    tipo_causa: Unilateral
+
+  1279:
+    nombre_enfermedad: Flemón orbitario
+    tipo_causa: Unilateral
+
+  1280:
+    nombre_enfermedad: Trombosis seno cavernoso
+    tipo_causa: Unilateral
+
+  1281:
+    nombre_enfermedad: Dacrioadenitis
+    tipo_causa: Unilateral
+
+  1282:
+    nombre_enfermedad: Periostitis aguda
+    tipo_causa: Unilateral
+
+  1283:
+    nombre_enfermedad: Hematoma orbitario Hemangioma
+    tipo_causa: Unilateral
+
+  1284:
+    nombre_enfermedad: Fractura de pared orbitaria Enfisema orbitario
+    tipo_causa: Unilateral
+
+  1285:
+    nombre_enfermedad: Aneurisma arteriovenoso
+    tipo_causa: Unilateral
+
+  1286:
+    nombre_enfermedad: Angioma difuso
+    tipo_causa: Unilateral
+
+  1287:
+    nombre_enfermedad: Várices orbitarias
+    tipo_causa: Unilateral
+
+  1288:
+    nombre_enfermedad: TBC
+    tipo_causa: Unilateral
+
+  1289:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Unilateral
+
+  1290:
+    nombre_enfermedad: Sinusitis crónica
+    tipo_causa: Unilateral
+
+  1291:
+    nombre_enfermedad: Tumores: glioma, neurofibroma, linfangioma, hemamngioma, sarcomas, leucemias
+    tipo_causa: Unilateral
+
+  1292:
+    nombre_enfermedad: Fístula carótido-cavernosa
+    tipo_causa: Unilateral
+
+  1293:
+    nombre_enfermedad: Quistes dermoides
+    tipo_causa: Unilateral
+
+  1294:
+    nombre_enfermedad: Displasias óseas
+    tipo_causa: Unilateral
+
+  1295:
+    nombre_enfermedad: Aneurisma de la arteria carótida
+    tipo_causa: Causas
+
+  1296:
+    nombre_enfermedad: Derrame cerebral
+    tipo_causa: Causas
+
+  1297:
+    nombre_enfermedad: Lesión del lóbulo occipital
+    tipo_causa: Causas
+
+  1298:
+    nombre_enfermedad: Lesión del lóbulo parietal
+    tipo_causa: Causas
+
+  1299:
+    nombre_enfermedad: Tumor hipofisiario
+    tipo_causa: Causas
+
+  1300:
+    nombre_enfermedad: Atrofia globo ocular
+    tipo_causa: Causas
+
+  1301:
+    nombre_enfermedad: Oftalmia simpática
+    tipo_causa: Causas
+
+  1302:
+    nombre_enfermedad: Enfermedades consuntivas
+    tipo_causa: Causas
+
+  1303:
+    nombre_enfermedad: Traumatismos orbitarios
+    tipo_causa: Causas
+
+  1304:
+    nombre_enfermedad: Sindrome de Claudio Bernard Hornenr
+    tipo_causa: Causas
+
+  1305:
+    nombre_enfermedad: Queratitis
+    tipo_causa: Con supuración
+
+  1306:
+    nombre_enfermedad: Conjuntivitis
+    tipo_causa: Con supuración
+
+  1307:
+    nombre_enfermedad: Dacriocistitis
+    tipo_causa: Con supuración
+
+  1308:
+    nombre_enfermedad: Epiescleritis
+    tipo_causa: Con supuración
+
+  1309:
+    nombre_enfermedad: Herpes Zoster
+    tipo_causa: Con supuración
+
+  1310:
+    nombre_enfermedad: Psoriasis vulgar
+    tipo_causa: Con supuración
+
+  1311:
+    nombre_enfermedad: Tracoma
+    tipo_causa: Con supuración
+
+  1312:
+    nombre_enfermedad: Abrasión corneal
+    tipo_causa: Con supuración
+
+  1313:
+    nombre_enfermedad: Cuerpo extraño
+    tipo_causa: Con supuración
+
+  1314:
+    nombre_enfermedad: Afecciones nasales
+    tipo_causa: Con supuración
+
+  1315:
+    nombre_enfermedad: Oclusión de conducto lacrimal
+    tipo_causa: Con supuración
+
+  1316:
+    nombre_enfermedad: Dacriocistitis crónica
+    tipo_causa: Sin supuración
+
+  1317:
+    nombre_enfermedad: Deficiencia del lagrimeo
+    tipo_causa: Sin supuración
+
+  1318:
+    nombre_enfermedad: Ausencia de glándula lagrimal
+    tipo_causa: Sin supuración
+
+  1319:
+    nombre_enfermedad: Obstrucción de conductos secretores
+    tipo_causa: Sin supuración
+
+  1320:
+    nombre_enfermedad: Déficit de vitamina A xeroftalmia
+    tipo_causa: Sin supuración
+
+  1321:
+    nombre_enfermedad: Queratoconjuntivitis seca
+    tipo_causa: Sin supuración
+
+  1322:
+    nombre_enfermedad: Síndrome de Mikulicks
+    tipo_causa: Sin supuración
+
+  1323:
+    nombre_enfermedad: Disgenesia simple del elevador
+    tipo_causa: Causas congénitas
+
+  1324:
+    nombre_enfermedad: Disgenesia combinada del elevador y del recto superior
+    tipo_causa: Causas congénitas
+
+  1325:
+    nombre_enfermedad: Defecto aponeurótico congènito
+    tipo_causa: Causas congénitas
+
+  1326:
+    nombre_enfermedad: Parálisis del III par
+    tipo_causa: Causas congénitas
+
+  1327:
+    nombre_enfermedad: Síndrome de Horner
+    tipo_causa: Causas congénitas
+
+  1328:
+    nombre_enfermedad: Síndrome de Marcus Gunn
+    tipo_causa: Causas congénitas
+
+  1329:
+    nombre_enfermedad: Ptosis involutiva o aponeurótica senil
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1330:
+    nombre_enfermedad: Blefarocalasia
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1331:
+    nombre_enfermedad: Ptosis aponeurótica congènita
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1332:
+    nombre_enfermedad: Ptosis asociada al embarazo
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1333:
+    nombre_enfermedad: Uso de lentes de contacto rígidos
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1334:
+    nombre_enfermedad: Ptosis en la oftalmopatía tiroidea
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1335:
+    nombre_enfermedad: Parálisis facial
+    tipo_causa: Aponeurótica alteración en la aponeurosis del músculo elevador
+
+  1336:
+    nombre_enfermedad: Oftalmoplejía crónica externa progresiva
+    tipo_causa: Morfogénica disfunción muscular del párpado
+
+  1337:
+    nombre_enfermedad: Distrofica oculofaríngea
+    tipo_causa: Morfogénica disfunción muscular del párpado
+
+  1338:
+    nombre_enfermedad: Distrofia miotónica de Steinert
+    tipo_causa: Morfogénica disfunción muscular del párpado
+
+  1339:
+    nombre_enfermedad: Miastenia gravis
+    tipo_causa: Morfogénica disfunción muscular del párpado
+
+  1340:
+    nombre_enfermedad: Parálisis del III par
+    tipo_causa: Causas neurogénicas
+
+  1341:
+    nombre_enfermedad: Migraña oftalmopléjica
+    tipo_causa: Causas neurogénicas
+
+  1342:
+    nombre_enfermedad: Sindrome de Duane
+    tipo_causa: Causas neurogénicas
+
+  1343:
+    nombre_enfermedad: Sindrome de Guillain-Barré
+    tipo_causa: Causas neurogénicas
+
+  1344:
+    nombre_enfermedad: Sindrome de Horner
+    tipo_causa: Causas neurogénicas
+
+  1345:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Causas neurogénicas
+
+  1346:
+    nombre_enfermedad: Ptosis de Marcus-Gunn
+    tipo_causa: Causas neurogénicas
+
+  1347:
+    nombre_enfermedad: Edemas palpebrales
+    tipo_causa: Ptosis mecánica
+
+  1348:
+    nombre_enfermedad: Tumores palpebrales
+    tipo_causa: Ptosis mecánica
+
+  1349:
+    nombre_enfermedad: Tumores orbitarios
+    tipo_causa: Ptosis mecánica
+
+  1350:
+    nombre_enfermedad: Dermatocalasia
+    tipo_causa: Ptosis mecánica
+
+  1351:
+    nombre_enfermedad: Cicatrización conjuntival
+    tipo_causa: Ptosis mecánica
+
+  1352:
+    nombre_enfermedad: Quemaduras químicas
+    tipo_causa: Causas oculares
+
+  1353:
+    nombre_enfermedad: Cuerpo extraño en córnea
+    tipo_causa: Causas oculares
+
+  1354:
+    nombre_enfermedad: Úlcera corneal
+    tipo_causa: Causas oculares
+
+  1355:
+    nombre_enfermedad: Hifema
+    tipo_causa: Causas oculares
+
+  1356:
+    nombre_enfermedad: Uveitis
+    tipo_causa: Causas oculares
+
+  1357:
+    nombre_enfermedad: Iritis aguda
+    tipo_causa: Causas oculares
+
+  1358:
+    nombre_enfermedad: Glaucoma tratado
+    tipo_causa: Causas oculares
+
+  1359:
+    nombre_enfermedad: Hipermetropía
+    tipo_causa: Causas oculares
+
+  1360:
+    nombre_enfermedad: Arterieesclerosis vascular cerebral
+    tipo_causa: Causas extraoculares
+
+  1361:
+    nombre_enfermedad: Neuropatía diabética
+    tipo_causa: Causas extraoculares
+
+  1362:
+    nombre_enfermedad: Neurosífilis tabes dorsal
+    tipo_causa: Causas extraoculares
+
+  1363:
+    nombre_enfermedad: Siringomielia
+    tipo_causa: Causas extraoculares
+
+  1364:
+    nombre_enfermedad: Cefalea acuminada
+    tipo_causa: Causas extraoculares
+
+  1365:
+    nombre_enfermedad: Parálisis simpática cerebral Homer
+    tipo_causa: Causas extraoculares
+
+  1366:
+    nombre_enfermedad: Neuropatía alcohólica
+    tipo_causa: Causas extraoculares
+
+  1367:
+    nombre_enfermedad: Parálisis progresiva
+    tipo_causa: Causas extraoculares
+
+  1368:
+    nombre_enfermedad: Uremia
+    tipo_causa: Causas extraoculares
+
+  1369:
+    nombre_enfermedad: Hemorragia
+    tipo_causa: Causas extraoculares
+
+  1370:
+    nombre_enfermedad: Reflejo cocleopupilar luego de un sonido fuerte
+    tipo_causa: Causas extraoculares
+
+  1371:
+    nombre_enfermedad: Anestesia profunda
+    tipo_causa: Secundaria a fármacos
+
+  1372:
+    nombre_enfermedad: Barbáricos
+    tipo_causa: Secundaria a fármacos
+
+  1373:
+    nombre_enfermedad: Colinérgicos
+    tipo_causa: Secundaria a fármacos
+
+  1374:
+    nombre_enfermedad: Anticolinesterásicos
+    tipo_causa: Secundaria a fármacos
+
+  1375:
+    nombre_enfermedad: Clonidina sobredosis
+    tipo_causa: Secundaria a fármacos
+
+  1376:
+    nombre_enfermedad: Guanetidia
+    tipo_causa: Secundaria a fármacos
+
+  1377:
+    nombre_enfermedad: Opiaceos
+    tipo_causa: Secundaria a fármacos
+
+  1378:
+    nombre_enfermedad: Reserpina
+    tipo_causa: Secundaria a fármacos
+
+  1379:
+    nombre_enfermedad: Agentes mioticos
+    tipo_causa: Secundaria a fármacos
+
+  1380:
+    nombre_enfermedad: Blefaritis idiopáticas: anterior, posterior, alérgica
+    tipo_causa: Ojo indoloro
+
+  1381:
+    nombre_enfermedad: Blefaritis alérgica: angular Moraxella lacunata
+ Marginal herpes
+ parasitaria
+    tipo_causa: Ojo indoloro
+
+  1382:
+    nombre_enfermedad: Patología palpebral: Orzuelo, herpes zoster
+    tipo_causa: Patología inflamatoria
+
+  1383:
+    nombre_enfermedad: Patología del saco lacrimal: Dacriocistitis aguda
+    tipo_causa: Patología inflamatoria
+
+  1384:
+    nombre_enfermedad: Patología epiescleral: Epiescleritis
+    tipo_causa: Patología inflamatoria
+
+  1385:
+    nombre_enfermedad: Patología corneal: Queratitis
+    tipo_causa: Patología inflamatoria
+
+  1386:
+    nombre_enfermedad: Patología uveal: Uveítis anterjor aguda
+    tipo_causa: Patología inflamatoria
+
+  1387:
+    nombre_enfermedad: Patología orbitaria: Celulitis orbitaria
+    tipo_causa: Patología inflamatoria
+
+  1388:
+    nombre_enfermedad: Glaucoma
+    tipo_causa: Hipertensión ocular
+
+  1389:
+    nombre_enfermedad: Agentes mecánicos
+    tipo_causa: Patología traumática
+
+  1390:
+    nombre_enfermedad: Agentes físicos térmicos, radioactividad, electricidad
+    tipo_causa: Patología traumática
+
+  1391:
+    nombre_enfermedad: Agentes químicos álcalis, ácidos
+    tipo_causa: Patología traumática
+
+  1392:
+    nombre_enfermedad: Agentes corrosivos gases lacrimógenos, solventes
+    tipo_causa: Patología traumática
+
+  1393:
+    nombre_enfermedad: Glaucoma agudo de ángulo cerrado
+    tipo_causa: Causas
+
+  1394:
+    nombre_enfermedad: Parálisis del nervio Oculomotor
+    tipo_causa: Causas
+
+  1395:
+    nombre_enfermedad: Iridoplejía traumática
+    tipo_causa: Causas
+
+  1396:
+    nombre_enfermedad: Botulismo
+    tipo_causa: Causas
+
+  1397:
+    nombre_enfermedad: Síndrome del cayado aórtico manifestación tardía
+    tipo_causa: Causas
+
+  1398:
+    nombre_enfermedad: Aneurisma de la arteria carótida generalmente unilateral
+    tipo_causa: Causas
+
+  1399:
+    nombre_enfermedad: Tirotoxicosis
+    tipo_causa: Causas
+
+  1400:
+    nombre_enfermedad: Hemorragia epidural
+    tipo_causa: Causas
+
+  1401:
+    nombre_enfermedad: Hemorragia subdural
+    tipo_causa: Causas
+
+  1402:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Causas
+
+  1403:
+    nombre_enfermedad: Meningitis
+    tipo_causa: Causas
+
+  1404:
+    nombre_enfermedad: Coma
+    tipo_causa: Causas
+
+  1405:
+    nombre_enfermedad: Feocromocitoma
+    tipo_causa: Causas
+
+  1406:
+    nombre_enfermedad: Síndrome de Parinaud
+    tipo_causa: Causas
+
+  1407:
+    nombre_enfermedad: Síndrome de Adié
+    tipo_causa: Causas
+
+  1408:
+    nombre_enfermedad: Infarto del tronco
+    tipo_causa: Causas
+
+  1409:
+    nombre_enfermedad: Intoxicación: Atropina, cocaína, cianuro, alcohol, monóxido de carbono,marihuana,adrenalina,ecolopamina
+    tipo_causa: Causas
+
+  1410:
+    nombre_enfermedad: Sífilis nerviosa forma parte del signo de Argyll-Robertson
+    tipo_causa: Causas
+
+  1411:
+    nombre_enfermedad: Diferencias de refracción entre ambos ojos
+    tipo_causa: Causas
+
+  1412:
+    nombre_enfermedad: Alteración congènita
+    tipo_causa: Causas
+
+  1413:
+    nombre_enfermedad: Tumor cerebral
+    tipo_causa: Causas
+
+  1414:
+    nombre_enfermedad: Fractura
+    tipo_causa: Enfermedades en huesos
+
+  1415:
+    nombre_enfermedad: Infección Osteomielitis
+    tipo_causa: Enfermedades en huesos
+
+  1416:
+    nombre_enfermedad: Tumor
+    tipo_causa: Enfermedades en huesos
+
+  1417:
+    nombre_enfermedad: Necrosis avascular
+    tipo_causa: Enfermedades en huesos
+
+  1418:
+    nombre_enfermedad: Ruptura traumática, contusión
+    tipo_causa: Enfermedades musculares
+
+  1419:
+    nombre_enfermedad: Calambre secundario a fatiga, torsión o malposición
+    tipo_causa: Enfermedades musculares
+
+  1420:
+    nombre_enfermedad: Miositis
+    tipo_causa: Enfermedades musculares
+
+  1421:
+    nombre_enfermedad: Claudicación arterial
+    tipo_causa: Enfermedad vascular
+
+  1422:
+    nombre_enfermedad: Tromboflebitis
+    tipo_causa: Enfermedad vascular
+
+  1423:
+    nombre_enfermedad: Artritis traumática
+    tipo_causa: Enfermedad articular
+
+  1424:
+    nombre_enfermedad: Artritis infecciosa
+    tipo_causa: Enfermedad articular
+
+  1425:
+    nombre_enfermedad: Artritis inmune: artritis reumatoidea, Lupus, vasculitis
+    tipo_causa: Enfermedad articular
+
+  1426:
+    nombre_enfermedad: Artritis cristalina
+    tipo_causa: Enfermedad articular
+
+  1427:
+    nombre_enfermedad: Gota
+    tipo_causa: Enfermedad articular
+
+  1428:
+    nombre_enfermedad: Seudogota
+    tipo_causa: Enfermedad articular
+
+  1429:
+    nombre_enfermedad: Hemartrosis
+    tipo_causa: Enfermedad articular
+
+  1430:
+    nombre_enfermedad: Hemofilia
+    tipo_causa: Enfermedad articular
+
+  1431:
+    nombre_enfermedad: Compresión medular
+    tipo_causa: Enfermedad neurológica
+
+  1432:
+    nombre_enfermedad: Trauma de pie
+    tipo_causa: Otras
+
+  1433:
+    nombre_enfermedad: Cuerpos extraños
+    tipo_causa: Otras
+
+  1434:
+    nombre_enfermedad: Callos, juanetes
+    tipo_causa: Otras
+
+  1435:
+    nombre_enfermedad: Enfermedad de Meniere
+    tipo_causa: Vertigo repentino
+
+  1436:
+    nombre_enfermedad: Otopatía vestibular unilateral: traumatismo, trombosis, edemas, hemorragias, embolias
+    tipo_causa: Vertigo continuo
+
+  1437:
+    nombre_enfermedad: Inflamaciones: laberintitis, meningoencefalitis
+    tipo_causa: Vertigo continuo
+
+  1438:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Vertigo continuo
+
+  1439:
+    nombre_enfermedad: Tumores de la silla turca
+    tipo_causa: Vertigo continuo
+
+  1440:
+    nombre_enfermedad: Neuritis vestibular
+    tipo_causa: Vertigo continuo
+
+  1441:
+    nombre_enfermedad: Estenosis vascular
+    tipo_causa: Vertigo intermitetne
+
+  1442:
+    nombre_enfermedad: Sindrome de disregulación de la subclavia
+    tipo_causa: Vertigo intermitetne
+
+  1443:
+    nombre_enfermedad: Sindrome postconmocional
+    tipo_causa: Vertigo intermitetne
+
+  1444:
+    nombre_enfermedad: Otitis
+    tipo_causa: Vertigo intermitetne
+
+  1445:
+    nombre_enfermedad: Fistula de los conductos semicirculares
+    tipo_causa: Vertigo intermitetne
+
+  1446:
+    nombre_enfermedad: Mareo en ortostatismo
+    tipo_causa: Vertigo intermitetne
+
+  1447:
+    nombre_enfermedad: Infecciones: sarampión,tifus
+    tipo_causa: Otras causas
+
+  1448:
+    nombre_enfermedad: Fármacos: estreptomicina, quinina, barbitúricos
+    tipo_causa: Otras causas
+
+  1449:
+    nombre_enfermedad: Hipertensión arterial
+    tipo_causa: Otras causas
+
+  1450:
+    nombre_enfermedad: Alteración cocular: diplopia, glaucoma, anisocoria
+    tipo_causa: Otras causas
+
+  1451:
+    nombre_enfermedad: Vértigo de las alturas
+    tipo_causa: Otras causas
+
+  1452:
+    nombre_enfermedad: Gestación
+    tipo_causa: Otras causas
+
+  1453:
+    nombre_enfermedad: Intoxicación endógena: uremia
+    tipo_causa: Otras causas
+
+  1454:
+    nombre_enfermedad: Enfermedades hematógenas: anemia, poliglobulia
+    tipo_causa: Otras causas
+
+  1455:
+    nombre_enfermedad: Epilepsia
+    tipo_causa: Otras causas
+
+  1456:
+    nombre_enfermedad: Psicógeno
+    tipo_causa: Otras causas
+
+  1457:
+    nombre_enfermedad: Cardiopatías: Estenosis valvular, insuficiencia cardíaca, arritmias
+    tipo_causa: Otras causas
+
+  1458:
+    nombre_enfermedad: Espondilitis cervical
+    tipo_causa: Otras causas
+
+  1459:
+    nombre_enfermedad: Infarto bilateral del hipocampo
+    tipo_causa: Inicio súbito con recuperación gradual
+
+  1460:
+    nombre_enfermedad: Embolia arterias cerebrales
+    tipo_causa: Inicio súbito con recuperación gradual
+
+  1461:
+    nombre_enfermedad: Traumas
+    tipo_causa: Inicio súbito con recuperación gradual
+
+  1462:
+    nombre_enfermedad: Hemorragia subaracnoidea expontánea envenenamiento por monóxido de carbono
+    tipo_causa: Inicio súbito con recuperación gradual
+
+  1463:
+    nombre_enfermedad: Convulsiones del lóbulo temporal
+    tipo_causa: Inicio súbito con recuperación total
+
+  1464:
+    nombre_enfermedad: Estados postconcusión
+    tipo_causa: Inicio súbito con recuperación total
+
+  1465:
+    nombre_enfermedad: Amnesia global transitoria
+    tipo_causa: Inicio súbito con recuperación total
+
+  1466:
+    nombre_enfermedad: Enfermedad de Wemicke-Korsakoff
+    tipo_causa: Inicio subagudo
+
+  1467:
+    nombre_enfermedad: Encefalitis por cuerpos de inclusión herpes simple
+    tipo_causa: Inicio subagudo
+
+  1468:
+    nombre_enfermedad: Meningitis tuberculosa o de otros tipos que se caracteriza por exudado granulomatoso en la base del encéfalo
+    tipo_causa: Inicio subagudo
+
+  1469:
+    nombre_enfermedad: Tumores que afectan las paredes del III ventrículo y los lóbulos temporales
+    tipo_causa: Curso progresivo lento
+
+  1470:
+    nombre_enfermedad: Enfermedad de Alzheimer y otros trastornos degenerativos
+    tipo_causa: Curso progresivo lento
+
+  1471:
+    nombre_enfermedad: Parkinsonismo
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1472:
+    nombre_enfermedad: Enf. de Parkinson
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1473:
+    nombre_enfermedad: Parálisis progresiva
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1474:
+    nombre_enfermedad: Esclerosis múltiple
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1475:
+    nombre_enfermedad: Ataxia de Friedreich
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1476:
+    nombre_enfermedad: Ateroesclerosis cerebral
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1477:
+    nombre_enfermedad: Tumor cerebeloso
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1478:
+    nombre_enfermedad: Heredoataxia cerebelosa
+    tipo_causa: Enfermedad del sistema nervioso central
+
+  1479:
+    nombre_enfermedad: Alcohol
+    tipo_causa: Intoxicación y fármacos
+
+  1480:
+    nombre_enfermedad: Plomo
+    tipo_causa: Intoxicación y fármacos
+
+  1481:
+    nombre_enfermedad: Nicotina
+    tipo_causa: Intoxicación y fármacos
+
+  1482:
+    nombre_enfermedad: Cafeína
+    tipo_causa: Intoxicación y fármacos
+
+  1483:
+    nombre_enfermedad: Fenotiazina
+    tipo_causa: Intoxicación y fármacos
+
+  1484:
+    nombre_enfermedad: Cocaína
+    tipo_causa: Intoxicación y fármacos
+
+  1485:
+    nombre_enfermedad: Morfina
+    tipo_causa: Intoxicación y fármacos
+
+  1486:
+    nombre_enfermedad: Tiroxina
+    tipo_causa: Intoxicación y fármacos
+
+  1487:
+    nombre_enfermedad: Mercurio
+    tipo_causa: Intoxicación y fármacos
+
+  1488:
+    nombre_enfermedad: Procaína
+    tipo_causa: Intoxicación y fármacos
+
+  1489:
+    nombre_enfermedad: Piperazina
+    tipo_causa: Intoxicación y fármacos
+
+  1490:
+    nombre_enfermedad: Imipramina
+    tipo_causa: Intoxicación y fármacos
+
+  1491:
+    nombre_enfermedad: Alteración hepática
+    tipo_causa: Coma hepático
+
+  1492:
+    nombre_enfermedad: Delirium tremens
+    tipo_causa: Miscelánea
+
+  1493:
+    nombre_enfermedad: Frío
+    tipo_causa: Miscelánea
+
+  1494:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Miscelánea
+
+  1495:
+    nombre_enfermedad: Hipoglicemia
+    tipo_causa: Miscelánea
+
+  1496:
+    nombre_enfermedad: Feocromocitoma
+    tipo_causa: Miscelánea
+
+  1497:
+    nombre_enfermedad: Histeria
+    tipo_causa: Miscelánea
+
+  1498:
+    nombre_enfermedad: Nerviosismo
+    tipo_causa: Miscelánea
+
+  1499:
+    nombre_enfermedad: Deficit  de magnesio
+    tipo_causa: Miscelánea
+
+  1500:
+    nombre_enfermedad: Fenilcetonuria
+    tipo_causa: Miscelánea
+
+  1501:
+    nombre_enfermedad: Temblor senil
+    tipo_causa: Miscelánea
+
+  1502:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Causas
+
+  1503:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas
+
+  1504:
+    nombre_enfermedad: lepra
+    tipo_causa: Causas
+
+  1505:
+    nombre_enfermedad: Mecánica
+    tipo_causa: Causas
+
+  1506:
+    nombre_enfermedad: Sarcoidosís
+    tipo_causa: Causas
+
+  1507:
+    nombre_enfermedad: Carcinomas
+    tipo_causa: Causas
+
+  1508:
+    nombre_enfermedad: Enfermedades reumáticas
+    tipo_causa: Causas
+
+  1509:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas metabólicas
+
+  1510:
+    nombre_enfermedad: Uremia
+    tipo_causa: Causas metabólicas
+
+  1511:
+    nombre_enfermedad: Amiloidosis primaria
+    tipo_causa: Causas metabólicas
+
+  1512:
+    nombre_enfermedad: Cirrosis biliar primaria
+    tipo_causa: Causas metabólicas
+
+  1513:
+    nombre_enfermedad: Disproteinemia
+    tipo_causa: Causas metabólicas
+
+  1514:
+    nombre_enfermedad: Paraproteinemia
+    tipo_causa: Causas metabólicas
+
+  1515:
+    nombre_enfermedad: Mixedema
+    tipo_causa: Causas metabólicas
+
+  1516:
+    nombre_enfermedad: Porfiria
+    tipo_causa: Causas metabólicas
+
+  1517:
+    nombre_enfermedad: Déficit de vitamina B1
+    tipo_causa: Procesos carenciales
+
+  1518:
+    nombre_enfermedad: Déficit de vitamina B12 anemia perniciosa
+    tipo_causa: Procesos carenciales
+
+  1519:
+    nombre_enfermedad: Déficit de ácido fólico
+    tipo_causa: Procesos carenciales
+
+  1520:
+    nombre_enfermedad: Fiebre tifoidea
+    tipo_causa: Enfermedades infecciosas
+
+  1521:
+    nombre_enfermedad: Paludismo
+    tipo_causa: Enfermedades infecciosas
+
+  1522:
+    nombre_enfermedad: Paratifus
+    tipo_causa: Enfermedades infecciosas
+
+  1523:
+    nombre_enfermedad: Hepatitis
+    tipo_causa: Enfermedades infecciosas
+
+  1524:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa: Enfermedades infecciosas
+
+  1525:
+    nombre_enfermedad: Herpes zoster
+    tipo_causa: Enfermedades infecciosas
+
+  1526:
+    nombre_enfermedad: Tétanos
+    tipo_causa: Enfermedades infecciosas
+
+  1527:
+    nombre_enfermedad: Parotiditis
+    tipo_causa: Enfermedades infecciosas
+
+  1528:
+    nombre_enfermedad: Difteria
+    tipo_causa: Enfermedades infecciosas
+
+  1529:
+    nombre_enfermedad: Botulismo
+    tipo_causa: Enfermedades infecciosas
+
+  1530:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Enfermedades infecciosas
+
+  1531:
+    nombre_enfermedad: Fiebre exantemática
+    tipo_causa: Enfermedades infecciosas
+
+  1532:
+    nombre_enfermedad: Brucelosis
+    tipo_causa: Enfermedades infecciosas
+
+  1533:
+    nombre_enfermedad: Lepra
+    tipo_causa: Enfermedades infecciosas
+
+  1534:
+    nombre_enfermedad: Lupus eritematoso sistémico LES
+    tipo_causa: Colagenosis
+
+  1535:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Colagenosis
+
+  1536:
+    nombre_enfermedad: Esclerodermia
+    tipo_causa: Colagenosis
+
+  1537:
+    nombre_enfermedad: Síndrome de Sjógren
+    tipo_causa: Colagenosis
+
+  1538:
+    nombre_enfermedad: Isoniazida
+    tipo_causa: Fármacos e intoxicaciones
+
+  1539:
+    nombre_enfermedad: Vincristina
+    tipo_causa: Fármacos e intoxicaciones
+
+  1540:
+    nombre_enfermedad: Nitrofurantoína
+    tipo_causa: Fármacos e intoxicaciones
+
+  1541:
+    nombre_enfermedad: Hidralazina
+    tipo_causa: Fármacos e intoxicaciones
+
+  1542:
+    nombre_enfermedad: Meprobamato
+    tipo_causa: Fármacos e intoxicaciones
+
+  1543:
+    nombre_enfermedad: Intoxicación por CO
+    tipo_causa: Fármacos e intoxicaciones
+
+  1544:
+    nombre_enfermedad: Alcoholismo
+    tipo_causa: Fármacos e intoxicaciones
+
+  1545:
+    nombre_enfermedad: Solventes orgánicos
+    tipo_causa: Fármacos e intoxicaciones
+
+  1546:
+    nombre_enfermedad: Tricoroetileno
+    tipo_causa: Fármacos e intoxicaciones
+
+  1547:
+    nombre_enfermedad: Disulfuro
+    tipo_causa: Fármacos e intoxicaciones
+
+  1548:
+    nombre_enfermedad: Acetazolamida
+    tipo_causa: Fármacos e intoxicaciones
+
+  1549:
+    nombre_enfermedad: Metales pesados Pb, Ta
+    tipo_causa: Fármacos e intoxicaciones
+
+  1550:
+    nombre_enfermedad: Traumatismos
+    tipo_causa: Causas mecánicas
+
+  1551:
+    nombre_enfermedad: Compresión aplastamiento
+    tipo_causa: Causas mecánicas
+
+  1552:
+    nombre_enfermedad: Lesiones vertebrales
+    tipo_causa: Causas mecánicas
+
+  1553:
+    nombre_enfermedad: Ataxia hereditaria
+    tipo_causa: Miscelánea
+
+  1554:
+    nombre_enfermedad: Síndrome paraneopiásico
+    tipo_causa: Miscelánea
+
+  1555:
+    nombre_enfermedad: Carcinoma bronquial
+    tipo_causa: Miscelánea
+
+  1556:
+    nombre_enfermedad: Sind. de Guillain Barré
+    tipo_causa: Miscelánea
+
+  1557:
+    nombre_enfermedad: Postvacunación tetánica
+    tipo_causa: Miscelánea
+
+  1558:
+    nombre_enfermedad: Microangiopatia trombótica
+    tipo_causa: Miscelánea
+
+  1559:
+    nombre_enfermedad: Anemias normocromicas normocíticas
+    tipo_causa: Disminución en la producción de glóbulos rojos
+
+  1560:
+    nombre_enfermedad: Anemias hipocrómicas microcíticas
+    tipo_causa: Disminución en la producción de glóbulos rojos
+
+  1561:
+    nombre_enfermedad: Anemias macrocíticas megaloblásticas
+    tipo_causa: Disminución en la producción de glóbulos rojos
+
+  1562:
+    nombre_enfermedad: Anemias hemolíticas
+    tipo_causa: Destrucción excesiva de globulos rojos
+
+  1563:
+    nombre_enfermedad: Hemorragias
+    tipo_causa: Pérdidas sanguíneas
+
+  1564:
+    nombre_enfermedad: Sangrado crónico
+    tipo_causa: Pérdidas sanguíneas
+
+  1565:
+    nombre_enfermedad: Secundario a tratamiento médico
+    tipo_causa: Causas yatrógenas
+
+  1566:
+    nombre_enfermedad: Bocio tóxico difuso enfermedad de Graves
+    tipo_causa: Causas
+
+  1567:
+    nombre_enfermedad: Adenoma tóxico
+    tipo_causa: Causas
+
+  1568:
+    nombre_enfermedad: Bocio multinodular tóxico enfermedad de Plummer
+    tipo_causa: Causas
+
+  1569:
+    nombre_enfermedad: Tiroiditis subaguda
+    tipo_causa: Causas
+
+  1570:
+    nombre_enfermedad: Tiroiditis silente
+    tipo_causa: Causas
+
+  1571:
+    nombre_enfermedad: Hipertiroidismo inducido por yodo
+    tipo_causa: Causas
+
+  1572:
+    nombre_enfermedad: Exceso de ingesta de hormona tiroidea
+    tipo_causa: Causas
+
+  1573:
+    nombre_enfermedad: Enfermedad hipofisiaria con exceso de TSH
+    tipo_causa: Causas
+
+  1574:
+    nombre_enfermedad: Ovulación
+    tipo_causa: Aumento fisiológico
+
+  1575:
+    nombre_enfermedad: Embarazo
+    tipo_causa: Aumento fisiológico
+
+  1576:
+    nombre_enfermedad: Exitacion sexual
+    tipo_causa: Aumento fisiológico
+
+  1577:
+    nombre_enfermedad: Trichomonosis verde grisáceo y espumoso
+    tipo_causa: Aumento patológico
+
+  1578:
+    nombre_enfermedad: Candidiasis blanquecino, grumoso
+    tipo_causa: Aumento patológico
+
+  1579:
+    nombre_enfermedad: Vaginosis bacteriana fuerte olor a pescado
+    tipo_causa: Aumento patológico
+
+  1580:
+    nombre_enfermedad: Caries dental
+    tipo_causa: Enfermedades orales
+
+  1581:
+    nombre_enfermedad: Amigdalitis crónica
+    tipo_causa: Enfermedades orales
+
+  1582:
+    nombre_enfermedad: Absceso amigdalino
+    tipo_causa: Enfermedades orales
+
+  1583:
+    nombre_enfermedad: Paradontosis
+    tipo_causa: Enfermedades orales
+
+  1584:
+    nombre_enfermedad: Estomatitis
+    tipo_causa: Enfermedades orales
+
+  1585:
+    nombre_enfermedad: Agranulocitosis
+    tipo_causa: Enfermedades orales
+
+  1586:
+    nombre_enfermedad: Ulcera tumoral intrabucal
+    tipo_causa: Enfermedades orales
+
+  1587:
+    nombre_enfermedad: Mononucleosis
+    tipo_causa: Enfermedades orales
+
+  1588:
+    nombre_enfermedad: Difteria aliento dulzón
+    tipo_causa: Enfermedades orales
+
+  1589:
+    nombre_enfermedad: Muermo
+    tipo_causa: Enfermedades orales
+
+  1590:
+    nombre_enfermedad: Escarlatina
+    tipo_causa: Enfermedades orales
+
+  1591:
+    nombre_enfermedad: Angina de Paul-Vincent
+    tipo_causa: Enfermedades orales
+
+  1592:
+    nombre_enfermedad: Ozena rinitis atrófica
+    tipo_causa: Enfermedades vías respiratorias
+
+  1593:
+    nombre_enfermedad: Absceso pulmonar
+    tipo_causa: Enfermedades vías respiratorias
+
+  1594:
+    nombre_enfermedad: Bronquiectasia
+    tipo_causa: Enfermedades vías respiratorias
+
+  1595:
+    nombre_enfermedad: Divertículo esofágico
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1596:
+    nombre_enfermedad: Gastritis aliento insípido
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1597:
+    nombre_enfermedad: Carcinoma gástrico
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1598:
+    nombre_enfermedad: Estenosis pilórica
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1599:
+    nombre_enfermedad: Fístula gastrocólica
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1600:
+    nombre_enfermedad: Peritonitis
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1601:
+    nombre_enfermedad: íleo
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1602:
+    nombre_enfermedad: Hiperacidosis
+    tipo_causa: Enfermedades esofágicas y del tubo digetivo
+
+  1603:
+    nombre_enfermedad: Cianuro
+    tipo_causa: Intoxicaciones
+
+  1604:
+    nombre_enfermedad: Alcohol
+    tipo_causa: Intoxicaciones
+
+  1605:
+    nombre_enfermedad: Botulismo
+    tipo_causa: Intoxicaciones
+
+  1606:
+    nombre_enfermedad: Benzol
+    tipo_causa: Intoxicaciones
+
+  1607:
+    nombre_enfermedad: Mercurio
+    tipo_causa: Intoxicaciones
+
+  1608:
+    nombre_enfermedad: Coma diabético aliento de acetona
+    tipo_causa: Estado de coma
+
+  1609:
+    nombre_enfermedad: Coma urémico aliento amoniacal
+    tipo_causa: Estado de coma
+
+  1610:
+    nombre_enfermedad: Coma hepático aliento dulzón pútrido
+    tipo_causa: Estado de coma
+
+  1611:
+    nombre_enfermedad: Coma alcohólico
+    tipo_causa: Estado de coma
+
+  1612:
+    nombre_enfermedad: Obstrucción distal del intestino delgado
+    tipo_causa: Aliento olor fecal
+
+  1613:
+    nombre_enfermedad: Fístula gastroyeyunocólica
+    tipo_causa: Aliento olor fecal
+
+  1614:
+    nombre_enfermedad: Obstrucción del intestino grueso
+    tipo_causa: Aliento olor fecal
+
+  1615:
+    nombre_enfermedad: Cetoacidosis diabética
+    tipo_causa: Aliento con olor a fruta
+
+  1616:
+    nombre_enfermedad: Cetoacidosis por inanición
+    tipo_causa: Aliento con olor a fruta
+
+  1617:
+    nombre_enfermedad: Estadio final de la insuficiencia renal crónica
+    tipo_causa: Aliento con olor amoniacal
+
+  1618:
+    nombre_enfermedad: Bronquiectasia
+    tipo_causa: Infecciones pulmonares
+
+  1619:
+    nombre_enfermedad: TBC
+    tipo_causa: Infecciones pulmonares
+
+  1620:
+    nombre_enfermedad: Absceso pulmonar
+    tipo_causa: Infecciones pulmonares
+
+  1621:
+    nombre_enfermedad: Bronquitis aguda
+    tipo_causa: Infecciones pulmonares
+
+  1622:
+    nombre_enfermedad: Bronquitis crónica
+    tipo_causa: Infecciones pulmonares
+
+  1623:
+    nombre_enfermedad: Neumonía Klebsiella
+    tipo_causa: Infecciones pulmonares
+
+  1624:
+    nombre_enfermedad: Micosis pulmonar: aspergilosis, coccidiomicosis, histoplasmosis
+    tipo_causa: Infecciones pulmonares
+
+  1625:
+    nombre_enfermedad: Parasitosis pulmonar: Paragonimosis, Schistosomosis, Ascariosis, Amebosis, Equinococosis, Strongiloidosis
+    tipo_causa: Infecciones pulmonares
+
+  1626:
+    nombre_enfermedad: Carcinoma broncogénico
+    tipo_causa: Neoplasias pulmonares
+
+  1627:
+    nombre_enfermedad: Metástasis pulmonares
+    tipo_causa: Neoplasias pulmonares
+
+  1628:
+    nombre_enfermedad: Hemangioma
+    tipo_causa: Neoplasias pulmonares
+
+  1629:
+    nombre_enfermedad: Adenoma bronquial
+    tipo_causa: Neoplasias pulmonares
+
+  1630:
+    nombre_enfermedad: Cuerpos extraños
+    tipo_causa: Traumáticas
+
+  1631:
+    nombre_enfermedad: Contusión pulmonar
+    tipo_causa: Traumáticas
+
+  1632:
+    nombre_enfermedad: Ruptura bronquial
+    tipo_causa: Traumáticas
+
+  1633:
+    nombre_enfermedad: Postintubación
+    tipo_causa: Traumáticas
+
+  1634:
+    nombre_enfermedad: Infarto Pulmonar
+    tipo_causa: Vasculitis
+
+  1635:
+    nombre_enfermedad: Fístula arteriovenosa
+    tipo_causa: Vasculitis
+
+  1636:
+    nombre_enfermedad: Embolia pulmonar
+    tipo_causa: Vasculitis
+
+  1637:
+    nombre_enfermedad: Hemosiderosis pulmonar idiopàtica
+    tipo_causa: Vasculitis
+
+  1638:
+    nombre_enfermedad: Vasculitis pulmonar: Granulomatosis de Wegener, Sindrome de Goodpasture
+    tipo_causa: Vasculitis
+
+  1639:
+    nombre_enfermedad: Enfermedades sistémicas: Artritis reumatoidea, Lupues eritematoso sistémico
+    tipo_causa: Enfermedades del parénquima pulmonar
+
+  1640:
+    nombre_enfermedad: Fibrosis intersticial difusa
+    tipo_causa: Enfermedades del parénquima pulmonar
+
+  1641:
+    nombre_enfermedad: Sarcoidosis y hemosiderosi
+    tipo_causa: Enfermedades del parénquima pulmonar
+
+  1642:
+    nombre_enfermedad: Gangrena pulmonar
+    tipo_causa: Miscelánea pulmonar
+
+  1643:
+    nombre_enfermedad: Fibrosis quística
+    tipo_causa: Miscelánea pulmonar
+
+  1644:
+    nombre_enfermedad: Endometriosis
+    tipo_causa: Miscelánea pulmonar
+
+  1645:
+    nombre_enfermedad: Pulmón congènito en panal
+    tipo_causa: Miscelánea pulmonar
+
+  1646:
+    nombre_enfermedad: Estenosis mitral
+    tipo_causa: Causas cardiovasculares
+
+  1647:
+    nombre_enfermedad: Edema pulmonar
+    tipo_causa: Causas cardiovasculares
+
+  1648:
+    nombre_enfermedad: Hipertensión pulmonar primaria y secundaria
+    tipo_causa: Causas cardiovasculares
+
+  1649:
+    nombre_enfermedad: Aneurisma aórtico
+    tipo_causa: Causas cardiovasculares
+
+  1650:
+    nombre_enfermedad: Fistula arteriovenosa
+    tipo_causa: Causas cardiovasculares
+
+  1651:
+    nombre_enfermedad: Poliarteritis nodosa
+    tipo_causa: Causas cardiovasculares
+
+  1652:
+    nombre_enfermedad: Insuficiencia ventricular izquierda
+    tipo_causa: Causas cardiovasculares
+
+  1653:
+    nombre_enfermedad: Leucemia Linfadenosis
+    tipo_causa: Problemas en la coagulación
+
+  1654:
+    nombre_enfermedad: Enfermedad de Osler
+    tipo_causa: Problemas en la coagulación
+
+  1655:
+    nombre_enfermedad: Enfermedad de Werlhof
+    tipo_causa: Problemas en la coagulación
+
+  1656:
+    nombre_enfermedad: Terapéutica anticoagulante
+    tipo_causa: Problemas en la coagulación
+
+  1657:
+    nombre_enfermedad: Enfermedad de Hodgkin
+    tipo_causa: Problemas en la coagulación
+
+  1658:
+    nombre_enfermedad: Hemoptisis idiopática
+    tipo_causa: Sin causa aparente
+
+  1659:
+    nombre_enfermedad: Anticoagulantes orales
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1660:
+    nombre_enfermedad: Heparina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1661:
+    nombre_enfermedad: Fármacos inmunosupresores con púrpura trombocitopénica
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1662:
+    nombre_enfermedad: Anticonceptivos orales trombosis venosa profunda con infarto pulmonar
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1663:
+    nombre_enfermedad: Neumoconiosis
+    tipo_causa: Causas raras
+
+  1664:
+    nombre_enfermedad: Carcinoma rectal
+    tipo_causa: Neoplasias
+
+  1665:
+    nombre_enfermedad: Carcinoma de colon
+    tipo_causa: Neoplasias
+
+  1666:
+    nombre_enfermedad: Carcinoma anal
+    tipo_causa: Neoplasias
+
+  1667:
+    nombre_enfermedad: Poliposis familiar
+    tipo_causa: Pólipos colónicps
+
+  1668:
+    nombre_enfermedad: Pólipo velloso síndrome de Peutz-Jeghers
+    tipo_causa: Pólipos colónicps
+
+  1669:
+    nombre_enfermedad: Síndrome de Gardner
+    tipo_causa: Pólipos colónicps
+
+  1670:
+    nombre_enfermedad: Síndrome de Cronkhite-Canada
+    tipo_causa: Pólipos colónicps
+
+  1671:
+    nombre_enfermedad: Enfermedad de Crohn
+    tipo_causa: Inflamaciones intestinales
+
+  1672:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Inflamaciones intestinales
+
+  1673:
+    nombre_enfermedad: Cólico mucoso Diverticulitis
+    tipo_causa: Inflamaciones intestinales
+
+  1674:
+    nombre_enfermedad: Protosigmoiditis
+    tipo_causa: Inflamaciones intestinales
+
+  1675:
+    nombre_enfermedad: Colitis radiada
+    tipo_causa: Inflamaciones intestinales
+
+  1676:
+    nombre_enfermedad: Hemorragia del diverticuio de Meckel
+    tipo_causa: Inflamaciones intestinales
+
+  1677:
+    nombre_enfermedad: Hemorroides
+    tipo_causa: Enfermedades proctológicas
+
+  1678:
+    nombre_enfermedad: Fisura anal
+    tipo_causa: Enfermedades proctológicas
+
+  1679:
+    nombre_enfermedad: Fístula anal
+    tipo_causa: Enfermedades proctológicas
+
+  1680:
+    nombre_enfermedad: Prolapso anal
+    tipo_causa: Enfermedades proctológicas
+
+  1681:
+    nombre_enfermedad: Prolapso rectal
+    tipo_causa: Enfermedades proctológicas
+
+  1682:
+    nombre_enfermedad: Disentería por Shigella
+    tipo_causa: Enferemedades infecciosas
+
+  1683:
+    nombre_enfermedad: Disentería amebiana
+    tipo_causa: Enferemedades infecciosas
+
+  1684:
+    nombre_enfermedad: Fiebre tifoidea
+    tipo_causa: Enferemedades infecciosas
+
+  1685:
+    nombre_enfermedad: Bilharziosis intestinal
+    tipo_causa: Enferemedades infecciosas
+
+  1686:
+    nombre_enfermedad: Yersinia
+    tipo_causa: Enferemedades infecciosas
+
+  1687:
+    nombre_enfermedad: Balantidiosis
+    tipo_causa: Enferemedades infecciosas
+
+  1688:
+    nombre_enfermedad: Enteritis necrotizante
+    tipo_causa: Enferemedades infecciosas
+
+  1689:
+    nombre_enfermedad: Embolia de vasos mesentéricos
+    tipo_causa: Trastornos vasculares
+
+  1690:
+    nombre_enfermedad: Trombosis de vasos mesentéricos
+    tipo_causa: Trastornos vasculares
+
+  1691:
+    nombre_enfermedad: Trombosis de la vena porta
+    tipo_causa: Trastornos vasculares
+
+  1692:
+    nombre_enfermedad: Púrpura abdominal de Henoch
+    tipo_causa: Trastornos vasculares
+
+  1693:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Trastornos vasculares
+
+  1694:
+    nombre_enfermedad: Enfermedad de Osler
+    tipo_causa: Trastornos vasculares
+
+  1695:
+    nombre_enfermedad: Perforación aneurismática
+    tipo_causa: Trastornos vasculares
+
+  1696:
+    nombre_enfermedad: Hemangioma
+    tipo_causa: Trastornos vasculares
+
+  1697:
+    nombre_enfermedad: Terapia antivoagulante
+    tipo_causa: Fármacos e intoxicaciones
+
+  1698:
+    nombre_enfermedad: Mercurio
+    tipo_causa: Fármacos e intoxicaciones
+
+  1699:
+    nombre_enfermedad: Arsénico
+    tipo_causa: Fármacos e intoxicaciones
+
+  1700:
+    nombre_enfermedad: Plomo
+    tipo_causa: Fármacos e intoxicaciones
+
+  1701:
+    nombre_enfermedad: Endometriosis intestinal
+    tipo_causa: Otras causas
+
+  1702:
+    nombre_enfermedad: Traumatismo abdominal
+    tipo_causa: Otras causas
+
+  1703:
+    nombre_enfermedad: Shigella
+    tipo_causa: Causa infecciosa
+
+  1704:
+    nombre_enfermedad: Campylobacter jejuni
+    tipo_causa: Causa infecciosa
+
+  1705:
+    nombre_enfermedad: E.coli enteroinvasiva
+    tipo_causa: Causa infecciosa
+
+  1706:
+    nombre_enfermedad: Salmonella
+    tipo_causa: Causa infecciosa
+
+  1707:
+    nombre_enfermedad: Entamoeba histolytica
+    tipo_causa: Causa infecciosa
+
+  1708:
+    nombre_enfermedad: Carcinoma gástrico
+    tipo_causa: Causas gástricas
+
+  1709:
+    nombre_enfermedad: Gastrectomía
+    tipo_causa: Causas gástricas
+
+  1710:
+    nombre_enfermedad: Aquilia
+    tipo_causa: Causas gástricas
+
+  1711:
+    nombre_enfermedad: Linitis plástica
+    tipo_causa: Causas gástricas
+
+  1712:
+    nombre_enfermedad: Fístula gastrocólica
+    tipo_causa: Causas gástricas
+
+  1713:
+    nombre_enfermedad: Vagotonía
+    tipo_causa: Causas gástricas
+
+  1714:
+    nombre_enfermedad: Colitis ulcerativa
+    tipo_causa: Causas intestinales
+
+  1715:
+    nombre_enfermedad: Enfermedad de Crohn
+    tipo_causa: Causas intestinales
+
+  1716:
+    nombre_enfermedad: Neoplasia de colon
+    tipo_causa: Causas intestinales
+
+  1717:
+    nombre_enfermedad: Infección por Yersinia
+    tipo_causa: Causas intestinales
+
+  1718:
+    nombre_enfermedad: Reticulosis
+    tipo_causa: Causas intestinales
+
+  1719:
+    nombre_enfermedad: Amiloidosis
+    tipo_causa: Causas intestinales
+
+  1720:
+    nombre_enfermedad: Linfangiectasia idiopática
+    tipo_causa: Causas intestinales
+
+  1721:
+    nombre_enfermedad: Enfermedad de Whipple
+    tipo_causa: Causas intestinales
+
+  1722:
+    nombre_enfermedad: Diverticulitis
+    tipo_causa: Causas intestinales
+
+  1723:
+    nombre_enfermedad: Enteritis mucosa
+    tipo_causa: Causas intestinales
+
+  1724:
+    nombre_enfermedad: Colon irritable
+    tipo_causa: Causas intestinales
+
+  1725:
+    nombre_enfermedad: Ictericia obstructiva
+    tipo_causa: Causas intestinales
+
+  1726:
+    nombre_enfermedad: TBC intestinal
+    tipo_causa: Causas intestinales
+
+  1727:
+    nombre_enfermedad: Poliposis
+    tipo_causa: Causas intestinales
+
+  1728:
+    nombre_enfermedad: Periarteritis nodosa
+    tipo_causa: Causas intestinales
+
+  1729:
+    nombre_enfermedad: Lesiones postirradiación
+    tipo_causa: Causas intestinales
+
+  1730:
+    nombre_enfermedad: Isquemia mesentérica
+    tipo_causa: Causas intestinales
+
+  1731:
+    nombre_enfermedad: Fístula biliar
+    tipo_causa: Causas intestinales
+
+  1732:
+    nombre_enfermedad: Infecciones parasitarias: Triquinosis, amebiasis, Giardiasis, Ascariosis
+    tipo_causa: Causas intestinales
+
+  1733:
+    nombre_enfermedad: Pancreatitis crónica
+    tipo_causa: Sindrome de mala absorción
+
+  1734:
+    nombre_enfermedad: Esprue
+    tipo_causa: Sindrome de mala absorción
+
+  1735:
+    nombre_enfermedad: Hipertiroidismo
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1736:
+    nombre_enfermedad: Tirotoxicosis
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1737:
+    nombre_enfermedad: Carcinoide
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1738:
+    nombre_enfermedad: Carcinoma tiroideo
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1739:
+    nombre_enfermedad: Enfermedad de Addison
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1740:
+    nombre_enfermedad: Sínd. de Varner-Morrison
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1741:
+    nombre_enfermedad: Sínd. de Zollinger-Ellison
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1742:
+    nombre_enfermedad: Déficit de disacaridasas lactasa
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1743:
+    nombre_enfermedad: Síndrome de Cushing
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1744:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1745:
+    nombre_enfermedad: Hipoparatiroidismo
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1746:
+    nombre_enfermedad: Hematológicas:
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1747:
+    nombre_enfermedad: Pelagra
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1748:
+    nombre_enfermedad: Anemia perniciosa
+    tipo_causa: Causas metabólicas y endocrinas
+
+  1749:
+    nombre_enfermedad: Diabetes mellitus
+    tipo_causa: Neuropàtías autónomas
+
+  1750:
+    nombre_enfermedad: Arsénico
+    tipo_causa: Intoxicaciones
+
+  1751:
+    nombre_enfermedad: Mercurio
+    tipo_causa: Intoxicaciones
+
+  1752:
+    nombre_enfermedad: Uremia
+    tipo_causa: Intoxicaciones
+
+  1753:
+    nombre_enfermedad: Laxantes
+    tipo_causa: Fármacos
+
+  1754:
+    nombre_enfermedad: Parasimpaticomiméticos
+    tipo_causa: Fármacos
+
+  1755:
+    nombre_enfermedad: PAS
+    tipo_causa: Fármacos
+
+  1756:
+    nombre_enfermedad: Antibióticos
+    tipo_causa: Fármacos
+
+  1757:
+    nombre_enfermedad: Ergotamina
+    tipo_causa: Fármacos
+
+  1758:
+    nombre_enfermedad: Derivados de la cumarina
+    tipo_causa: Fármacos
+
+  1759:
+    nombre_enfermedad: Hidralazina
+    tipo_causa: Fármacos
+
+  1760:
+    nombre_enfermedad: Reserpina
+    tipo_causa: Fármacos
+
+  1761:
+    nombre_enfermedad: Diuréticos
+    tipo_causa: Fármacos
+
+  1762:
+    nombre_enfermedad: Anfotericina
+    tipo_causa: Fármacos
+
+  1763:
+    nombre_enfermedad: Quinidina
+    tipo_causa: Fármacos
+
+  1764:
+    nombre_enfermedad: Colchicina
+    tipo_causa: Fármacos
+
+  1765:
+    nombre_enfermedad: Colestiramina
+    tipo_causa: Fármacos
+
+  1766:
+    nombre_enfermedad: Citostáticos
+    tipo_causa: Fármacos
+
+  1767:
+    nombre_enfermedad: Digitáiicos
+    tipo_causa: Fármacos
+
+  1768:
+    nombre_enfermedad: Rotavirus
+    tipo_causa: Infecciones
+
+  1769:
+    nombre_enfermedad: Virus ECHO
+    tipo_causa: Infecciones
+
+  1770:
+    nombre_enfermedad: Virus Coxackie Cryptosporidium
+    tipo_causa: Infecciones
+
+  1771:
+    nombre_enfermedad: E. coli enterotoxigénica
+    tipo_causa: Infecciones
+
+  1772:
+    nombre_enfermedad: Shigella
+    tipo_causa: Infecciones
+
+  1773:
+    nombre_enfermedad: Campylobacter jejuni
+    tipo_causa: Infecciones
+
+  1774:
+    nombre_enfermedad: Salmonella
+    tipo_causa: Infecciones
+
+  1775:
+    nombre_enfermedad: Vibrio cholerae
+    tipo_causa: Infecciones
+
+  1776:
+    nombre_enfermedad: Paratifus
+    tipo_causa: Infecciones
+
+  1777:
+    nombre_enfermedad: E.coli enteropatogénica
+    tipo_causa: Infecciones
+
+  1778:
+    nombre_enfermedad: Alergia a huevos
+    tipo_causa: No infecciosa
+
+  1779:
+    nombre_enfermedad: Alergia a leche
+    tipo_causa: No infecciosa
+
+  1780:
+    nombre_enfermedad: Psíquico: miedo, labilidad vegetativa
+    tipo_causa: No infecciosa
+
+  1781:
+    nombre_enfermedad: Fármacos: laxantes, citostáticos
+    tipo_causa: No infecciosa
+
+  1782:
+    nombre_enfermedad: Accidentes vasculares cerebrales con parálisis bulbar o
+    tipo_causa: Trastornos orofaringeos
+
+  1783:
+    nombre_enfermedad: seudobulbar
+    tipo_causa: Trastornos orofaringeos
+
+  1784:
+    nombre_enfermedad: Poliomielitis
+    tipo_causa: Trastornos orofaringeos
+
+  1785:
+    nombre_enfermedad: Neuropatías motoras
+    tipo_causa: Trastornos orofaringeos
+
+  1786:
+    nombre_enfermedad: Polineuropatía diftérica
+    tipo_causa: Trastornos orofaringeos
+
+  1787:
+    nombre_enfermedad: Miastenia grave
+    tipo_causa: Trastornos orofaringeos
+
+  1788:
+    nombre_enfermedad: Distrofias miotónicas y distrofias musculares localizadas
+    tipo_causa: Trastornos orofaringeos
+
+  1789:
+    nombre_enfermedad: Dermatomiositis
+    tipo_causa: Trastornos orofaringeos
+
+  1790:
+    nombre_enfermedad: Faringitis
+    tipo_causa: Trastornos orofaringeos
+
+  1791:
+    nombre_enfermedad: Angina de Vincent
+    tipo_causa: Trastornos orofaringeos
+
+  1792:
+    nombre_enfermedad: Estomatitis por Monilia
+    tipo_causa: Trastornos orofaringeos
+
+  1793:
+    nombre_enfermedad: Infecciones herpéticas
+    tipo_causa: Trastornos orofaringeos
+
+  1794:
+    nombre_enfermedad: Absceso retrofaringeo
+    tipo_causa: Trastornos orofaringeos
+
+  1795:
+    nombre_enfermedad: Síndrome de Plummer-Vinson
+    tipo_causa: Trastornos orofaringeos
+
+  1796:
+    nombre_enfermedad: Tumor
+    tipo_causa: Trastornos orofaringeos
+
+  1797:
+    nombre_enfermedad: Agrandamiento tiroideo
+    tipo_causa: Trastornos orofaringeos
+
+  1798:
+    nombre_enfermedad: Divertículo hipofaríngeo por pulsión divertículo de Zenker
+    tipo_causa: Trastornos orofaringeos
+
+  1799:
+    nombre_enfermedad: Carcinoma
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1800:
+    nombre_enfermedad: Divertículos esofágicos:
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1801:
+    nombre_enfermedad: Bolsa diverticular de Zenker
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1802:
+    nombre_enfermedad: Divertículo por tracción
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1803:
+    nombre_enfermedad: Esofagitis
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1804:
+    nombre_enfermedad: Úlcera péptica del esófago
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1805:
+    nombre_enfermedad: Candida Muguet
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1806:
+    nombre_enfermedad: Síndrome de Barret = distopia de la mucosa gástrica
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1807:
+    nombre_enfermedad: Esofagitis por reflujo
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1808:
+    nombre_enfermedad: Tumor benigno leiomioma
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1809:
+    nombre_enfermedad: Estenosis inflamatorias a consecuencia de una esofagitis por reflujo
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1810:
+    nombre_enfermedad: Estenosis cicatrizales:
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1811:
+    nombre_enfermedad: Postcauterización
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1812:
+    nombre_enfermedad: Post ingesta de sustancias corrosivas Manipulación instrumental
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1813:
+    nombre_enfermedad: Enfermedad de Chagas
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1814:
+    nombre_enfermedad: Cuerpos extraños
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1815:
+    nombre_enfermedad: Anillo esofágico inferior anillo de Schatzki
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1816:
+    nombre_enfermedad: Aneurisma aórtico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1817:
+    nombre_enfermedad:  Anomalías vasculares
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1818:
+    nombre_enfermedad: Tumor mediastínico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1819:
+    nombre_enfermedad: Crecimiento auricular izquierdo
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1820:
+    nombre_enfermedad: Derrame pericárdico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1821:
+    nombre_enfermedad: Carcinoma bronquial
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1822:
+    nombre_enfermedad: Hernia del hiato paraesofágico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1823:
+    nombre_enfermedad: Espasmo difuso esofágico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1824:
+    nombre_enfermedad: Acalasia
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1825:
+    nombre_enfermedad: Reflujo esofágico
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1826:
+    nombre_enfermedad: Esclerodermia
+    tipo_causa: Enfermedades esofágicas-gástricas
+
+  1827:
+    nombre_enfermedad: Bocio
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1828:
+    nombre_enfermedad: Tiroiditis
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1829:
+    nombre_enfermedad: Neoplasia laríngea
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1830:
+    nombre_enfermedad: Fiebre tifoidea
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1831:
+    nombre_enfermedad: Pericondritis laríngea
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1832:
+    nombre_enfermedad: TBC
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1833:
+    nombre_enfermedad: Sífilis
+    tipo_causa: Enfermedades laríngeas y tiroideas
+
+  1834:
+    nombre_enfermedad: Anemia ferropénica
+    tipo_causa: Enfermedad carencial
+
+  1835:
+    nombre_enfermedad: Tetania
+    tipo_causa: Otras causas
+
+  1836:
+    nombre_enfermedad: Hipopotasemia
+    tipo_causa: Otras causas
+
+  1837:
+    nombre_enfermedad: Otitis media aguda
+    tipo_causa: Otras causas
+
+  1838:
+    nombre_enfermedad: Rabia
+    tipo_causa: Otras causas
+
+  1839:
+    nombre_enfermedad: Cuerpo vertebral prominente
+    tipo_causa: Otras causas
+
+  1840:
+    nombre_enfermedad: Várices esofágicas
+    tipo_causa: Enfermedades esofágicas
+
+  1841:
+    nombre_enfermedad: Esofagitis corrosiva
+    tipo_causa: Enfermedades esofágicas
+
+  1842:
+    nombre_enfermedad: Tumor maligno
+    tipo_causa: Enfermedades esofágicas
+
+  1843:
+    nombre_enfermedad: Ulceración diverticular
+    tipo_causa: Enfermedades esofágicas
+
+  1844:
+    nombre_enfermedad: Síndrome de Mallory-Weiss
+    tipo_causa: Enfermedades esofágicas
+
+  1845:
+    nombre_enfermedad: Úlcera péptica por hernia hiatal
+    tipo_causa: Enfermedades esofágicas
+
+  1846:
+    nombre_enfermedad: Herida por cuerpo extraño
+    tipo_causa: Enfermedades esofágicas
+
+  1847:
+    nombre_enfermedad: Erosiones por tumores mediastínicos y aneurismas
+    tipo_causa: Enfermedades esofágicas
+
+  1848:
+    nombre_enfermedad: Úlcera duodenal
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1849:
+    nombre_enfermedad: Ulcus ventriculi
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1850:
+    nombre_enfermedad: Gastritis hemorrágica: Estrés, alcohol, uremia
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1851:
+    nombre_enfermedad: Carcinoma gástrico
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1852:
+    nombre_enfermedad: Úlcera anastomótica
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1853:
+    nombre_enfermedad: Corrosión por ácidos y bases
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1854:
+    nombre_enfermedad: Diverticuio duodenal
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1855:
+    nombre_enfermedad: Hemangioma gástrico
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1856:
+    nombre_enfermedad: Hemobilia por traumatismo hepático
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1857:
+    nombre_enfermedad: Perforación de la vesícula biliar en ei duodeno
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1858:
+    nombre_enfermedad: Pólipo gástrico
+    tipo_causa: Enfermedades gástrica y duodenales
+
+  1859:
+    nombre_enfermedad: Boca gingival, lengua
+    tipo_causa: Deglusión de sangre
+
+  1860:
+    nombre_enfermedad: Nasofaringe, vías respiratorias superiores
+    tipo_causa: Deglusión de sangre
+
+  1861:
+    nombre_enfermedad: Enfermedad de Osler
+    tipo_causa: Enfermedades vasculares
+
+  1862:
+    nombre_enfermedad: Telangiectasia hereditaria hemorrágica
+    tipo_causa: Enfermedades vasculares
+
+  1863:
+    nombre_enfermedad: Trombocitopenia
+    tipo_causa: Diátesis hemorrágicas
+
+  1864:
+    nombre_enfermedad: Hemofilia
+    tipo_causa: Diátesis hemorrágicas
+
+  1865:
+    nombre_enfermedad: Terapéutica anticoagulante
+    tipo_causa: Diátesis hemorrágicas
+
+  1866:
+    nombre_enfermedad: Enfermedad de Von Willebrand
+    tipo_causa: Diátesis hemorrágicas
+
+  1867:
+    nombre_enfermedad: Coagulación intravascular diseminada
+    tipo_causa: Diátesis hemorrágicas
+
+  1868:
+    nombre_enfermedad: Agentes alquilantes
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1869:
+    nombre_enfermedad: Acido aminosaliciiico
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1870:
+    nombre_enfermedad: Antimetabolitos
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1871:
+    nombre_enfermedad: Aspirina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1872:
+    nombre_enfermedad: Corticoides
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1873:
+    nombre_enfermedad: Derivados cumarinicos
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1874:
+    nombre_enfermedad: Heparina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1875:
+    nombre_enfermedad: AINEs
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1876:
+    nombre_enfermedad: Cloruro potásico
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1877:
+    nombre_enfermedad: Reserpina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1878:
+    nombre_enfermedad: Derivados xantínicos
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1879:
+    nombre_enfermedad: Hemorroides externas
+    tipo_causa: Lesiones anales
+
+  1880:
+    nombre_enfermedad: Fisuras anales
+    tipo_causa: Lesiones anales
+
+  1881:
+    nombre_enfermedad: Fístulas anales
+    tipo_causa: Lesiones anales
+
+  1882:
+    nombre_enfermedad: Hemorroides internas
+    tipo_causa: Enfermedades del recto y colon
+
+  1883:
+    nombre_enfermedad: Carcinoma de recto
+    tipo_causa: Enfermedades del recto y colon
+
+  1884:
+    nombre_enfermedad: Proctitis ulcerada
+    tipo_causa: Enfermedades del recto y colon
+
+  1885:
+    nombre_enfermedad: Proctitis postirradiación
+    tipo_causa: Enfermedades del recto y colon
+
+  1886:
+    nombre_enfermedad: Carcinoma de colon izq.
+    tipo_causa: Enfermedades del recto y colon
+
+  1887:
+    nombre_enfermedad: Pólipos
+    tipo_causa: Enfermedades del recto y colon
+
+  1888:
+    nombre_enfermedad: Colitis ulcerosa
+    tipo_causa: Enfermedades del recto y colon
+
+  1889:
+    nombre_enfermedad: Síndrome de Behcet
+    tipo_causa: Enfermedades del recto y colon
+
+  1890:
+    nombre_enfermedad: Infecciones:
+    tipo_causa: Enfermedades del recto y colon
+
+  1891:
+    nombre_enfermedad: Amebosis
+    tipo_causa: Enfermedades del recto y colon
+
+  1892:
+    nombre_enfermedad: Shigelosis
+    tipo_causa: Enfermedades del recto y colon
+
+  1893:
+    nombre_enfermedad: Diverticulosis
+    tipo_causa: Enfermedades del recto y colon
+
+  1894:
+    nombre_enfermedad: Diveticulitis
+    tipo_causa: Enfermedades del recto y colon
+
+  1895:
+    nombre_enfermedad: Divertículo de Meckel
+    tipo_causa: Enfermedades del recto y colon
+
+  1896:
+    nombre_enfermedad: Colitis isquémica
+    tipo_causa: Enfermedades del recto y colon
+
+  1897:
+    nombre_enfermedad: Ectopia de mucosa gástrica
+    tipo_causa: Enfermedades del recto y colon
+
+  1898:
+    nombre_enfermedad: Uremia Arteritis
+    tipo_causa: Miscelánea
+
+  1899:
+    nombre_enfermedad: Telangiectasias
+    tipo_causa: Miscelánea
+
+  1900:
+    nombre_enfermedad: Rotura de aneurisma aórtico
+    tipo_causa: Miscelánea
+
+  1901:
+    nombre_enfermedad: Clindamicina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1902:
+    nombre_enfermedad: Lincomicina
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1903:
+    nombre_enfermedad: Cloruro potásico
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1904:
+    nombre_enfermedad: Anticoagulantes
+    tipo_causa: Secundarias a tratamientos médicos
+
+  1905:
+    nombre_enfermedad: Anemias hemolíticas
+    tipo_causa: Ictericia prehepática
+
+  1906:
+    nombre_enfermedad: Eritropoyesis ineficaz
+    tipo_causa: Ictericia prehepática
+
+  1907:
+    nombre_enfermedad: Reabsorción de hematomas
+    tipo_causa: Ictericia prehepática
+
+  1908:
+    nombre_enfermedad: Ictericia juvenil intermitente
+    tipo_causa: Ictericia intrahepática
+
+  1909:
+    nombre_enfermedad: Enfermedad de Gilbert
+    tipo_causa: Ictericia intrahepática
+
+  1910:
+    nombre_enfermedad: Ictericia congenita familiar
+    tipo_causa: Ictericia intrahepática
+
+  1911:
+    nombre_enfermedad: Síndrome de Crigler-Najjar
+    tipo_causa: Ictericia intrahepática
+
+  1912:
+    nombre_enfermedad: Ictericia fisiológica del recién nacido
+    tipo_causa: Ictericia intrahepática
+
+  1913:
+    nombre_enfermedad: Síndrome de Lucey-Driscott
+    tipo_causa: Ictericia intrahepática
+
+  1914:
+    nombre_enfermedad: Medicamentos: novobiocina
+    tipo_causa: Ictericia intrahepática
+
+  1915:
+    nombre_enfermedad: Inhibiciones hormonales en el recién nacido
+    tipo_causa: Ictericia intrahepática
+
+  1916:
+    nombre_enfermedad: Derivados del pregnandiol de la leche materna
+    tipo_causa: Ictericia intrahepática
+
+  1917:
+    nombre_enfermedad: Hepatitis viral
+    tipo_causa: Ictericia intrahepática
+
+  1918:
+    nombre_enfermedad: Cirrosis hepática
+    tipo_causa: Ictericia intrahepática
+
+  1919:
+    nombre_enfermedad: Síndrome de Dubin-Johnson
+    tipo_causa: Ictericia intrahepática
+
+  1920:
+    nombre_enfermedad: Síndrome de Rotor
+    tipo_causa: Ictericia intrahepática
+
+  1921:
+    nombre_enfermedad: Ictericia del embarazo
+    tipo_causa: Ictericia intrahepática
+
+  1922:
+    nombre_enfermedad: Hepatitis crónica
+    tipo_causa: Ictericia intrahepática
+
+  1923:
+    nombre_enfermedad: Hiperbilirrubinemia posthepática
+    tipo_causa: Ictericia intrahepática
+
+  1924:
+    nombre_enfermedad: Meedicamentos: clorpromacina, oxifenacetina, nitrofurantoina, citostáticos, sedantes, metildopa,
+    tipo_causa: Ictericia intrahepática
+
+  1925:
+    nombre_enfermedad: Infecciones: Hepatitis, mononucleosis, sífilis, tifus, Herpes simple, amebas, rickettsias
+    tipo_causa: Ictericia intrahepática
+
+  1926:
+    nombre_enfermedad: Cálculos
+    tipo_causa: Formas mixtas de ictericia
+
+  1927:
+    nombre_enfermedad: Tumor papila de vater
+    tipo_causa: Formas mixtas de ictericia
+
+  1928:
+    nombre_enfermedad: Colangitis
+    tipo_causa: Formas mixtas de ictericia
+
+  1929:
+    nombre_enfermedad: Atresia
+    tipo_causa: Formas mixtas de ictericia
+
+  1930:
+    nombre_enfermedad: Parásitos
+    tipo_causa: Formas mixtas de ictericia
+
+  1931:
+    nombre_enfermedad: Papilitis estenosante
+    tipo_causa: Formas mixtas de ictericia
+
+  1932:
+    nombre_enfermedad: Carcinoma de cabeza de páncreas
+    tipo_causa: Formas mixtas de ictericia
+
+  1933:
+    nombre_enfermedad: Equinococos
+    tipo_causa: Formas mixtas de ictericia
+
+  1934:
+    nombre_enfermedad: Metástasis
+    tipo_causa: Formas mixtas de ictericia
