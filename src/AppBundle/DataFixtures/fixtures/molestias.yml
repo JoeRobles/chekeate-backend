@@ -1,18 +1,512 @@
 Molestia:
   1:
     nombre: Fiebre
-    descripcion: Se denomina fiebre al aumento de la temperatura del cuerpo por encima de lo normal. Constituye una parte importante de las defensas del cuerpo contra los procesos infecciosos e inflamatorios. Tiene que ser confirmada mediante el uso de un termómetro, de lo contrario sólo será una calentura. Para cuantificar la temperatura corporal se puede utilizar como indicar la temparatura bucal, axilar, timpánica, rectal o vaginal.
-    causas: [1,2,3]
+    descripcion: |
+      Se denomina fiebre al aumento de la temperatura del cuerpo por encima de lo normal. Constituye una parte importante de las defensas del cuerpo contra los procesos infecciosos e inflamatorios. Tiene que ser confirmada mediante el uso de un termómetro, de lo contrario sólo será una calentura. Para cuantificar la temperatura corporal se puede utilizar como indicar la temparatura bucal, axilar, timpánica, rectal o vaginal.
+      Valores normales
+
+      - Temperatura bucal: 37ºC
+      - Temperatura axilar: 36.5ºC
+      - Temperatura timpánica: 37.2ºC
+      - Temperatura rectal o vaginal: 37.5ºC
+
+      Se considera fiebre:
+      - Temperatura oral > 37.8ºC
+      - Temperatura axilar >37.5ºC
+      - Temperatura timpánica >38.2ºC
+      - Temperatura rectal o vaginal >38ºC
+
+      La fiebre es UN SIGNO DE ALARMA, es importante BUSCAR QUE LA PRODUCE, no sólo indicar algún tratamiento para descender la temperatura. En niños pueden ocurrir las CONVULSIONES FEBRILES.
+    causas: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47]
     keywords: calor,aumento de temperatura,fiebre,calentura
 
   2:
-    nombre: Fiebre de orígen desconocido (FOD)
-    descripcion: Presencia de fiebre en donde los análisis de laboratorio no encuentran una causa aparente. Se pueden presentar 4 escenarios:
-    causas: [1,3]
-    keywords: fiebre sin causa aparente,fiebre inexplicable, fiebre de origen poco común
+    nombre: Fiebre de origen desconocido  (FOD)
+    descripcion: |
+      Presencia de fiebre en donde los análisis de laboratorio no encuentran una causa aparente. Se pueden presentar 4 escenarios:
+
+      1) FOD Clásica: Enfermedad de 3 semanas como mínimo, caracterizada por temperaturas mayores de 38,3 °C, registrada en varias ocasiones, cuya causa no ha sido diagnosticada a pesar de un estudio adecuado durante tres días de hospitalización. Las causas más comunes son infección no comúnes, cáncer o enfermedades del colágeno.
+
+       2) FOD Nosocomial:  Presencia de temperatura mayor de 38,3 °C en un paciente hospitalizado durante 24 horas o más, pero que no presentó fiebre en su ingreso, y que no ha sido diagnosticada luego de 3 días de evaluación. Las causas más comunes son la infecciones digestivas, fiebre inducida por fármacos, inflación en venas (felbitis) y sinusitis.
+
+      3) FOD en inmunodeficientes (neutropénicos): Presencia de temperatura mayor de 38,3 C en pacientes cuyo hemograma (estudio e sangre para evaluar las defensas) se encuentra alterado, luego de al menos 3 días de evaluación. Las causas más comunes son las infecciones bacterianas oportunistas, aspergillosis, candidiasis e infección por herpes virus.
+
+      4) FOD asociada a VIH: Temperatura mayor de 38,3 C durante más de 4 semanas para pacientes ambulatorios, o más de 3 días en pacientes hospitalizados con infección por VIH confirmada.  Las causas responden a infecciones oportunistas.
+    causas: [71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136]
+    keywords: Fiebre sin causa aparente,fiebre inexplicable, fiebre de origen poco común
 
   3:
     nombre: Fiebre Nosocomial
     descripcion: Fiebre que se desarrolla transcurridas las 24 horas desde el ingreso a un centro hospitalario, registrada al menos en dos ocaciones, en un paciente que no ha tenido cuadro febril en los 7 días previos.
-    causas: [2,3]
-    keywords: fiebre hospitalaria,paciente hospitalizado
+    causas: [48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70]
+    keywords: Fiebre hospitalaria,paciente hospitalizado
+
+  4:
+    nombre: Fiebre con síntomas catarrales anginosos
+    descripcion: Presencia de fiebre asociada a síntomas como estornudos, secresión nasal, dolor de cabeza, congestión nasal, ojos llorosos, dolor de garganta, tos, cansancio,sensación de malestar general.
+    causas: [137,138,139,140,141,142,143,144,145,146,147,148,149,151,152]
+    keywords: Fiebre con malestar general, fiebre con estornudo, fiebre con dolor de cabeza
+
+  5:
+    nombre: Fiebre con manifestaciones cutáneas en forma de máculas o papulas
+    descripcion: |
+      Presencia de fiebre asociada a lesiones en piel (Exantema). Mácula: área circunscrita de piel de <1cm de diámetro, plana y no palpable de color diferente de la piel que la rodea. Pápula: lesión cutánea elevada, sólida de <1cm de diámetro, de varios colores.
+    causas: [153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188]
+    keywords: Fiebre con manchas, fiebre con lesiones elevadas
+
+  6:
+    nombre: Fiebre con manifestaciones cutáneas en forma de vesículas, bulas o pústulas
+    descripcion: Presencia de fiebre asociada a lesiones en piel (Exantema). Pústula: pequeña elevación circunscrita de piel que contiene líquido, habitualmente purulento.  Vesícula: Ampolla pequeña, paredes finas que contiene líquido transparente
+    causas: [189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204]
+    keywords: Fiebre con ampollas, fiebre con lesiones con pus
+
+  7:
+    nombre: Fiebre con manifestaciones cutáneas en forma de máculas purpúricas, papulas purpúricas o vesículas purpúricas
+    descripcion: |
+      Presencia de fiebre asociada a lesiones en piel las cuáles son denominadas como Exantema. Se denomina Púrpura a las Manchas de color ROJO a PÚRPURA en la piel de tamaño >0.5 cm, constituidas por extravasaciones sanguíneas subcutáneas, las cuales pueden presentarse como áreas circunscritas no elevadas (máculas) o elevadas (pústula o vesícula)
+    causas: [205,206,207,208,209,210,211,212,213,214,215,216,217]
+    keywords: Fiebre con manchas o ampollas de color rojo, púrpura
+
+  8:
+    nombre: Fiebre y Diarrea
+    descripcion: Presencia de fiebre asociada a heces de consistencia líquida. Diarrea: implica más de tres deposiciones al día o el aumento de la cantidad de heces a más de 200 g/día.
+    causas: [218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236]
+    keywords: Fiebre con deposiciones líquidas
+
+  9:
+    nombre: Fiebre y adenomegalia
+    descripcion: Presencia de fiebre asociada a ganglios linfáticos aumentados de tamaño
+    causas: [237,238,239,240,241,242,243,244,245,246,247,248,249,250,251]
+    keywords: Fiebre con ganglios palpables
+
+  10:
+    nombre: Fiebre y esplenomegalia
+    descripcion: Presencia de fiebre asociado a un crecimiento patológico del bazo
+    causas: [252,253,254,255,256,257,258,259,260]
+    keywords: Fiebre con bazo grande
+
+  11:
+    nombre: Fiebre con meningismo
+    descripcion: Presencia de fiebre asociada a rigidez de nuca, fotofobia (intolerancia al brillo de la luz) y dolor de cabeza. Se define MENINGISMO al Trastorno provocado por la irritación del encéfalo (masa cerebral) y no de las meninges (membranas que recubren el cerebro y médula), cuya sintomatología se asemeja a la de la meningitis.
+    causas: [261,262,263,264,265,266,267,268]
+    keywords: Fiebre asociado a problemas neurológico, meningismo, fiebre
+
+  12:
+    nombre: Fiebre con dolores musculares y articulares
+    descripcion: Presencia de fiebre asociada a malestar muscular y articular
+    causas: [269,270,271,272,273,274,275,276,277,278,279,280,281,282,283]
+    keywords: Fiebre con dolor muscular, fiebre con dolor articular
+
+  13:
+    nombre: Hipertermia
+    descripcion: |
+      Fiebre e hipertermia son dos procesos distintos. En la fiebre el punto de ajuste de la temperatura interna a nivel del sistema nervioso está elevado, conservándose los mecanismos del control de la temperatura. En la hipertermia fallan los mecanismos de control de la temperatura, de manera que la producción de calor excede a la pérdida de éste.
+
+      Los cuatro síndromes hipertérmicos mayores son el golpe de calor, la hipertermia maligna por anestésicos, el síndrome neuroléptico maligno y la hipertermia inducida por drogas.
+    causas: [284,285,286,287,288,289,290,292,293,294,295,296]
+    keywords: aumento de la temperatura del cuerpo por encima de lo normal
+
+  14:
+    nombre: Anorexia
+    descripcion:  Falta anormal de apetito, a pesar de la necesidad de comer
+    causas: [297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353]
+    keywords: falta de hambre, falta de apetito
+
+  15:
+    nombre: Astenia
+    descripcion:  Astenia es el término que refleja CANSANCIO o  LASITUD. Pérdida de la sensación de bienestar que presentan los individuos con salud corporal y mental; sentimiento subjetivo de falta de energía, no necesariamente asociado a ninguna actividad física. La astenia debe distinguirse de la debilidad originada por trastornos neurológicos o musculares.
+    causas: [354,355,356,357,358,359,360,361,362,363,364,365,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,399,400,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429]
+    keywords: debilidad, cansancio, falta de ganas, apatía
+
+  16:
+    nombre: Polifagia
+    descripcion:  Polifagia o hiperfagia consiste en un AUMENTO EXAGERADO DE CONSUMO DE ALIMENTOS, que puede ser causada por un aumento del apetito o por una incapacidad para lograr la saciedad.
+    causas: [430,431,432,433,434,435,436,437,438,439,440]
+    keywords: cosnsumo exagerado de alimentos, mucha hambre
+
+  17:
+    nombre: Polidipsia
+    descripcion:  Polidipsla es el AUMENTO EXAGERADO DE LA INGESTA DE LÍQUIDOS por una sensación permanente de sed.
+    causas: [441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472]
+    keywords: consumo de líquidos por sensación excesiva de sed, ingesta de líquido de manera excesiva, mucha sed
+
+  18:
+    nombre: Pérdida de peso con apetito normal o aumentado
+    descripcion:  Disminución en el peso corporal que no se hace de manera voluntaria con apetito conservado. Apetito es el deseo de ingerir alimentos, sentido como hambre.
+    causas: [473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491]
+    keywords: adelgazar, adelgazamiento, baja de peso
+
+  19:
+    nombre: Pérdida de peso con apetito disminuido
+    descripcion:  Disminución en el peso corporal que no se hace de manera voluntaria con apetito disminuido. Apetito es el deseo de ingerir alimentos, sentido como hambre.
+    causas: [492,493,494,495,496,497,498,499,500,501,502,503,504]
+    keywords: adelgazar, adelgazamiento, baja de peso
+
+  20:
+    nombre: Insomnio
+    descripcion:  Trastorno del sueño, se define como la dificultad para iniciar o mantener el sueño. Puede ser primario, es decir no es consecuencia de otro problema o Secundario, si se identifica una causa.
+    causas: [505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533]
+    keywords: falta de sueño, dificultad para dormir
+
+  21:
+    nombre: Sonnolencia
+    descripcion:  Conocido como Hipersomnia, es una condición en la que un individuo tiende al sueño.
+    causas: [534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559]
+    keywords: incremento del sueño, tendencia a quedarse dormido
+
+  22:
+    nombre: Edema bilateral (simétrico) de miembros inferiores
+    descripcion:  Presencia de un exceso de líquido a nivel de los miembros inferiores que ofrece un aspecto de hinchazón blanda. Hay dos tipos de edema demiembros inferiores: edema venenoso y linfedema. El primero consiste en poca viscosidad y  contenido de proteínas del líquido Intersticial por lo cual aumenta la filtración capilar. El linfedema consiste en un exceso de proteínas en el líquido intersticial, el cual se queda en el tejido celular subcutáneo y piel produciendo disfunción del sistema linfático.
+    causas: [560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608]
+    keywords: piernas hinchadas, piernas grandes, aumento de volumen en piernas
+
+  23:
+    nombre: Edema unilateral (asimétrico) de miembros inferiores
+    descripcion:  Presencia de un exceso de líquido a nivel de uno de los miembros inferiores que ofrece un aspecto de hinchazón blanda.
+    causas: [609,610,611,612,613,614,615,616,617,618,619,620,621,622]
+    keywords: aumento de volumen en una pierna,  pierna hinchada
+
+  24:
+    nombre: Edema Facial
+    descripcion:  Acumulación de líquido a nivel  del tejido celular subcutáneo de la cara
+    causas: [623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649]
+    keywords: cara hinchada
+
+  25:
+    nombre: Prurito Generalizado
+    descripcion:  Sensación de hormigueo peculiar o irritación incómoda de la piel en toda su extensión que conlleva a un deseo de rascarse.
+    causas: [650,651,652,653,654,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694]
+    keywords: picazón en todo el cuerpo, escosor en todo el cuerpo
+
+  26:
+    nombre: Prurito localizado
+    descripcion:  Sensación de hormigueo peculiar o irritación incómoda de un zona delimitida piel, que conlleva a un deseo de rascarse.
+    causas: [695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748]
+    keywords: picazón en un área determinada
+
+  27:
+    nombre: Palidez generalizada
+    descripcion:  Término que hace referencia a un tono de piel en toda su extensión anormalmente más claro que su color normal. Se debe a una disminución del flujo sanguíneo o de la cantidad de glóbulos rojos
+    causas: [749,750,751,752,753,754,755,756,757,758,759,760,761]
+    keywords: piel pálida a nivel general, piel blanca
+
+  28:
+    nombre: Palidez localizada
+    descripcion:  Término que hace referencia a un tono de piel en una zona limitada anormalmente más claro que su color normal. Se debe a una disminución del flujo sanguíneo o de la cantidad de glóbulos rojos
+    causas: [762,763,764,765,766,767]
+    keywords: Color blanquecino de piel localizada
+
+  29:
+    nombre: Rubicundez
+    descripcion: |
+      Coloración anormalmente roja de la piel.
+      La coloración rubicunda cutánea generalizada puede deberse a estado emocional transitorio como pudor o ira, esfuerzos corporales violentos, enfermedades febriles, intoxicaciones agudas (intoxicaciones por monóxido de carbono), hiperglobulia (aumento de la cantidad de hemoglobina en sangre que se denomina plétora) y policitemia. La coloración rubicunda circunscrita puede ser debida a diversos factores locales o sistémicos.
+
+    causas: [768,769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784,785,786,787,788,789]
+    keywords: enrojecimiento
+
+  30:
+    nombre: Hiperdrosis Generalizado
+    descripcion:  Producción excesiva de sudor. Se define generalizada cuando el exceso de sudoración abarca una superficie mayor a 100 cm2 en la piel del paciente.
+    causas: [790,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831]
+    keywords: sudoración profusa generalizad
+
+  31:
+    nombre: Hiperhidrosis Localizada
+    descripcion:  Producción excesiva de sudor. Se define localizada cuando la hipersudoración abarca una superficie igual o menor a 100 cm2.
+    causas: [832,833,834,835,836,837,838,839,840,841,842,843,844,845]
+    keywords: sudoración profusa localizada
+
+  32:
+    nombre: Hipocratismo digital (acropaquia)
+    descripcion:  Engrosamiento de las falanges distales de los dedos de las manos y de los pies. Signo inespecífico de trastornos respiratorios y cardiovasculares cianóticos. El hipocratismo digital se observa inicialmente en el dedo pulgar e índice, y luego se propaga a los otros dedos de la mano.
+    causas: [846,847,848,849,850,851,852,853,854,855,856,857,858,859,860,861]
+    keywords:
+
+  33:
+    nombre: Enrojecimiento e inflamación de piel y mucosas
+    descripcion:  Coloración roja que adquiere la piel, mucosa bucal y encías.
+    causas: [862,863,864,865,866,867,868,869,870,871,872]
+    keywords:
+
+  34:
+    nombre: Eflorescencias papulosas
+    descripcion:  Erupción cutánea de color rojo fuerte que se presenta en diversas zonas del cuerpo, especialmente en el rostro. Pápulas: lesiones cutáneas elevadas, sólidas, pequeñas de menos de 1 cm de diámetro.
+    causas: [873,874,875,876,877,878,879,880,881,882,883,884,885,886]
+    keywords:
+
+  35:
+    nombre: Eflorescencias
+    descripcion:  Lesiones distintivas de piel que pueden presentarse como manchas, nódulos, pústulas, urticaria, caspa o úlceras
+    causas: [887,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904]
+    keywords:
+
+  36:
+    nombre: Eflorescencias maculosas
+    descripcion:  Lesiones en piel caracterizadas por áreas circunscritas de piel de menos de 1 cm de diámetro, plana y no palpable de un color diferente que la piel que la rodea.
+    causas: [905,906,907,908,909,910,911,912,913,914,915,916,917]
+    keywords:
+
+  37:
+    nombre: Linfadenopatía generalizada
+    descripcion:  El término linfadenopatía se utiliza para señalar el aumento de tamaño, consistencia o número de los ganglios linfáticos. Se define linfadenopatía generalizada cuando están afectadas dos o más áreas ganglionares no contiguas.
+    causas: [917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955]
+    keywords: ganglios aumentados de tamaño en varias partes del cuerpo, ganglios crecidos, gangliso grandes, bolitas en el cuerpo
+
+  38:
+    nombre: Linfadenopatía localizada
+    descripcion:  El término linfadenopatía se utiliza para señalar el aumento de tamaño, consistencia o número de los ganglios linfáticos. Se denomina linfadenopatía localizada cuando solo está afectada un área ganglionar
+    causas: [956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,981,982,983,984,985,986,987,988,989,990,991,992,993]
+    keywords: ganglios aumentados en una región del cuerpo, bolitas en la axila, bolitas en el cuello, bolitas en la ingle
+
+  39:
+    nombre: Cefalalgia o Cefalea
+    descripcion:  Dolor de cabeza. No es una enfermedad sino un síntoma común a muchas enfermedades.
+    causas: [994,995,996,997,998,999,1000,1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046]
+    keywords: dolor de cabeza
+
+  40:
+    nombre: Cefalea aguda generalizada
+    descripcion: La cefalea o dolor de cabeza es uno de los motivos más frecuente de consulta tanto en asistencia primaria como especializada. Las cefaleas agudas son frecuentemente debidas a un proceso subyacente que requiere un diagnóstico y tratamiento urgente. En la cefalea aguda generalizada el dolor de cabeza se presenrta de manera global, no exisitendo un lugar predominante.
+    causas: [1047,1048,1049,1050,1051,1052,1053,1054,1055,1056]
+    keywords: dolor de cabeza
+
+  41:
+    nombre: Cefalea aguda localizada
+    descripcion:  La cefalea o dolor de cabeza es uno de los motivos más frecuente de consulta tanto en asistencia primaria como especializada. Las cefaleas agudas son frecuentemente debidas a un proceso subyacente que requiere un diagnóstico y tratamiento urgente. En la cefalea aguda localizada, el dolor está bien delimitada  a una región de la cabeza
+    causas: [1057,1058,1059,1060,1061,1062,1063,1064,1065]
+    keywords: dolor de cabeza
+
+  42:
+    nombre: Cefalea aguda recurrente
+    descripcion:  Son cefaleas que ocurren en forma periódica y los episodios de dolor están separados por períodos libres.
+    causas: [1066,1067,1068,1069]
+    keywords: dolor de cabeza
+
+  43:
+    nombre: Cefalea crónica progresiva
+    descripcion:  Cefalea que cursa con un empeoramiento progresivo de la intensidad y frecuencia de los ataques.
+    causas: [1070,1071,1072,1073,1074,1075,1076]
+    keywords: dolor de cabeza
+
+  44:
+    nombre: Cefalea crónica no progresiva
+    descripcion:  Cefalea cuyo curso no empeora, manteniéndose en intesidad y frecuencia los ataques.
+    causas: [1077,1078,1079]
+    keywords: dolor de cabeza
+
+  45:
+    nombre: Algias faciales
+    descripcion:  Dolor crónico referido a la región craneofacial.
+    causas: [1080,1081,1082,1083,1084,1085,1086,1087,1088,1089,1090,1091,1092,1093,1094,1095,1096,1097,1098,1099,1100]
+    keywords: dolor de cara
+
+  46:
+    nombre: Algias oftálmicas
+    descripcion:  Dolor referido a la cavidad orbitaria y globo ocular
+    causas: [1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118]
+    keywords: dolor de ojos
+
+  47:
+    nombre: Otalgia
+    descripcion:  Dolor a nivel del oído, se produce por la acumulación de líquido en el oído medio y por la presión que este líquido acumulado ejerce sobre el tímpano y otras estructuras circundantes.
+    causas: [1119,1120,1121,1122,1123,1124,1125,1126,1127,1128,1129,1130,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146]
+    keywords: dolor de oído
+
+  48:
+    nombre: Acúfenos o tínnitus
+    descripcion:  Fenónemo perceptivo que consiste en notar golpes o sonidos en el oído, los cuáles no proceden de ninguna fuente externa.
+    causas: [1147,1148,1149,150,1151,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1166,1167,1168,1169,1170,1171]
+    keywords: zumbido de oidos
+
+  49:
+    nombre: Epistaxis
+    descripcion:  Se denomina epistaxis a todo fenómeno hemorrágico originado en las fosas nasales.
+    causas: [1172,1173,1174,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209,1210,1211,1212,1213,1214]
+    keywords: sangrado por fosas nasales
+
+  50:
+    nombre: Caída de dientes
+    descripcion:  Pérdida de piezas dentarias. La pérdida del soporte hace que los dientes se aflojen y finalmente se caigan.
+    causas: [1215,1216,1217,1218,1219,1220,1221,1222,1223,1224,1225,1226,1227,1228,1229,1230,1231,1232,1233]
+    keywords: pérdida de dientes
+
+  51:
+    nombre: Amaurosis fugax súbita
+    descripcion:  Ceguera monocular transitoria secundaria a isquemia en el territorio de la arteria central de la retina o de la arteria oftálmica, por embolización o por insuficiencia vascular. Ocurre una pérdida de visión monocular no dolorosa con una duración de 2 a 30 minutos, seguida de recuperación completa.
+    causas: [1234,1235,1236,1237,1238,1239,1240,1241,1242,1243,1244,1245,1246,1247,1248,1249,1250]
+    keywords: ceguera, pérdida de vista
+
+  52:
+    nombre: Diplopia
+    descripcion:  Visión doble, percepción de dos imágnenes de un único objeto.
+    causas: [1251,1252,1253,1254,1255,1256,1257,1258,1259,1260,1261,1262,1263,1264,1265,1266,1267,1268,1269,1270,1271,1272,1273,1274,1275]
+    keywords: visión dobrle
+
+  53:
+    nombre: Proptosis - exoltamos
+    descripcion:  Protrusión anormal de uno o ambos ojos, usualmente debido a un desplazamiento por empuje mecánico (resultado de una masa, anomalía vascular o proceso inflamatorio). Exoftalmos. Término usado como sinónimo de proptosis ocular; sinembargo, muchos autores prefieren reservarlo para referirse a la proptosis ocular tiroidea.
+    causas: [1276,1277,1278,1279,1280,1281,1282,1283,1284,1285,1286,1287,1288,1289,1290,1291,1292,1293,1294]
+    keywords: ojos salidos, ojos saltones
+
+  54:
+    nombre: Hemianopsia
+    descripcion:  Pérdida de la mitad de! campo visual (por lo general le mitad vertical) por causas que no son enfermedades de la retina.
+    causas: [1295,1296,1297,1298,1299]
+    keywords: Visión por partes, pérdida de la vista de la mitad del ojo
+
+  55:
+    nombre: Enoftalmos
+    descripcion:  Es el desplazamiento del globo ocular hacía dentro de la órbita (parte posterior de la órbita)
+    causas: [1300,1301,1302,1303,1304]
+    keywords: hundimiento de los ojos
+
+  56:
+    nombre: Epífora
+    descripcion:  Exceso de lágrimas ocasionado por obstrucción y, en forma crónica, referida a disturbio en la vía lagrimal excretora.
+    causas: [1305,1306,1307,1308,1309,1310,1311,1312,1313,1314,1315,1316,1317,1318,1319,1320,1321,1322]
+    keywords: exceso de lagrimeo
+
+  57:
+    nombre: Ptosis palpebral
+    descripcion:  Posición anormalmente baja del párpado superior. La causa más frecuente en adultos es la edad, que reduce la elasticidad de los músculos palpebrales y produce ptosis senil.
+    causas: [1323,1324,1325,1326,1327,1328,1329,1330,1331,1332,1333,1334,1335,1336,1337,1338,1339,1349,1341,1342,1343,1344,1345,1346,1347,1348,13,49,1350,1351]
+    keywords: caída del párpado superior
+
+  58:
+    nombre: Miosis
+    descripcion:  Constricción pupilar causada por la contracción del músculo esfinteriano del iris.
+    causas: [1352,1353,1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364,1365,1366,1367,1368,1369,1370,1371,1372,1374,1375,1376,1377,1378,1379]
+    keywords: pupilas pequeñas
+
+  59:
+    nombre: Ojo rojo
+    descripcion:  Síndrome que engloba un conjunto de entidades clínicas caracterizadas por la presencia de hiperemia conjuntiva, localizada o difusa. Esta inyección vascular puede expresar la hiperemia de vasos conjuntivales, epiesclerales o esclerales. Traduce patología del segmento ocular anterior es decir, de las estructuras situadas por delante del diafragma iridocristaliniano.
+    causas: [1380,1381,1382,1383,1384,1385,1386,1387,1388,1389,1390,1391,1392]
+    keywords: enrojecimiento del ojo
+
+  60:
+    nombre: Midriasis
+    descripcion:  Se denomina Midriasis a la presencia de PUPILAS AGRANDADAS.
+    causas: [1393,1394,1395,1396,1397,1398,1399,1400,1401,1402,1403,1404,1405,1406,1407,1408,1409]
+    keywords: pupilas grandes
+
+  61:
+    nombre: Anisocoria
+    descripcion:  Desigualdad en el tamaño de las pupilas
+    causas: [1410,1411,1412,1413]
+    keywords: Pupilas de difernte tamaño
+
+  62:
+    nombre: Marcha antálgica
+    descripcion:  Se denomina marcha antálgica a aquella alteración en el desplazamiento o apoyo normal de las piernas y pies que debe hacer el enfermo debido al dolor que una lesión del tipo que fuere le produce si intenta caminar en forma normal. Se desarrolla una postura más o menos mantenida de forma instintiva y no totalmente voluntaria.
+    causas: [1414,1415,1416,1417,1418,1419,1420,1421,1422,1423,1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434]
+    keywords: rigidez al caminar
+
+  94:
+    nombre: Hemoptisis
+    descripcion:  Expectoración y/o TOS CON SANGRE
+    causas: [1618,1619,1620,1621,1622,1623,1624,1625,1626,1627,1628,1629,1630,1631,1632,1633,1634,1635,1636,1637,1638,1639,1640,1641,1642,1643,1644,1645,1646,1647,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663]
+    keywords: sangrado asociado a tos, tos con sangre
+
+  113:
+    nombre: Halitosis
+    descripcion:  Mal aliento u olor bucal desagradable.
+    causas: [1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612,1613,1614,1615,1616,1617]
+    keywords: Mal aliento, aliento fuerte, la boca huele mal
+
+  115:
+    nombre: Disfagia
+    descripcion:  Dificultad al deglutir, experimentada solamente al intentar iniciar la deglución y durante unos pocos segundos después de la misma.
+    causas: [1782,1783,1784,1785,1786,1787,1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840]
+    keywords: dolor al ingerir alimentos
+
+  122:
+    nombre: Diarrea Crónica
+    descripcion:  Alteración en la defecación caracterizada por mayor frecuencia, fluidez y amenudo volumen en las deposiciones. Diarrea crónica se define como una diarrea de más de 14 días de duración
+    causas: [1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718,1719,1720,1721,1722,1723,1724,1725,1726,1727,1728,1729,1730,1731,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1750,1751,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1765,1766,1767]
+    keywords: deposiciones liquidas mas de 14 días
+
+  125:
+    nombre: Hematemesis
+    descripcion:  Hematemesis es la expulsión de vómito con sangre proceente del tubo digestivo alto (desde el ángulo de treitz - unión del duodeno con yeyuno - hasta la boca). Se caracteriza por su color oscuro, el cual por lo general varía de negro a pardo oscuro (similar al café) debido al hecho de estar la sangre parcialmente digerida.
+    causas: [1840,1841,1842,1843,1844,1845,1846,1847,1848,1849,1850,1851,1852,1853,1854,1855,1856,1857,1858,1859,1860,1861,1862,1863,1864,1865,1866,1867,1868,1869,1870,1871,1872,1873,1874,1875,1876,1877,1878]
+    keywords: sangrado por la boca
+
+  126:
+    nombre: Melena
+    descripcion:  Melena es la expulsiómn de deposiciones negras, viscosas y malolientes debido a la presencia de SANGRE degradada proveniente del tubo digestivo superior o alto (desde el ángulo de treitz - unión del duodeno con yeyuno - hasta la boca). Es la presencia de heces sanguinolentas, la sangre no es rojo rutilante como en el caso de la hematoquezia (sangrado digestivo bajo).
+    causas: [1664,1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1689,1890,1691,1692,1693,1694,1695,1696,1697,1698,1690,1699,1700,1701,1702]
+    keywords: deposiciones oscuras
+
+  127:
+    nombre: Rectorragia
+    descripcion:  Conocida también como Hematoquezia, es la salida de sangre líquida a través del recto. Puede ser el reusltado de una hemorragia en el recto, en el colon o a nivel del intestino delgado. A diferencia de la MELENA, en donde la sangre es coagulada, en la hematoquezia la sangre es rojo rutilante.
+    causas: [1879,1880,1881,1882,1883,1884,1885,1886,1887,1888,1889,1890,1891,1892,1893,1894,1895,1896,1897,1898,1900,1901,1902,1903,1904]
+    keywords: deposiciones con sangre viva
+
+  133:
+    nombre: Ictericia
+    descripcion:  La ictericia es la coloración amarillenta de la piel y mucosas debida a un aumento de la bilirrubina, la cuál se acumula en los tejidos, sobre todo en aquellos con mayor número de fibras elásticas.
+    causas: [1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,1930,1931,1932,1933,1934]
+    keywords: color amarillo de piel y mucosas
+
+  156:
+    nombre: Leucorrea (FLUJO GENITAL)
+    descripcion:  La leucorrea es la presencia de flujo vaginal abundante, se produce generalmente por irritación de la vagina y/o irritación de mucosa uterina. El flujo vaginal es esencial para mantener la vagina sana, húmeda y libre de bacterias, los cambios en su cantidad, color, olor suelen ser una señal de afecciones ginecológicas.
+    causas: [1574,1575,1576,1577,1578,1579]
+    keywords: flujo o descenso vaginal, descenso mal oliente, olores vaginales, malestar vaginal
+
+  161:
+    nombre: Hipertiroidismo
+    descripcion:  Cuadro conocido también como TIROIDES HIPERACTIVA, es una afección en la cual la glándula tiroides produce demasiada hormona tiroidea. Las hormonas tiroideas son responsables de la regulación del metabolismo, que es el conjunto de reacciones y procesos que ocurren en el organismo para permitir actividades como crecer, manterner estructuras, responder a estimulos, digestión, entre otras. En el hipertiroidismo estas actividades estarán incrementadas.
+    causas: [1566,1567,1568,1569,1570,1571,1572,1573]
+    keywords: Alteración del afunsion  terpie
+
+  164:
+    nombre: Anemia
+    descripcion:  Se define anemia a la concentración baja de hemoglobina en la sangre, secundaria a una disminución anormal del número o tamaño de los glóbulos rojos.
+    causas: [1559,1560,1561,1562,1563,1564,1565]
+    keywords: palidez, color blanco de la piel
+
+  176:
+    nombre: Polineuropatía periférica
+    descripcion:  El término polineuropatía implica la afectación de múltiples nervios en cualquiera de las partes anatómica, independiente del tipo de lesión o de su causa.
+    causas: [1509,1510,1511,1512,1513,1514,1515,1516,1517,1518,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1529,1530,1531,1532,1533,1534,1535,1536,1537,1538,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1552,1553,1554,1555,1556,1557,1558]
+    keywords: Dolor en vaias zonas
+
+  177:
+    nombre: Mononeuritis múltiple
+    descripcion:  Conocida también como Mononeuropatía o multineuritis, se define como la afección de dos o más nervios en más de una extremidad, incluyendo la posible afección de las raíces del tronco y los nervios craneales.
+    causas: [1502,1503,1504,1505,1506,1507,1508]
+    keywords: Dolor en una zona localizada
+
+  178:
+    nombre: Temblor
+    descripcion:  Movimiento involuntario de cualquiér parte del cuerpo.
+    causas: [1471,1472,1473,1474,1475,1476,1477,1478,1479,1480,1481,1482,1483,1484,1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496,1497,1498,1499,1500,1501]
+    keywords: Movimiento involutario de cualquier parte del cuerpo
+
+  179:
+    nombre: Amnesia
+    descripcion:  Alteración de la memoria durante el cual el individuo es incapaz de conservar o recuperar información almacenada con anterioridad.
+    causas: [1459,1460,1461,1462,1463,1464,1465,1466,1467,468,1469,1470]
+    keywords: Pérdida de la memoria
+
+  180:
+    nombre: Vértigo
+    descripcion:  Pérdida de la capacidad de orientación espacial; sensación de pérdida del equilibrio, con percepción de rotación de los objetos.
+    causas: [1435,1436,1437,1438,1439,1440,1441,1442,1443,1444,1445,1446,1447,1448,1449,1450,1451,1452,1453,1454,1455,1456,1457,1458]
+    keywords: mareos, sensación de rotación de los objetos
+
+  238:
+    nombre: Diarrea acuosa aguda
+    descripcion:  Alteración en la defecación caracterizada por mayor frecuencia, fluidez y amenudo volumen en las deposiciones. Diarrea acuosa aguda se define como la diarrea menor a 14 días sin moco y sin sangre
+    causas: [1768,1769,1770,1771,1772,1773,1774,1775,1776,1777,1778,1779,1780,1781]
+    keywords: deposiciones liquidas menos de 14 días
+
+  239:
+    nombre: Diarrea Disentérica
+    descripcion: Alteración en la defecación caracterizada por mayor frecuencia, fluidez y amenudo volumen en las deposiciones. Diarrea disentérica es una diarrea con evidencia de SANGRE en las deposiciones
+    causas: [1703,1704,1705,1706,1707]
+    keywords: desposiciones con moco y sangre
