@@ -30,14 +30,14 @@ class Subtipo
     /**
      * @var string
      *
-     * @ORM\Column(name="muestra", type="string", length=255)
+     * @ORM\Column(name="muestra", type="string", length=255, nullable=true)
      */
     private $muestra;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="unidades", type="string", length=255)
+     * @ORM\Column(name="unidades", type="string", length=255, nullable=true)
      */
     private $unidades;
 

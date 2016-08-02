@@ -3,34 +3,2445 @@ Subtipo:
     servicio: 1
     muestra: SANGRE
     unidades: %
-    valor_inferior_h: 1
-    valor_superior_h: 4
-    valor_inferior_m: 1
-    valor_superior_m: 4
-    interpretacion_valor_inferior:
-    interpretacion_valor_superior: Desviaicón izquierda, indica presencia de infeccio...
-    indicacion:
+    valorinferiorh: 1
+    valorsuperiorh: 4
+    valorinferiorm: 1
+    valorsuperiorm: 4
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Desviación izquierda, indica presencia de infecciones bacterianas severas , en donde su número aumenta dado que la médula ósea los libera en virtud de la emergencia, antes de terminar su maduración
+    indicacion: ~
 
   2:
     servicio: 2
     muestra: SANGRE
-    unidades: mg/dl
-    valor_inferior_h: 0.3
-    valor_superior_h: 2
-    valor_inferior_m: 0.3
-    valor_superior_m: 2
-    interpretacion_valor_inferior: Contaminación bacteriana, evaporación de la muestr...
-    interpretacion_valor_superior: Cetoacidosis diabética, ayuno prolongado, inanició...
+    unidades: mg/dL
+    valorinferiorh: 0.3
+    valorsuperiorh: 2
+    valorinferiorm: 0.3
+    valorsuperiorm: 2
+    interpretacionvalorinferior: Contaminación bacteriana, evaporación de la muestra
+    interpretacionvalorsuperior: Cetoacidosis diabética, ayuno prolongado, inanición, enfermedad de Von Gierke, hiperinsulinismo, sindrome febril
     indicacion: Diabetes
 
   3:
     servicio: 3
     muestra: ORINA
-    unidades: mb/dl
-    valor_inferior_h: 0
-    valor_superior_h: 0
-    valor_inferior_m: 0
-    valor_superior_m: 0
-    interpretacion_valor_inferior: Contaminación bacteriana, evaporación de la muestr...
-    interpretacion_valor_superior: Cetoacidosis diabética, ayuno prolongado, inanició...
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Contaminación bacteriana, evaporación de la muestra
+    interpretacionvalorsuperior: Cetoacidosis diabética, ayuno prolongado, inanición, enfermedad de Von Gierke, hiperinsulinismo, sindrome febril
     indicacion: Coma
+
+  4:
+    servicio: 4
+    muestra: ORINA
+    unidades: mg/L
+    valorinferiorh: 0
+    valorsuperiorh: 4.5
+    valorinferiorm: 0
+    valorsuperiorm: 4.5
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Intoxicación por plomo, Porfiria aguda intermitente
+    indicacion: Diagnóstico de intoxicación por plomo
+
+  5:
+    servicio: 5
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0.4
+    valorsuperiorh: 1.5
+    valorinferiorm: 0.4
+    valorsuperiorm: 1.5
+    interpretacionvalorinferior: Escorbuto, raquitismo
+    interpretacionvalorsuperior: ~
+    indicacion: Insuficiencia en la dieta
+
+  6:
+    servicio: 6
+    muestra: ORINA (24H)
+    unidades: mg/dl en 24 horas
+    valorinferiorh: 20
+    valorsuperiorh: 30
+    valorinferiorm: 20
+    valorsuperiorm: 30
+    interpretacionvalorinferior: Escorbuto, raquitismo
+    interpretacionvalorsuperior: ~
+    indicacion: Insuficiencia en la dieta
+
+  7:
+    servicio: 7
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 5
+    valorsuperiorh: 25
+    valorinferiorm: 5
+    valorsuperiorm: 25
+    interpretacionvalorinferior: Anemia megaloblástica, anemia hemolítica, hepatopatía, malnutrición, sindrome de malabsorción, tumores malignos, embarazo, acoholismo, anorexia, enfermedad renal crónica, uso de fármacos (anticonvulsivantes, antipalúdicos, alcohol, aminopeptina, metrotexate.
+    interpretacionvalorsuperior: Anemia perniciosa, dieta vegetariana, transfusión masiva de sangre reciente
+    indicacion: insuficiencia en la dieta
+
+  8:
+    servicio: 8
+    muestra: SANGRE
+    unidades: µg/ml
+    valorinferiorh: 8
+    valorsuperiorh: 52
+    valorinferiorm: 8
+    valorsuperiorm: 52
+    interpretacionvalorinferior: Pelagra
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutrición
+
+  9:
+    servicio: 9
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 4.8
+    valorsuperiorh: 8.5
+    valorinferiorm: 2.7
+    valorsuperiorm: 7.3
+    interpretacionvalorinferior: Hepatitis, Sindrome de Fanconi, Enfermedad de Wilson, Saturnismo, Uso de Probenocid o Alopurinol
+    interpretacionvalorsuperior: Hiperuricemia, por MAYOR PRODUCCIÓN: Sindromes mieloproliferativos, mieloma múltiple, gota, macroglobulinemia de Waldestrom, anemias hemolíticas, anemia perniciosa, enfermedad de Lesch_Nyhan, Enfermedad de Von Gierke, Psoriasis, rabdomiolisis.
+    indicacion: Artritis aguda
+
+  10:
+    servicio: 10
+    muestra: ORINA (24H)
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 10
+    valorinferiorm: 0
+    valorsuperiorm: 10
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Feocromocitoma (tumor de médula suprarenal), Neuroblastoma, paragangliomas, consumo de cafeína, salicilatos
+    indicacion: Hipertensión grave, diagnóstico de feocromocitoma, diagnóstico y seguimiento de neuroblastoma y ganglioneuroma
+
+  11:
+    servicio: 11
+    muestra: SANGRE
+    unidades: UI/L
+    valorinferiorh: 0
+    valorsuperiorh: 22
+    valorinferiorm: 0
+    valorsuperiorm: 22
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Sugieren la posiblidad de tuberculosis
+    indicacion: Descarte de TBC extrapulmonar
+
+  12:
+    servicio: 12
+    muestra: SANGRE
+    unidades: U/ml
+    valorinferiorh: 0
+    valorsuperiorh: 5
+    valorinferiorm: 0
+    valorsuperiorm: 5
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Probable infección activa por Adenovirus, repetir examen o  confirmar mediante cultivo. Resultados > 10 U/ml se consideran positivos.
+    indicacion: Descartar infección por adenovirus
+
+  13:
+    servicio: 13
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 7
+    valorsuperiorh: 69
+    valorinferiorm: 6
+    valorsuperiorm: 58
+    interpretacionvalorinferior: Insuficiencia hipofisiaria, Enfermedad de Cushing extrahipofisiaria
+    interpretacionvalorsuperior: Enfermedad de Addison, adrenoleucodistrofia
+    indicacion: Evaluar trastornos hipofisiarios, estudiar causa de sindrome de cushing, evaluación del exceso de corticosteroides
+
+  14:
+    servicio: 14
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 41
+    valorinferiorm: 0
+    valorsuperiorm: 33
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Ictericia obstructiva, cirrosis, Infarto agudo de miocardio, mononucleosis infecciosa, fármacos hepatotóxicos, quemadura graves, traumatismos musculares, miositis, pancreatitis, shock. MUY ELEVADA (>500 U/l): Hepatitis viral, necrosis hepática, isquemia hepática
+    indicacion: Diagnóstico de enfermedades de hígado y páncreas. Análisis repetidos para establecer la cronicidad de una hepatitis viral
+
+  15:
+    servicio: 15
+    muestra: SANGRE
+    unidades: g/dl
+    valorinferiorh: 3.5
+    valorsuperiorh: 5.5
+    valorinferiorm: 3.5
+    valorsuperiorm: 5.5
+    interpretacionvalorinferior: |
+      HIPOALBUMINEMIA: enfermedad hepática (hepatitis, cirrosis, necrosis hepatocelular), enteropatíasperdedoras de proteínas (sindromes de mala absorción, enfermedad celíaca, enfermedad de Chron, esprue, enfermedad de Whipple), Nefropatía perdedora de proteínas (sindrome nefrótico, glomerulonefritis), pérdidas hacia un tercer espacio (ascitis, quemaduras), desnutrición, dilución por exceso de líquios, aumento de la permeabilidad capilar (enfermedades del colágeno)
+    interpretacionvalorsuperior: |
+      HIPERALBUMINEMIA: deshidratación grave, infusión endovenosa de albúmina
+    indicacion: Evaluación del estado nutricional, hepatopatías
+
+  16:
+    servicio: 16
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 7.6
+    valorinferiorm: 0
+    valorsuperiorm: 7.6
+    interpretacionvalorinferior: Distrofia muscular tardía, intolerancia hereditaria a la fructuosa, enfermedades con emaciación muscular
+    interpretacionvalorsuperior: Miopatías (distrofias, dermatomiositis, polimiositis, traumatismos), infarto de miocardio, anemia hemolítica, cáncer de próstata metastásico, leucemia, pancreatitis aguda, enfermedades hepatocelulares (hepatitis)
+    indicacion: Evaluación de miopatías, lesiones en algún órgano
+
+  17:
+    servicio: 17
+    muestra: ORINA
+    unidades: µg/24 horas
+    valorinferiorh: 6
+    valorsuperiorh: 25
+    valorinferiorm: 6
+    valorsuperiorm: 25
+    interpretacionvalorinferior: Deficiencia de aldosterona, deficiencia de renina, tratamiento con esteroides, enfermedad de Addison, dietas ricas en sodio, hipernatremia, hipokalemia, preeclampsia, tratamiento antihipertensivo
+    interpretacionvalorsuperior: |
+      Aldosteronismo primario: Adenoma suprarenal (enfermedad de Conn), hiperplasia nodular cortical suprarenal, sindrome de Bartter. Aldosteronismo secundario: hiponatremia, hiperkalemia, estrés, cirrosis, nefrosis, ascitis, Hipertensión arterial maligna, embarazo, anticonceptivos orales, hipovolemia, Sindrome de Cushing
+    indicacion: Investigación de la función suprarenal (diagnóstico de hiperaldosteronismo)
+
+  18:
+    servicio: 18
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 7.5
+    valorsuperiorh: 150
+    valorinferiorm: 7.5
+    valorsuperiorm: 150
+    interpretacionvalorinferior: Deficiencia de aldosterona, deficiencia de renina, tratamiento con esteroides, enfermedad de Addison, dietas ricas en sodio, hipernatremia, hipokalemia, preeclampsia, tratamiento antihipertensivo
+    interpretacionvalorsuperior: |
+      Aldosteronismo primario: Adenoma suprarenal (enfermedad de Conn), hiperplasia nodular cortical suprarenal, sindrome de Bartter. Aldosteronismo secundario: hiponatremia, hiperkalemia, estrés, cirrosis, nefrosis, ascitis, Hipertensión arterial maligna, embarazo, anticonceptivos orales, hipovolemia, Sindrome de Cushing
+    indicacion: ~
+
+  19:
+    servicio: 19
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 90
+    valorsuperiorh: 200
+    valorinferiorm: 90
+    valorsuperiorm: 200
+    interpretacionvalorinferior: Deficiencia congenita de Aat, con aparicion  precoz de enfisema ( en adultos) y cirrosis hepatica  ( en adultos y niños), sindrome de distres respiratorio  del recien nacido; proteinas  sericas bajas(sindrome nefrotico,  desnutricion, cancer terminal), prematuridad, dermopatias exudativas.
+    interpretacionvalorsuperior: Trastornos inflamatorios agudos  o cronicos , estres, infeccion, neoplasias( en especial  cancer  cervical  y linfomas), embarazo.
+    indicacion: HTA
+
+  20:
+    servicio: 20
+    muestra: LÍQUIDO AMNIÓTICO
+    unidades: µg/L
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Control del embarazo.
+
+  21:
+    servicio: 21
+    muestra: SANGRE
+    unidades: UI/mL
+    valorinferiorh: 0
+    valorsuperiorh: 10
+    valorinferiorm: 0
+    valorsuperiorm: 10
+    interpretacionvalorinferior: Trisomia 21(sindrome de Down), perdida fetal, feto normal cercano al parto.
+    interpretacionvalorsuperior: |
+      ELEVADA EN GESTANTES: defecto  congenito abierto del tubo neural(anencefalia, encefalocele, espina bifida, mielomeningocele), defectos de la pared abdominal (gastrosquisis, onfalocele), embarazo multiple, sufrimiento fetal, muerte fetal intrauterina.ELEVADA EN NO  GESTANTES Y VARONES:carcinoma hepatico primario(hepatoma), otros canceres(estomago, colon, pulmon, mama, linfoma), tumor de celulas germinales  o el seno endodermico del ovario, tumores de celulas embrionarias o germinales de los testiculos, necrosis de celulas hepaticas(cirrosis, hepatitis).
+    indicacion: Hepatopatias, control de la gestacion.
+
+  22:
+    servicio: 22
+    muestra: ORINA
+    unidades: U/h
+    valorinferiorh: 6
+    valorsuperiorh: 48
+    valorinferiorm: 6
+    valorsuperiorm: 48
+    interpretacionvalorinferior: Alcoholismo, caquexia, absceso hepatico, cirrosis, cancer hepatico.
+    interpretacionvalorsuperior: Pancreatitis, carcinona de cabeza de pancreas, parotiditis, obstruccion  del conducto pancreatico o salival.
+    indicacion: Pancreatitis.
+
+  23:
+    servicio: 23
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 111
+    valorsuperiorh: 296
+    valorinferiorm: 111
+    valorsuperiorm: 296
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Pancreatitis aguda , cancer de pancreas, parotiditis, salpingitis, injuria pancreatica por perforación  de úlcera duodenal(ulcera penetrada), necrosis itestinal.
+    indicacion: ~
+
+  24:
+    servicio: 24
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0
+    valorsuperiorh: 3
+    valorinferiorm: 0
+    valorsuperiorm: 3
+    interpretacionvalorinferior: Insuficiencia   SR primaria o secundaria, insuficiencia ovaria, ooforectomia.
+    interpretacionvalorsuperior: Tumor SR, hiperplasia  SR congenita, tumor  productor de ACTH ectopia, sindrome de Cushing, sindrome  de Stein -Leventhal(ovarios poliquisticos), tumor de los cordones  sexuales del ovario.
+    indicacion: Sindromes  virilizantes (hirsutismo), hiperplasia adrenal congenita.
+
+  25:
+    servicio: 25
+    muestra: ORINA
+    unidades: Negativo
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Sospecha de uso  o toxicidad.
+
+  26:
+    servicio: 26
+    muestra: SANGRE
+    unidades: Eq/L
+    valorinferiorh: 8
+    valorsuperiorh: 16
+    valorinferiorm: 8
+    valorsuperiorm: 16
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Equilibrio hidroelectrico, valoracion de la acidosis metabolica.
+
+  27:
+    servicio: 27
+    muestra: SANGRE
+    unidades: UI/mL
+    valorinferiorh: 70
+    valorsuperiorh: 200
+    valorinferiorm: 70
+    valorsuperiorm: 200
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnostico  y control del LES
+
+  28:
+    servicio: 28
+    muestra: SANGRE
+    unidades: Titulaciones
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: LES, trombosis, trombocitopenia, abortos a  repeticion, sifilis, infeccion aguda, ancianos.
+    indicacion: LES
+
+  29:
+    servicio: 29
+    muestra: SANGRE
+    unidades: Titulaciones
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnostico  de vasculitis, granulomatosis de Wegener.
+
+  30:
+    servicio: 30
+    muestra: SANGRE
+    unidades: Titulaciones
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedades autoinmunes, screening de anticuerpos en  enfermedades del tejido conectivo.
+
+  31:
+    servicio: 31
+    muestra: SANGRE
+    unidades: UI/mL
+    valorinferiorh: 0
+    valorsuperiorh: 2
+    valorinferiorm: 0
+    valorsuperiorm: 2
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Tiroiditis
+
+  32:
+    servicio: 32
+    muestra: SANGRE
+    unidades: Todd/mL
+    valorinferiorh: 0
+    valorsuperiorh: 160
+    valorinferiorm: 0
+    valorsuperiorm: 160
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Infeccion estreptococica actual o reciente:  fiebre  reumatica, infeccion por estreptococ ?-hemolitico del grupo A, endocarditis bacteriana, escarlatina. Titulos mayores de 500 U Todd son indicativos  de fiebre reumatica o glomerulonefritis postestreptococida.Los niveles de ASLO tambien puede permitir establecer el diagnostico diferencial  entre artritis reumatoide (ASLO:  12-250 U) y la fiebre reumatica(ASLO > 500).
+    indicacion: Deteccion  de infeccion por  estreptococos beta- hemoliticos del grupo A(EBHA).
+
+  33:
+    servicio: 33
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0
+    valorsuperiorh: 5
+    valorinferiorm: 0
+    valorsuperiorm: 5
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Procesos malignos: tumores colorrectales, carcinoma de mama, pancreas, estomago, higado;sarcomas. Procesos benignos: colitis ulcerosa, diverticulitis, cirrosis, fumadores cronicos.
+    indicacion: Pronostico y evaluacion de la respuesta del cancer colorrectal al tratamiento antineoplasico.
+
+  34:
+    servicio: 34
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0
+    valorsuperiorh: 4
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Cancer de prostata, hiperplasia benigna de prostata, prostatitis, infarto prostatico, instrumentacion de la uretra, otros canceres (mama, estomago, pancreas, colon, pulmon)
+    indicacion: Diagnostico, tamizaje y control del cancer de prostata.
+
+  35:
+    servicio: 35
+    muestra: SANGRE
+    unidades: %
+    valorinferiorh: 25
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: A menor porcentaje del PSA libre, MAYOR PROBABILIDAD DE CÁNCER DE PRÓSTATA.
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnostico y pronostico del cancer de prostata.
+
+  36:
+    servicio: 36
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 104
+    valorsuperiorh: 202
+    valorinferiorm: 108
+    valorsuperiorm: 225
+    interpretacionvalorinferior: Hipo-apolipoproteinemia heredada (enfermedad de Tangier), colestasis, sepsis, ateroesclerosis.
+    interpretacionvalorsuperior: Dislipidemia, embarazo, hepatopatias, administracion de estrogenos (anticonceptivos orales).
+    indicacion: Evaluacion  del riesgo de enfermedad ateroesclerotica.
+
+  37:
+    servicio: 37
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 40
+    valorinferiorm: 0
+    valorsuperiorm: 32
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Hepatopatias: hepatitis agudas, hepatitis cronica B y C, ictericia obstructiva, cirrosis, neoplasia intrahepatica. En la hepatitis aguda (excepto la de etiologia alcoholica), el incremento   suele ser mayor  para la ALT que para la AST. En las hepatitis alcoholicas la elevacion de transaminasas es moderada. Las hepatitis virales son las que cursan con mayores aumentos de AST.Miocardiopatias:IAM insuficiencia cardiaca.En el IAM solo se eleva la AST (la ALT lo hace de forma  minima).La elevacion de la AST comienza a las 8  horas del inicio del infarto, con un pico a las 36 horas , volviendo a la normalidad en 3 - 4 dias.Lesiones musculares que cursan con  necrosis de miocitos. traumatismo musculares, rabdomiolisis, distrofias musculares, polimiositis, ejercicio muscular intenso. Otras: preeclampsia, enfermedades del SNC, ictericia hemolitica.Obesidad, tabaquismo.
+    indicacion: Diagnostico  y seguimiento  de hepatopatias, distrofia muscular y lesiones organicas.
+
+  38:
+    servicio: 38
+    muestra: SANGRE
+    unidades: %
+    valorinferiorh: 0
+    valorsuperiorh: 0.5
+    valorinferiorm: 0
+    valorsuperiorm: 0.5
+    interpretacionvalorinferior: Enfermedad de  Cushing, gestacion, hipertirodismo o tratamiento con hormonas tiroideas.
+    interpretacionvalorsuperior: Leucemia  mieloide cronica, sindrome nefrotico, inflamacion  cronica, mixedema, colitis ulcerativa, hiperlipemias.
+    indicacion: Infecciones, hemopatias
+
+  39:
+    servicio: 39
+    muestra: ORINA
+    unidades: Negativo
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnostico  y seguimiento  de gammapatías monoclonales; sospecha de mielona de cadenas ligeras, amiloidosis o enfermedad por deposito de cadenas ligeras.
+
+  40:
+    servicio: 40
+    muestra: SANGRE
+    unidades: mg/L
+    valorinferiorh: 1.2
+    valorsuperiorh: 2
+    valorinferiorm: 1.2
+    valorsuperiorm: 2
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Enfermedades asociadas a recambio celular aumentando, procesos inflamatorios, insuficiencia hepatica , disminucion renal , infecciones virales agudas, enfermedades hematologicas asociadas a linfocitos B, mieloma multiple.En las enfermedades  tubulares renales los niveles  de  B2M son bajos en sangre y altos en orina.
+    indicacion: Pronostico de mieloma multiple, valoracion de la funcion  tubular renal.
+
+  41:
+    servicio: 41
+    muestra: ORINA
+    unidades: µg/L
+    valorinferiorh: 0
+    valorsuperiorh: 200
+    valorinferiorm: 0
+    valorsuperiorm: 200
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Enfermedades asociadas a recambio celular aumentando, procesos inflamatorios, insuficiencia hepatica , disminucion renal , infecciones virales agudas, enfermedades hematologicas asociadas a linfocitos B, mieloma multiple.En las enfermedades  tubulares renales los niveles  de  B2M son bajos en sangre y altos en orina.
+    indicacion: ~
+
+  42:
+    servicio: 42
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 22
+    valorsuperiorh: 29
+    valorinferiorm: 22
+    valorsuperiorm: 29
+    interpretacionvalorinferior: Alcalosis respiratoria, histeria, hiperventilacion, respiracion artificial excesiva, intoxicacion salicilica inicial, acidosis metabolica, extenuacion, diabetes mellitus, anuria enfermedad renal grave, anastomosis ureterocolica.
+    interpretacionvalorsuperior: Acidosis respiratoria, hipoventilacion, alcalosis metabolica, terapeutica  con bicarbonato, deplecion de  potasio, vomitos, estenosis pilorica, aspiracion gástrica, intoxicacion salicilica avanzada, sindrome de Cushing.
+    indicacion: Evaluacion del equilibrio  acido-basico.
+
+  43:
+    servicio: 43
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0.1
+    valorsuperiorh: 1
+    valorinferiorm: 0.1
+    valorsuperiorm: 1
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Evaluacion de las ictericias, diagnostico de la enfermedad   hepatobiliar.
+
+  44:
+    servicio: 44
+    muestra: SANGRE
+    unidades: U/mL
+    valorinferiorh: 0
+    valorsuperiorh: 35
+    valorinferiorm: 0
+    valorsuperiorm: 35
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Patologia maligna: cancer de ovarios, pancreas, mama colon, pulmon, linfoma, carcinomatosis peritoneal.Patologia benigna: cirrosis, peritonitis, gestacion, endometriosis, pancreatitis, EIP.
+    indicacion: Diagnostico y control  del cancer de ovario  o tumores  intraperitoneales.
+
+  45:
+    servicio: 45
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Patología maligna: carcinoma  de mama y otras neoplasias epiteliales: páncreas, pulmón, ovario, colorrectal, hígado. En general, cuanto mayor es la concentración de CA 15-3, más avanzado se encuentra el cáncer y mayor es la carga tumoral. Patología benigna: fibroadenoma, enfermedades del páncreas, hepatitis crónica, cirrosis hepática, TBC, LES, insuficiencia renal. 
+      Otras: embarazo. 
+    indicacion: Monitorización luego del diagnóstico y terapia inicial del carcinoma de mama; detección de la recurrencia del carcinoma de mama; en estadios avanzados, para caracterizar  al tumor y decidir las opciones terapéuticas.
+
+  46:
+    servicio: 46
+    muestra: ORINA
+    unidades: mMol/d
+    valorinferiorh: 0
+    valorsuperiorh: 7
+    valorinferiorm: 0
+    valorsuperiorm: 7
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Hiperparatiroidismo, hipercalcemia.
+    indicacion: Enfermedad  paratiroidea u osea.
+
+  47:
+    servicio: 47
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 2
+    valorsuperiorh: 2
+    valorinferiorm: 2
+    valorsuperiorm: 2
+    interpretacionvalorinferior: Hipoparatiroidismo, pancreatitis aguda, insuficiencia renal, raquitismo, carencia de vitamina O, osteomalacia, embolia grasa, alcalosis.
+    interpretacionvalorsuperior: Hiperparatiroidismo, tumores osteoliticos, osteoporosis, hipervitaminosis D, sensibilidad a la vitamina D, exceso de absorción de calcio, metástasis tumoral ósea, hipofosfatemia, acidosis tubular renal, enfermedad ósea de Von Recklinghausen, sarcoidosis, ingesta excesiva de leche, enfermedad de Hodgkin, enfermedad de Paget ósea, síndrome de leche y alcalinos, uso de diuréticos tiazídicos, reposo prolongado en cama.
+    indicacion: Evaluacion de la funcion paratiroidea y del metabolismo del calcio.Procesos renales, oseos y paratiroideos.
+
+  48:
+    servicio: 48
+    muestra: SANGRE
+    unidades: µMol/L
+    valorinferiorh: 0
+    valorsuperiorh: 3
+    valorinferiorm: 0
+    valorsuperiorm: 3
+    interpretacionvalorinferior: Esprue tropical.
+    interpretacionvalorsuperior: Carotinemia por ingesta  excesiva  de zanahorias, calabazas, papayas,etc.
+    indicacion: Ictericia
+
+  49:
+    servicio: 49
+    muestra: ORINA (24H)
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  50:
+    servicio: 50
+    muestra: ORINA (24H)
+    unidades: nMol/L
+    valorinferiorh: 60
+    valorsuperiorh: 600
+    valorinferiorm: 60
+    valorsuperiorm: 600
+    interpretacionvalorinferior: Insuficiencia  de la medula  suprarrenal
+    interpretacionvalorsuperior: feocromocitoma
+    indicacion: HTA
+
+  51:
+    servicio: 51
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  52:
+    servicio: 52
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 15
+    valorsuperiorh: 30
+    valorinferiorm: 16
+    valorsuperiorm: 34
+    interpretacionvalorinferior: Enfermedad de Wilson, lactantes sanos (el dosaje de ceruloplasmina no es útil para diagnosticar la enfermedad de Wilson durante el primer año de vida), pérdida renal de proteínas, malabsorción, desnutrición. Síndrome de Menkes (síndrome del pelo acerado), por un delecto en el gen ATP7A) que altera la absorción y distribución apropiada del cobre.
+    interpretacionvalorsuperior: Embarazo, uso de estrógenos, tirotoxicosis, cirrosis, neoplasias, reacciones inflamatorias agudas y crónicas.
+    indicacion: Diagnostico  de enfermedad de Wilson, evaluacion  de procesos inflamatorios e infecciosos.
+
+  53:
+    servicio: 53
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 200
+    valorsuperiorh: 900
+    valorinferiorm: 200
+    valorsuperiorm: 900
+    interpretacionvalorinferior: Anemia perniciosa, degeneración combinada subaguda de las fibras nerviosas, trastornos gástricos (gastrectomía, ausencia de factor intrínseco), trastornos intestinales (parásitos, insuficiencia pancreática, resección ileal), embarazo, ingesta de alcohol, anticonceptivos, fumar, hemodiálisis, mieloma múltiple.
+    interpretacionvalorsuperior: Enfermedades mieloproliferativas (leucemia, policitemia vera), uremia, leucocitosis, algunos carcinomas, hepatopatías, ingesta de vitamina A y C, estrógenos y anticonvulsivamentes.
+    indicacion: Evaluación de anemia perniciosa, gastritis atrófica crónica del cuerpo gástrico, enfermedades del íleon terminal (enfermedad de Crohn, resección del íleon), pacientes con alcoholismo crónico, vegetarianos prolongados, ancianos con gastritis  atrófica
+
+  54:
+    servicio: 54
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Vómitos repetidos (estenosis pilórica, íleo obstructivo, hiperemesis gravídica, pancreatitis aguda), diarreas abundantes, sudoración profusa con ingesta de bebidas sin sal, quemaduras, insuficiencia renal con pérdida salina, hiperaldosteronismo primario y síndrome de Cushing, hiperhidratación, acidosis respiratoria crónica, terapia con tiazida.
+    interpretacionvalorsuperior: |
+      Deshidratación de agua libre sin pérdida de sal (náufragos, estenosis esofágica), infusiones parenterales salinas excesivas (posoperados, descompensación diabólica aguda), pacientes con insuficiencia renal crónica e ingesta excesiva de sal. Hipercloremia sin hipernatremia: acidosis metabólicas hiperclorémicas, diarreas profusas, fístula intestinal, acidosis tubular renal, pielonefritis, riñón poliquistico, síndrome nefrótico, alcalosis respiratoria aguda.
+    indicacion: Equilibrio hidroelectrolítico, nefropatías.
+
+  55:
+    servicio: 55
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Terapeutica anticoagulante, deficit  de factores  de la coagulacion.
+    indicacion: ~
+
+  56:
+    servicio: 56
+    muestra: ORINA (24H)
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  57:
+    servicio: 57
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 70
+    valorsuperiorh: 155
+    valorinferiorm: 70
+    valorsuperiorm: 155
+    interpretacionvalorinferior: Desnutrición severa, malabsorción, anemia hipocrómica y microcítica, enfermedad de Wilson, síndrome de Menkes, hipersideremia, síndrome nefrótico, quemaduras, disproteinemia.
+    interpretacionvalorsuperior: Gestación, anemias (ferropénica, megaloblástica, aplásica), hemocromatosis, linfomas, infecciones graves, ictericia obstructiva, asma bronquial, conectivopatías (artritis reumatoide, fiebre reumática, LES), hipo e hipertiroidismo, neoplasias malignas.
+    indicacion: Hepatopatías.
+
+  58:
+    servicio: 58
+    muestra: SANGRE
+    unidades: md/dL
+    valorinferiorh: 160
+    valorsuperiorh: 200
+    valorinferiorm: 160
+    valorsuperiorm: 200
+    interpretacionvalorinferior: Insuficiencia hepática, hipertiroidismo, enfermedad de Addison, síndromes mieloproliferativos crónicos, malnutrición, malabsorción, infecciones crónicas, deficiencia de alfa-lipoproteina (enfermedad de Tangier), abetalipoproteinemias, anemias megaloblásticas y sideroblásficas, dieta vegetariana, enfermedad de Gaucher, infecciones agudas, uremia.
+    interpretacionvalorsuperior: |
+      Primarias: hipercolesterolemia familiar y poligénica, apolipoproteina B100 defectuosa, disbetalipoproteinemia familiar. 
+      Secundarias: colestasis, hipotiroidismo, síndrome nefrótico, fármacos (progestágenos), diabetes mellitus. 
+    indicacion: Diagnóstico de dislipemias, obesidad, HTA, cardiopatías, evaluación de riesgo aterogénico.
+
+  59:
+    servicio: 59
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 40
+    valorsuperiorh: 60
+    valorinferiorm: 40
+    valorsuperiorm: 60
+    interpretacionvalorinferior: Factor de riesgo positivo para enfermedad cardiovascular.
+    interpretacionvalorsuperior: ~
+    indicacion: Evaluación del riesgo cardiovascular.
+
+  60:
+    servicio: 60
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Abetalipoproteinemia, estrogenoterapia oral.
+    interpretacionvalorsuperior: |
+      En relación directa con mayor riesgo cardiovascular: hipercolesterolemia familiar, diabetes mellitus, hipotiroidismo, síndrome netrótico, IRC, embarazo, mieloma múltiple, porfiria, anorexia nerviosa, fármacos (esteroides anabolizantes, betabloqueadores, 
+      antihipertensivos, progestágenos, carbamazepina, etc).
+    indicacion: Evaluación de riesgo cardiovascular, diagnóstico de la hipobetalipoproteinemia y abetalipoproteinemia.
+
+  61:
+    servicio: 61
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 5320
+    valorsuperiorh: 12920
+    valorinferiorm: 5320
+    valorsuperiorm: 12920
+    interpretacionvalorinferior: Intoxicaciones por insecticidas organofosforados (paratión, malatión) y carbamatos, hepatopatías (hepatitis, cirrosis), enfermedades que se relacionan con disminución de albúmina (desnutrición, anemias, infecciones IAM, embarazo), fármacos (flúor, cloruro de tetrametilamonio, neostigmina, quinina, etc). 
+    interpretacionvalorsuperior: ~
+    indicacion: Evaluación de la función hepática.
+
+  62:
+    servicio: 62
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Cirrosis, enfermedad  autoinmune, artritis, LES, glomerulonefritis, trasplante renal, rechazo de trasplante renal, desnutrición,  hepatitis.
+    interpretacionvalorsuperior: Fiebre  reumatica, infarto  agudo  de miorcadio,  colitis ulcerosa, cancer.
+    indicacion: Enfermedades autoinmunes.
+
+  63:
+    servicio: 63
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  64:
+    servicio: 64
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  65:
+    servicio: 65
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  66:
+    servicio: 66
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  67:
+    servicio: 67
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  68:
+    servicio: 68
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Estudios de compatibilidad sanguínea, isoinmunización materno-fetal, identificación de anticuerpos y búsqueda de anticuerpos no aglutinantes.
+
+  69:
+    servicio: 69
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Estudios de compatibilidad sanguínea, isoinmunización materno-fetal, identificación de autoanticuerpos y búsqueda de anticuerpos no aglutinantes. 
+
+  70:
+    servicio: 70
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 6.2
+    valorsuperiorh: 26
+    valorinferiorm: 6.2
+    valorsuperiorm: 26
+    interpretacionvalorinferior: Insuficiencia suprarrenal primaria, hiperplasia adrenal congénita secundaria, hipopituarismo, hipotiroidismo, enfermedad hepática. 
+    interpretacionvalorsuperior: Hiperplasia suprarrenal (síndrome de Cushing), adenoma o carcinoma suprarrenal, tumor productor de ACTH ectópico, hipertiroidismo, obesidad, estrés. 
+    indicacion: Evaluación de la función suprarrenal.
+
+  71:
+    servicio: 71
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 20
+    valorsuperiorh: 200
+    valorinferiorm: 20
+    valorsuperiorm: 180
+    interpretacionvalorinferior: Disminución de la masa muscular (desnutrición, envejecimiento), artritis reumatoide y otros procesos reumáticos.
+    interpretacionvalorsuperior: |
+      Cardiopatías: IAM. La CK total se eleva a partir de las 5-6 horas del inicio del infarto, alcanza su pico a las 18 horas y vuelve a la normalidad a los 3-4 días debido a que la enzima es eliminada rápidamente del plasma. Enfermedades del músculo estriado: distrofia muscular, traumatismo muscular, polimiositis, hipertermia maligna, rabdomiolisis aguda. Enfermedades del SNC: enfermedad cerebrovascular aguda, isquemia cerebral, síndrome de Reye. Otras: hipotiroidismo. 
+    indicacion: Diagnóstico y seguimiento del IAM y diversas alteraciones musculares.
+
+  72:
+    servicio: 72
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0.9
+    valorsuperiorh: 1.3
+    valorinferiorm: 0.6
+    valorsuperiorm: 1.1
+    interpretacionvalorinferior: Disminucion  de la masa  muscular(enfermedades  musculares  degenerativas , ancianos), hepatopatia grave,  dietas  hipoproteicas.
+    interpretacionvalorsuperior: Insuficiencia  renal aguda  o cronica, obstruccion  de las vias urinarias , traumatismos masivos,  rabdomiolisis, acromegalia, gigantismo.
+    indicacion: Estudio  de la funcion  renal.
+
+  73:
+    servicio: 73
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Neumonías (principalmente por Mycoplasma pneumoniae, aunque también por adenovirus, por Legionella), MNI, anemias hemolíticas adquiridas, algunos casos de cirrosis hepática y hepatitis, sobre todo virales, tripanosomosis, artritis reumatoidea, leucemia linfática crónica, Iinfomas, mieloma múltiple. 
+    indicacion: Diagnostico  de enfermedades  primarias o consecutivas  a infeccion por linfoma, principalmente  neumonia por Mycoplasma pneumoniae y en la MNI.
+
+  74:
+    servicio: 74
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Colagenopatias.
+
+  75:
+    servicio: 75
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 135
+    valorsuperiorh: 225
+    valorinferiorm: 135
+    valorsuperiorm: 214
+    interpretacionvalorinferior: Exposicion  a rayos x
+    interpretacionvalorsuperior: |
+      Causas cardiovasculares: IAM , ICC, EAP, miocarditis aguda,  fiebre reumatica, valvulopatias graves, cirugia CV.En caso de IAM, la LDH comienza  a elevarse  a las 10 - 12 horas hasta 3-4 veces su valor  normal, y luego desciende,  recuperando  su normalidad a los 7-14 dias.Causas hepaticas: hepatitis agudas , hepatitis cronica, cirrosis, colestasis obstructiva , hepatocarcinoma, metastasis hepaticas. Causas hematologicas : anemias  hemoliticas , anemias megaloblasticas por deficit de vitamina B12 y acido folico, sindromes mieloproliferativos , linfomas.Causas musculares rabdomiolisis, traumatismo, distrofia muscular, polimiositis , dermatomiositis , quemaduras , mioglobinura, triquinosis, ejercicio muscular  violento. Causas oncologicas: neoplasia solidas, neoplasias germinales.Causas nefrologicas:  soindrome   nefrotico , glomerulonefritis, infarto  cortical renal. Otras causas : hipotiroidismo , infecciones, parasitosis(paludismo), TBC, obstruccion intestinal, colagenopatias, farmacos.
+    indicacion: Estudios de enfermedades  hemoliticas , diagnosticos  y seguimiento  de tumores de celulas germinales.La isoenzima 1 de la  LDH en plasma  se ha  usado  para el  diagnostico tardio  del IAM.
+
+  76:
+    servicio: 76
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Procesos  fibrinoliticos  secundarios, terapia trombolitica o terapia  de desfibrinacion  conactivador del plasminógeno tisular, trombosis venosa profunda (TVP), tromboembolia pulmonar (TEP), IAM, CID, neumonía, insuficiencia cardíaca, insuficiencia renal, artritis reumatoide, preeclampsia, neoplasias, sepsis, embarazo, tumores malignos, cirugía. 
+      La sensibilidad y especificidad del dímero D para fenómenos tromboembólicos es del 98-100% y del 35 -  39%, respectivamente, y los valores predictivos negativo y positivo 98-100% y 36-44%, respectivamente. Por tanto el dímero D es útil para descartar TVP o TEP, pero no para confirmar su presencia dada su baja especificidad. Dada su alta  sensibilidad y alto valor predictivo negativo, algunos investigadores han sugerido que con valores inferiores a 0.5 no sería necesario realizar más pruebas diagnósticas. No obstante, esta actitud se encuentra a la espera de futuras valoraciones prospectivas. 
+    indicacion: Diagnostico de los trastornos  de la coagulabilidad.
+
+  77:
+    servicio: 77
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Tamizaje para VIH
+
+  78:
+    servicio: 78
+    muestra: SANGRE
+    unidades: %
+    valorinferiorh: 1
+    valorsuperiorh: 4
+    valorinferiorm: 1
+    valorsuperiorm: 4
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Reacciones alérgicas, Parasitosis
+    indicacion: ~
+
+  79:
+    servicio: 79
+    muestra: SEMEN
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  80:
+    servicio: 80
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Hipogonadismo, sindrome  de Turner
+    interpretacionvalorsuperior: Tumores feminizantes , ovarios poliquisticos, cirrosis hepatica, embarazo.
+    indicacion: Evaluacion  de trastornos de la fertilidad
+
+  81:
+    servicio: 81
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Se necesita  pruebas repetidas (una sola tiene escaso valor).El nivel  aumenta marcadamente  a medida que la gestacion avanza.Si no percibe  aumento, o los niveles disminuyen, es probable el sufrimiento fetal. La sesibilidad y espicifidad de este  te
+
+  82:
+    servicio: 82
+    muestra: SANGRE
+    unidades: Ausente
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedades reumaticas.
+
+  83:
+    servicio: 83
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 30
+    valorsuperiorh: 400
+    valorinferiorm: 13
+    valorsuperiorm: 150
+    interpretacionvalorinferior: Deficienica de hierro , enfermedad celiaca.
+    interpretacionvalorsuperior: Sobrecarga de hierro (hemocromatosis, hemosiderosis), hepatopatia (alcoholicos, cirrosis, hepatitis B, c),  obstruccion biliar , enfermedad de Still, artritis reumatoidea, hipertiroidismo, anemia megaloblastica, anemia sideroblasticas, talasemia, enfermedades malignas, leucemias, linomas, mieloma multiple, cancer de mama, Neuroblastoma, infecciones  cronicas, cancer de pulmon.
+    indicacion: Diagnostico  diferencial  de anemias microciticas  hipocromatosis o sometidos  a terapia de hierro , evaluacion de poblacion  en riesgo  de deficiencia  de hierro.
+
+  84:
+    servicio: 84
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: sindrome de  desfibrinacion , CID, shock endotoxico , sindrome de Watrhouse-Friederichsen, desprendimiento  prematuro  de placenta , murte fetal, embolia por liquido amniotico.
+    interpretacionvalorsuperior: ~
+    indicacion: Coagulopatias
+
+  85:
+    servicio: 85
+    muestra: SANGRE
+    unidades: mU/mL
+    valorinferiorh: 2
+    valorsuperiorh: 11
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Infertilidad (ambos sexos)
+    interpretacionvalorsuperior: Insuficiencia o enfermedad gonadal
+    indicacion: Estudios de infertilidad
+
+  86:
+    servicio: 86
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Carcinoma prostatico, hemopatias(leucemia mieloide  aguda, trombocitopenia idiotepatica), enfermedades oseas (enfermedad de Paget, carcinoma oseo), cancer de mama, hepatopias(hepatitis, ictericidas obstructiva), lesion  renal aguda, enfermedad de Niemann-pick, enfermedad de Gaucher. Su precencial en lavados  vaginales indica la existencia  de liquido seminal, dato util  en caso de presunta violacion.
+    indicacion: Ayuda en el diagnostico  de carcinoma  prostatico  metastizado, monitorizacion  del tratamiento  de la osteoporosis.
+
+  87:
+    servicio: 87
+    muestra: SANGRE
+    unidades: UI/L
+    valorinferiorh: 10
+    valorsuperiorh: 95
+    valorinferiorm: 10
+    valorsuperiorm: 95
+    interpretacionvalorinferior: Retraso del crecimiento , hipotiroidismo, escorbuto , enfermedad celiaca, acondroplasia, intoxiacion por la vitamina D, desnutricion grave, deficit de zinc  y magnesio.
+    interpretacionvalorsuperior: ~
+    indicacion: Procesos oseos  y hepaticos.
+
+  88:
+    servicio: 88
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 0.9
+    valorsuperiorh: 1.5
+    valorinferiorm: 0.9
+    valorsuperiorm: 1.5
+    interpretacionvalorinferior: |
+      Por disminución de la absorción intestinal de fosfato: deficiencia de vitamina D, malabsorción, abuso de antiácidos que quelan el fósforo. 
+      Por aumento de las pérdidas renales de fosfato: deficiencia de vitamina D, hiperparatiroidismo, síndrome da Fanconi, cetoacidosis, abuso y deprivación alcohólica. Otras: alcalosis respiratoria, sepsis, malnutrición grave, crisis blásticas en leucemias.
+
+    interpretacionvalorsuperior: |
+      Por disminución de la excreción renal de fosfato: hipoparatiroidismo, insuficiencia renal aguda y crónica, tratamiento con bifosfonatos, acromegalia. 
+      Otras: intoxicación por vitamina D, lisis tumoral, síndrome de aplastamiento, insuficiencia hepática fulminante, cetoacidosis diabética, hipertermia maligna,  rabdomiolisis, quemaduras extensas. 
+    indicacion: Enfermedades del hueso y riñón.
+
+  89:
+    servicio: 89
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Diagnóstico de sífilis
+    indicacion: Diagnostico  de infeccion reciente  por Treponema pallidum.
+
+  90:
+    servicio: 90
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 60
+    valorinferiorm: 0
+    valorsuperiorm: 40
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Alcoholismo , hepatopias(hepatitis virales agudas y cronicas, hepatites alcoholica, cirrosis, colestasis mestastasis hepatica, absceso y granulona hepatico), obstruccion biliar, pancreatitis, infarto de miocardio, uso de farmacos triciclicos, algunas nefropatias.
+    indicacion: Diagnosticos de enfermedades  hepatobiliares , deteccion  de alcoholismo  oculto.
+
+  91:
+    servicio: 91
+    muestra: SANGRE
+    unidades: Varios sistemas de medidas
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: |
+      Normal  en mediterraneos, caucasicos  y orientales. La anemia  hemolitica puede producirse  por farmacos (por ej: aspirina, primaquina).
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnostico  diferencial  de la anemia.
+
+  92:
+    servicio: 92
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 70
+    valorsuperiorh: 105
+    valorinferiorm: 70
+    valorsuperiorm: 105
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Diabetes mellitus , hepatopatia, asociada  a endocrinopatias(acromegalia, sindrome de Cushing, hipertiroidismo, glucagonoma, somatostinoma), yatrogena (glucorticoides , Acth, diureticos tiazidicos).segun  el National  Diabetes Data Group(USA), valores de glucosa plasmatica  en ayunas de superiores a 140 mg/dL(7,77 mMol/L) obtenidos en mas  de una ocacion, permiten el diagnostico de diabetes mellitus. Baja (hipoglucemia): ayuno , uso de hipoglicemiantes orales(sulfonilureas), insulinoma, hiperinsulinismo, hipopituarismo , insuficiencia  suprarrenal.
+    indicacion: Diagnostico y monotorizacion de hiperglucemia,  hipoglucemia, diabetes  y estados  prediabeticos.
+
+  93:
+    servicio: 93
+    muestra: ORINA
+    unidades: Cero
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Embarazo
+
+  94:
+    servicio: 94
+    muestra: SANGRE
+    unidades: Cero
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Gestacion, enfermedad  trofoblastico  gestacional (molahidatiforme, mola invasiva, coriocarcinoma).
+    indicacion: Diagnostico de embarazo, diagnostico  diferencial  de embarazo  ectopico, marcador  tumoral (diagnostico, monitoreo postquirurgico y deteccion temprana de recidivas de tumores de trofoblasto).
+
+  95:
+    servicio: 95
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Transfucion  sanguinea . Medico legal.
+
+  96:
+    servicio: 96
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 30
+    valorsuperiorh: 200
+    valorinferiorm: 30
+    valorsuperiorm: 200
+    interpretacionvalorinferior: Hemoglobinemia debida a hemolisis intravascular (anemia hemolitica, esterocitosis hereditaria), hemolisis extravascular (hemorragia retroperitoneal). Hemolisis intramedeluar (talasemia, anemia  megaloblastica, anemia sideroblastica); hepatopatia  parenquimatosa; proteinuria ; lactantes.
+    interpretacionvalorsuperior: Enfermedad biliar obstructiva , infecciones, inflamaciones, traumatismos, necrosis hidtica, escorbuto, amiloidosis, sindrome  nefrotico , fiebre reumatica, artritis reumatoide, dermatomiositis, anemia aplastica, diabetes mellitus.
+    indicacion: Deteccion  y evaluacion  de estados  hemoliticos.
+
+  97:
+    servicio: 97
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedad ulcero- peptica.
+
+  98:
+    servicio: 98
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 40
+    valorsuperiorh: 54
+    valorinferiorm: 36
+    valorsuperiorm: 47
+    interpretacionvalorinferior: Anemia
+    interpretacionvalorsuperior: Poliglobulia genuina  (policetemia vera), disminucion  del  volumen  plasmatico(deshidratacion).
+    indicacion: Hemopatias
+
+  99:
+    servicio: 99
+    muestra: SANGRE
+    unidades: g/dL
+    valorinferiorh: 13.5
+    valorsuperiorh: 16
+    valorinferiorm: 11.5
+    valorsuperiorm: 14
+    interpretacionvalorinferior: Perdida de sangre guda o cronica,  produccion deficitaria de hematies , (deficit de hierro, cobre , cobalto, vitamina B12 o acido folico), insuficiencia  de la medula osea (anemia aplastica o sideroblastica), talasemia  anemia hemolitica, anemia falciforme, enfermedad cronica
+    interpretacionvalorsuperior: Hemosiderosis, hemocromatosis, policitemia vera.
+    indicacion: Anemia
+
+  100:
+    servicio: 100
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Seguimiento  y control  del paicente diabetico.
+
+  101:
+    servicio: 101
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 30
+    valorsuperiorh: 34
+    valorinferiorm: 30
+    valorsuperiorm: 34
+    interpretacionvalorinferior: Anemia ferropenia, hemorragia, gestacion, talasemia, anemia sideroblastica. Anemia   en enfermedades cronicas.
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  102:
+    servicio: 102
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 30
+    valorsuperiorh: 34
+    valorinferiorm: 30
+    valorsuperiorm: 34
+    interpretacionvalorinferior: Anemia ferropenica. Sangrado cronico, aclorhidria, esprue, talasemia, anemia sideroblastica, megaloblastica.
+    interpretacionvalorsuperior: Anemia perniciosa (vitaminas B12), deficit de acido folico, reticulocitosis, hipotiroidismo, anemia aplastica.
+    indicacion: Anemia
+
+  103:
+    servicio: 103
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 10.5
+    valorsuperiorh: 14
+    valorinferiorm: 10.5
+    valorsuperiorm: 14
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Hiperactividad de la medula osea.
+    indicacion: Anemia , hemopatias.
+
+  104:
+    servicio: 104
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Procesos infecciosos.
+
+  105:
+    servicio: 105
+    muestra: HECES
+    unidades: Ausente
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  106:
+    servicio: 106
+    muestra: SANGRE, FLUÍDOS CORPORALES
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: |
+      Positivo: hidatidosis
+
+  107:
+    servicio: 107
+    muestra: SANGRE
+    unidades: µMol/L
+    valorinferiorh: 45
+    valorsuperiorh: 70
+    valorinferiorm: 44
+    valorsuperiorm: 74
+    interpretacionvalorinferior: Infección crónica, artritis reumatoide, cáncer, cirrosis hepática, síndrome nefrotico.
+    interpretacionvalorsuperior: Anemia ferropenica, últimas fases del embarazo.
+    indicacion: Anemia
+
+  108:
+    servicio: 108
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 59
+    valorsuperiorh: 158
+    valorinferiorm: 37
+    valorsuperiorm: 145
+    interpretacionvalorinferior: Anemia ferropenica, anemia inflamatoria cronica (infecciones, colagenopatias, procesos inflamatorios, neoplasias), dieta  deficitaria, hemorragia  oculta , malabsorcion, enfermedad de Hodkin, sindrome  nefrotico(perdida renal de trasferrina).
+    interpretacionvalorsuperior: Anemias hemoliticas , necrosis hepatica, hemocramotosis, hemosiderosis, aporte excesivo  de hierro exogeno.
+    indicacion: Diagnostico  y seguimiento  de anemias ferropenicas, diagnostico  de enfermedades cronicas por sobrecarga de hierro(hemocromatosis).
+
+  109:
+    servicio: 109
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0.01
+    valorsuperiorh: 1
+    valorinferiorm: 0.03
+    valorsuperiorm: 10
+    interpretacionvalorinferior: Enanismo
+    interpretacionvalorsuperior: Gigantismo, acromegalia.
+    indicacion: Test  de funcion pituitaria, utilizado  en el diagnostico  de desordenes hipotalomicos,  hipopituitarismo; gidantismo  en niños  y acromegalia en adultos.
+
+  110:
+    servicio: 110
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Hepatopatias , trastornos inmunologicos.
+
+  111:
+    servicio: 111
+    muestra: SANGRE
+    unidades: uUI/mL
+    valorinferiorh: 2.6
+    valorsuperiorh: 24.9
+    valorinferiorm: 2.6
+    valorsuperiorm: 24.9
+    interpretacionvalorinferior: Diabetes  mellitus tipo 1, hipopituarismo, anticuerpos  anti- insulina.
+    interpretacionvalorsuperior: Insulina, diabetes mellitus tipo 2, obesidad, sindrome de Cushing, acromegalia, distrofia  miotonica, intolerancia  familiar  a la fructuosa y galactosa, sindrome de resistencia a la insulina.
+    indicacion: Diagnostico  diferencial de las disfunciones  del metabolismo  d elos carbohidratos, incluyendo  diabetes e hipoglicemia.
+
+  112:
+    servicio: 112
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 135
+    valorsuperiorh: 225
+    valorinferiorm: 135
+    valorsuperiorm: 214
+    interpretacionvalorinferior: Exposicion  a rayos x.
+    interpretacionvalorsuperior: |
+      Causas cardiovasculares: IAM, CC, EAP, miocarditis aguda, fiebre reumática, valvulopatías graves, cirugía CV. En caso de IAM, la LDH comienza a elevarse a las 10-12 horas hasta 3-4 veces su valor normal, y luego desciende, recuperando su normalidad a los 7-14 días. 
+      Causas hepáticas: hepatitis agudas, hepatitis crónicas, cirrosis, colestasis obstructiva, hepatocarcinoma, metástasis hepáticas. 
+      Causas hematologicas: anemias hemolíticas anemias megaloblásticas por déficit de vitamina B12 y ácido fólico, síndromes mieloproliferativos, linfomas. Causas musculares rabdomiolisis, traumatismos, distrofia muscular, polimiositis, dermatomiositis, quemaduras, mioglobinuria, triquinosis, ejercicio muscular violento. Causas oncológicas: neoplasias sólidas, neoplasias germinales. Causas nefrológicas: síndrome nefrótico, glomerulonefritis, infarto cortical renal, Otras causas: hipotiroidismo, infecciones, parasitosis (paludismo), TBC, obstrucción  intestinal, colagenopatías, fármacos. 
+    indicacion: Estudio  de enfermedades  heomoliticas , diagnostico y seguimineto de tumores   de celulas germinales. La insoenzima 1 de la LDH en plasma se ha usado para el diagnostico  tardio del IAM.
+
+  113:
+    servicio: 113
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Pleocitosis ligera (10-30 células/mL) o moderada (30- 100/mL): meningitis aséptica, meningismos, meningitis TBC (predominio línfocitario),   encefalitis viral, neurosífilis, poliomielitis aguda, tumores cerebrales y medulares, herpes zoster. 
+      Pleocitosis moderada (100-500células/mL o más): meningitis bacterianas o virales, meningitis linfocitarias, formas graves de meningitis TBC, rotura de abscesos cerebrales. CITODIAGNÓSTICO CUALITATIVO: Pleocilosis linfocitaria: ocurre en las meningitis asépticas, como la recurrente de Mollaret, la secundaria a sarcoidosis o la del LES. Pleocitosis eosinofila: parasitosis (cisticercosis cerebral). Pleocitosis neutrofilica: abscesos sépticos agudos. 
+      Células atípicas: en ciertos tumores pueden encontrarse células tumorales en el LCR. 
+    indicacion: Diagnostico  de infecciones  meningeas y hemorragias.
+
+  114:
+    servicio: 114
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  115:
+    servicio: 115
+    muestra: ~
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Hipocloremias, meningitis TBC, infeccion  meningea aguda.
+    interpretacionvalorsuperior: Hipercloremia.
+    indicacion: ~
+
+  116:
+    servicio: 116
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: mg/dL
+    valorinferiorh: 40
+    valorsuperiorh: 70
+    valorinferiorm: 40
+    valorsuperiorm: 70
+    interpretacionvalorinferior: Hipoglucemia , meningitis bacterianas y micoticas, meningitis  TBC,  carcinomatosis meningea sindrome de Reye , parasitosis meningea(cisticercosis, amebiosis, triquinosis), hemorragia  subarecnoidea,  meningitis quimica, meningitis reumatoide y mielitis lupica,  algunas meningitis  virales (herpes,parotiditis).
+    interpretacionvalorsuperior: Diabetes   mellitus, encefalitis epidemica,  meningitis  seroas y uremicas, hipertencion  endocraneana debido a tumores o abscesos cerebrales , nuerosifilis.
+    indicacion: Procesos cerebrales
+
+  117:
+    servicio: 117
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Sindrome  de Frion (bloqueo  espinal  por compresion  medular), deshidratacion , shock,  algunas infecciones cronicas degenerativas  nerviosas yb traumattismos craneales  con perdida  de LCR.
+    interpretacionvalorsuperior: Meningitis  o encefalitis virica, hemorragia  subdural  o subaracnoidea, alcoholismo. Meningitis  bacteriana, TBC, sifilis, hemorragia cerebral, toxoplasmosis.
+    indicacion: Procesos del SNC.
+
+  118:
+    servicio: 118
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: mg/dL
+    valorinferiorh: 10
+    valorsuperiorh: 40
+    valorinferiorm: 10
+    valorsuperiorm: 40
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Meningitis , TBC, toxoplasmosis .Meniguitis  luetica , polio, traumatismo  de la puncion  lumbar , hemorragia  cerebral , tumor.
+    indicacion: Enfermedades  del SNC
+
+  119:
+    servicio: 119
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: mL
+    valorinferiorh: 100
+    valorsuperiorh: 150
+    valorinferiorm: 100
+    valorsuperiorm: 150
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  120:
+    servicio: 120
+    muestra: LÍQUIDO AMNIÓTICO
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Pulmon inmaduro.
+    interpretacionvalorsuperior: Pulmon  fetal maduro.
+    indicacion: Evaluacion  dela madurez fetal.
+
+  121:
+    servicio: 121
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Infección viral, ciertos procesos infecciosos bacterianos agudos (tifoidea, brucelosis), uso de citotóxicos, anemia aplásica, exposición a radiaciones.
+    interpretacionvalorsuperior: |
+      Leucocitosis fisiológica: recién nacido, parto, final del embarazo, puerperio, esfuerzo físico, miedo, calor, altura, postprandial. Leucocitosis infecciosa: infección local o general bacteriana, algunas infecciones virales (rabia, poliomielitis). Leucocitosis no infecciosa: dolor intenso, estado posthemorrágico, quemaduras, shock traumático o postoperatorio, necrosis, ciertas neoplasias, coma. Leucocitosis leucemoide (> 30.000 por mm3): procesos infecciosos graves (meningitis, peste, TBC, tos ferina, etc), leucemia (mielograma). 
+    indicacion: Infeccion , hemopatias.
+
+  122:
+    servicio: 122
+    muestra: SANGRE
+    unidades: %
+    valorinferiorh: 20
+    valorsuperiorh: 40
+    valorinferiorm: 20
+    valorsuperiorm: 40
+    interpretacionvalorinferior: Infección violenta, TBC, infección por  VIH, colagenosis (LES), hipercortisolismo primario, enfermedad de Hodgkin, uso de fármacos (corticoides, citostáticos, globulinas antilinfocíticas). Sólo tiene interés la linfopenia absoluta (con cifras normales de leucocitos) o con leucopenia, pues las leucocitosis suelen acompañarse de una linfopenia relativa secundaria a la neutrofilia.
+    interpretacionvalorsuperior: |
+      Formas normales (linfocitosis): infección crónica (TBC, MNI), sífilis, tos ferina, hemopatías (leucemia linfoide crónica), enfermedades endocrinas (diabetes, tirotoxicosis, enfermedad de Addison, acromegalia), radiación. Es fisiológica en lactantes, en grandes alturas y como efecto del calor seco. 
+      Formas anormales: mononucleosis infecciosa, sarampión, parotiditis, leucemia linfoide aguda.
+    indicacion: Infecciones, hemopatias
+
+  123:
+    servicio: 123
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 13
+    valorsuperiorh: 60
+    valorinferiorm: 13
+    valorsuperiorm: 60
+    interpretacionvalorinferior: Gestación, TBC, diabetes mellitus, pancreatitis crónica avanzada, recién nacidos. 
+    interpretacionvalorsuperior: |
+      Pancreatitis aguda, obstrucci, de los conductos pancreáticos, obstrucción intestinal, infarto intestinal, colecistitis aguda, insuficiencia renal, alcoholismo crónico, cetoacidosis diabética, hepatopatía crónica. 
+      NORMAL en parotiditis 
+    indicacion: Diagnóstico diferencial de enfermedades pancreáticas.
+
+  124:
+    servicio: 124
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 400
+    valorsuperiorh: 600
+    valorinferiorm: 400
+    valorsuperiorm: 600
+    interpretacionvalorinferior: Hipertiroidismo, infecciones agudas, anemia perniciosa, déficit congénito de lipoproteínas (abetalipoproteinemia y síndrome de Tangier).
+    interpretacionvalorsuperior: Ateroesclerosis, diabetes, mixedema
+    indicacion: Obesidad, HTA.
+
+  125:
+    servicio: 125
+    muestra: LÍQUIDO ASCÍTICO
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnóstico de peritonitis bacteriana espontánea.
+
+  126:
+    servicio: 126
+    muestra: LÍQUIDO PERICÁRDICO
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Determinacion  de la etilogia  del   derrame  pericardio.
+
+  127:
+    servicio: 127
+    muestra: LÍQUIDO PLEURAL
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  128:
+    servicio: 128
+    muestra: SANGRE
+    unidades: Ausentes
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedad  autoinmune.
+
+  129:
+    servicio: 129
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 1
+    valorsuperiorh: 2
+    valorinferiorm: 1
+    valorsuperiorm: 2
+    interpretacionvalorinferior: Sindrome  de malabsorcion, cirugia  del instestino  delgado,  alcoholismo cronico,  cirrosis hepatica, insuficiencia renal, diarreas, hiperaldosteronismo, sindrome  de Gitelman, pancreatitis aguda,  politransfusiones, farmacos (diureticos de asa y tiazidicos).
+    interpretacionvalorsuperior: INSUFICIENCIA
+    indicacion: ~
+
+  130:
+    servicio: 130
+    muestra: ORINA
+    unidades: mg/24h
+    valorinferiorh: 30
+    valorsuperiorh: 135
+    valorinferiorm: 30
+    valorsuperiorm: 135
+    interpretacionvalorinferior: Sindrome  de mala absorcion, perdida  importante  de liquidos organicos, acidosis diabetica, cirrosis hepatica, alcoholismo, aldosteronismo primario, insuficiencia renal cronica.
+    interpretacionvalorsuperior: ~
+    indicacion: Sindromes carenciales.
+
+  131:
+    servicio: 131
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 3
+    valorinferiorm: 0
+    valorsuperiorm: 3
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Genetica: deficiencia  de NADH-citocromo b5 reductasa.Adquirida: farmacos (dapsona, lidocaina, mitroglicerina , nitroprusiato, fenacetina, fenazopiridina, prilocaina, cloroquina, primaquina, sulfonamidas); agentes quimicos  (derivadas de anilina,  clorobenceno, nitratos, naftaleno,  nitrofenol, nitrato de plata, gases nitrosos, nitratos en agua  de pozos.
+    indicacion: Deteccion  de intoxicacion  por CO.
+
+  132:
+    servicio: 132
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0
+    valorsuperiorh: 90
+    valorinferiorm: 0
+    valorsuperiorm: 90
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Isquemia  miocardica.Tambien puede elevarse  luego de traumatismo, ejercicio fisico y pacientes con insuficiencia renal.
+    indicacion: Sospecha  de isquemia miocardica.
+
+  133:
+    servicio: 133
+    muestra: SANGRE
+    unidades: mm3
+    valorinferiorh: 400
+    valorsuperiorh: 800
+    valorinferiorm: 400
+    valorsuperiorm: 800
+    interpretacionvalorinferior: Infecciones  agudas, farmacos(corticoides, citostaticos), hemopatias (leucemias agudas,tricoleucemia , anemia aplastica).
+    interpretacionvalorsuperior: |
+      Procesos de larga evolucion : inflamacion cronica, TBC, endocarditis  bacteriana, hemopatias  (leucemias  monociticas, agranulocitosis y neutropenias ciclicas, enfermedad de Hodgkin),  mononucleosis infecciosa, enfermedades  autoinmunes(artritis reumatoide, LES).
+    indicacion: Infeccion, hemopatias.
+
+  134:
+    servicio: 134
+    muestra: SANGRE
+    unidades: %
+    valorinferiorh: 55
+    valorsuperiorh: 70
+    valorinferiorm: 55
+    valorsuperiorm: 70
+    interpretacionvalorinferior: Infeccion viral, infecciones  bacterinas  hipervirulentas, fiebre  tifoidea, hepatitis, deficit  vitamina B12 y acido folico, leucemia, linfosarcoma, anemia  aplastica, enfermedad de Gaucher, lupus  eritematoso sistemico (LES).
+    interpretacionvalorsuperior: |
+      MUY ELEVADOS: Neumonia neumocida, absceso pulmonar piogeno. ELEVADO: Infeccion  bacterina aguda , rabia , actinomicosis, herpes zoster.
+    indicacion: Infeccion, hemopatia.
+
+  135:
+    servicio: 135
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Pelagra
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutricion
+
+  136:
+    servicio: 136
+    muestra: ORINA
+    unidades: ~
+    valorinferiorh: 1.003
+    valorsuperiorh: 1.03
+    valorinferiorm: 1.003
+    valorsuperiorm: 1.03
+    interpretacionvalorinferior: Diabetes  insipda, insuficiencia renal, lesion hipofisaria, lesion renal debida a hipercalcemia  o hipokalemia , intoxicacion  por litio.
+    interpretacionvalorsuperior: |
+      Estados  con disminucion  de la perfusion renal, pero con el mecanismo de concentracion intacto: diabetes mellitus, secrecion inapropiada de ADH, proteinuria, toxemia del embarazo, glomerulonefritis, insuficiencia  cardiaca, estados febriles agudos.
+    indicacion: Nefropatias.
+
+  137:
+    servicio: 137
+    muestra: SANGRE
+    unidades: mOsmol/L
+    valorinferiorh: 280
+    valorsuperiorh: 300
+    valorinferiorm: 280
+    valorsuperiorm: 300
+    interpretacionvalorinferior: Hiponatremia
+    interpretacionvalorsuperior: Hipernatremia, hiperglucemia, intoxicacion alcoholica aguda.
+    indicacion: Equilibrio ácido-básico.
+
+  138:
+    servicio: 138
+    muestra: SANGRE
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Hipoxia por hipoventilacion (por ej. Obstrucion al flujo aereo), hipoxia alveolar  (grandes alturas,  inhalacion de gas), anomalias de la difusion  pulmonar(enfermedad pulmonar intersticial), cortocircuito derecha-izquierda, sindrome de distres respiratorio del adulto.
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedad pulmonar o circulatoria, equilibrio acido-basico, determinacion de la efectividad de la oxigenoterapia.
+
+  139:
+    servicio: 139
+    muestra: SANGRE
+    unidades: Titulos negativos
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: MNI
+    indicacion: Diagnostico  de Mononucleosis infecciosa (MNI).
+
+  140:
+    servicio: 140
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 1
+    valorsuperiorh: 4
+    valorinferiorm: 1
+    valorsuperiorm: 4
+    interpretacionvalorinferior: Inanicion, hipoglucemia facticia(por  administracion de insulina exogena), hipoinsulinismo,  diabetes  mellitus  tipo 1, anorexia  nerviosa, enfermedad de Adisson, post pancreatectomia radical.
+    interpretacionvalorsuperior: Hiperinsulinismo  endogeno(insulinemia), ingesta de hipoglicemiantes orales, insuficiencia  renal, diabetes  mellitus tipo 2(comienzo), acromegalia, pancreatitis aguda.
+    indicacion: Diagnostico  diferencial  de la hipoglucemia, para evaluar la reserva  insulinica de las celulas beta.
+
+  141:
+    servicio: 141
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Riesgo  de enfermedad aterogenica.
+
+  142:
+    servicio: 142
+    muestra: ORINA
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Equilibrio acido-basico, nefropatias.
+
+  143:
+    servicio: 143
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 7.36
+    valorsuperiorh: 7.44
+    valorinferiorm: 7.36
+    valorsuperiorm: 7.44
+    interpretacionvalorinferior: |
+      ACIDOSIS(elevado unidades SI): hipoventilacion pulmonar, shock, diarrea grave, diabetes mellitus, anuria, uremia, nefropatia.
+    interpretacionvalorsuperior: |
+      ALCALOSIS(bajo unidades SI): hiperventilacion, mal de altura, vomitos, intoxicacion salicilica, sindrome de Cushing.
+    indicacion: Equilibrio acido-basico.
+
+  144:
+    servicio: 144
+    muestra: SANGRE
+    unidades: mm3
+    valorinferiorh: 150000
+    valorsuperiorh: 450000
+    valorinferiorm: 150000
+    valorsuperiorm: 450000
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Trastornos hemorragicos.
+
+  145:
+    servicio: 145
+    muestra: ORINA
+    unidades:
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Saturnismo
+    indicacion: Intoxicacion  por plomo(saturnismo).
+
+  146:
+    servicio: 146
+    muestra: ORINA
+    unidades: mMol/24
+    valorinferiorh: 25
+    valorsuperiorh: 125
+    valorinferiorm: 25
+    valorsuperiorm: 125
+    interpretacionvalorinferior: |
+      Terapuetica con diureticos ahorrados de potasio(por ej: espironolactona).
+    interpretacionvalorsuperior: Terapeutico  con diuretica, dosis excesivas de k.
+    indicacion: Diagnostico  y monitorizacion  de la hiper o hipokalemia en diversas enfermedades (coma diabetico , isuficiencia  renal o intestino, terapia diuretica).
+
+  147:
+    servicio: 147
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 3
+    valorsuperiorh: 5
+    valorinferiorm: 3
+    valorsuperiorm: 5
+    interpretacionvalorinferior: |
+      Nutricional: por ingesta insuficiente. Por perdidas  digestivas : hiperemesis, diarrea profusa.Por perdinas renales: diureticos(de asa, tiazidicos , acetazolamida),  diuresis osmotica, hiperaldosteronismo primario (sindrome de Conn), sindrome de Cushing, hipertencion  vasculo-renal, tumores productores de renina, hiperplasia suprarrenal, sindrome de Bartter, hipomagnesemia.Por redistribucion del K + corporal: administracion   de insulina Ev,agonista beta-adrenergicos.
+    interpretacionvalorsuperior: |
+      Por deficit  de la eliminacion renal de k + : insuficiencia renal  aguda y cronica, hipoaldosteronismo hiporreninemico de origen  renal, farmacos (espironolactona, IECAs, ARA -II). Por destruccion  tisular:  rabdomiolisis, sindrome de lisis timoral, hematomas extensos, ejercicio extenuante. Por redistribucion de K+:  deficiencia de insulina, estados de  acidosis, parasilis  peridodica hiperpotasemica familiar, uso de bloqueantes beta-adrenergicos.Hiperkalemia falsa: hemolisis de la muestra de sangre, hemolisis intravascular, trombocitosis y leucocitosis extremas.
+    indicacion: Diagnostico  y monotorizacion  de la hiper o hipokalemia  en diversas enfermedades (como diabetico, insuficiencia renal o intestino, terapia diuretica).
+
+  148:
+    servicio: 148
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 4
+    valorsuperiorh: 15
+    valorinferiorm: 4
+    valorsuperiorm: 23
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Fisiologia  (embarazo, lactancia, estrés, estimulacion del pezon, recien nacidos, ingesta de comidas, sueño); por farmacos (haloperidol, metoclopramida, sulpiride; cloropromazina, alfametildopa, reserpina, estrogenos, anfetaminas, ADT, BZD, cimetidina, Ciproterona, opiaceos, verapamil); tumoral (adenoma hipofisario, craneofaringioma, gliomas), enfs infiltrativas  granulomatosas (sarcoidosis); radioterapia craneal,  silla turca vacia, seccion quirurgica del tallo hipofisario.
+    indicacion: Disfunciones sexuales o reproductivas  (amenorrea, infertibilidad, ciclos anovulatorios, galactorrea, ginecomastia, azoospermia), diagnostico de prolactinomas y otros  tumores  de la region  hipotalamo-hipofisaria.
+
+  149:
+    servicio: 149
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Infecciones, enfermedades inflamatorias (artritis reumatoidea, fiebre reumatica, enfermedad inflamatoria intestinal), lesion o necrosis histica(IAM, isquemia o  infarto de otros tejidos, rechazo de trasplante renal o de medula osea, pero no de trasplante  cardiaco, tumores malignos).Los niveles  mas elevados  se describen en las infecciones bacterianas agudas(<30 mg/dL).
+    indicacion: Estados inflamatorios.
+
+  150:
+    servicio: 150
+    muestra: LÍQUIDO CEFALORAQUÍDEO
+    unidades: mg/L
+    valorinferiorh: 150
+    valorsuperiorh: 450
+    valorinferiorm: 150
+    valorsuperiorm: 450
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Aumento  de la presion intracraneal: traumatismo craneal, tumores  cerebrales, hemorragia intracraneal.Infecciones bacterianas o virales: minigitis, TBC, neurosifilis,  encefalitis, poliomielitis.  Otros: toxoplasmosis, sindrome de Guillain-Barre.
+    indicacion: Enfermedades del SNC.
+
+  151:
+    servicio: 151
+    muestra: SANGRE
+    unidades: g/dL
+    valorinferiorh: 6
+    valorsuperiorh: 8
+    valorinferiorm: 6
+    valorsuperiorm: 8
+    interpretacionvalorinferior: Hemodilucion, desnutricion, insuficiencia hepatica, malabsorcion intestinal(enfermedad celiaca, esprue, intestino corto, insuficiencia pancreatica).
+    interpretacionvalorsuperior: |
+      Con cociente  albumina/globulina normal: shock, vomitos  y diarreas, ileo y fistulas digestivas, pancreatitis aguda, tirotoxicosis, insuficiencia  adrenal aguda, quemaduras extensas, cetoacidosis diabetica, diabetes insipida. Con cociente  albumina/globulina anormal: por aumento  de albumina(deshidratacion  grave); por aumento  de globulinas(mieloma multiple, nacroglobulinemia de Waldestrôm, infecciones cronicas, cirrosis hepatica, colagenopatias.
+    indicacion: Valoracion  del estado nutricional; cribado de ciertas alteraciones hepaticas y renales.
+
+  152:
+    servicio: 152
+    muestra: SANGRE
+    unidades: g/dL
+    valorinferiorh: 6
+    valorsuperiorh: 8
+    valorinferiorm: 6
+    valorsuperiorm: 8
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Deteccion , cuantificacion y monitorizacion de las proteinas monoclonales.
+
+  153:
+    servicio: 153
+    muestra: ORINA
+    unidades: mg/24
+    valorinferiorh: 0
+    valorsuperiorh: 150
+    valorinferiorm: 0
+    valorsuperiorm: 150
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Nefropatias, gestacion.
+
+  154:
+    servicio: 154
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 90
+    valorsuperiorh: 110
+    valorinferiorm: 90
+    valorsuperiorm: 110
+    interpretacionvalorinferior: Trastornos hemorragicos, Terapeutica con anticoagulantes.
+    interpretacionvalorsuperior: ~
+    indicacion: Trastorno hemorragicos.
+
+  155:
+    servicio: 155
+    muestra: SANGRE
+    unidades: seg
+    valorinferiorh: 12
+    valorsuperiorh: 16
+    valorinferiorm: 12
+    valorsuperiorm: 16
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Trastornos hemorragicos.
+
+  156:
+    servicio: 156
+    muestra: SANGRE
+    unidades: 109/L
+    valorinferiorh: 10
+    valorsuperiorh: 15
+    valorinferiorm: 10
+    valorsuperiorm: 15
+    interpretacionvalorinferior: Anemias hiporregenereativas por insuficiencia medular (aplasia medular, anemias carenciales y diseritropoyéticas), hipotiroidismo, septicemia, hipofunción testicular, linfoma no Hodgkin. 
+    interpretacionvalorsuperior: Anemias regenerativas (formación de eritrocitos debido a hemorragia aguda, hemólisis), tratamiento de anemia perniciosa, terapéutica marcial de anemia ferropénica.
+    indicacion: Evaluación de la actividad eritropoyética de la médula ósea en anemias y en otras condiciones hematológicas.
+
+  157:
+    servicio: 157
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Tromboastenia  de Glanzmann, CDI, estados  hemofilicos severos, trombocitopenia, macroglobulinemia,  eritrocitos, hiperfibrinolisis, hipofibrinogenemia, afibrinogenemia.Por farmacos (aspirina).
+    interpretacionvalorsuperior: ~
+    indicacion: Evaluacion  de la funsion  plaquetaria  y la estructura  de fibrina en inducir  la retraccion  del coagulo, evaluacion de la enfermedad de Glanzmann.
+
+  158:
+    servicio: 158
+    muestra: SANGRE
+    unidades: Ausente
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Enfermedades reumaticas.
+
+  159:
+    servicio: 159
+    muestra: SANGRE
+    unidades: Negativo
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Determinacion del estado  de inmunidad, especialmente al inicio de la gestacion.
+
+  160:
+    servicio: 160
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 0
+    valorsuperiorh: 2
+    valorinferiorm: 0
+    valorsuperiorm: 2
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Ayuda  en el diagnostico  y seguimiento  de pacientes  con neoplasias  escamosas de diverso origen.
+
+  161:
+    servicio: 161
+    muestra: ORINA
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  162:
+    servicio: 162
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 136
+    valorsuperiorh: 145
+    valorinferiorm: 136
+    valorsuperiorm: 145
+    interpretacionvalorinferior: |
+      Pseudohiponatremia (cursa con osmolalidad plasmática no alterada): hiperglicemias. Hiponatremia verdadera (cursa con disminución de la osmolalidad plasmática): deshidratación, edema, nefropatía, pérdida de sal, ahogamiento en agua dulce, enf. de Addison. 
+    interpretacionvalorsuperior: |
+      Por pérdida de agua superior a la de sodio, con reducción del volumen extracelular: sudoración excesiva, diarreas, vómitos. 
+      Por pérdida exclusiva do agua: diabetes insípida, estatos hipercatabólicos y febriles con aporte hídrico insuficiente. Por exceso de sodio: iatrogénico, ahogamiento en agua salada. 
+    indicacion: Equilibrio hidroelectrolitico.
+
+  163:
+    servicio: 163
+    muestra: SUDOR
+    unidades: mMol/L
+    valorinferiorh: 4
+    valorsuperiorh: 60
+    valorinferiorm: 4
+    valorsuperiorm: 60
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Enfermedad fibroquistica
+    indicacion: Diagnostico  de enfermedad fibroquistica.
+
+  164:
+    servicio: 164
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 1.025
+    valorsuperiorh: 1.029
+    valorinferiorm: 1.025
+    valorsuperiorm: 1.029
+    interpretacionvalorinferior: Intoxicacion por agua, enfermedad de Addison, golpe  de calor, deplecion  de sodio, exceso de ADH por carcinoma bronquial microcelular.
+    interpretacionvalorsuperior: Deshidratacion
+    indicacion: Determinar  el estado  de hidratacion.
+
+  165:
+    servicio: 165
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 2
+    valorsuperiorh: 4
+    valorinferiorm: 2
+    valorsuperiorm: 4
+    interpretacionvalorinferior: Hipotiroidismo, gestacion, uso de  anticonceptivos  orales.
+    interpretacionvalorsuperior: Hipertiroidismo, sindrome nefrotico, uso  de fenitoina.
+    indicacion: Disfuncion  tiroidea (diagnostico  de hipertiroidismo, monitorizacion del tratamiento)
+
+  166:
+    servicio: 166
+    muestra: SANGRE
+    unidades: pg/mL
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: Hipotiroidismo, sindrome  nefrotico, uso  de fenitoina.
+    interpretacionvalorsuperior: Hipertiroidismo, gestacion , uso de anticonceptivos orales.
+    indicacion: Diagnostico y monotorizacion del tratamiento de las disfunciones tiroideas.
+
+  167:
+    servicio: 167
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 2
+    valorsuperiorh: 8
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Hipogonadismo masculino, panhipopituarismo,  climatero, pubertad retrasada, enfermedad de Adisson, eterilidad, sindrome de Klinefelter, impotencia.
+    interpretacionvalorsuperior: Sindrome de Stein-Leventhal, tumores  masculinizantes de ovario(tumor de celulas de Sertoli-Leydig), tumores de la corteza  adrenal, hiperplasia  congenita adrenal, pubertad precoz.
+    indicacion: Disfuncion sexual, hipogonadismo masculino, hirsutismo, virilizacion u oligomenorrea en la mujer , pubertar precoz o retrasada en el niño, genitales  ambiguos o virilizacion en recien nacidos, tumores secretores de androgenos, mujeres postmenopausi
+
+  168:
+    servicio: 168
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 8
+    valorsuperiorh: 0
+    valorinferiorm: 7
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Beriberi, sindrome de Wernicke
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutricion
+
+  169:
+    servicio: 169
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 40
+    valorinferiorm: 0
+    valorsuperiorm: 32
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Hepatopatías: hepatitis agudas, hepatitis crónicas B y C, ictericia obstructiva, cirrosis, neoplasia intrahepática. En las hepatitis agudas (excepto la de etiología alcohólica), el incremento suele ser mayor para a ALT que para la AST. En las hepatitis alcohólicas la elevación de transaminasas es moderada. Las hepatitis virales son las que cursan con mayores aumentos de AST. Miocardiopatías: IAM, insuficiencia cardíaca. 
+      En el IAM sólo se eleva la AST (la ALT lo hace de forma mínima). La elevación de la AST comienza a las 8horas del inicio del infarto, con un pico a las 36 horas, volviendo a la normalidad en 3-4 días. Lesiones musculares que cursan con necrosis de miocitos: traumatismos musculares, rabdomiolisis, distrofias musculares, polimiositis, ejercicio muscular intenso. Otras: preeclampsia, enfermedades del SNC, ictericia hemolítica. Obesidad, tabaquismo.
+    indicacion: Diagnostico  y seguimiento  de hepatopatias, distrofia muscular y lesiones organicas.
+
+  170:
+    servicio: 170
+    muestra: SANGRE
+    unidades: U/L
+    valorinferiorh: 0
+    valorsuperiorh: 41
+    valorinferiorm: 0
+    valorsuperiorm: 33
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      MUY ELEVADA: hepatitis viral, necrosis hepatica, isquemia hepatica.ELEVADA: Ictericia obstructiva, cirrosis, IAM, mononucleosis infecciosa, fármacos hepatotóxicos, quemaduras graves, traumatismos musculares, miositis, pancreatitis, shock. Consideraciones: cuando: TGP > TGO: obstrucción hepática, hepatitis aguda. TGP <TGQ cirrosis, neoplasia hepática, ciencia hemolítica.
+    indicacion: Diagnostico  diferencial  de las enfermedades  del sistema hepatobiliar y del pancreas.Analisis repetidos  para establecer la cronicidad de una hepatitis viral.
+
+  171:
+    servicio: 171
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 200
+    valorsuperiorh: 360
+    valorinferiorm: 200
+    valorsuperiorm: 360
+    interpretacionvalorinferior: Anemia microcitica hipocrómica de las enfermedades crónicas; inflamación aguda, déficit o pérdida de proteínas (quemaduras térmicas, infecciones crónicas, enfermedades crónicas del hígado y riñón, neoplasias, nefrosis, desnutrición). 
+    interpretacionvalorsuperior: Anemia ferropénica, embarazo, tratamiento con estrógenos e hiperestrogenismo. 
+    indicacion: Diagnóstico diferencial de anemias. Monitorización del tratamiento de las anemias. 
+
+  172:
+    servicio: 172
+    muestra: SANGRE
+    unidades: mMol/L
+    valorinferiorh: 0
+    valorsuperiorh: 150
+    valorinferiorm: 0
+    valorsuperiorm: 150
+    interpretacionvalorinferior: Hipertiroidismo, desnutrición, fármacos (ácido ascórbico, clofibrato, metfiormina, progesterona).
+    interpretacionvalorsuperior: Riesgo aumentado de cardiopatia isquémica y ateroescierosis, hiperlipemias familiares, diabetes mal controlada, nefropatías crónicas con insuficiencia renal, alcoholismo, cirrosis alcohólica, obesidad, gota (1/3 de casos), síndrome nefrótico, embarazo, hipotiroidismo.
+    indicacion: Diagnóstico de dislipemias, riesgo cardiovascular.
+
+  173:
+    servicio: 173
+    muestra: SANGRE
+    unidades: ng/mL
+    valorinferiorh: 10
+    valorsuperiorh: 60
+    valorinferiorm: 10
+    valorsuperiorm: 60
+    interpretacionvalorinferior: Pancreatitis crónica avanzada con insuficiencia exocrina, fases avanzadas de fibrosis quística.
+    interpretacionvalorsuperior: Pancreatitis aguda, carcinoma de páncreas, fibrosis quística, traumatismos pancreáticos.
+    indicacion: Pancreatitis, fibrosis quística
+
+  174:
+    servicio: 174
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Trastornos hemorragicos.
+
+  175:
+    servicio: 175
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Trastornos  hemorragicos.Monitorizacion de la terapia con heparina.
+
+  176:
+    servicio: 176
+    muestra: SANGRE
+    unidades: ng/L
+    valorinferiorh: 0
+    valorsuperiorh: 14
+    valorinferiorm: 0
+    valorsuperiorm: 14
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: Necrosis miocárdica por isquemia aguda.
+    indicacion: Diagnóstico diferencial del 1AM, evaluación del riesgo de pacientes con síndrome coronario agudo, clasificación del riesgo cardiaco en pacientes con insuficiencia renal crónica.
+
+  177:
+    servicio: 177
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 3
+    valorsuperiorh: 7
+    valorinferiorm: 2
+    valorsuperiorm: 5
+    interpretacionvalorinferior: Excrecion renal aumentada (embarazo, crecimiento, sindrome de Fanconi,enfermedad de Wilson); produccion  disminuida(deficit de xantinooxidasa, porfiria aguda intermitente), ingesta reducida de purinas.
+    interpretacionvalorsuperior: Hiperproduccion  de uratos  tipo gotos, sindromes mieloproliferativos cronicos, anemias hemoliticas, anemia perniciosa.
+    indicacion: Diagnostico  y evaluacion de la gota. Evaluacion de pacientes con historia de nefrolitiasis.
+
+  178:
+    servicio: 178
+    muestra: ORINA
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  179:
+    servicio: 179
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 10
+    valorsuperiorh: 50
+    valorinferiorm: 10
+    valorsuperiorm: 50
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      Causa renales (por eliminacion renal): insuficiencia renal,  nefritis, obstruccion de tracto urinario, deshidratacion. Causas extrarrenales (por aumento de producción de urea): dietas hiperproteicas, hemorragia digestiva, sepsis, politraumatismo, fiebre, estrés, cirugía. BAJA (hipoazoemia): ingesta elevada de líquidos, hepatopatia grave (insuficiencia de síntesis), embarazo (por aumento del filtrado glomerular).
+    indicacion: Estudio  de la funcion renal.
+
+  180:
+    servicio: 180
+    muestra: ORINA
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  181:
+    servicio: 181
+    muestra: AIRE ESPIRADO
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: Diagnóstico indirecto de infección gástrica por Helicobacter pylori, evaluación de los resultados del tratamiento.
+
+  182:
+    servicio: 182
+    muestra: ORINA
+    unidades: µMol/24
+    valorinferiorh: 7
+    valorsuperiorh: 37
+    valorinferiorm: 7
+    valorsuperiorm: 37
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: |
+      MUY ELEVADO:Feocromocitoma. ELEVADO: Neuroblastoma, paragangliomas, consumo de cafeina, salicilatos, neuroblastoma.
+    indicacion: HTA grave.
+
+  183:
+    servicio: 183
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  184:
+    servicio: 184
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  185:
+    servicio: 185
+    muestra: SANGRE
+    unidades: µMol/L
+    valorinferiorh: 0
+    valorsuperiorh: 2
+    valorinferiorm: 0
+    valorsuperiorm: 2
+    interpretacionvalorinferior: Ceguera  nocturna, xeroflalmia, queratomalacia, fotofobia.
+    interpretacionvalorsuperior: Ingesta  de excesiva vitamina A.
+    indicacion: Malnutricion, oftalmopatias.
+
+  186:
+    servicio: 186
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 8
+    valorsuperiorh: 0
+    valorinferiorm: 7
+    valorsuperiorm: 0
+    interpretacionvalorinferior: Beriberi, sindrome de Wernicke.
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutricion
+
+  187:
+    servicio: 187
+    muestra: SANGRE
+    unidades: µg/gL
+    valorinferiorh: 75
+    valorsuperiorh: 150
+    valorinferiorm: 75
+    valorsuperiorm: 150
+    interpretacionvalorinferior: Deficiencia  de vitamina B 2(malnutricion, alcoholismo, malabsorcion intestinal, enfermedades matabolicas hereditarias).
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutricion, sindrome carenciales.
+
+  188:
+    servicio: 188
+    muestra: SANGRE
+    unidades: µg/mL
+    valorinferiorh: 8
+    valorsuperiorh: 52
+    valorinferiorm: 8
+    valorsuperiorm: 52
+    interpretacionvalorinferior: Pelagra.
+    interpretacionvalorsuperior: ~
+    indicacion: Malnutricion
+
+  189:
+    servicio: 189
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 3
+    valorsuperiorh: 15
+    valorinferiorm: 3
+    valorsuperiorm: 15
+    interpretacionvalorinferior: Malnutricion , malabsorcion, alcoholismo,  diabetes gestacional, dialisis renal, anemia, farmacos(isoniazida, levodopa, anticonceptivos), enfermedades neurologicas e hiperhomocisteinemia.
+    interpretacionvalorsuperior: Atletas y mujeres  con ingesta de megadosis de vitamina B6.
+    indicacion: Sindromes carenciales.
+
+  190:
+    servicio: 190
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  191:
+    servicio: 191
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  192:
+    servicio: 192
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: Escorbuto, raquitismo.
+    interpretacionvalorsuperior: ~
+    indicacion: Insuficiencia  en la dieta.
+
+  193:
+    servicio: 193
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  194:
+    servicio: 194
+    muestra: SANGRE
+    unidades: mg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 1
+    valorinferiorm: 0
+    valorsuperiorm: 1
+    interpretacionvalorinferior: En pacientes  con diversas enfermedades  geneticas o adquiridas(fibrosis quistica, malabsorcion), y en niños  prematuros  con anemia hemolitica.
+    interpretacionvalorsuperior: Ingesta  de megadosis de vitamina E.
+    indicacion: ~
+
+  195:
+    servicio: 195
+    muestra: SANGRE
+    unidades: fL
+    valorinferiorh: 80
+    valorsuperiorh: 95
+    valorinferiorm: 80
+    valorsuperiorm: 95
+    interpretacionvalorinferior: |
+      MUY DISMINUIDO:Deficit  de hierro, sangrado cronico, gestacion, enfermedad cronica consuntiva.DISMINUIDO: hemorragia  aguda, anemia hemolitica, insuficiencia de medula osea, neoplasia.
+    interpretacionvalorsuperior: Anemia perniciosa, deficit  de acido folico, esprue, agotamiento, reticulocitosis, anemia aplastica.
+    indicacion: Anemia
+
+  196:
+    servicio: 196
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  197:
+    servicio: 197
+    muestra: SANGRE
+    unidades: ~
+    valorinferiorh: 0
+    valorsuperiorh: 0
+    valorinferiorm: 0
+    valorsuperiorm: 0
+    interpretacionvalorinferior: ~
+    interpretacionvalorsuperior: ~
+    indicacion: ~
+
+  198:
+    servicio: 198
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 0
+    valorsuperiorh: 8
+    valorinferiorm: 0
+    valorsuperiorm: 8
+    interpretacionvalorinferior: Hipotiroidismo
+    interpretacionvalorsuperior: Tirotoxicosis(enf.de Graves), pielograma EV, uso de anticonceptivos orales, colecistografia.
+    indicacion: Disfuncion tiroidea.
+
+  199:
+    servicio: 199
+    muestra: SANGRE
+    unidades: µg/dL
+    valorinferiorh: 70
+    valorsuperiorh: 130
+    valorinferiorm: 70
+    valorsuperiorm: 115
+    interpretacionvalorinferior: Malnutrición, alcoholismo, acrodermatitis enteropática (malabsorción de zinc), quemaduras extensas, cirrosis hepática, enfermedades crónicas debilitantes, enfermedad renal crónica, desórdenes genéticos, enanismo, fármacos (penicilamina)
+    interpretacionvalorsuperior: Enfermedad de Hodgkin (linfoma), leucemias, hemodiálsis, proceso de cicatrización de heridas
+    indicacion: ~

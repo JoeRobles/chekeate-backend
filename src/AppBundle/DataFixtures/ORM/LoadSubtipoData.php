@@ -26,12 +26,12 @@ class LoadSubtipoData extends LoadAppData implements OrderedFixtureInterface
             $subtipo->setServicio($manager->merge($this->getReference('Servicio_' . $columns['servicio'])));
             $subtipo->setMuestra($columns['muestra']);
             $subtipo->setUnidades($columns['unidades']);
-            $subtipo->setValorinferiorh($columns['valor_inferior_h']);
-            $subtipo->setValorsuperiorh($columns['valor_superior_h']);
-            $subtipo->setValorinferiorm($columns['valor_inferior_m']);
-            $subtipo->setValorsuperiorm($columns['valor_superior_m']);
-            $subtipo->setInterpretacionvalorinferior($columns['interpretacion_valor_inferior']);
-            $subtipo->setInterpretacionvalorsuperior($columns['interpretacion_valor_superior']);
+            $subtipo->setValorinferiorh($columns['valorinferiorh']);
+            $subtipo->setValorsuperiorh($columns['valorsuperiorh']);
+            $subtipo->setValorinferiorm($columns['valorinferiorm']);
+            $subtipo->setValorsuperiorm($columns['valorsuperiorm']);
+            $subtipo->setInterpretacionvalorinferior($columns['interpretacionvalorinferior']);
+            $subtipo->setInterpretacionvalorsuperior($columns['interpretacionvalorsuperior']);
             $subtipo->setIndicacion($columns['indicacion']);
 
             $manager->persist($subtipo);
