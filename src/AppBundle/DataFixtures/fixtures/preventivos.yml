@@ -1,23 +1,813 @@
 Preventivo:
   1:
     enfermedad: Diabetes Gestacional
-    descripcion: Forma de diabetes mellitus INDUCIDA POR EL EMBARAZO.  La diabetes mellitus es una enfermedad crónica en la cual el cuerpo NO PUEDE REGULAR LA CANTIDAD DE AZUCAR EN LA SANGRE (glucosa).
+    descripcion: |
+      Forma de diabetes mellitus INDUCIDA POR EL EMBARAZO.  La diabetes mellitus es una enfermedad crónica en la cual el cuerpo NO PUEDE REGULAR LA CANTIDAD DE AZUCAR EN LA SANGRE (glucosa).
+
+      Se distinguen 2 categorías clínicas de diferente severidad, pronóstico y tratamiento:
+
+      a.- Gestacional propiamente dicha: se manifiesta en el 2do ó 3er trimestre del embarazo; es metabólicamente estable y de mejor pronóstico perinatal.
+
+      b.- Pregestacional (no diagnosticada previamente): se manifiesta precozmente en el embarazo (1er y 2do trimestre), es metabólicamente inestable y de mayor riesgo perinatal.
     grupo_riesgo: EMBARAZADAS
     recomendacion: Se debe realizar glicemia en ayunas en el primer control prenatal. El tamizaje para diabetes gestacional en embarazadas se debe realizar cundo hay factores de riesgo.
-    servicios: [1,2]
+    servicios: [92,100]
 
   2:
     enfermedad: Infección por VIH
-    descripcion: La infección por el VIH (virus de inmunodeficiencia humana) es una enfermedad en la cual el virus AFECTA AL SISTEMA INMUNITARIO, en forma gradual, dificultando la capacidad del organismo de combatir las infecciones, cuadro que es catalogado como SIDA (sindrome de inmunodeficiencia adquirida).
+    descripcion: |
+      La infección por el VIH (virus de inmunodeficiencia humana) es una enfermedad en la cual el virus AFECTA AL SISTEMA INMUNITARIO, en forma gradual, dificultando la capacidad del organismo de combatir las infecciones, cuadro que es catalogado como SIDA (sindrome de inmunodeficiencia adquirida).
+
+      La infección por el VIH SE PUEDE TRANSMITIR AL RECIÉN NACIDO DURANTE EL EMBARAZO (transmisión vertical). El objetivo es: REDUCIR LA TASA DE INFECCIÓN VIH PEDIÁTRICO mediante la detección del VIH en las embarazadas, para la posterior aplicación del Protocolo de Prevención de la Transmisión Vertical del VIH.
+
+      La transmisión vertical del VIH, se produce en 35% de los casos durante el embarazo y aproximadamente en un 65% durante el parto por exposición del RN a sangre materna, secreciones cervicovaginales o líquido amniótico. La LACTANCIA MATERNA agrega un riesgo adicional de 14 a 17%. En todas estas instancias, existen intervenciones efectivas para prevenir la transmisión vertical del VIH.
     grupo_riesgo: EMBARAZADAS
     recomendacion: Se debe ofrecer la prueba de Elisa para VIH a todas las embarazadas en el segundo control de embarazo. Este examen se debe realizar con consejeri?a abreviada pre y post test y consentimiento de aprobacio?n o rechazo por escrito.A las mujeres que lleguen al pre- parto y que no se realizaron la Prueba de Elisa durante el embarazo, se les debe ofrecer la Prueba Ra?pida o Visual para la Deteccio?n del VIH en la maternidad, con consejeri?a abreviada pre y post test y consentimiento o rechazo por escrito.
-    servicios: [1,3]
+    servicios: [77]
 
   3:
     enfermedad: Sífilis
-    descripcion: La sífilis es una ENFERMEDAD DE TRANSMISIÓN SEXUAL causada por una bacteria llamada Treponema Pallidum. A menudo no presenta síntomas o son tan leves que las personas no los notan. La sífilis NO tratada progresa por cuatro etapas, las cuales presentan signos y sintomas únicos:
+    descripcion: |
+      La sífilis es una ENFERMEDAD DE TRANSMISIÓN SEXUAL causada por una bacteria llamada Treponema Pallidum. A menudo no presenta síntomas o son tan leves que las personas no los notan. La sífilis NO tratada progresa por cuatro etapas, las cuales presentan signos y sintomas únicos:
+
+      a) Etapa primaria: se presenta entre los 19 a 90 días después del ingreso de la bacteria. Se manifiesta por una ULCERA CON BORDES ELEVADOS NO DOLOROSA (CHANCRO) en la zona genital. La lesión dura 1 a 5 semanas, y desaparecerá con o sin tratamiento, pero la enfermedad estará presente si no es tratada.
+      b) Etapa secundaria: Se presente entre las 2 semanas a 6 meses después de la infección y de 3 a 6 semanas después de la lesión ulcerada. Se manifiesta como un sarpullido en palmas de manos, plantas de pies o en otras partes del cuerpo. También pueden presentarse verrugas en el área genital, boca y garganta, así como malestar general, caída de cabello. Estos síntomas estarán presentes entre 2 a 6 semanas.
+      c) Etapa Latente: Puede durar entre 2 a 30 años después de la infección, es una etapa sin manifestaciones, sin embargo la prueba de sangre es positiva.
+      d) Etapa terciaria: Los síntomas pueden ocurrir entre los 2 a 30 años de la infección. Se manifiesta como pequeños tumores en piel, complicaciones en corazón y grandes vasos, desórdenes en el sistema nervioso (ceguera, locura, parálisis)
+
+      Durante el embarazo, la infección se puede transmitir de la madre al hijo. Si el diagnóstico y tratamiento de la embarazada no se realiza de manera oportuna, los resultados esperados son:
+      1) Aborto en el 25 % de los casos.
+      2) Mortinato en el 25% de los casos.
+      3) El 50% de recién nacidos vivos, tiene una alta probabilidad de estar infectado. La detección y tratamiento oportuno de la sífilis, permite evitar el daño destructivo que esta enfermedad ocasiona en las personas no tratadas, disminuir el riesgo de adquirir otras infecciones como el VIH, y evitar los efectos devastadores de la sífilis materna en el feto.
     grupo_riesgo: EMBARAZADAS
     recomendacion: |
-      Realizar los exámenes de tamizaje a todas las embarazadas.
-      Realizar exámenes de VDRL o RPR en tres oportunidades durante el embarazo: Al primer control, a las 28 semanas y entre las 32 y 34 semanas. Tratar a toda persona con examen alterado.
-    servicios: [2,3]
+      Realizar los exa?menes de tamizaje a todas las embarazadas.
+      Realizar exa?menes de VDRL o RPR en tres oportunidades durante el embarazo: Al primer control, a las 28 semanas y entre las 32 y 34 semanas. Tratar a toda persona con examen alterado.
+    servicios: [89,183]
+
+  4:
+    enfermedad: Infección urinaria
+    descripcion: Es la infección más frecuente durante el embarazo. El diagnóstico se hace por los síntomas y signos, y se confirma mediante análisis de orina y  urocultivo. De no ser tratada la infección, puede conllevar hacia la pielonefritis (infección a nivel de los riñones que puede dañarlos de forma permanente), condición que representa un evidente mayor riesgo materno y perinatal.
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: Solicitar examen de urocultivo en el primer control de embarazo (recomendado antes de las 12-14 semanas).
+    servicios: [200,201]
+
+  5:
+    enfermedad: Sobrepeso y obesidad
+    descripcion: |
+      Según la Organización Mundial de la Salud (OMS), la obesidad y el sobrepeso han alcanzado caracteres de epidemia a nivel mundial.  La influencia de la nutrición materna en la evolución del embarazo, ha sido ampliamente demostrada, sin embargo, la ganancia de peso excesiva durante la gestación, puede llevar a un mayor riesgo de diabetes gestacional, preeclampsia, parto prematuro, malformaciones congénitas (malformaciones del tubo neural, cardíacas y onfalocele), macrosomía, mortalidad perinatal, bajo peso al nacer, parto vaginal operatorio, desgarros vaginales, cesárea, infecciones post parto y retención de peso post parto.
+      Criterio diagnóstico tomando en cuenta el índice de masa corporal (IMC)
+
+      Semana(gestación)       Normal
+                10                        20.3 - 25.2
+                20                        21.6 - 26.3
+                30                        23.4 - 27.8
+                40                        25.0 - 29.1
+      Valores por encima del límite superior son catalagodos como sobrepeso / obesidad
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: |
+      La mujer se debe preparar antes de embarazarse: si tiene sobrepeso, debe bajar y, a la inversa, si le falta peso debe subir.
+      En gestantes que comienzan la gestacio?n con sobrepeso u obesidad y aquellos que tienen antecedentes de factores de riesgo de enfermedades cro?nicas del adulto, debera? realizarse una vigilancia ma?s intensa del estado nutricional durante todo el embarazo.
+    servicios: []
+
+  6:
+    enfermedad: Hipertensión arterial
+    descripcion: |
+      La hipertensión es una enfermedad crónica caracterizada por un  incremento continúo de las valores de presión sanguínea en las arterias. La enfermedad hipertensiva es una de las complicaciones médicas más frecuentes del embarazo, con una prevalencia estimada entre el 7 al 10% de las embarazadas.  Desde el punto de vista clínico, se reconocen 4 modalidades:
+
+      1) Hipertensión inducida por el embarazo (preeclampsia/eclampsia): afecta de preferencia a primigestas, sin antecedentes cardiovasculares o renales; aparece en la 2da mitad de la gestación, se asocia a pérdida de proteínas por riñones, y es característicamente reversible en el post parto.
+
+      2) Hipertensión crónica: elevación tensional detectada antes del embarazo o antes de las 20 semanas de gestación y que persiste en el post parto alejado; predomina en mujeres sobre los 30 años, habitualmente multíparas y con antecedentes familiares de hipertensión. Un 90% de los casos correspondería a una hipertensión esencial.
+
+      3) Hipertensión crónica, más preeclampsia sobreagregada: la aparición de proteinuria cuando no existía antes de las 20 semanas de gestación, hace diagnóstico de preeclampsia sobreagregada.
+
+      4) Hipertensión transitoria: puede presentarse en forma fugaz, como hipertensión tardía del embarazo o de los primeros días del puerperio, en forma recurrente en embarazos sucesivos, sin afectar condición materna ni perinatal.
+
+      El manejo adecuado de embarazadas hipertensas, ayuda a reducir el riesgo de morbimortalidad materna (asociado a complicaciones parenquimatosas) y perinatal (asociado a condiciones como parto prematuro, restriccio?n de crecimiento intrauterino, desprendimiento de placenta normoinserta).
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: |
+      La terapia antihipertensiva so?lo debe usarse en embarazadas con Hipertensio?n Cro?nica severa.
+      En cada control de embarazo debe realzarse toma de presio?n arterial como tamizaje de preclampsia.
+      No se justifica el tratamiento de formas moderadas de HTA cro?nica, pues no modifica prono?stico perinatal.
+    servicios: [367, 293]
+
+  7:
+    enfermedad: Alcoholismo
+    descripcion: |
+      El embarazo representa una condición en el que el consumo de alcohol, incluso en cantidades moderadas, constituye un riesgo para la salud. Hasta ahora, no se cuenta con información concluyente acerca de si existe una dosis de alcohol que la mujer embarazada pudiere consumir sin riesgo para el curso de su embarazo o para el niño en gestación; sin embargo, debe considerarse que, además de la cantidad (dosis), otros factores también intervienen en la probabilidad de una alteración en el curso del embarazo o para el desarrollo intrauterino del feto, tales como la frecuencia, el patrón de ingestión, la etapa del embarazo en que ocurre, la edad de la madre, su estado de salud y la susceptibilidad genética tanto de ella como del feto.
+
+      Está probado que la ingestión de alcohol en cantidades mayores a 2 unidades estándar por día o más de 10 en la semana y/o si se alcanza el nivel de embriaguez (cualquier grado de incoordinación motora secundaria a ingestión de alcohol), afecta el proceso de gestación y contribuye a un amplio rango de consecuencias ulteriores en la descendencia.  El objetivo del tamizaje es identificar a aquellas mujeres gestantes que por su patrón de ingestión de alcohol, ponen en riesgo el embarazo mismo o la integridad y salud del producto de la gestación, y luego de ello, ofrecerles diversas opciones de prevención.
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: |
+      Si la mujer esta? embarazada o quiere quedar embarazada, la conducta ma?s segura es NO BEBER ALCOHOL.
+      Si esta? embarazada y ya ha consumido alcohol, es importante que deje de beber por el resto del embarazo.
+      Detener el consumo puede reducir las probabilidades de que el feto sea afectado por el alcohol.
+      A toda embarazada en quien se detecte beber en riesgo, se le realizara? una consejeri?a breve en el centro de salud que le corresponda y se le proveera? atencio?n y seguimiento posterior.
+      Toda embarazada, en quien se detecte consumo perjudicial o dependencia al alcohol, se referira? para una completa evaluacio?n de su salud fi?sica y mental.
+      Es preferible no beber alcohol durante el peri?odo de lactancia. Si la madre bebe no debe sobrepasar una unidad esta?ndar por di?a, no ma?s de 5 di?as a la semana y hacerlo al menos 1 hora antes amamantar.
+    servicios: [367]
+
+  8:
+    enfermedad: Tabaquismo
+    descripcion: El tabaquismo es una enfermedad crónica, que se caracteriza por la adicción a la nicotina. Esta al igual que la cocaína, heroína, alcohol, etc., es una droga que crea dependencia e induce aumento de su tolerancia, es decir, se necesitan dosis crecientes para obtener efecto. Su carácter adictivo hace difícil el abandono y mantiene a los fumadores recibiendo grandes cantidades de tóxicos, irritantes, mutágenos y carcinógenos para obtener una pequeña dosis de nicotina. Se ha demostrado que numerosos componentes del humo del tabaco, tienen efectos negativos sobre la salud humana, ya que se distribuyen por todo el organismo, atraviesan la placenta y se excretan por la leche y los fluidos corporales. Las embarazadas que fuman y algunas expuestas al humo de tabaco, tienen hasta dos veces más posibilidades de presentar un parto prematuro; hasta 10 veces más riesgo de tener niños pequeños para la edad gestacional y un riesgo 20% a 60% ma?s alto de muerte fetal.
+    grupo_riesgo: EMBARAZADAS
+    recomendacion: |
+      Identificar las embarazadas fumadoras o en riesgo de consumir tabaco para aconsejar el abandono o desincentivar el consumo y entregar ayuda para lograrlo. Hacer seguimiento en cada consulta.
+      La consejeri?a antitaba?quica en las mujeres embarazadas, aumenta la tasa de abstinencia y reduce el riesgo de bajo peso al nacer de los recie?n nacidos.
+    servicios: [367, 293]
+
+  9:
+    enfermedad: Fenilcetonuria
+    descripcion: |
+      La fenilcetonuria es una ENFERMEDAD HEREDITARIA, caracterizada por la AUSENCIA DE UNA ENZIMA. la FENILALANINA HIDROXILASA. La fenilalanina es un AMINOÁCIDO, compuesto que al unirse con otros aminoácidos forman proteínas. La fenilalanina es un AMINOÁCIDO ESENCIAL, es decir NO SE SINTETIZA en el organismo, por lo que debe ser aportado por la DIETA. La fenilalanina es precursora de la TIROSINA, otro aminoácido que interviene en la producción de NEUROHORMONAS, y en esta conversión interviene la FENILALANINA HIDROXILASA.
+
+      La fenilquetonuria conduce a un retardo mental profundo si no es diagnosticada y tratada desde el período neonatal. Los síntomas iniciales aparecen en los primeros meses de vida, con falta de interés por el medio, convulsiones, frecuentemente espasmos masivos, eczema rebelde a tratamiento y olor a humedad. Alrededor de los 6 meses se hace evidente la presencia de retardo en el desarrollo. En el niño mayor aparecen además, graves trastornos de conducta como agresividad, hiperactividad, rabietas y actitudes autistas.
+      EL DIAGNÓSTICO PRECOZ, ANTES DEL MES DE VIDA, PERMITE PREVENIR LAS SECUELAS DESCRITAS.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: |
+      Realizar tamizaje neonatal a todos los RN despue?s de las 40 horas de vida.
+      Todo valor mayor al punto de corte establecido para el tamizaje, debe ser sometido a confirmacio?n diagno?stica.
+    servicios: [365]
+
+  10:
+    enfermedad: Hipotiroidismo congénito
+    descripcion: |
+      Se define Hipotiroidismo congénito al DÉFICIT DE HORMONAS TIROIDEAS PRESENTES DESDE EL NACIMIENTO, debido a una alteración en el desarrollo o función o de la glándula tiroides o de la glándula hipófisis (a nivel del cerebro, donde se producen la hormona que estimula a la glándula tiroidea: TSH). Las hormonas tiroideas son producidas en la tiroides y una de sus principales funciones es la de INTERVENIR DE FORMA CRÍTICA EN EL DESARROLLO DEL SISTEMA NERVIOSO CENTRAL. El hipotiroidismo congénito ocaciona alteración en la maduración del sistema nervioso que conlleva a RETRASO MENTAL, que en algunos casos puede ser irreversible.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: La importancia de la detección precoz es DETENER EL DETERIORO NEURO-INTELECTUAL, que se presentará siempre en niños carentes o deficientes de hormonas tiroideas en los primeros 3 años de vida por afectar el desarrollo del cerebro y del sistema nervioso central en forma integral.
+    servicios: [365]
+
+  11:
+    enfermedad: Displasia congénita de cadera
+    descripcion: La displasia congénita de cadera es un TRASTORNO CONGÉNITO DE LA ARTICULACIÓN DE LA CADERA, en donde la cabeza del fémur (Hueso del muslo) encaja parcialmente o no encaja en el hueso pélvico. De no corregirse el problema oportunamente puede conllevar a un ma desarrollo de la articulación de la cadera, artritis y deterioro de la cadera misma.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: La alteración en el desarrollo de la cadera es una de las causa más frecuentes de artrosis de cadera en el adulto joven y responsable
+    servicios: [365, 247]
+
+  12:
+    enfermedad: Sobrepeso y obesidad
+    descripcion: Se considera sobrepeso en pediatría a la determinación del indice de masa cororal (IMC) mayor al percentil 85 y obesidad a valores superiores al percentil 95. También puede definirse cuando la relación peso real y peso ideal, según talla, es mayor del 120% para edad y sexo. Además de ser un problema estético o psicológico para el adolescente, la obesidad tiene implicancias metabólicas en la infancia y complicaciones en la adultez.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 293]
+
+  13:
+    enfermedad: Ambliopía
+    descripcion: Disminución de la agudeza visual SIN QUE EXISTE LESIÓN ORGÁNICA que la justifique. Generalmente es unilateral y se produce como consecuencia de falta de estimulación visual adecuada durante el periodo crítico de desarrollo visual.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 374]
+
+  14:
+    enfermedad: Estrabismo
+    descripcion: El estrabismo es un problema visual que hace que los OJOS NO ESTÉN ALINEADOS CORRECTAMENTE, apuntando en diferentes direcciones. Un ojo puede mirar hacia delante, mientras que el otro se vuelve hacia adentro, hacia fuera, hacia arriba o hacia abajo.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 374]
+
+  15:
+    enfermedad: Defectos de la agudeza visual
+    descripcion: |
+      La visión es por excelencia el sentio de la relación social, el aprendizaje y la comunicación. La detección precoz de un defecto de visión puede permitir su corrección total o parcial, prevenir una ceguera permanente asi como una intervención oportuna. Los principales problemas a tomar en cuenta son:
+
+      1) Ambliopia: disminución  de la agudeza visual sin causa aparente.
+      2) Estrabismo: desviación del eje visual o visión cruzada
+      3) Defectos de refracción: las imágenes no se reflejan adecuadamente en la retina, forman parte de ello: MIOPÍA, HIPERMETROPÍA Y ASTIGMATISMO.
+      4) Discromaptosias: alteración en la visión de colores.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 374]
+
+  16:
+    enfermedad: Detección de malos hábitos bucales
+    descripcion: Los malos hábitos orales durante la infancia pueden provocar efectos dañinos sobre el desarrollo de las estructuras faciales y la dentición en los niños. Es importante diagnosticar precozment estos hábitos para eliminarlos y corregir sus alteraciones provocadas por los mismos dando el correcto tratamiento.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: []
+
+  17:
+    enfermedad: Leucemia
+    descripcion: |
+      La leucemia es un tipo de cáncer de la sangre que comienza en la médula ósea, el tejido blando que se encuentra en el centro de los huesos, donde se forman las células sanguíneas. El término leucemia significa \"sangre blanca\". Los glóbulos blancos (leucocitos) son producidos en la médula ósea y el cuerpo los utiliza para combatir infecciones y otras sustancias extrañas.
+      La leucemia lleva a un aumento incontrolable de la cantidad de glóbulos blancos.
+
+      Las células cancerosas impiden que se produzcan glóbulos rojos, plaquetas y glóbulos blancos maduros (leucocitos) saludables. Entonces, se pueden presentar síntomas potencialmente mortales a medida que disminuyen las células sanguíneas normales. Las células cancerosas se pueden propagar al torrente sanguíneo y a los ganglios linfáticos. También pueden viajar al cerebro y a la médula espinal (el sistema nervioso central) y otras partes del cuerpo.
+
+      Las leucemias tomando en cuenta la madurez de los globulos blancos encontradas en sangre, se pueden clasificar en dos grupos:
+      a) Leucemias agudas, donde las células encontradas son células inmaduras o jóvenes
+      b) Leucemias crónicas, formada por células maduras
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 290]
+
+  18:
+    enfermedad: Tumores de Cerebro
+    descripcion: |
+      Un tumor cerebral es un crecimiento descontrolado de células derivadas de componentes cerebrales (tumores primarios) o de células tumorales localizadas en otras áreas del organismo (metástasis).
+
+      A diferencia de otras localizciones tumorales, los tumores cerebrales se pueden clasificar en  benignos o malignos, dependiendo de la RAPIDEZ DE CRECIMIENTO y de LA FACTIBILIDAD DE SER EXTIRPADOS MEDIANTE EL TRATAMIENTO NEUROQUIRÚRGICO. A diferencia de los tumores de otros tejidos, la distinción entre manifestaciones benignas y malignas no es tan clara, por ejemplo, algunas lesiones benignas pueden infiltrar regiones enteras con comportamiento clínico maligno. Las neoplasias malignas producen metástasis, lo cual constituye un hecho improbable. Las metástasis hacia el SNC provienen, en orden de frecuencia, del pulmón, mama, piel (melanoma), riñón y gastrointestinal.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 269,290]
+
+  19:
+    enfermedad: Linfoma
+    descripcion: |
+      Un linfoma es un tumor, es decir un crecimiento anormal de células que se desarrolla en el sistema linfático. El sistema linfático es una amplia red de vasos o tubos finos que conectan ciertos estructuras ovaladas conocidas como ganglios linfáticos. Los ganglios se distribuyen por todo el cuerpo: axilas, ingles, cuello, tórax y abdomen; sin embargo, también hay tejido linfático en otros órganos como las amígdalas, el tubo digestivo, el bazo, el timo y la médula ósea. El sistema linfático transporta un líquido blanquecino llamado LINFA, la cual contiene a los linfocitos: un tipo de glóbulo blanco de la sangre, de gran importancia en el control de las infecciones.
+
+      Los linfomas se dividen en dos categorías:
+      a) Linfomas de Hodgkin.
+      b) Linfoma No Hodgkin, el cual es más común.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 269,290]
+
+  20:
+    enfermedad: Sarcoma (tumores partes blandas)
+    descripcion: Sarcoma es un tipo de cáncer que se origina en el tejido de sostén o tejido conectivo, al cual pertenecen tejidos como los músculos, la grasa, los vasos sanguíneos, entre otros. Se pueden localizar en cualquiér parte del cuerpo, siendo la mayoría de ellos localizados en miembros superiores e inferiores, seguido del tronco, cabeza, cuello y cavidad abdominal (a nivel de retroperitoneo).
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 285, 291]
+
+  21:
+    enfermedad: Cáncer gonadal (testículo/ovario)
+    descripcion: |
+      El cáncer de testículo en varones y cáncer de ovario en mujeres, son cánceres que podrían presentarse antes de los 15 años, por lo que tener presente su diagnóstico es importante.
+      CÁNCER DE TESTÍCULO
+      Cáncer que se origina a nivel de los testículos, los cuáles forman parte del sistema reproductor masculino. Cumplen dos funciones principales:
+      -  Producen hormonas masculinas como la testosterona
+      -  Producen ESPERMA, que contienen a los espermatozooides, células masculinas necesarias para fertilizar la célula sexual femenina
+
+      Se pueden distinguir dos tipos principales de cáncer de testículo:
+      a) Seminomas, los cuales tienen un crecimiento más lento
+      b) No Seminomas, crecimiento más rápido
+
+      CÁNCER DE OVARIO
+      El cáncer de ovario es un tumor maligno que nace en cualquiera de las partes del ovario. El ovario es un órgano muy complejo que puede ser asiento de numerosos tumores de muy distinto rango morfológico, algunos de los cuales están dotados de función hormonal, lo que justifica la gran variedad de clasificaciones.
+
+      Tomando en cuenta el tipo de célula donde se origina el cáncer de ovario, se pueden distinguir trestipos pincipales de cáncer:
+      a) Cáncer de células germinales, frecuentemente presente antes de los 20 años
+      b) Cáncer de los cordones sexuales
+      c) Cáncer epitelial de ovario, frecuente en mujeres mayores de los 60 años
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 217, 291]
+
+  22:
+    enfermedad: Retinoblastoma
+    descripcion: |
+      El Retinoblastoma es un CÁNCER que se origina en la RETINA, capa de tejido nervioso que se localiza en la parte posterior del ojo y cuya función es detecar la luz y enviar las imágenes al cerebro. Se puede desarrollar desde cuando el feto está en útero, pero también se puede presentar en recién nacidos, bebés, niños que están dando sus primeros pasos y niños hasta 5 años de edad.
+
+      Una de las primeras señales del Retinoblastoma es la presencia de imagen blanquecina en el interior de las pupilas al ser expuestos a una luz.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 274,374]
+
+  23:
+    enfermedad: Cáncer de Hueso
+    descripcion: |
+      El cáncer de Huesos o SARCOMAS ÓSEOS son el resultado de una proliferación ANORMAL de células dentro de un hueso. Según el tipo de célula donde se originó se pueden clasificar en tumores formadores de hueso, formadores de cartílago, tumores de células gigantes, entre otros.  Son tres los signos y síntomas que acompañan a un tumo óseo:
+      a) Dolor
+      b) Aumento de volumen
+      c) Impotencia funcional
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 285, 351]
+
+  24:
+    enfermedad: Cáncer de Riñon (Tumor de Wilms)
+    descripcion: El tumor de Wlms o también llamado NEFROBLASTOMA, es un cáncer que se origina en el riñon, y es el segundo tipo más frecuente de cáncer abdominal en niños, después del NEUROBLASTOMA DE GLÁNDULA SUPRARRENAL. En un 75% se presenta en niños sanos y en el 25% restante se asocia a anormalidades dek desarrollo como malformaciones del tracto urinario, ausencia de iris (aniridia) y hemihipertrofia (crecimiento desproporcionado de un lado del cuerpo). En la gran mayoría se presenta en un sólo riñon, en menos del 5% se presenta en ambos riñones.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 278,291]
+
+  25:
+    enfermedad: Cáncer de Hígado (Hepatoblastoma)
+    descripcion: |
+      EL HEPATOBLASTOMA es el TUMOR MALIGNO MÁS FRECUENTE DEL NIÑO, presente comúnmente en niños menores de 3 años y de PREDOMINIO MASCULINO. Puede estar asociado a hemihipertrofia (crecimiento desproporcionado de un lado del cuerpo - Sindrome de Wiedemann-Beckwith) y al sindrome alcohólico-fetal.
+
+      Los niveles de ALFAPROTEÍNA (AFP), que habitualmente produce el tumor, facilitan el diagnósticoy el seguimiento.
+    grupo_riesgo: PEDIATRÍA
+    recomendacion: ~
+    servicios: [367, 278,291]
+
+  26:
+    enfermedad: Alcoholismo
+    descripcion: |
+      El alcohol es la droga más comúnmente utilizada entre los adolescentes. Las heridas y lesiones son la principal causa de muerte entre los jóvenes, y el alcohol es la principal causa de heridas y lesiones.
+      Señales de advertencia:
+      - Huelen a alcohol
+      - Tienen un nuevo grupo de amigos que no quieren presentarle
+      - Comienzan a faltar a clases o tener problemas en la escuela
+      - Pierden el interés en actividades que solían disfrutar
+      - Se desaparece el alcohol de su casa
+      - Cambian su comportamiento, o son retraídos o cambian de manera drática su estado de ánimo
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  27:
+    enfermedad: Sobrepeso y obesidad
+    descripcion: |
+      La obesidad se debe a un desbalance energe?tico originado fundamentalmente por una INGESTA CALÓRICA SUPERIRO A LA REQUERIDA, lo que trae como consecuencia un exceso de grasa en el organismo que puede ser perjudicial para la salud.
+      El ÍNDICE DE MASA CORPORAL  (IMC), que relaciona el peso con la estatura, es una medida confiable y va?lida para identificar a adultos en riesgo de mortalidad y morbilidad, debido a sobrepeso u obesidad: IMC = peso (kg) / estatura2 (m).
+
+      Normal -> IMC: 18.5 a 24.9
+      Sobrepeso -> IMC: 25-29.9
+      Obesidad -> IMC: >30
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367, 293]
+
+  28:
+    enfermedad: Tabaquismo
+    descripcion: |
+      El tabaquismo es una enfermedad cro?nica, que se caracteriza por la adiccio?n a la nicotina. Esta, al igual que la cocaína, heroína, alcohol, etc., es una droga que crea dependencia e induce aumento de su tolerancia, es decir, se necesitan dosis crecientes para reducir la ansiedad que causa dejar de hacerlo. El tabaquismo empieza en los primeros años de la adolescencia. Las consecuencias de consumo en niños conlleva:
+      - Tos frecuente
+      - Adicción a la nicotina
+      - Dolores de cabeza contínuos
+      - Problemas respiratorios
+      - Caída de dientes
+      - Problemas cardíacos
+      - Dificultados en la audición y visión
+      - Enfermedades psiquiátricas
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  29:
+    enfermedad: Hipertensión arterial
+    descripcion: La hipertensión arterial es uno de los factores de RIESGO CARDIOVASCULAR más importantes, al igual que la hipercolesterolemia (colesterol elevado) y el tabaquismo. La hipertensión es un problema de salud que puede presentarse en niños y adolescentes. Se estima que  entre un 0.6 al 11% de los niños y adolescentes se puede encontrar un cuadro de hipertensión arterial.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367, 293]
+
+  30:
+    enfermedad: Diabetes Mellitus
+    descripcion: Diabetes es una enfermedad crónica caracterizada por un aumento del ázucar (glucosa) en sangre, secundario o a una falta de insulina (hormona del páncreas que permite utilizar la glucosa) o por una cantidad insuficiente de insulina producida. Si la diabetes no se controla ben puede producir complicaciones importantes a nivel de corazón, pies, ojos, riñones.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [92, 100,363]
+
+  31:
+    enfermedad: Dislipidemias
+    descripcion: Se denomina DISLIPIDEMIA a la elevación anormal de las grasas en sangre (coleterol, triglicéridos, coleterol LD, HDL). La dislipedima puede conllevar a problemas cardiovasculares y/o de trombosis .
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [357]
+
+  32:
+    enfermedad: Enfermedades de transmisión sexual
+    descripcion: |
+      Las enfermedades de transmisión sexual son INFECCIONES que se adquieren al tener relaciones sexuales con alguién que este infectado. Las causas pueden ser debido a BACTERIAS, VIRUS, PARÁSITOS. Existen más de 20 tipos de enfermedades de transmisión sexual, dentro de las mas importantes a mencionar tenemos:
+      - Clamidias
+      - Gonorrea
+      - Herpes genital
+      - VIH/SIDA
+      - Herpes virus
+      - Sífilis
+      - Tricomoniasis
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  33:
+    enfermedad: Tuberculosis
+    descripcion: |
+      La tuberculosis (TBC) es una INFECCIÓN BACTERIANA CONTAGIOSA que compromete principalmente a los pulmones pero que puede propagarse a otros órganos. La especie de bacterias más importante y representativa causante de tuberculosis es Mycobacterium tuberculosis o BACILO DE KOCH.
+
+      La tuberculosis se contagia por VÍA AÉREA, cuando las personas infectadas tosen, estornudan o escupen.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,230,204]
+
+  34:
+    enfermedad: Dismenorreas
+    descripcion: |
+      Se denomina DISMENORREA a los períodos en los cuales una mujer experimenta DOLOR EN LA PARTE BAJA DEL ABDOMEN tipo cólico, dolor agudo e intermitente o posiblemente como un dolor de espalda. Durante la menstruación se puede cursar con ciertas molestias, pero cuando la sensación se manifiesta con dolor excesivo se denomina DISMENORREA.
+
+      La dismenorrea se puede clasificar en dos tipos:
+      a) Dismenorrea PRIMARIA, que se presentan desde el inicio de los períodos menstruales
+      b) Dismenorrea SECUNDARIA, dolor menstrual que se desarrolla posteriormente, en mujeres que han tenido períodos normales
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,209,210]
+
+  35:
+    enfermedad: Amenorreas
+    descripcion: |
+      Se denomina AMENORREA a la AUSENCIA DE MENSTRUACIÓN o porque nunca comenzó o porque se interrumpió posteriormente. Tomando en cuenta el periodo de instauración se pueden distinguir tres grupos:
+      a) Amenorrea fisiológica: presente en las etapas: ANTES DE LA PUBERTAD, EMBARAZO, LACTANCIA, MENOPAUSIA
+      b) Amenorrea Primaria: falta de inicio de la menstruación pasado los 16 años, falta de desarrollo de caracteres sexuales
+      c) Amenorrea Secundaria: asusencia de menstruación durante tres meses o más en mujeres que previamente han menstruado.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,209,210]
+
+  36:
+    enfermedad: Infección por Virus papiloma Humano (PVH)
+    descripcion: La infección por el virus papiloma humano (PVH) es la enfermedad de transmisión sexual más prevalente en el mundo.  Este virus fué descrito por primera vez en 1935 por el Dr. Francis Peyton Rous. Tomando en cuenta su capacidad de provocar la transformación maligna de las células infectadas, los virus se pueden clasificar en virus de alto y bajo riesgo, siendo los serotipos 16 y 18 los responsables del 70% de cáncerres a nivel del cuello uterino. Otros virus de alto riesgo son el 31, 33, 35, 39, 45, 51, 56, 58, 68,73 y 82.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [288,104,209,210]
+
+  37:
+    enfermedad: Nódulos en mamas
+    descripcion: Se denomina nódulo de mama a un aumento de volumen localizado en la glándula mamaria, de CONTENIDO SÓLIDO, que debe diferenciarse de los quistes cuyo contenido es líquido. Ambos deben ser evaluados por el especialista, quien apoyado en los medios diagnósticos podrá definir de qué se trata y cuál es la conducta a seguir.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: El objetivo principal del estudio de un nódulo mamario es descartar o confirmar la presencia de un cáncer, lo que frecuentemente requiere de una confirmación histológica mediante una biopsia. El riesgo de cáncer de mama se incrementa con la edad. Importante considerar el RIESGO FAMILIAR (abuela, mamá, hermana o hija con cáncer de mama)
+    servicios: [219, 214]
+
+  38:
+    enfermedad: Infección urinaria
+    descripcion: |
+      La infección urinaria es la existencia de GÉRMENES EN LA ORINA por infección de la uretra, la vejiga, el riñón o la próstata. Los síntomas que acompañan a una infección de orina son los que componen el síndrome miccional, teniendo en cuenta que las infecciones de orina también pueden ser asintomáticas.
+
+      El síndrome miccional es un conjunto de síntomas relacionados con el aparato urinario, que ocurre de forma frecuente, sobre todo en mujeres, no suele ser grave pero es muy molesto. Está caracterizado por uno o más de los siguientes síntomas:
+      - Polaquiuria: Es el aumento de la frecuencia de las micciones de escasa cantidad.
+      - Disuria: Es la difícil, dolorosa e incompleta expulsión de la orina.
+      - Tenesmo vesical: Es la sensación de no haber orinado totalmente, con persistencia de los síntomas
+      - Urgencia miccional: Es la sensación de no poder contener la orina y tener la necesidad de orinar
+      - Molestias hipogástricas: Es un dolor localizado en el hipogastrio o en el bajo vientre.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [200,201,104]
+
+  39:
+    enfermedad: Cáncer de Tiroides
+    descripcion: |
+      El cáncer de tiroides agrupa a un pequeño número de tumores malignos de la glándula tiroides, Es el cáncer más común del sistema endocrino. La glándula tiroidea es una estructura anatómica localizada en el cuello, en la egión central anterior, cuya función es la de producir las hormonas tiroideas, las cuales regulan los procesos biológicos que san dentro del organismo. Por lo general, los tumores malignos de la tiroides tienen su origen en el epitelio folicular de la glándula y son clasificados de acuerdo a sus características histológicas, teniendo así:
+      - Carcinomas diferenciados:
+         a) Carcinoma papilar
+         b) Carcinoma folicular
+         c) Carcinoma de células de Hurtle
+      - Carcinoma medular
+      - Carcinoma indiferenciado
+      - Linfoma
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [216,359]
+
+  40:
+    enfermedad: Cáncer de mama
+    descripcion: El cáncer de mama es una proliferación maligna de las células epiteliales que revisten los conductos o lobulillos mamarios. La glándula mamaria consta de dos elementos fundamentales: los acinos glandulares, donde se encuentran las células productoras de leche y los ductos, un conjunto de estructuras tubulares y huecas, ramificadas en forma de árbol, cuyas luces confluyen progresivamente en canalículos más y más gruesos hasta terminar en uno de los doce a dieciocho vértices llamados galactóforos. Los galactóforos son dilataciones ductales a modo de reservorios situados inmediatamente por detrás del pezón.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [219,214]
+
+  41:
+    enfermedad: Cáncer de Cérvix (cuello uterino)
+    descripcion: El cáncer cervicouterino, de cérvix o cuello uterino, es una alteración celular que se origina en el epitelio del cuello del útero y que se manifiesta inicialmente a través de lesiones precursoras o PRECANCEROSAS, habitualmente de lenta y progresiva evolución en el tiempo. En grado variable evolucionan a cáncer in situ cuando compromete sólo a la superficie epitelial y luego a cáncer invasor cuando el compromiso traspasa la membrana basal.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [288,104,209,210]
+
+  42:
+    enfermedad: Cáncer de estómago
+    descripcion: |
+      El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el estómago. La mayoría comienza en las células de la capa interna del estómago (capa denominada como MUCOSA), que suele elaborar y secretar moco y otros li?quidos. Estos tipos de cáncer se llaman adenocarcinomas y representan el 95 % de los casos de ca?ncer de estómago.
+
+      La mucosa o capa interna del estómago se compone del epitelio y de la la?mina propia. A más profundidad en la pared estomacal encontramos la submucosa, seguida de las capas musculares, subserosa  y la serosa, que es la membrana que recubre el exterior del esto?mago.
+
+      Los otros tipos principales de cáncer de estómago, diferentes al adenocarcinoma, incluyen:
+
+      a) Linfomas gástricos, cánceres que se originan en las células del sistema inmunitario que se encuentran en la pared del estómago. En su mayoría, son linfomas no Hodgkin. Puede encontrarse ma?s información sobre ellos aquí.
+
+      b) Tumores del estroma gastrointestinal o GIST, tumores raros que se cree se originan en las células de la pared estomacal denominadas células intersticiales de Cajal. Aqí puede encontrarse información sobre los tumores del estroma gastrointestinal.
+
+      c) Tumores neuroendocrinos, que se originan en las células nerviosas o endocrinas del esto?mago. Aquí puede encontrar información sobre ellos.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,291,220]
+
+  43:
+    enfermedad: Cáncer de Pulmón
+    descripcion: |
+      El cáncer de pulmón es un conjunto de enfermedades resultantes del crecimiento maligno de células del tracto respiratorio, en particular del tejido pulmonar. El cáncer de pulmón suele originarse a partir de células epiteliales, y puede derivar en metástasis e infiltración a otros tejidos del cuerpo. Se excluye del cáncer de pulmón aquellas neoplasias que hacen metástasis en el pulmón provenientes de tumores de otras partes del cuerpo.
+
+      El cáncer de pulmón se puede clasificar en dos tipos:
+      a) Cáncer de pulmón de células pequeñas
+      b) Cáncer de pulmón de células No pequeñas, en el cual encontramos 3 subtipos:
+           - Carcinoma epidermoide
+           - Adenocarcinoma
+           - Carcinoma de células grandes
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [288,227,228,287,273]
+
+  44:
+    enfermedad: Linfoma
+    descripcion: |
+      Un linfoma es un tumor, es decir un crecimiento anormal de células que se desarrolla en el sistema linfático. El sistema linfático es una amplia red de vasos o tubos finos que conectan ciertos estructuras ovaladas conocidas como ganglios linfáticos. Los ganglios se distribuyen por todo el cuerpo: axilas, ingles, cuello, tórax y abdomen; sin embargo, también hay tejido linfático en otros órganos como las amígdalas, el tubo digestivo, el bazo, el timo y la médula ósea. El sistema linfático transporta un líquido blanquecino llamado LINFA, la cual contiene a los linfocitos: un tipo de glóbulo blanco de la sangre, de gran importancia en el control de las infecciones.
+
+      Los linfomas se dividen en dos categorías:
+      a) Linfomas de Hodgkin.
+      b) Linfoma No Hodgkin, el cual es más común.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,208,41]
+
+  45:
+    enfermedad: Leucemia
+    descripcion: |
+      La leucemia es un tipo de cáncer de la sangre que comienza en la médula ósea, el tejido blando que se encuentra en el centro de los huesos, donde se forman las células sanguíneas. El término leucemia significa sangre blanca. Los glóbulos blancos (leucocitos) son producidos en la médula ósea y el cuerpo los utiliza para combatir infecciones y otras sustancias extrañas.
+      La leucemia lleva a un aumento incontrolable de la cantidad de glóbulos blancos.
+
+      Las células cancerosas impiden que se produzcan glóbulos rojos, plaquetas y glóbulos blancos maduros (leucocitos) saludables. Entonces, se pueden presentar síntomas potencialmente mortales a medida que disminuyen las células sanguíneas normales. Las células cancerosas se pueden propagar al torrente sanguíneo y a los ganglios linfáticos. También pueden viajar al cerebro y a la médula espinal (el sistema nervioso central) y otras partes del cuerpo.
+
+      Las leucemias tomando en cuenta la madurez de los globulos blancos encontradas en sangre, se pueden clasificar en dos grupos:
+      a) Leucemias agudas, donde las células encontradas son células inmaduras o jóvenes
+      b) Leucemias crónicas, formada por células maduras
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,208,41]
+
+  46:
+    enfermedad: Cáncer de ovario
+    descripcion: |
+      El cáncer de ovario es un tumor maligno que nace en cualquiera de las partes del ovario. El ovario es un órgano muy complejo que puede ser asiento de numerosos tumores de muy distinto rango morfológico, algunos de los cuales están dotados de función hormonal, lo que justifica la gran variedad de clasificaciones.
+
+      Tomando en cuenta el tipo de célula donde se origina el cáncer de ovario, se pueden distinguir trestipos pincipales de cáncer:
+      a) Cáncer de células germinales, frecuentemente presente antes de los 20 años
+      b) Cáncer de los cordones sexuales
+      c) Cáncer epitelial de ovario, frecuente en mujeres mayores de los 60 años
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,209,210]
+
+  47:
+    enfermedad: Cáncer de vesícula
+    descripcion: El cáncer de vesícula es aquél cáncer que se origina en las paredes de la vesícula biliar, una estructura anatómica situada por debajo del hígado en la cual se almacena la bilis, un líquido producido por el hígado para digerir las grasas.
+    grupo_riesgo: MUJERES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [208, 283]
+
+  48:
+    enfermedad: Alcoholismo
+    descripcion: |
+      Problema de salud relacionado a un patro?n de conducta alterado caracterizado por la ingestio?n de bebidas alcoho?licas de forma excesiva, que determina consecuencias negativas para:
+
+      - La salud fi?sica y mental, tanto de la persona que presenta la conducta (enfermedades me?dicas, traumatismos, trastornos mentales y del comportamiento), como para terceros (sufrimiento, victimizacio?n por violencia, trastornos depresivos, ansiosos y otros en los co?nyuges, hijos y familiares)
+      - El desempen?o social, acade?mico o laboral (en este u?ltimo caso, se extiende tambie?n a los compan?eros de trabajo)
+      - La seguridad de la persona misma y de terceros (accidentes de tra?nsito, laborales o dome?sticos, nivel y estabilidad de trabajo e ingresos, etc.).
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  49:
+    enfermedad: Sobrepeso y obesidad
+    descripcion: |
+      La obesidad se debe a un desbalance energe?tico originado fundamentalmente por una INGESTA CALÓRICA SUPERIRO A LA REQUERIDA, lo que trae como consecuencia un exceso de grasa en el organismo que puede ser perjudicial para la salud.
+      El ÍNDICE DE MASA CORPORAL  (IMC), que relaciona el peso con la estatura, es una medida confiable y va?lida para identificar a adultos en riesgo de mortalidad y morbilidad, debido a sobrepeso u obesidad: IMC = peso (kg) / estatura2 (m).
+
+      Normal -> IMC: 18.5 a 24.9
+      Sobrepeso -> IMC: 25-29.9
+      Obesidad -> IMC: >30
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367,293]
+
+  50:
+    enfermedad: Tabaquismo
+    descripcion: El tabaquismo es una enfermedad cro?nica, que se caracteriza por la adiccio?n a la nicotina. Esta, al igual que la cocaína, heroína, alcohol, etc., es una droga que crea dependencia e induce aumento de su tolerancia, es decir, se necesitan dosis crecientes para reducir la ansiedad que causa dejar de hacerlo.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  51:
+    enfermedad: Hipertensión arterial
+    descripcion: La hipertensión es una enfermedad crónica caracterizada por un  incremento continúo de las valores de presión sanguínea en las arterias.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367,293]
+
+  52:
+    enfermedad: Diabetes Mellitus
+    descripcion: |
+      Diabetes es una enfermedad crónica caracterizada por un aumento del ázucar (glucosa) en sangre, secundario o a una falta de insulina (hormona del páncreas que permite utilizar la glucosa) o por una cantidad insuficiente de insulina producida. Si la diabetes no se controla ben puede producir complicaciones importantes a nivel de corazón, pies, ojos, riñones.
+
+      Terminología a tomar en cuenta:
+
+      - Glicemia : Glucosa (azúcar) en sangre
+      - Hiperglicemia: Glucosa en sangre en niveles superiores a la normalidad
+      - Insulina : Hormona producida en el páncreas, cuya función es la de hacer utilizar a las células la glucosa
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [90,98]
+
+  53:
+    enfermedad: Dislipidemias
+    descripcion: |
+      Dislipidemia es el término médico que describe la acumulación de GRASAS en sangre. La grasas pueden estar bajo la forma de colesterol o triglicéridos, los cuáles son importantes para el correcto funcionamiento del cuerpo, sin embargo, cuando los niveles son muy altos, pueden poner a las personas en riesgo de desarrollar o una enfermedad cardiaca o un derrame cerebral.
+
+      En el cuepro las grasas pueden encontrarse como:
+      1. Triglicéridos
+      2. Unidos a lipoproteinas de muy baja densidad (VLDL)
+      3. Unidos a lipoproteinas de baja densidad (LDL)
+      4. Unidos a lipoproteínas de alto densidad (HDL)
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [357]
+
+  54:
+    enfermedad: Enfermedades de transmisión sexual
+    descripcion: |
+      Las enfermedades de transmisión sexual son INFECCIONES que se adquieren al tener relaciones sexuales con alguién que este infectado. Las causas pueden ser debido a BACTERIAS, VIRUS, PARÁSITOS. Existen más de 20 tipos de enfermedades de transmisión sexual, dentro de las mas importantes a mencionar tenemos:
+      - Clamidias
+      - Gonorrea
+      - Herpes genital
+      - VIH/SIDA
+      - Herpes virus
+      - Sífilis
+      - Tricomoniasis
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367]
+
+  55:
+    enfermedad: Tuberculosis
+    descripcion: |
+      La tuberculosis (TBC) es una INFECCIÓN BACTERIANA CONTAGIOSA que compromete principalmente a los pulmones pero que puede propagarse a otros órganos. La especie de bacterias más importante y representativa causante de tuberculosis es Mycobacterium tuberculosis o BACILO DE KOCH.
+
+      La tuberculosis se contagia por VÍA AÉREA, cuando las personas infectadas tosen, estornudan o escupen.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367,230]
+
+  56:
+    enfermedad: Cáncer de Testículo
+    descripcion: |
+      Cáncer que se origina a nivel de los testículos, los cuáles forman parte del sistema reproductor masculino. Cumplen dos funciones principales:
+      -  Producen hormonas masculinas como la testosterona
+      -  Producen ESPERMA, que contienen a los espermatozooides, células masculinas necesarias para fertilizar la célula sexual femenina
+
+      Se pueden distinguir dos tipos principales de cáncer de testículo:
+      a) Seminomas, los cuales tienen un crecimiento más lento, presente entre los 25 a 45 años
+      b) No Seminomas, presentes en varones menores a 30 años , crecimiento más rápido
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,217,291]
+
+  57:
+    enfermedad: Cáncer Próstata
+    descripcion: |
+      El cáncer de próstata se forma en los tejidos de la próstata, una glándula en el aparato reproductivo masculino, que se encuentra por debajo de la vejiga y frente al recto. La próstata está formada de dos lóbulos simétricos.
+      No se la debe confundir con la hiperplasia prostática benigna que es un agrandamiento no canceroso de la próstata, que consiste en el aumento del tamaño de la prostata debido al aumento del número de células, pero que no se disemina a otras partes del cuerpo y cuyos si?ntomas se asocian a una compresión de las estructuras adyacentes, como la uretra.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [291,213,34]
+
+  58:
+    enfermedad: Cáncer de estómago
+    descripcion: |
+      El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el esto?mago. La mayoría comienza en las células de la capa interna del estómago (capa denominada como MUCOSA), que suele elaborar y secretar moco y otros líquidos. Estos tipos de cáncer se llaman adenocarcinomas y representan el 95 % de los casos de cáncer de estómago.
+
+      La mucosa o capa interna del estómago se compone del epitelio y de la lámina propia. A más profundidad en la pared estomacal encontramos la submucosa, seguida de las capas musculares, subserosa  y la serosa, que es la membrana que recubre el exterior del esto?mago.
+
+      Los otros tipos principales de ca?ncer de estómago, diferentes al adenocarcinoma, incluyen:
+
+      a) Linfomas gástricos, cánceres que se originan en las células del sistema inmunitario que se encuentran en la pared del estómago. En su mayoría, son linfomas no Hodgkin.
+
+      b) Tumores del estroma gastrointestinal o GIST, tumores raros que se cree se originan en las células de la pared estomacal denominadas céulas intersticiales de Cajal.
+
+      c) Tumores neuroendocrinos, que se originan en las células nerviosas o endocrinas del estómago.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,291,220]
+
+  59:
+    enfermedad: Cáncer de Pulmón
+    descripcion: |
+      El cáncer de pulmón es un conjunto de enfermedades resultantes del crecimiento maligno de células del tracto respiratorio, en particular del tejido pulmonar. El cáncer de pulmón suele originarse a partir de células epiteliales, y puede derivar en metástasis e infiltración a otros tejidos del cuerpo. Se excluye del cáncer de pulmón aquellas neoplasias que hacen metástasis en el pulmón provenientes de tumores de otras partes del cuerpo.
+
+      El cáncer de pulmón se puede clasificar en dos tipos:
+      a) Cáncer de pulmón de células pequeñas
+      b) Cáncer de pulmón de células No pequeñas, en el cual encontramos 3 subtipos:
+           - Carcinoma epidermoide
+           - Adenocarcinoma
+           - Carcinoma de células grandes
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [291,230]
+
+  60:
+    enfermedad: Linfoma
+    descripcion: |
+      Un linfoma es un tumor, es decir un crecimiento anormal de células que se desarrolla en el sistema linfático. El sistema linfático es una amplia red de vasos o tubos finos que conectan ciertos estructuras ovaladas conocidas como ganglios linfáticos. Los ganglios se distribuyen por todo el cuerpo: axilas, ingles, cuello, tórax y abdomen; sin embargo, también hay tejido linfático en otros órganos como las amígdalas, el tubo digestivo, el bazo, el timo y la médula ósea. El sistema linfático transporta un líquido blanquecino llamado LINFA, la cual contiene a los linfocitos: un tipo de glóbulo blanco de la sangre, de gran importancia en el control de las infecciones.
+
+      Los linfomas se dividen en dos categorías:
+      a) Linfomas de Hodgkin.
+      b) Linfoma No Hodgkin, el cual es más común.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367,269,290]
+
+  61:
+    enfermedad: Leucemia
+    descripcion: |
+      La leucemia es un tipo de cáncer de la sangre que comienza en la médula ósea, el tejido blando que se encuentra en el centro de los huesos, donde se forman las células sanguíneas. El término leucemia significa sangre blanca. Los glóbulos blancos (leucocitos) son producidos en la médula ósea y el cuerpo los utiliza para combatir infecciones y otras sustancias extrañas.
+      La leucemia lleva a un aumento incontrolable de la cantidad de glóbulos blancos.
+
+      Las células cancerosas impiden que se produzcan glóbulos rojos, plaquetas y glóbulos blancos maduros (leucocitos) saludables. Entonces, se pueden presentar síntomas potencialmente mortales a medida que disminuyen las células sanguíneas normales. Las células cancerosas se pueden propagar al torrente sanguíneo y a los ganglios linfáticos. También pueden viajar al cerebro y a la médula espinal (el sistema nervioso central) y otras partes del cuerpo.
+
+      Las leucemias tomando en cuenta la madurez de los globulos blancos encontradas en sangre, se pueden clasificar en dos grupos:
+      a) Leucemias agudas, donde las células encontradas son células inmaduras o jóvenes
+      b) Leucemias crónicas, formada por células maduras
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [367,269,290]
+
+  62:
+    enfermedad: Cáncer de colon
+    descripcion: |
+      Cáncer que se origina a nivel del colon, parte más larga del intestino grueso. El colon está constituido por cuatro secciones:
+      a) primera sección o colon ascendente
+      b) segunda sección o colon transverso
+      c) tercera sección o colon descendente
+      d) cuarta y ultima sección , conocida tambien como colon sigmoides
+
+      La mayoría de los cánceres colorectales se desarrollan LENTAMENTE, DURANTE VARIOS AÑOS. Antes de que se origine un cáncer, usualmente se forma un crecimiento de tejido o un tumor conocido como PÓLIPO. Un pólipo es un tumor benigno pero, el cual de una u otra forma puede conllevar a cáncer de colon.
+    grupo_riesgo: VARONES DE 15 AÑOS A MÁS
+    recomendacion: ~
+    servicios: [104,221]
+
+  63:
+    enfermedad: Cáncer de colon
+    descripcion: |
+      Cáncer que se origina a nivel del colon, parte más larga del intestino grueso. El colon está constituido por cuatro secciones:
+      a) primera sección o colon ascendente
+      b) segunda sección o colon transverso
+      c) tercera sección o colon descendente
+      d) cuarta y ultima sección , conocida tambien como colon sigmoides
+
+      La mayoría de los cánceres colorectales se desarrollan LENTAMENTE, DURANTE VARIOS AÑOS. Antes de que se origine un cáncer, usualmente se forma un crecimiento de tejido o un tumor conocido como PÓLIPO. Un pólipo es un tumor benigno pero, el cual de una u otra forma puede conllevar a cáncer de colon.
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [104,221, 33]
+
+  64:
+    enfermedad: Cáncer de estómago
+    descripcion: |
+      El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el esto?mago. La mayoría comienza en las células de la capa interna del estómago (capa denominada como MUCOSA), que suele elaborar y secretar moco y otros líquidos. Estos tipos de cáncer se llaman adenocarcinomas y representan el 95 % de los casos de cáncer de estómago.
+
+      La mucosa o capa interna del estómago se compone del epitelio y de la lámina propia. A más profundidad en la pared estomacal encontramos la submucosa, seguida de las capas musculares, subserosa  y la serosa, que es la membrana que recubre el exterior del esto?mago.
+
+      Los otros tipos principales de ca?ncer de estómago, diferentes al adenocarcinoma, incluyen:
+
+      a) Linfomas gástricos, cánceres que se originan en las células del sistema inmunitario que se encuentran en la pared del estómago. En su mayoría, son linfomas no Hodgkin.
+
+      b) Tumores del estroma gastrointestinal o GIST, tumores raros que se cree se originan en las células de la pared estomacal denominadas céulas intersticiales de Cajal.
+
+      c) Tumores neuroendocrinos, que se originan en las células nerviosas o endocrinas del estómago.
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [104,291,220]
+
+  65:
+    enfermedad: Cáncer de Pulmón
+    descripcion: |
+      El cáncer de pulmón es un conjunto de enfermedades resultantes del crecimiento maligno de células del tracto respiratorio, en particular del tejido pulmonar. El cáncer de pulmón suele originarse a partir de células epiteliales, y puede derivar en metástasis e infiltración a otros tejidos del cuerpo. Se excluye del cáncer de pulmón aquellas neoplasias que hacen metástasis en el pulmón provenientes de tumores de otras partes del cuerpo.
+
+      El cáncer de pulmón se puede clasificar en dos tipos:
+      a) Cáncer de pulmón de células pequeñas
+      b) Cáncer de pulmón de células No pequeñas, en el cual encontramos 3 subtipos:
+           - Carcinoma epidermoide
+           - Adenocarcinoma
+           - Carcinoma de células grandes
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [291,230]
+
+  66:
+    enfermedad: Hipertensión arterial
+    descripcion: La hipertensión es una enfermedad crónica caracterizada por un  incremento continúo de las valores de presión sanguínea en las arterias.
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [367,293]
+
+  67:
+    enfermedad: Diabetes Mellitus
+    descripcion: |
+      Diabetes es una enfermedad crónica caracterizada por un aumento del ázucar (glucosa) en sangre, secundario o a una falta de insulina (hormona del páncreas que permite utilizar la glucosa) o por una cantidad insuficiente de insulina producida. Si la diabetes no se controla ben puede producir complicaciones importantes a nivel de corazón, pies, ojos, riñones.
+
+      Terminología a tomar en cuenta:
+
+      - Glicemia : Glucosa (azúcar) en sangre
+      - Hiperglicemia: Glucosa en sangre en niveles superiores a la normalidad
+      - Insulina : Hormona producida en el páncreas, cuya función es la de hacer utilizar a las células la glucosa
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [90,98]
+
+  68:
+    enfermedad: Cáncer de ovario
+    descripcion: |
+      El cáncer de ovario es un tumor maligno que nace en cualquiera de las partes del ovario. El ovario es un órgano muy complejo que puede ser asiento de numerosos tumores de muy distinto rango morfológico, algunos de los cuales están dotados de función hormonal, lo que justifica la gran variedad de clasificaciones.
+
+      Tomando en cuenta el tipo de célula donde se origina el cáncer de ovario, se pueden distinguir trestipos pincipales de cáncer:
+      a) Cáncer de células germinales, frecuentemente presente antes de los 20 años
+      b) Cáncer de los cordones sexuales
+      c) Cáncer epitelial de ovario, frecuente en mujeres mayores de los 60 años
+    grupo_riesgo: PERSONAS > 65 AÑOS
+    recomendacion: ~
+    servicios: [209,210,44]
