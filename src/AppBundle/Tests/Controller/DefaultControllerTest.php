@@ -13,6 +13,6 @@ class DefaultControllerTest extends WebTestCase
         $client->request('GET', '/');
 
         $this->assertEquals(200, $client->getResponse()->getStatusCode());
-        $this->assertContains('[]', $client->getResponse()->getContent());
+        $this->assertContains('Welcome', $client->getResponse()->getContent());
     }
 }

@@ -3,16 +3,2431 @@ Servicio:
     nombre: Abastonados (Hemograma)
     descripcion: Conocidos también con neutrófilos inmaduros o neutrófilo en banda, constituyen la forma inmadura de las células granulocíticas, que pueden verse en sangre periférica de personas normales y comprenden entre 1 a 3% del total leucocitario.
     tipo: HEMATOLÓGICOS
-    keywords:
+    keywords: ~
 
   2:
     nombre: Acetona (sangre)
     descripcion: Conocida también como CETONA o CUERPOS CETÓNICOS . Es una sustancia química que se forma en la sangre cuando el organismo usa la grasa en lugar de la glucosa para proveer de energía a las células. La causa puede estar en relacióna la FALTA DE INSULINA que hace que las células utilizan la glucosa para producir energía, o una CANTIDAD INSUFICIENTE DE INSULINA.
     tipo: BIOQUÍMICO
-    keywords:
+    keywords: ~
 
   3:
     nombre: Acetona (orina)
     descripcion: Conocida también como CETONA o CUERPOS CETÓNICOS . Es una sustancia química que se forma en la sangre cuando el organismo usa la grasa en lugar de la glucosa para proveer de energía a las células. La causa puede estar en relacióna la FALTA DE INSULINA que hace que las células utilizan la glucosa para producir energía, o una CANTIDAD INSUFICIENTE DE INSULINA.
     tipo: BIOQUÍMICO
-    keywords:
+    keywords: ~
+
+  4:
+    nombre: Ácido Delta-aminolevulénico
+    descripcion: Análisis solicitado en caso de intoxicación por PLOMO (SATURNISMO).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  5:
+    nombre: Ácido ascórbico (vitamina C - sangre)
+    descripcion: El ácido ascórbico es también conocido como VITAMINA C. La vitamina C no es sintetizada en el organismo, por lo que sus niveles dependen de la ingesta de nutrientes ricos en vitamina C. Tiene propiedades antioxidantes, es decir, nos protege de los radicales libre que causa daño en las células.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  6:
+    nombre: Ácido ascórbico (vitamina C - orina)
+    descripcion: El ácido ascórbico también conocido como VITAMINA C. La vitamina C no es sintetizada en el organismo, por lo que sus niveles dependen de la ingesta de nutrientes ricos en vitamina C. Tiene propiedades antioxidantes, es decir, nos protege de los radicales libre que causa daño en las células.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  7:
+    nombre: Ácido fólico
+    descripcion: Conocido como vitamina B9, es imprescindible en los procesos de división y multiplicación celular, permitiendo el crecimiento normal, por lo que es importante durante el crecimiento, sobre todo durante el embarazo.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  8:
+    nombre: Ácido nicotínico
+    descripcion: Conocido como vitamina B3, forma parte el complejo B. Existe en el pan integral, maní, carne de vaca y cerdo. Interviene en los procesos metabólicos de los ácidos grasos y aminoácidos. Su déficit produce PELAGRA caracterizada por Dermatitis, Diarrea y Demencia (las tres D).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  9:
+    nombre: Ácido úrico
+    descripcion: El ácido úrico es producto de la descomposición de unos elementos que forman parte de la células: las Purinas. Cuando el cuerpo produce demasiado ácido úrico o no se logra eliminar las cantidades suficiente, el ácido úrico se acumula  en el organismo, formándose calculos en riñones, y alteraciones en los tejidos donde se deposita (ejemplo articulaciones).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  10:
+    nombre: Ácido vanilmandélico
+    descripcion: Metabolito urinario principal de las CATECOLAMINAS (adrenalina, noradrenalina), las cuáles son sustancias químicas producidas por el tejido nervioso y glándula suprarrenal.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  11:
+    nombre: Adenosin Deaminasa (ADA)
+    descripcion: Enzima de origen principal linfocitaria, derivada del metabolismo de las purinas. El test se usa para descartar infección por TBC y no para diagnóstico
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  12:
+    nombre: Adenovirus (anticuerpos)
+    descripcion: Examen solicitado para diagnosticar una infección por adenovirus, el cual generalmente provoca cuadros respiratorios.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  13:
+    nombre: Adrenocorticotropina (ACTH)
+    descripcion: Producida en la adenohipófisis (glándula ubicada en la base del cerebro), cumple la función de estimular la producción de hormonas suprarenales. El exceso de cortisol de cualquier fuente es llamado Sindrome de Cushing
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  14:
+    nombre: Alanino aminotransferasa (ALT)
+    descripcion: Conocida como Transaminasa Glutámico Pirúvica (TGP) , es una enzima que se encuentra principalmente en el HÍGADO y RIÑON y en  cantidades menores en CORAZÓN  y MÚSCULO ESQUELÉTICO. Su especificidad se centre en detectar patología en hígado.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  15:
+    nombre: Albúmina
+    descripcion: |
+      Proteína sintetizada en el hígado. Es la proteína más abundante del plasma humano (constituye del 55 al 65% de las proteínas totales).  Tiempo de vida de 10 a 18 días.
+
+      Sus funciones son:
+      1) Mantener la presión oncóticadel plasma
+
+      2) transportadora no específica de muchos componenetes apolares (fármacos, hormonas, enzimas)
+
+      3) fuente endógena de aminoácidos. Cuando una enfermedad afecta a la célula hepática, el hepatocito pierde su capacidad para sintetizar albúmina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  16:
+    nombre: Aldolasa
+    descripcion: Enzima presente en todos los tejidos, es utilizada como marcador para la enfermedad muscular. La destrucción tisular provoca una liberación de aldolasa al suero.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  17:
+    nombre: Aldosterona
+    descripcion: Hormona sintetizada en la glándula suprarenal. Forma parte del complejo mecanismo que utiliza el cuerpo para regular la presión sanguínea.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  18:
+    nombre: Aldosterona
+    descripcion: Hormona sintetizada en la glándula suprarenal. Forma parte del complejo mecanismo que utiliza el cuerpo para regular la presión sanguínea.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  19:
+    nombre: Alfa-1 Antitripsina (AAT)
+    descripcion: La alfa-1 antitripsina es un tipo de proteína llamada INHIBIDOR DE LA PROTEASA (enzima que degrada proteínas). Se produce en el hígado y funciona para proteger pulmones e hígado.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  20:
+    nombre: Alfa-Feto proteína (líquido amniótico)
+    descripcion: Proteína producida normalmente en el hígado y saco itelino del feto durante el embarazo, cuyos niveles disminuyen poco después del nacimiento. En los adultos no se conoce alguna función, por lo que su elevación significa agún cuadro patológico.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  21:
+    nombre: Alfa-Feto proteína (suero)
+    descripcion: Proteína producida normalmente en el hígado y saco itelino del feto durante el embarazo, cuyos niveles disminuyen poco después del nacimiento. En los adultos no se conoce alguna función, por lo que su elevación significa agún cuadro patológico.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  22:
+    nombre: Amilasa (orina)
+    descripcion: La amilasa es una enzima que ayuda a digerir los carbohidratos (azúcares). Se produce en el páncreas y en las glándulas salivales. Cuando el páncreas está enfermo o inflamado se libera amilasa en sangre.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  23:
+    nombre: Amilasa (suero)
+    descripcion: La amilasa es una enzima que ayuda a digerir los carbohidratos (azúcares). Se produce en el páncreas y en las glándulas salivales. Cuando el páncreas está enfermo o inflamado se libera amilasa en sangre.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  24:
+    nombre: Androstenediona
+    descripcion: Hormona andrógena naturalmente producida por los ovarios, testículos y glándulas suprarrenales. El cuerpo la convierte en TESTOSTERONA.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  25:
+    nombre: Anfetaminas
+    descripcion: Las anfetaminas son drogas, pueden ser legales o ilegales. Son legales cuando las receta un médico y se utilizan para tratar problemas de salud tales como obesidad, narcolepsia, trastorno de déficit de atención con hiperactividad. Son ilegales cuando se usan sin receta para drogarse o mejorar el desempeño.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  26:
+    nombre: Anión Gap
+    descripcion: Conocida también como BRECHA ANIÓNICA, es la diferencia entre los aniones plasmáticos que habitualmente no se miden (proteínas, sulfatos, fosfatos, ácidos orgánicos como lactato y piruvato) y los cationes plasmáticos (potasio, calcio, magnesio). Es una aproximación matemática de la diferencia entre los cationes y aniones del suero no medidos. CATIONES - ANIONES = ANION GAP. Su utilidad es la de determinar las causas que conllevan a una acidosis metabólica.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  27:
+    nombre: Anticuerpo Anti-ADN
+    descripcion: Son un subtipo de anticuerpos antinucleares que aparecen en un 65-80% de pacientes con Lupus eritematoso sistémico (LES) activo. Existen dos tipos: el anti-ADN-dc (de doble cadena o nativo), más específico para LES y el anti-ADN-cu(de cadena única o desnaturado), estos últimos no se usan de rutina en la práctica clínica.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  28:
+    nombre: Anticuerpos Anticardiolipina
+    descripcion: Los anticuerpos anticardiolipina (IgG e IgM frente a la cardiolipina) aparecen en un 40% de los pacientes con Lupus Eritematoso Sistémico (LES). Los pacientes con infecciones víricas, SIDA, inflamación, enfermedades autoinmunes o cáncer pueden presentarelevaciones transitorias de estos anticuerpos.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  29:
+    nombre: Anticuerpos Anticitoplásmáticos de neutrófilos (ANCA)
+    descripcion: Son anticuerpos dirigidos contra componentes del citoplasma de los neutrófilos. Existen dos tipos: c-ANCA (95-99% de especificidad) y los p-ANCA (50% de especificidad). Los c-ANCA están dirigidos contra la proteinasa 3 (PR3) y son altamente específicos de la Granulomatosis de Wegener. Los p -ANCA suelen estar dirigidos contra la mieloperoxidasa elastasa, catepsina y otros antígenos. Estan asociados a vasculitis sistémicas con compromiso renal progresivo.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  30:
+    nombre: Anticuerpos Antinucleares (ANA)
+    descripcion: Son anticuerpos circulantes contra antígenos nucleares de las propias células del organismo, dirigidos contra componente proteínicos del núcleo celular (ADN, Histonas). Es positivo en un 95% de los pacientes con Lupus eritematoso sistémico (LES), pero su detección no implica la precensia de la enfermedad.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  31:
+    nombre: Anticuerpos Antitiroideo o Microsomal
+    descripcion: Prueba utilizada para descartar un tioriditis (inflamación de la tiroides) por un proceso autoinmunitario (cuando nuestras propias defensas no reconocen nuestros tejidos como propios). Falso positivo (puede estar elevado sin significar enfermedad) en un 5 -10% de personas sanas.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  32:
+    nombre: Antiestreptolisina O
+    descripcion: Los estreptococos beta-hemolíticos del grupo A de Lancefield (Streptococcus pyogenes o EBHA) producen una enzima denominada estreptolisina O (antígeno), que puede destruir a los eritrocitos. El sistema inmune reacciona produciendo ASLO, que son un conjunto de anticuerpos neutralizantes específicos, que aparecen 1 semana después de la infección. La concentración aumenta rápidamente a las 3-4 semanas y después disminuyen con rapidez. Puede permanecer elevado durante meses. La elevación de las ASLO sólo evidencian la infección por estreptococo.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  33:
+    nombre: Antígeno Carcinoembrionario (CEA)
+    descripcion: Proteína que aparece en el tejido intestinal fetal. Al nacer los niveles séricos detectables desaparecen. Es un marcador para cáncer colorectal, sin embargo NO ES ESPECÍFICA, por lo que no se usa en forma sistemática para el diagnóstico.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  34:
+    nombre: Antígeno Prostático Específico (PSA)
+    descripcion: El PSA es una proteína sintetizada en la próstata, que cumple la función de disolución del coágulo seminal. Su valores elevados en sangre indican enfermedad a nivel de la próstata
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  35:
+    nombre: Antígeno Prostático Específico Libre
+    descripcion: Porcentaje del antígeno prostático específico (PSA) que circula en sangre libremente (no unido a otras proteínas)
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  36:
+    nombre: Apolipoproteina A1
+    descripcion: Principal proteína constituyente de las HDL (lipoproteíonas de alta densidad - colesterol bueno). Su principal acción parace ser como cofactor para la activación de la lecitín-colesterol-aciltransferasa. Valores altos de estas proteínas estan relacionadas a un menor riesgo coronario.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  37:
+    nombre: Aspartato Aminotransferasa (AST)
+    descripcion: Conocida también como Trasaminasa Glutamico Oxalacetica o TGO), es una enzima intracelular ampliamente  distribuida en higado, corazón,musculo esqueletico y riñon. En el  hepatocito, la TGO se encuentra en el citoplasma y mitocondrias. En las  lesiones  tisulares  leves, se libera principalmente  TGO del citoplasma, en daños graves la cantidad aumenta por liberacion del TGO mitocondrial.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  38:
+    nombre: Basófilos (HEMOGRAMA)
+    descripcion: Los basofilos son los leucocitos menos numerosos de la sangre. Participan en ciertas reacciones  desencadenadas por medio de anticuerpos.  Su valor forma parte de la información obtenida en el resultado de HEMOGRAMA
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  39:
+    nombre: Bence Jones (Proteína)
+    descripcion: El análisis de orina para detectar la proteína de Bence-Jones se usa principalmente para diagnosticar y monitorear el MIELOMA MÚLTIPLE. Un resultado anormal en la prueba de Bence-Jones también está vinculado a los linfomas, que son un cáncer del sistema linfático.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  40:
+    nombre: Beta-2 microglobulina
+    descripcion: Proteína celular que se encuentra en la sangre. Un nivel alto de beta-2 microglobulina puede ser unsigno de una enfermedad que avanza rápidamente.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  41:
+    nombre: Beta-2 microglobulina
+    descripcion: Proteína celular que se encuentra en la sangre. Un nivel alto de beta-2 microglobulina puede ser unsigno de una enfermedad que avanza rápidamente.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  42:
+    nombre: Bicarbonato
+    descripcion: El  bicarbonato  es un elemento perteneciente al Sistema amortiguador para regular el pH de la sangre, función que logra al enlazar a los hidrogeniones, neutralizandolos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  43:
+    nombre: Bilirrubinas
+    descripcion: Análisis de laboratorio que mide el nivel de bilirrubina en sangre. La bilirrubina es un PIGMENTO AMARILLENTO que se encuentra en la bilis, la cuál es producida por el hígado. La bilirrubina se origina de la destrucción de los góbulos rojos, el hígado ayuda a descomponer la bilirrubina para que pueda ser expulsada del cuerpo a través de las heces. La bilirrubina se eleva en sangre o por trastorno en la función del hígado, o por aumento de la destrucción de los globulo rojos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  44:
+    nombre: CA 125
+    descripcion: El CA-125 es un MARCADOR TUMORAL que se mide en sangre y  que PUEDE ESTAR ELEVADO en ciertos cánceres aunque NO ES ESPECÍFICO, dado que podría estar elevado en otras enfermedades hasta incluso en personas sin enfermedad alguna. Puede ser producio en la pleura, pericardio, peritoneo, trompa falopio, endocervix, fondo vaginal. Está frecuentemente asociado a CANCER DE OVARIO.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  45:
+    nombre: CA 15-3
+    descripcion: El CA 15-3 proteína presente en las células de las glándulas y conductos mamarios, por lo que es utilizado como parte de los estudios solicitados en cáncer de mama. NO ES ESPECÍFICO.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  46:
+    nombre: Calcio
+    descripcion: El calcio es elemento mineral más abundante del organismo,  está implicado en la transmisión de los impulsos nerviosos, en la contracción muscular, en algunas reacciones enzimáticas como cofactor y en la coagulación sanguínea. La excreción urinaria de calcio aumenta en todos los pacientes que presentan hipercalcemia (calcio elevado en sangre). El calcio participa en la contracción muscular, transmisión del impulso nervioso, secreción hormonal, coagulación, etc.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  47:
+    nombre: Calcio
+    descripcion: El calcio es elemento mineral más abundante del organismo,  está implicado en la transmisión de los impulsos nerviosos, en la contracción muscular, en algunas reacciones enzimáticas como cofactor y en la coagulación sanguínea. La excreción urinaria de calcio aumenta en todos los pacientes que presentan hipercalcemia (calcio elevado en sangre). El calcio participa en la contracción muscular, transmisión del impulso nervioso, secreción hormonal, coagulación, etc.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  48:
+    nombre: Caroteno
+    descripcion: La ingesta excesiva  de vegetales   que contienen  betacaroteno (pigmento pro-vitamina A) puede ocacionar seudoictericia.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  49:
+    nombre: Catecolaminas fraccionadas
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  50:
+    nombre: Catecolaminas libres
+    descripcion: La adrenalina y noradrenalina son catecolaminas producidas  en la medula suprarrenal. Se producen en exceso en caso   de feocromocitoma (tumor  de la medula suprarrenal).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  51:
+    nombre: Catecolaminas fraccionadas
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  52:
+    nombre: Ceruloplasmina
+    descripcion: La ceruloplasmina es la proteína transportadora de cobre, también útil como reactante de fase aguda. Es una glucoproteina (alta-2-globulina) sintetizada en el hígado, que contiene 8 átomos de cobre por molécula.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  53:
+    nombre: Cianocobalamina (Vitamina B12)
+    descripcion: La vitamina 812 no puede ser sintetizada. Proviene de alimentos de origen animal (carne, pescado, huevos, leche, grasa). Su estructura es una corrina  tetrapirrólica alrededor de un átomo de cobalto. Forma parte de coenzimas. Es necesaria para la síntesis de ADN a través de su  papel en el metabolismo del ácido fólico. Es indispensable para la formación de eritrocitos. Para su absorción intestinal (a nivel del íleon) se requiere del factor intrínseco.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  54:
+    nombre: Cloro (suero)
+    descripcion: El cloruro constituye el anión extracelular más importante. Su nivel depende directamente de la concentración del Na+. Las cifras de cloruro habitualmente se modifican en la misma dirección que el Na+, excepto en la acidosis metabólica con depleción de bicarbonato, y en la alcalosis metabólica con exceso de bicarbonato, en cuyo caso los niveles de Na+ pueden ser normales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  55:
+    nombre: Coagulación (tiempo)
+    descripcion: Investiga  la via intrinseca  y comun desde el factor  XII  hasta el fibrinogeno. Es una prueba  de exploracion poco sensible  e inespecifica  para los trastornos hemorragiparos.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  56:
+    nombre: Cobre
+    descripcion: El cobre es un elemento traza esencial. Se encuentra en semillas, crustáceos, hígado y leguminosas. 95% circula ligado a ceruloplasmina, 5% a las albúminas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  57:
+    nombre: Cobre
+    descripcion: El cobre es un elemento traza esencial. Se encuentra en semillas, crustáceos, hígado y leguminosas. 95% circula ligado a ceruloplasmina, 5% a las albúminas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  58:
+    nombre: Colesterol Total
+    descripcion: El colesterol total es una medida importante tanto del colesterol malo (LDL, que conduce el colesterol del hígado a los tejidos periféricos)  como del colesterol bueno (HDL que conduce al colesterol de los tejidos periféricos al hígado). En general sus valores por encima de los normal pueden significar que una persona pueda sufrir un problema en el corazón, sin embargo, los niveles de LDL (colesterol malo) son una mejor manera de predecir el problema cardíaco.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  59:
+    nombre: Colesterol HDL
+    descripcion: HDL o lipoproteínas de alta densidad, son las protéinas responsables del transporte inverso del colesterol, es decir, desde las células periféricas al hígado, donde se elimina en forma de ácidos biliares.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  60:
+    nombre: Colesterol LDL
+    descripcion: Las lipoproteínas de baja densidad (LDL) son las principales lipoproteinas que transportan colesterol hepático hacia los tejidos, por lo cual desempeñan un papel clave en la formación de la ateroesclerosis, de ahí que se las conoce como el COLESTEROL MALO.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  61:
+    nombre: Colinesterasa
+    descripcion: |
+      La colinesterasa sérica también es conocida como pseudocolinesterasa, para diferenciarla de la colinesterasa presente en los eritrocitos y en las terminaciones nerviosas, se sintetiza en el hígado, por lo que su medición puede usarse como test de función hepática.
+      Su determinación también es de gran valor en pacientes con la forma atípica de la enzima y en intoxicaciones por insecticidas organofosforados.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  62:
+    nombre: Complemento C1
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  63:
+    nombre: Complemento C1Q
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  64:
+    nombre: Complemento C2
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  65:
+    nombre: Complemento C3
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  66:
+    nombre: Complemeto C4
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  67:
+    nombre: Complemento C5
+    descripcion: Grupo de proteínas globulínicas que facilitan la respuesta inmunológica e inflamatoria, permitiendo la afluencia de anticuerpos y leucocitos al área de inflamación. Las cifras de C3 y C4 son las más utilizadas para detectar y evaluar las alteraciones autoinmunes, en donde sus valores disminuyen por consumo, debido a la formación de complejos autoinmunes.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  68:
+    nombre: Coombs (Prueba directa)
+    descripcion: |
+      La prueba de Coombs directa detecta anticuerpos unidos a los hematíes del paciente (sensibilización en el propio organismo).
+      Esta prueba puede presentar falsos positivos tras la ingestión de las siguientes medicamentos: ácido aminosalicilico, ampicilina, cefotetán, cefoxitina, cloropromazima, cloropropamida, dipirona, etosuxímida, hidralazina, isoniazida, levodopa, ácido  mefenámico, Meticilina, penicilina, melfalan, fenilbutazona, fenitoina, procainamida, quinidina, estreptomicina, sulfonamidas, tolbutamida, globulina inmune.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  69:
+    nombre: Coombs (Prueba indirecta)
+    descripcion: La prueba de Coombs indirecta detecta anticuerpos libres en el suero de sujetos sensibilizados a uno o más antígenos sanguíneos. Puede presentar falsos positivos tras la ingestión de medicamentos como: asparaginasa, carbromal, clonidina, levodopa, mefenitoina, metildopa, moxalactam, penicilina y rifampicina.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  70:
+    nombre: Cortisol (suero)
+    descripcion: Es el principal glucocorticoide. Su concentración en sangre presenta ritmo circadiano (niveles más elevados a primeras horas de la mañana y más bajas a últimas horas de la tarde) y  su secreción está estrechamente regulado por la secreción de ACTH. El cortisol juega un papel importante en el crecimiento de los huesos, control de la presión arterial, funcionamiento del sistem inmunitario, funcionamiento del sistema nervioso, respuesta al stress.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  71:
+    nombre: Creatinquinasa
+    descripcion: La creatinoquinasa (CK) o creatinfosfoquinasa (CPK) es una enzima dímera intracelular que se encuentra en mayor proporción en el músculo estriado, cardiaco y cerebro. Su concentración depende de una serie de variables fisiológicas (sexo, edad, masa muscular, actividad fisica y raza). La CK desempeña una importante función en el músculo proporcionando energía
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  72:
+    nombre: Creatinina
+    descripcion: Análisis de laboratorio utilizado para MONITORIZAR LA FUNCIÓN RENAL. La creatinina es un compuesto orgánico producto de la degradación de la CREATINA, nutriente útil en los músculos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  73:
+    nombre: Crioaglutininas
+    descripcion: |
+      Las crioaglutininas se presentan a veces en individuos de más de 50 años, y con más frecuencia en las mujeres que en varones. Se asocia a veces a enfermedad maligna linforreticular u otras autoinmunes.
+      En otros casos aparece como una complicación de una enfermedad infecciosa (especialmente en la producida por Mycoplasma pneumoniae).
+      Se ha descrito valores elevados de hasta 1:2000 en la neumonía atípica y su  valor parece estar en relación con la gravedad. Se denominan idiopáticos tos casos que padecen no estar asociados a ningún trastorno subyacente.
+      Las crioaglutininas son causa de errores en los análisis hematológicos (hemograma), tanto en los recuentos como en los índices eritrocitarios.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  74:
+    nombre: Crioglobulinas
+    descripcion: Las crioglobulinas son complejos  de globulinas  que precipitan de forma  reversible  a  temperaturas  bajas y se  redisuelven  al ser recalentadas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  75:
+    nombre: Deshidrogenasa láctica
+    descripcion: La DESHIDROGENASA LÁCTICA existe en todas las células y se libera cuando ellas se lesionan (es un marcador de destrucción celular sensible, pero poco específico). Se eleva a los 3-4 días después del daño y desciende a lo normal 5-7 días después.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  76:
+    nombre: Dímero D
+    descripcion: La prueba del Dímero D se utiliza para buscar problemas de coagulación sanguínea. Los coágulos de sangre pueden causar problemas de salud tales como: trombosis venosa profunda, embolia pulmonar, accidente cerebrovascular, coagulación intravascular diseminada.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  77:
+    nombre: ELISA (VIH)
+    descripcion: ELISA son las siglas en inglés de un estudio conocido como enzimoinmunoanálisis de adsorción. Consiste en un examen de laboratorio utilizado para detectar anticuerpos en la sangre.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  78:
+    nombre: Eosinófilos (Hemograma)
+    descripcion: Los eosinófilos son granulocitos maduros que responden a infecciones PARASITARIAS y CONDICIONES ALÉRGICAS. Es una célula fácilmente identificable al microscopio dada la presencia de grandes gránulos color naranja en su citoplasma.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  79:
+    nombre: Espermatograma
+    descripcion: La muestra  se obtiene inmediatamente  antes del examen.El analisis  bioquimico  (contenido de fructuosa, acido citrico, fosfatasa acida) evalua la funcion  glandular  de la prostata.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  80:
+    nombre: Estradiol
+    descripcion: Hormona producida en ovarios, glándulas suprarrenales y placenta que interviene en el crecimiento del útero, desarrollo de mamas, cambios genitales extrenos y distribuicón de grasa corporal. En los hombres una pequeña cantidad de estradiol es secretada por los testículos. El estradiol ayuda a evitar que los espermatozoides mueran prematuramente. El análisis es solicitado para evaluar ovarios, placenta, glándulas suprarrenales, tumores gonadales, entre otros.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  81:
+    nombre: Estriol (Libre)
+    descripcion: El estriol es un metabolito del estradiol.  Las principales hormonas estrogénicas son el estradiol y la estrona, sin embargo, el estriol que deriva de ambos tiene una actividad biológica menor. Los niveles de estriol ayudan a evaluar la condición de la placenta y el feto en el útero.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  82:
+    nombre: Factor Reumatoideo
+    descripcion: El 75% de adultos  con artritis  reumatoidea poseen este factor, que tambien existe  en muchos adultos que no  padecen el proceso. Cuanto mas elevados sean los titulos , mayor significación pronostica tienen. Los factores reumatoides son anticuerpos  tipos IgM (aunque  se ha descrito ig e IgA) dirigidos  contra la porcion  Fc de la IgG.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  83:
+    nombre: Ferritina
+    descripcion: Proteína intracelular cuya función es almacenar HIERRO y proteger a la célula del efecto tóxico del hierro ionizado. Aproximadamente el 1% del hierro plasmático está contenido en la ferritina. La ferritina presente en el suero proviene de las células dañadas de los tejidos que contienen hierro, especialmente de los macrófagos del Sistema reticulo endotelial (RES) del hígado, bazo y médula ósea.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  84:
+    nombre: Fibrinógeno
+    descripcion: El fibrinogeno (factor I de la coagulacion) interviene en la primira fase del ciclo  de coagulacion  sanguinea.Tambien  es considerado un reactante  de  fase aguda que influye en la velocidad de sedimentacion.En las enfermedades hepaticas cronicas, la concentracion  de fibrinogeno disminuye, y su efecto acelerador  sobre la VSG queda a cargo de la albumina, que disminuye, y de las  globulinas  que aumentan.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  85:
+    nombre: Folículoestimulante hormona (FSH)
+    descripcion: La FSH, junto con la hormona luteinizante (LH) pertenecen   a la famila de gonadotropinas. Ambas intervienen estimulando  la ovulacion y espermatogenesis. Sus niveles normalmente aumentan hacia la mitad del ciclo de la mujer que ovula.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  86:
+    nombre: Fosfatasa ácida
+    descripcion: La fosfata  acida  en suero  esta compuesta  por 5 insoenzimas, producidas en los  erotrocitos, trombocitos,celulas del RES en bazo e higado, riñones, huesos y epitelios prostaticos. La insoenzima 2 (Fosfatasa acida prostatica)se sintetiza  principal pero no exclusivamente en la prostata.la funcion enzimatica de la fosfatasa acida es la  hidrolisis de monoesteres ortofosforicosa pH acido.en caso  de carcinoma prostatico, se libera  solo cuando  el carcinoma se extiende mas alla de la capsula.Puede elevarse  tras una exploracion rectal. En la actualidad  la utilidad diagnostica    en el carcinoma de prostata se ha visto relegada  por el antigeno especifico  de prostata(PSA).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  87:
+    nombre: Fosfatasa alcalina
+    descripcion: La fosfatasa alcalina son un grupo de enzimas que se encuentran en la membrana celular de la gran mayoria de células del cuerpo, su medición es útil para detectar enfermedades óseas o hepáticas
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  88:
+    nombre: Fósforo inorgánico
+    descripcion: El fósforo es el principal anión intracelular. La concentración de fósforo inorgánico está regulada por la función paratiroidea, la absorción intestinal, la función renal, el metabolismo óseo y la nutrición. Aproximadamente el 88% del fósforo orgánico se encuentra integrando la sustancia inorgánica del hueso en forma de sales de fosfato de calcio. El resto está involucrado en la esterificación de tos intermediarios del metabolismo de carbohidratos y como componente de fosfolipidos, fosfoproteínas, ácidos nucleicos y nucleótidos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  89:
+    nombre: FTA-ABS
+    descripcion: FTA-ABS (acrónimo del término inglés  Fluorescent Treponemal Antibody absorbed ) es una prueba que se utiliza para el diagnóstico de SIFILIS
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  90:
+    nombre: Gammaglutamiltranspeptidasa
+    descripcion: La GGTp es una enzima unida a menbranas, esta presente  en riñon, higado, pancreas e intestino. Su vida media es de 7 a 10 dias. Los niveles aumentan sensiblemente  en cualquier afeccion hepatica, pero lo hace especialmente  en los sindromes de colestasis. Es el indicador  bioquimico mas sensible  de alcoholismo oculto.En hepatopatias  tiene la ventaja  de ser un indicador muy sensible , pero poco especifico.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  91:
+    nombre: Glucosa 6-fosfato-deshidrogenasa
+    descripcion: La carencia de G6PD o su inactividad  por farmacos  conduce a la anemia. Puede faltar geneticamente.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  92:
+    nombre: Glucosa (Sangre)
+    descripcion: La glucosa es indispensable  para las funciones  organicas  normales. Su nivel esta controlado  por numerosas hormonas, de las cuales las mas importante   es la insulina liberada por las  celulas  beta  de los islotes de Langerhans en el pancreas. Una   deficiencia de insulina o una  disminucion  de su actividad ocasionan un aumento de la glucosa  en sangre.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  93:
+    nombre: Gonadotrofina Coriónica Humana (Orina)
+    descripcion: Análsis de laboratorio utilizado para evaluar la presencia de  BHCG, hormona producida durante el embarazo, su resultado positivo nos orienta a la posibilidad de gestación.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  94:
+    nombre: Gonadotrofina Coriónica Humana (Suero)
+    descripcion: Segregada por el  trofoblasto  para estimular  y mantener el cuerpo amarillo. Se eleva  en pico  a las 10 semanas  de gestacion. Puede dar falso positivo  en caso de proteinuria, consumo de cloropromazina, barbituricos, salicilatos, en la  premenopausia(la prueba da reaccion  cruzada con la LH). Actualmente  se dosa la subunidad beta de la  HCG, que  permite diagnosticar  la gestacion  a apartir de la tercera semana posterior a la FUR.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  95:
+    nombre: Grupo sanguíneo y Factor Rh
+    descripcion: Hablar de grupo sanguíneo es hablar de una clasificación de la sangre de acuerdo con las características presentes en la superficie de los glóbulos rojos y en el suero de la sangre. Las dos clasificaciones más importantes para describir grupos sanguíneos en humanos son los antígenos (el sistema ABO) y el factor Rh.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  96:
+    nombre: Haptoglobina
+    descripcion: La Hp es una proteína de transporte y de fase aguda que se sintetiza en el hígado. Es una glucoproteína que presenta 2 cadenas alfa ligeras y 2 cadenas beta pesadas. La Hp se une a la Hb resultante de una hemólisis patológicamente elevada y forma un complejo Hp-Hb, que se almacena en los hepatocitos,  evitando la aparición de una hemoglobinuria precoz con pérdida de hierro por vía renal. La reducción de la Hp libre indica hemólisis intravasculár, por lo cual se considera que la Hp sérica es un buen indicador de hemólisis crónica.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  97:
+    nombre: Helicobacter pylori Anticuerpos
+    descripcion: Los anticuerpos específicos contra el H.pylori son detectables en la mayoría de pacientes adultos con úlcera duodenal y cerca del 80% de los pacientes con úlcera gástrica. La prevalencia de anticuerpos de H.pylori se incrementa con la edad y puede ser encontrado en un porcentaje significativo de individuos sanos mayores de 50 años. Resultados positivos no confirman el diagnóstico de H. pylori asociado a úlcera duodenal, pero resultados negativos son una fuerte evidencia contra este diagnóstico.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  98:
+    nombre: Hematocrito (Sangre total)
+    descripcion: El Hto  es la relacion  que existe  entre el volumen  total  de sangre  y el volumen que ocupa  el total  de la masa celular hepatica. Se expresa en tanto por ciento  del volumen sanguineo total.  El hematocrito indica,  en forma aproximada, el numero de hematies por mm3  . Para esto, basta para multiplicar el hematocrito  por 100,00.Por ej, un hematocrito de 43% equivale a 43x100.00 = 4,300,00 eritrocitos/mm3 .
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  99:
+    nombre: Hemoglobina - hematocrito (Sangre)
+    descripcion: la hemoglobina  es una proteina pigmentada  de color rojo transportada  de oxigeno que se encuentra  en los eritrocitos. Es un tetramero con dos pares de cadenas polipeptidicas diferentes.  Cada una de ellas posee un  derivado de la porfirina  llamado  grupo hemo, que a su vez contiene hierro.Las concentraciones de hemoglobina  estan influidas  por variaciones fisiologicas como edad, sexo, deshidratacion, postura y altitud, y por  procesos patologicos.  Las personas que viven en lugares  de altitud superior  a los 100 msnm muestran valores significativamente  mas elevados. En mujeres sanas  embarazadas  se encuentran generalmente  valores mas bajos  de hemoglobina.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  100:
+    nombre: Hemoglobina Glicosilada
+    descripcion: La Hb A1c es una proteína transportadora de oxígeno que se encuentra en los eritrocitos. Se forma por la unión covalente entre la Hb y la glucosa en un proceso no enzimático irreversible, dependiente de las concentraciones crónicas de la glucosa.  Dado que la vida media de los eritrocitos es de 120 días, permite    evaluar el grado de control glucémico de un período previo largo (unos 3 meses). La hemoglobina A representa 95- 98 % del hemolizado  del adulto y de éste el componente A1, representa, aproximadamente, el 9%. La hemoglobina A1 está compuesta por 3 fracciones que pueden ser separadas por electroforesis en A1a, A1b, A1c. La hemoglobina glicosilada A1c es el componente mayoritario  de la hemoglobina A1. La Hb A1c no se recomienda como test de screening o diagnóstico de diabetes, pues sus niveles normales no excluyen el diagnóstico de diabetes cuanto la hiperglicemia es de reciente comienzo o de corta duración.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  101:
+    nombre: Hemoglobina (concentración corpuscular media)
+    descripcion: La concentración de hemoglobina corpuscular media refleja la CANTIDAD DE HEMOGLOBINA RELATIVA AL TAMAÑO DE LA CÉLULAS, en otra palabras CONCENTRACIÓN DE HEMOGLOBINA POR GLÓBULO ROJO.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  102:
+    nombre: Hemoglobina Corpuscular Media (HbCM)
+    descripcion: La hemoglobina corpuscular media (HCM) refleja la CANTIDAD DE HEMOGLOBINA POR GLÓBULO ROJO.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  103:
+    nombre: Hemoglobina Fetal
+    descripcion: La hemoglobina F o fetal  consta de 2  cadenas alfa  y 2  cademas gamma.Es la Hb principal  en el feto  desde el 4º mes de gestacion  hasta aproximadamente  los 6 meses de edad. Su formacion puede continuar  anormalmente  en la infancia  como productos  de cualquier  tipo de anemia  que produzca hiperactividad medular.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  104:
+    nombre: Hemograma
+    descripcion: Análisis de laboratorio conocido también como RECUENTO CELULAR SANGUÍNEO, es un examen que permite EVALUAR TRE TIPOS PRINCIPAELS DE CÉLULAS SANGUÍNEAS: glóbulos rojos, glóbulos blancos y plaquetas.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  105:
+    nombre: Hemorragia Oculta en Heces (Thevenon)
+    descripcion: La sangre presente  en las heces  reacciona con el peroxido  de ortoluidina produciendo color azul.  Es un examen utilizado para descartar sangrado digestivos bajos
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  106:
+    nombre: Hidatidosis (Anticuerpos)
+    descripcion: Esta prueba detecta  a un 80 % de pacientes con quistes  hepaticos,  o peritoneales , y menos  del  10% de pacientes con quistes calcificados  o quistes pulmonares. Puede haber reaccion cruzada  en pacientes con cisticercosis.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  107:
+    nombre: Hierro (Capacidad combinante)
+    descripcion: La capacidad total  de combinacion del hierro es equivalente  a las concentraciones hematicas de la transferrina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  108:
+    nombre: Hierro (Suero)
+    descripcion: El hierro es indispensable para la formacion de Hemoglobina. Se absorve  en el duodeno (10 % del total  de dieta), principalmente en forma de ion ferroso. La absorcion  se reduce con la ingesta  de fosfatos , fitatos, etc. En la sangre es trasportado  por la trasferrina, y almacenada  dentro de  las celulas en forma de ferritina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  109:
+    nombre: Hormona de Crecimiento
+    descripcion: La GH o  somatotropina (producida  por los somatotropos  hipofisarios), estimula el desarrollo de todos los tejidos no endocrinos. El nivel de GH basal tiene un valor limitado pues la secrecion de esta hormona  es episodica y pulsatil. La GH tiene   una vida  media de 20-25 minutos.El test  para deficiencia en la hormona  de crecimiento  en niños es realizado  como parte de una prueba  dinamica que compromete  varios estimulos.  Pacientes con disfuncion tiroidea  pueden tener liberacion  anormal de hormona  del crecimiento .Pacientes con tumores pituitarios  a menudo  liberan  GH en respuesta a TRH o GnRH.La somatomedina C es utilizada  como prueba  de screening par ala deficiencia  de hGH.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  110:
+    nombre: Inmunoglobulinas
+    descripcion: La Ig posee actividades de anticuerpos.La Ig  G es la unica que puede atravesar  la placenta.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  111:
+    nombre: Insulina
+    descripcion: La insulina  es una hormona  peptidica(PM 6kDa), secretada por las celulas  beta de pancreas.Esta  compuesta por 2  cadenas polipeptidicas(alfa de 21 aminoacidos y beta, de 30).La administracion  terapeuticas  de insulinas de origen no humano puede desencadenar la formacion  de anticuerpos antiinsulina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  112:
+    nombre: Lactato Deshidrogensa
+    descripcion: |
+      La LDH existe en todas las células y se libera cuando ellas se lesionan (es un marcador de destrucción celular sensible, pero  poco específico). Se eleva a los 3-4 días después del daño y desciende a lo normal 5-7 días después. Se diferencian 5 isoenzimas mediante electroforesis. La LDH-1 predomina en el infarto de miocardio y en los procesos hemolíticos. Las LDH-2, 3 y 4, se elevan en procesos malignos (leucemias y linfomas) y neumopatias. La LDH-3 se ha observado en la pubertad en el tejido testicular. Las isoenzimas LDH-4 y 5 aumentan en casos de daño hepatocelular, traumatismos musculares y en lesiones tisulares  por compresión. La LDH-5 aparece en las afecciones hepáticas y en varios tipos de cáncer. Las proporciones de las isoenzimas son:
+      LDH-1 =17-27%.
+      LDH-2=7-37%
+      LDH-3 = 18-25%
+      LDH-4 = 3-8%
+      LDH-5 = 0- 5%.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  113:
+    nombre: Líquido Cefaloraquídeo (recuento)
+    descripcion: El significado de un recuento  entre 5 y 10 celulas/mm3 es dudoso, pero por encima   de 10 celulas  es inequivocamente  patologico. En niños las cifras  de leucocitos aumenta hasta 20-30/mm3, sobre todo en los menores de un año.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  114:
+    nombre: Líquido Cefaloraquídeo (color)
+    descripcion: La trasparencia  del SCR se pierde cuando  el numero de celulas  supera las 100 por mm3.La hemorragia  causada por la puncion  lumbar  se puede reconocer  porque generalmente   el tinte  hematico  va disminuyendo  conforme  sale el  LCR, y la centrifugacion  lo elimina por completo al decantarse los hematies.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  115:
+    nombre: LCR(Cloruros)
+    descripcion: La densidad  del LCRT oscila entre 1.003-1.009
+    tipo: ~
+    keywords: ~
+
+  116:
+    nombre: Líquido Cefaloraquídeo (glucosa)
+    descripcion: Se recomienda comparar los niveles de glucosa en LCR (glucorraquia) con los de la glucemia, pues la glucorraquia normal es  equivalente  al 60 - 70 %   de la glucemia  medida simultaneamente  y en ayunas.La glucorraquia  tiene valor  diagnostico diferencial  en las meningitis de liquido claro : baja en las etiologia bacteriana  y normal  en las de etiologia viral.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  117:
+    nombre: Líquido Cefaloraquídeo (presión)
+    descripcion: La presion  del LCR aumenta  al doble  con el paciente en sedestacion.Tambien aumenta  con la maniobra  de vasala, por la presion  sobre las ventas  yugulares, y tras las inyeccion de solucion  hipotonicas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  118:
+    nombre: Líquido Cefaloraquídeo (proteínas)
+    descripcion: La  concentracion  de proteinas  en el LCR es menor  que en el  suero. El aumento  de proteinas  en LCR es un dato poco especifico ,  ya que  aparece en numerosas procesos inflamatorios, infecciosos, neoplasicos, etc. Disociacion albumino-citologica: consiste en un aumento  desproporcionado de las proteinas en relacion  con las celulas. Es propio  de situaciones de bloqueo  del flujo de LCR a lo largo del conducto  espinal en tumores  procesos inflamatorios ,  etc. Se da tambie en el sindrome  de Guillain-Barre.Su grado  maximo  es el denominado sindrome  de Froin en el que elevada  concentracion de proteinas da al liquido  un color amarillento .Por el contrario , en procesos inflamatorios  meningeos  sin bloque  de LCR suele  predominar  el aumento  de celuas sobre el  de proteinas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  119:
+    nombre: Líquido Cefaloraquídeo (volumen)
+    descripcion: La mayor parte del LCR se forma  en los plexos  coroideos a nivel  de los ventriculos  cerebrales  y circula en el espacio  subaracnoideo, los ventriculos cerebrales  y el canal medular central. Se producen  unos 0,40 mL de LCR por minuto  (24mL/hora y 5767dia ). Por lo tanto , todo el LCR se renueva   cada 6-8 horas.El LCR actua  como lubricante , mantiene flotante  al encefalo, transporta  nutrientes  y participa  en la eliminacion de desechos y compensacion de los cambios de volumen de la sangre intracraneal.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  120:
+    nombre: Lecitina / Esfingomielina (índice)
+    descripcion: Despues  de las 34 semanas de gestacion , la lecitina del pulmon  fetal  se produce en mayor  cantidad que la esfingomielina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  121:
+    nombre: Leucocitos (Hemograma)
+    descripcion: La leucocitosis fisiologica  generalmente NO se acompaña  de desviacion  izquierda , y ocurre en todo evento  que produzca  un aumento  de la velocidad  circulatoria.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  122:
+    nombre: Linfocitos (Hemograma)
+    descripcion: Los linfocitos son untipo de glóbulo blanco (leucocito). Existen tres tipos principales de linfocitos: células T, células B y células citolíticas naturales (natural killer). Estas ayudan a combatir las infecciones.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  123:
+    nombre: Lipasa
+    descripcion: Las lipasas son glicoproteínas cuyo pesomolecular (PM) es de 47 kDa, producidas por el páncreas, intestino, faringe, riñón y bazo. Su función es catalizar el desdoblamiento de triglicéridos a diglicéridos, con formación posterior de monoglicéridos y ácidos grasos. La lipasa pancreática pasa a la sangre cuando la glándula está lesionada. La lipasa pancreática es, junto a la alfa-amilasa, uno de los parámetros más importantes para el diagnóstico diferencial de las enfermedades pancreáticas. Después de la pancreatitis aguda, la actividad de la lipasa aumenta en 4-8 horas, alcanza su pico a las 24 horas y disminuye luego de 8-14 horas. No existe correlación entre la magnitud de la lipasa sérica y el grado de lesión del páncreas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  124:
+    nombre: Lípidos Totales
+    descripcion: Los lípidos circulan en la sangre unidos a proteínas, formando lipoproteínas. Los lípidos totales son la suma de diferentes compuestos, fundamentalmente colesterol libre y esterificado, trigliceridos, fosfolípidos y ácidos grasos libres. El tipo específico de hiperlipemia se determina midiendo los componentes de colesterol y triglicéridos de los lípidos totales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  125:
+    nombre: Líquido Ascítico (recuento)
+    descripcion: La cavidad abdominal normalmente contiene uno 50 mL de líquido ascítico o peritoneal, de color claro, pajizo, cuya función es lubricación. Este liquido se acumula (ascitis) cuando aumenta su producción o disminuye su reabsorción. En la mayoría de casos, la ascitis es debida a un aumento de la presión portal en pacientes con cirrosis hepática.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  126:
+    nombre: Líquido Pericárdico (recuento)
+    descripcion: El liquido pericardico es un ultrafiltrado del plasma. Su volumen  normal oscila  entre 15-50 mL. Su funcion principal  es lubricante
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  127:
+    nombre: Líquido Pleural (recuento)
+    descripcion: El líquido pleural es un ultrafiltrado del plasma, que se produce en la pleura parietal y se reabsorbe por vía linfática. De color amarillento transparente. Su volumen promedio es 0,1-0,2 mL/kg de peso corporal (5-15 mL).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  128:
+    nombre: Lupus Eritematoso (células)
+    descripcion: Leucositos  normales  incubados  con el suero  de un paciente  con LES forman una masa  homogenea que se tiñe  de purpura  con el colorante  de Romanovsky.Dicha  masa es material  nuclear   alterado  y la celula  de LES. Esta prueba, aunque de gran especiliadad (practicamente  solo se observan celulas Le en el LES), carece de suficientes sensibilidad(es negativa en 30%  de pacientes con LES).Asimismo, la corticoterapia, que a menudo se aplica a estos pacientes, inhibe la formacion  de celulas LE.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  129:
+    nombre: Magnesio (suero)
+    descripcion: El magnesio es un mineral que se encuentra presente en grandes cantidades en el cuerpo. Alrededor de la mitad del magnesio corporal seencuentra en el hueso y la otra mitad se encuentra dentro de las células de los tejidos y órganos corporales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  130:
+    nombre: Magnesio (orina)
+    descripcion: El magnesio es un mineral que se encuentra presente en grandes cantidades en el cuerpo. Alrededor de la mitad del magnesio corporal seencuentra en el hueso y la otra mitad se encuentra dentro de las células de los tejidos y órganos corporales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  131:
+    nombre: Metahemoglobina
+    descripcion: La MetHb es una forma oxidad  de la hb, inactiva, que se  produce  por oxidacion  del Fe del grupo  hemo  de la Hb. La metahemoglobinemia es un trastorno sanguineo  en el  cual el organismo  es incapaz  de reciclar la Hb despues de que esta  resulta  dañada. Existen 2 tipos  de metahemoglobinemia: Tipo 1 : por dificiencia de reductasa eritrocitaria. Tipo 2 :  por dificiencia  generalizada  de la reductasa .
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  132:
+    nombre: Mioglobina
+    descripcion: La mioglobina tiene  una alta sensibilidad y un excelente  valor predictivo  negativo para necrosis miocardicas.Su valor  pronostico  es mayor si  se combina  con otros marcadores  sericos de isquemia  miocardica, CK-Mb y  troponina. Su determinacion  aislada tiene poco valor  pronostico  debido  a una pobre  especificidad, por lo tanto, a  pesar de la excelente sensibilidad  y valor predictivo  negativo en el  dolor toracico agudo, su uso   en la estratificacion  de riesgo es limitado  por la  escasa especificidad cardiaca. La mioglobina  es el marcador  mas precoz  de isquemia  miocardica,  pues se libera  rapidamente  tras la lesion  miocardica y su elevacion  se detecta   a las 2-4 horas del inicio  de la necrosis miocardica,  alcanza su pico maximo a las 6 horas  y retorna  a la normalidad a las 24 horas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  133:
+    nombre: Monocitos
+    descripcion: Los monocitos  son las celulas  mas grandes  de la sangre. En general,la monocitosis  es signo de buenas  defensas, con pronostico favorable.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  134:
+    nombre: Neutrófilos (Hemograma)
+    descripcion: Los neutrófilos son los principales glóbulos blancos. Es la principal célula  que combate las infecciones. Representa entre el 55 y 70 % del total de glóbulos blancos.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  135:
+    nombre: Nicotínico (ácido)
+    descripcion: La vitamina B3, tambien  conocida  como acido  nicotinico, niacina o factor PP(prevencion  de pelagra) forma parte del complejo B. Existe  en el pan integral, mani, carne  magra de vaca  y cerdo.Interviene  en los procesos  metabolicos de los hidratos  de carbono, como la glucolisis, via pentosas-fosfato, metabolismo de los acidos  grasos y los aminoacidos a traves de dos coenzimas nicotinamidicos, el NAD y el NADP. Su deficit   produce  pelagra, caracterizada  por signos  y sintomas  atribuibles en especial  a  piel , tubo digestivo y SNC, triada que suele denominarse  derm,atitis, diarrea y demencia(las tresD).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  136:
+    nombre: Orina (densidad)
+    descripcion: La densidad urinaria (gravedad especifica  o indice refractorio) indica  la proporcion  relativa de componentes solidos  disueltos en el volumen   total de muestra. Esta elevada en la diabetes  mellitus debido  a la glucosuria. Baja  en las lesiones  hipofisarias  por hiposecrecion de ADH.El paciente es incapaz  de bajar  la densidad tras una sobrecarga acuosa en la insuficiencia  renal y en la enfermedad de Addison.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  137:
+    nombre: Osmolaridad (suero)
+    descripcion: La osmolaridad plasmatica esta determinada  por la relacion  entre los solutos (basicamente sodio, cloro y otros iones) y  el agua corporal.El sodio es responsable  de mas  del 90% de la osmolaridad del liquido extracelular. Se puede calcular  la osmolaridad plasmatica  (enmOsm/L) a partir  de las cifras  de sodio (en mEq/L), glucemia(en  mg/dL) y urea (en mg/dL) utilizando la siguiente formula: Osm=[(Na+)  x (2)] + [Glucemia/18] + [urea/2,8]
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  138:
+    nombre: Oxígeno
+    descripcion: La  pO2 es la presion  ejercida  por el O2  disuelto  en el plasma.No debe confundirse con la cantidad de O2 unida a la Hb o la cantidad  total  de O2.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  139:
+    nombre: Paul Bunnel (prueba)
+    descripcion: Los pacientes  con MNI(y otras enfermedades producidas por el virus de Ebstein-Barr) desarrolla un titulo elvado  de anticuerpos heterofilos tipo IgM, que aglutinan los hamaties del carnero.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  140:
+    nombre: Péptido C
+    descripcion: La determinacion   del peptido  C , junto  con la insulina  y glucosa, contribuye  al diagnostico diferencial  en la hipoglicemia.El peptido C (peptido Conector) es una cadena de 31 aminoacidos  que conecta las cadenas A y B de la  proinsulina y es metabolicamente inactivo. Cuando la proinsulina se convierte  en insulina,  el pepdido C es escindido, formandose la molecula de insulina.El peptido C y la insulina son secretados  hacia la circulacion portal en  concentraciones  equimoleculares, pero como la vida  media del peptico C  es mayor que la  de la insulina , su concentracion periferica es mayor.Por lo tanto, los niveles de pepdito C son un mejor  indicador  del funcionamiento  de las celulas  beta que la concentracion periferica  de insulina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  141:
+    nombre: Perfil Lipídico
+    descripcion: Los valores  plasmaticos  del perfil lipidico son el resultado de procesos metabolicos  complejos que se encuentran bajo el control de influencias  geneticas y ambientales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  142:
+    nombre: pH (orina)
+    descripcion: El riñón produce orina con un pH de 4,5-8,2, pero con una dieta ordinaria, el pH de la orina está alrededor de 6,0. La orina empieza a hacerse más alcalinas después de las comidas y más ácidas en las horas de la mañana, en ayunas. Factores como la dieta alimenticia, afectan el pH de la orina. Las orinas alcalinas se observan en personas que consumen grandes cantidades de frutas cítricas y vegetales; y las orinas ácidas son observadas con alta ingesta de carne. Las orinas ácidas con pH < 5,5 se relacionan con cálculos por cristales de xantina, cistina y ácido único. Los cristales de oxalato de calcio y de apatita no están asociados con ninguna alteración del pH en particular. Las orinas alcalinas con pH > 7, se relacionan con cálculos de carbonato de calcio, fosfato de calcio y especialmente fosfato de magnesio y amonio.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  143:
+    nombre: pH (sangre arterial)
+    descripcion: El pH sanguineo  esta determinado por el nivel de bicarbonato ( indirectamente CO2 ) u otros electrolitos. Valores fuera  de los limites (6,8 a 8,0) son incompatibles  con la vida. La medicion  del pH (pHmetreia) tambien es apicable  a sangre venenosa y ortros liquidos  corporales como asciticos, peritoneales, pleurales, etc.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  144:
+    nombre: Plaquetas (recuento)
+    descripcion: Las plaquetas  son indispensables  en la coagulacion sanguinea
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  145:
+    nombre: Plomo
+    descripcion: El plomo  se excreta  pobremente  en la orina, por lo que  se encuentra  en concentraciones menores  en la orina  en comparacion con la sangre.La intoxicacion por plomo  puede producirse  por ingestion (por ej. De barnices) o inhalacion  de plomo(bacterias).Se trata con EDTA.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  146:
+    nombre: Potasio (orina)
+    descripcion: El potasio es un mineral que el cuerpo necesita para funcionar normalmente. La prueba de potasio en orina se solicita para diagnosticar o confirmar trastornos renales o de las glándulas suprarrenales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  147:
+    nombre: Potasio (suero)
+    descripcion: El Potasio es el principal y mas abundante mineral intracelular, y desempeña  funciones importantes, especialmente  en la funcion  de las celulas  nerviosas y musculares. Se absorbe facilmente  en el intestino  delgado  y se elimina  por el riñon  y colon.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  148:
+    nombre: Prolactina
+    descripcion: La  prolactina  es una hormona polipeptidica formada por una sola cadena de  199 aminoacidos, con 3  puentes  disulfuro.Es producida  por los  lactotropos  adenohipofisarios; participa  en el control del ciclo  menstrual  y la funcion  de la glandula  mamaria. La hiperprolactinemia(en hombres y mujeres) es  una de las principales causas de trastorno  de la fertibilidad  debido a que  la hiperprolactinemia conduce  a un  estado de hipogonadismo hipogonadotropico, y puede provocar  esterilidad, amenorrea y galactorrea.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  149:
+    nombre: Proteína C Reactiva
+    descripcion: La PCR, sintetizada en el higado , es uno de los reactantes  de fase aguda mas sensibles.La PCR activa a la via clasica del complemento, en respuesta  a la reaccion  inflamatoria.Se libera bajo estrés, por la mayoria  de tejidos  y no es una prueba  especifica. El aumento de la PCR de hasta 200 veces superior al normal se produce en las primeras 24-48 horas, aunque dicho aumento  no es especifico.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  150:
+    nombre: Proteínas (LCR)
+    descripcion: El contenido de proteinas  del LCR procede principalmente  del plasma(80%)  a traves de difusion pasiva y trasporte activa. Solo un 20 % procede de la sintesis intratecal.  El aumento  de la concentracion  de proteinas en el LCR se debe  a dos causas principales : Aumento  del paso  de las  proteinas  al plasma  (alteracion  de la BHE, obstruccion a la libre  circulacion del LCR) y aumento  de la sisntesis de proteinas  in situ.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  151:
+    nombre: Proteínas Totales
+    descripcion: |
+      La mayoria de  proteinas  plasmaticas  se sintetizan  en el higado, exceptuado la Inmunoglobulinas, que se forman  en las celulas  plasmaticas, nodulos linfaticos y medula osea.Las proteinas sericas totales estan formadas por una mezcla de albumina y globulinas.
+      Funciones :
+      - Mantienen la presion  oncotica del plasma
+      - Actua  como tampon en el  equilibrio acido-basico
+      - Transporte  de sustancias  endogenas y exogenas
+      - Inmunidad humoral
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  152:
+    nombre: Proteinograma
+    descripcion: Las proteinas  sericas  totales  estan formadas por una mezcla de  albulina y globulinas. La albumina es una molecula  proteinica  pequeña, entre las funciones que tiene son proteina   trasportada   de farmacos  y hormonas y responsable del mantenimiento de la presion ocontica  en el plasma.El segundo  grupo de las proteinas de la sangre son las globulinas, son moleculas  mas grande que se subclasifican  en tres clases principales: alfa, beta y gamma: Alfa1:incluyen  alfa 1 antitrispsina.Alfa2: incluyen  haptoglobinas sericas, ceruloplasmina, protrombina y colinesterasa.Beta1:incluye  las lipoproteinas, la trasferrina, el  plasminogeno y las proteinas  del complemento. Beta 2 : incluye el fibrinegeno.Gamma:  son las globulinas    inmunes  o inmunoglobulinas (anticuerpos). La  electroforesis  de las proteinas sericas permite separar los diferentes componentes  proteinicos de la sangre y cuantificarlos de acuerdo con su carga electrica.Se ha identificado varios patrones  electroforeticos, que pueden asociarse con enfermedades especificas.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  153:
+    nombre: Proteinuria
+    descripcion: Los glomerulos  actuan  como ultrafiltros de las proteinas  plasmaticas. El grado en que cada proteina filtra normalmente  a traves  de la menbrana en funcionde su masa y carga electrica, asi como tambien  de sus niveles    plamaticos. El daño glomerular eleva  si permeabilidad y deja  pasar las proteinas plasmaticas a la orina.La hemorragia urinaria hace  que la prueba de proteinas sea  a menudo positiva. La magnitud de la proteinuria no se correlaciona con la perdida de la funcion  renal inicial, y por otro lado la proteinuria puede disminuir con la perdida  de la funcion renal.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  154:
+    nombre: Protrombina (índice)
+    descripcion: Ip= Tiempo  de protrombina control/Tiempo de protombina del paciente x 100
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  155:
+    nombre: Protrombina (tiempo de)
+    descripcion: El TP mide el tiempo requerido  para que el plasma citratado coagule.El TP es afectado por los cambios en la actividad d los factores X,VII, V, II (prottrombina) y I (fibrinogeno). Todos  estos factores  son sintetizados  en el higado, y tres de ellos(II, VII y X) son actividades por una enzima  dependiente de vitamina K a traves  de la adicion  de un segundo  grupo gamma-carboxilo sobre los residuos de acido glutamico.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  156:
+    nombre: Reticulocitos
+    descripcion: |
+      Cuando los eritroblastos pierden su núcleo se transforman en reticulocitos y se liberan a sangre periférica, donde permanecen 48 horas antes de convertirse en eritrocitos maduros. El recuento de reticulocitos sirve para comprobar cómo se encuentra la producción de eritrocitos en la médula ósea (evaluación de la capacidad eritropoyética): Un recuento bajo evidencia la incapacidad de la médula ósea para producir eritrocitos. Un recuento elevado (reticulocitosis) indica que la médula ósea está trabajando con mayor rapidez, lo cual sugiere un aumento de la destrucción de hematíes (hemólisis). Las excepciones son las siguientes: La enérgica reticulocitosis que se presenta en las hemorragias. La reticulocilosis en pacientes que se recuperan de una supresión de la eritropoyesis (por ej, individuos con anemia perniciosa que han recibido tratamiento con vitamina B12). La reticulocitosis leve-moderada (3-7%) que se encuentra en las anemias mieloftísicas, en las cuales las células de la serie roja son liberadas prematuramente a la circulación debido a la existencia de focos irritativos en la médula ósea, por ej. en caso de tumor o focos infecciosos en la médula ósea (granuloma tuberculoso). El valor relativo (%) de reticulocitos está referido a una cifra normal de hematíes. Cuando existe una disminución del número de hematíes, este valor debe ser corregido utilizando el hematocrito Una medida más exacta de la producción de eritrocitos por la médula ósea se obtiene mediante el índice reticulocitario corregido:
+      IC = % reticulocifos x (Hto pacienfe/Hto norrnal)/2, cuyo valor es igual a 1.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  157:
+    nombre: Retracción del Coágulo
+    descripcion: La retraccion  del coagulo  depende  de sobre  todo de la  funcion  normal de las plaquetas, una proteina contractil presente en la menbrana de las plaquetas (tromboestenina), el magnesio, el ATP  y la  piruvato Kinasa. Cuando la sangre se coagula en forma espontanea, se forma una masa solida  con todos  los componentes sanguineos. Con el tiempo , la accion de las plaquetas  sobre la red  de fibrina retrae al coagulo, reduciendo su masa. La  trombocitopenia y tromboastenia se caracteriza  por  un coagulo friable, con aumento  en la cantidad de sueroliberado y disminuido de la cantidad de suero   expresado. En la hipofibrinogenia, el coagulo es pequeño, firme  y demuestra un aumento  en escape de eritrocitos.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  158:
+    nombre: Reumatoide (factor)
+    descripcion: El 75% de adultos  con artritis  reumatoidea poseen este factor, que tambien existe  en muchos adultos que no  padecen el proceso.Cuanto mas elevados sean los titulos , mayor significacion pronostica tienen. Los factores reumatoides son anticuerpos  tipo IgM(auqnue tambien  se ha descrito Ig e IgA) dirigidos  contra la porcion Fc de la IgG. La aglutinacion de particulas  o hematies de carnero  sensibilizados  al latex  indican presencia  del factor  reumatoido. Otras tecnicas empleadas para detectar  el factor  reumatoide en el suero  incluyen  radioinmunoanalisis, ELISA y nefelometria
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  159:
+    nombre: Rubeola (anticuerpos IgG/IgM)
+    descripcion: Una vez infectado el sujeto  con rubeola(activa o pasivamente), los niveles   de anticuerpos  aumentan de modo definitivo y ya no es posible la reinfeccion. Las infecciones consecutivas  ya no produciran  viremia. La infeccion congenita ocasiona alteraciones fetales,  especialmente sordera.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  160:
+    nombre: SCC (antigeno asociado a carcinomas escamosos)
+    descripcion: El SSC es una  subfraccion  del antigeno tumoral TA-4. Es un marcador  tumoral de las neoplasias epidermoides, principalmente  de cervix, pulmon, laringe y ano.Posee interes como indicador pronostico, en la deteccion procaz de recidivas y en la monitorizacion terapeutica.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  161:
+    nombre: Sodio (sangre)
+    descripcion: El sodio es el catión más abundante del medio interno y se encuentra estrechamente relacionado con dos aniones:  CI- (con el cual forma CINa) y HCO3 - (con el cual forma NaHCO3). Es el principal determinante de la osmolaridad plasmática y contribuye a regular el volumen extracelular. El sodio es una sustancia que el cuerpo necesita para funcionar apropiadamente. Este examen por lo regular se hace como parte del grupo de prebas metabólicas básicas o de electrolitos en sangre.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  162:
+    nombre: Sodio (orina)
+    descripcion: El sodio es el catión más abundante del medio interno y se encuentra estrechamente relacionado con dos aniones:  CI- (con el cual forma CINa) y HCO3 - (con el cual forma NaHCO3). Es el principal determinante de la osmolaridad plasmática y contribuye a regular el volumen extracelular. El sodio es una sustancia que el cuerpo necesita para funcionar apropiadamente.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  163:
+    nombre: Sudor (cloruro)
+    descripcion: En el sudor  de los pacientes  con enfermedad  fibroquistica aparecen concentraciones anormalmente  altas de cloruro.El sudor  se examina  recogido  en depositos  de gasa anelectrolitica o por iontoforesis.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  164:
+    nombre: Suero (densidad)
+    descripcion: El volumen plasmatico aumenta  o disminuye  con el exceso o perdida  de agua, mientras  que el  contenido  de proteinas  permanece relativamente  estable, lo que altera su densidad
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  165:
+    nombre: Triyodotironina libre (T3 libre)
+    descripcion: La determinacion  de T3L, valorada junto con la TSH y T4L permite  el diagnostico de hipertiroidismo. La mayor  parte de T3 de la sangre  (70%) derivada  de la desyodacion  periferica  de la tiroxima (T4).La T3 circula  en sangre  unida mayoritaria  a la TBC, prealbumina y albunima.Solo  el 0,5% circula  en forma  libre (T3L).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  166:
+    nombre: Tiroxina libre (T4 libre)
+    descripcion: La determinacion  de t4L, valorada  junto  con la TSH y T3L permite  el diagnostico  de hipertiroidismo .T4 es la principal  hormona secretada  por la tiroides . Circula  unida fuertemente  a las proteinas  transportadoras (TGB, albumina  y prealbumina). Solo el 0,5% circula  en forma libre (T4L).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  167:
+    nombre: Testosterona
+    descripcion: La testosterona  es un androgeno  con PM de 288 Daltons.Se sintentiza  en los testiculos, ovarios y corteza suprarrenal. En la sangre, el 98 % de la testosterona  circula ligada  a proteinas trasportadoras (principalmente globulina fijadora de hormonas  sexuales), y solo el 2% circula libre.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  168:
+    nombre: Tiamina
+    descripcion: La tiamina  existe en los cereales, verduras, higado, mani. Los sindromes de deficiencia  de tiamina  que se observan  en clinica  pueden variar desde beriberi, pasando por encefalopatia de Wernicke y sindrome de Korsakoff, hasta polineuropatia de origen alcoholico. La deficiencia  grave  de tiamina  produce beriberi , cuyos principales  sintomas pueden  relacionarse con los sistemas nervioso(beriberi seco) y cardiovascular(beriberi humedo).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  169:
+    nombre: Transaminasa Glutámico Oxalacética
+    descripcion: |
+      La AST (también conocida como Transaminasa Glutámico Oxalacética o TGO), conjuntamente con la alaninoaminotranslerasa (ALT), son responsables del proceso de transaminación que permite que los aminoácidos ingresen al ciclo del citrato. La AST está ampliamente distribuida, con concentraciones elevadas en hígado, corazón, músculo esquelético y riñón. La AST se encuentra en el hepatocito en el citoplasma y mitocondrias.
+      En las lesiones tisulares leves, se libera principalmente AST del citoplasma. En daños graves la cantidad aumenta por liberación del AST mitocondrial.
+      A pesar de esta cierta inespecificidad, si las elevaciones son muy elevadas podrá afirmarse con bastante seguridad que existe lesión hepatocelular.
+      Véase también: Transaminasa glutámico pirúvica.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  170:
+    nombre: Transaminasa Glutámico Pirúvica
+    descripcion: La TGP se encuentra principalmente en el hígado y riñón, y en cantidades menores en corazón y músculo esquelético, por lo que su especificidad para detectar hepatopatias, es mucho mayor que la TGO. En el hepatocito a TGO se encuentra principalmente en el citoplasma. Todo incremento de transaminasas significa necrosis tisular. Los valores > 500 UI/L son muy sugestivos de hepatitis vírica o tóxica aguda, aunque también pueden observarse en la insuficiencia cardiaca (hepatitis isquémica) e incluso en las obstrucciones del colédoco por cálculos. La magnitud de la elevación no guarda  relación con la gravedad de la hepatopatia. En las hepatopatías aumentan ambas transaminasas, pero a predominio de la TGP. En las cardiopatías predominalaTGO. Véase también: Transaminasa glutámico oxalacética.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  171:
+    nombre: Transferrina
+    descripcion: La transferrina (TRF) o siderofilina es una glucoproteína con PM de 79,57 kDa. Es la principal transportadora de hierro. Su concentración se correlaciona con la capacidad total de fijación del hierro sérico. La transferrina es sintetizada en el hígado y se encuentra en pequeñas cantidades en el RES y en las glándulas endocrinas como testículos y ovarios. La medición de la transferrina en suero y en otros fluidos ayuda en el diagnóstico diferencial de desnutrición, inflamación aguda, infección, evaluación de la función renal y desórdenes de los glóbulos rojos, tales como anemia por deficiencia de hierro. En la anemia por deficiencia de hierro, los niveles de transferrina están aumentados debido al aumento en la síntesis. La transferrina es un reactante de fase aguda  negativo  debido a que valores bajos ocurren durante estados inflamatorios y en enfermedad maligna. Niveles disminuidos pueden también ocurrir en desnutrición, enfermedad hepática crónica y pérdida de proteínas. La determinación de la transferrina en la orina puede ayudar a la detección temprana de compromiso renal en muchas enfermedades crónicas como la diabetes mellitus, hipertensión y LES.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  172:
+    nombre: Triglicéridos
+    descripcion: Los lípidos de mayor importancia son cuatro: Triglicéridos, colesterol, ésteres de colesterol y fosfolípidos. El hígado produce triglicéridos a partir de glicerol y otros ácidos grasos. Los TG son transportados en la sangre por las lipoproteinas, el 80% por las VLDL y el 15% por las LDL, Su principal función es suministrar energía a la célula.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  173:
+    nombre: Tripsina Inmunoreactiva
+    descripcion: Esta prueba mide la cantidad de tripsinógeno en la sangre. La tripsina es una enzima específica del páncreas (mayor sensibilidad en pancreatitis). En caso de pancreatitis se eleva paralela a la amilasa sérica. El tripsinógeno es un proenzima, precursor inactivo  de la tripsina, un enzima proteolítico. En condiciones normales, el tripsinógeno se sintetiza en el páncreas y se transporta hasta el intestino delgado. Allí se activa por la acción de un enzima situado  en la mucosa intestinal, convirtiéndose en tripsina, una potente sustancia química responsable de romper las proteínas que forman parte de los alimentos en pequeños fragmentos, llamados péptidos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  174:
+    nombre: Trombina (tiempo de)
+    descripcion: Esta prueba  mide el tiempo  que tarda  en aparecer  el coagulo  tras la adicion  de trombina  al plasmaa citratado.Es util para evaluar la fibrinoformacion(paso final del proceso de coagulacion).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  175:
+    nombre: Tromboplastina parcial activada (tiempo de)
+    descripcion: El TPTA mide el tiempo de coagulacion  del plasma citratado, puesto en contacto  con calcio y fosfolipidos. El TPTA evalua la via intriseca de la coagulacion y la via comun, y es util para valorar la actividad de todos los factores de la coagulacion, excepto el VII y el XIII. El TPTA es especialmente  sensible  para los defectos de los factores VIII y IX.  El TPTA es la prueba que se utiliza para comprobar el efecto de la heparina no fraccionada.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  176:
+    nombre: Troponina T / Troponina I
+    descripcion: |
+      La troponina (Tn) es un complejo proteínico que regula la función contráctil del músculo. Está formado por tres subunidades: Troponina C (TnC), que fija al calcio; Troponina T (TnT), que liga a la   tropomiosina;  y troponina 1 (Tnl), que inhibe la interacción troponina-miosina. Las troponinas T e I poseen isoformas específicas cardiacas (cTnT y cTnl), pero se prefiere a la cTnl y no la cTnT porque esta última se expresa en otros músculos estriados además aparte del corazón. La cardioespecificidad absoluta de la cTnl permite distinguir entre lesiones cardiacas y lesiones esqueléticas, y permite el diagnóstico de infarto de miocardio diferente de lesiones musculares (rabdomiolisis, politraumatismo) y la cirugía no cardíaca.
+      Las troponinas 1 y T se liberan cuando se lesiones el miocardio, En el IAM las concentraciones de Tnl y de TnT en plasma aumentan entre 4 y 6 horas después del inicio de la lesión, alcanzan el máximo a las 10 o 12 horas y se mantienen después de las 24 horas. A la TnT se le atribuye una evolución bifásica, ya que presenta una segunda elevación durante el cuarto día después del infarto. Véase también: Creatinoquinasa, isoenzima MB, deshidrogenasa láctica, mioglobina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  177:
+    nombre: Uratos (suero)
+    descripcion: El acido urico es el producto  final  de metabolismo  de la purina en el organismo. La hiperproduccion se trata con alopurinol; la hipoexcrecion con farmacos uricosuricos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  178:
+    nombre: Uratos (orina)
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  179:
+    nombre: Urea (suero)
+    descripcion: |
+      La urea es el principal producto final del catabolismo de las proteínas. La importancia de la concentración de urea en sangre reside en su valor como indicador de la función renal. En algunos casos, la determinación plasmática de urea se sustituye por la del nitrógeno ureico en sangre o BUN (acrónimo del término inglés  Blood Ureic Nitrogen), que representa la concentración de urea en la sangre expresada en términos de contenido de nitrógeno. Dado que el contenido de nitrógeno en la urea es del 46%, el BUN puede calcularse mediante la siguiente fórmula: BUN = urea plasmática/2,14
+      La lesión renal dificulta la excreción de urea. Aunque la uremia es un parámetro muy utilizado en la valoración de la función renal, es poco sensible, ya que sólo se eleva cuando se ha perdido más de la mitad de la función renal. Los resultados se alteran por la metildopa, indometacina, propranolol, etc. La uremia varia a en proporción directa a la ingesta de proteínas, e inversa al índice de excreción de urea. El significado clínico del nivel de urea plasmática se determina por lo general conjuntamente con el nivel de creatinina plasmática. En la hiperazoemia prerrenal, un aumento en el nivel de urea plasmática está usualmente asociado con un nivel de creatinina plasmática renal, mientras que en la hiperazoemia postrenal hay un aumento en los niveles de ambas. El BUN del suero es aproximadamente 12% mayor que la el BUN de la sangre debido al mayor contenido de proteínas en los hematíes. La eliminación de urea por la orina representa la principal vía de excreción de nitrógeno del organismo. Un 90% del total de urea se excrete por vía renal, y un 10% a través del tracto gastrointestinal y piel.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  180:
+    nombre: Urea (orina)
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  181:
+    nombre: Ureasa (test)
+    descripcion: |
+       Helicobacter pylori es un bacilo gramnegativo, catalasa, oxidasa y ureasa positivo, que precisa un pH ácido para sobrevivir. Actualmente es reconocido como el principal agente causal de gastritis crónica y de enfermedad ulceropéptica, y como un factor de riesgo para el linfoma y adenocarcinoma gástrico. El test de la ureasa, también conocido como  prueba del aliento , es una prueba que permite detectar la enzima ureasa producida por H. pylori, la cual hidroliza rápidamente a la urea marcada que se le administra al paciente, convirtiéndola en 14C02, que pasa rápidamente al torrente sanguíneo, siendo eliminado en el aire espirado recolectado en donde se puede detectar midiendo la radiomactividad. La prueba posee una sensibilidad del 96% y una especificidad de 98%. Por lo tanto, el test de la ureasa es un método no invasivo, muy sensible y especifico, que permite mostrar la totalidad del estómago, reflejando el estado real de la infección.
+       El test de la ureasa puede dar falso negativo si se ha tratado las dos semanas anteriores con inhibidores de la bomba de protones o un mes anterior con antibióticos o con productos de bismuto, y en casos de hemorragia digestiva alta.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  182:
+    nombre: Vanilmandélico (ácido)
+    descripcion: El VMA  es el producto  final  de metabolismo  de las catecolaminas que se excreta  en orina. Su medida  refleja  la produccion  total  de adrenalina  y noradrenalina. Las catecolaminas  urinarias  y sus metabolitos (por ejemplo  el VMA) aumentan  de 10 a 100 veces en casos de feocromocitoma(tumor de la medula SR que secreta grandes cantidades de catecolaminas).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  183:
+    nombre: VDRL
+    descripcion: VDRL (acrónimo del término inglés Venereal Disease Research Laboratory ) es una prueba serológica no treponémica (no específica para sífilis), que detecte la presencia de reaginas, no un anticuerpo antitreponema específico. Su costo y complejidad la hacen ideal para el estudio de la sífilis en grandes masas de población. La prueba puede persistir positiva tiempo después de un tratamiento exitoso (recuerdo inmunológico).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  184:
+    nombre: Velocidad de Sedimentación Globular
+    descripcion: Conocida también como tasa de sedimentación eritrocítica, es un examen que mide inirectamente qué tanta inflamación hay en el cuerpo.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  185:
+    nombre: Vitamina A
+    descripcion: La vitamina A participa  en la sintesis  de los pigmentos retinianos  indispensables  para la vision.Se encuentra  en el  aceite  de higado de peces, leche, huevo y vegetales.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  186:
+    nombre: Vitamina B1
+    descripcion: La vitamina B1(tiamina) es una vitamina hidrosoluble que se encuentra  en los cereales, verduras, higado, mani. Los sindromes  de deficiencia de tiamina  que se observa  en clinicas  pueden variar  desde beriberi, pasando por encefalopatia de Wernicke y sindrome  de Korsakoff, hasta polineuropatia de origen  alcoholico.La deficiencia  grave de tiamina  produce beriberi, cuyos principales  sintomas  pueden  relacionarse con los sistemas  nervioso (beriberi seco) y cardiovascular(beriberi humedo).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  187:
+    nombre: Vitamina B2
+    descripcion: La vitamina B2(Riboflavina) es una vitamina hidrosoluble  que participa en el metabolismo  de las grasas, carbohidratos  y proteinas.Las manifestaciones clinicas  de deficiencia  no son especificas,  e incluyen lesiones mucocutaneas de la boca y piel, vascularizacion  corneal, anemia y cambios en la personalidad.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  188:
+    nombre: Vitamina B3
+    descripcion: La vitamina B3, tambien  conocida  como acido  nicotinico, niacina o factor PP(prevencion  de pelagra) forma parte del complejo B. Existe  en el pan integral, mani, carne  magra de vaca  y cerdo.Interviene  en los procesos  metabolicos de los hidratos  de  carbono, como la glucolisis, via  pentosasfosfato, metabolismo  de lo acidos  grasos, y los aminoacidos a traves de dos  coenzimas nicotinamidicos, el NAD y el NADP. Su deficit  produce pelagra, caracterizada por signos y sintomas atribuibles en especial  a piel,  tubo digestivo y SNC, triada que suele denominarse dermatitis, diarrea y demencia(las tresD).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  189:
+    nombre: Vitamina B6
+    descripcion: La vitamina  B6 (fosfato de oiridoxal) comprende un grupo de vitaminas  hidrosolubles, la cual  incluye  piridoxina, piridoxal y piridoxamina, las cuales actuan como coenzimas en el metabolismo de aminoacidos y el  metabolismo del glucero a glucosa-1-fosfato.Entre los procesos  dependientes de vitamina B6 figuran la sintesis de esfingomiosina, hemo, actividad de transaminasas y el  metabolismo de la  homocisteina.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  190:
+    nombre: Vitamona B9
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  191:
+    nombre: Vitamina B12
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  192:
+    nombre: Vitamina C
+    descripcion: El acido ascorbico  es una vitamina  hidrosoluble  con propiedades antioxidantes, que participa en el  metabolismo del tejido  conectivo. La carencia de vitamina C produce escorbuto, retraso de la cicatrizacion de heridas y una menor  resistencia  a las infecciones y esfuerzos.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  193:
+    nombre: Vitamina D
+    descripcion: ~
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  194:
+    nombre: VITAMINA E
+    descripcion: La vitamna E (tecoferol) es una vitamina liposoluble que actua  como antioxidante, previniendo  el daño a las  membranas  celulares  por  radiacales libres.Esta distribuida  ampliamente en los aceites  vegetales  (maiz, semilla de algodón, soya, girasol).
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  195:
+    nombre: Volumen Corpuscular Medio (VCM)
+    descripcion: El volumen corpuscular medio(VCM) REFLEJA EL TAMAÑO PROMEDIO DE LOS GLÓBULOS ROJOS.
+    tipo: HEMATOLÓGICOS
+    keywords: ~
+
+  196:
+    nombre: Von Willebrand (antígeno)
+    descripcion: Análisis de laboratorio que se solicita para MEDIR LA CANTIDAD DE LA PROTEÍNA LLAMADA FACTOR DE VON WILLEBRAND, proteína importante en el PROCESO DE LA COAGULACIÓN. La coagulación es uno de los mecanismos mediante el cual el organismo evita la pérdida de sangre en caso de una lesión en un vaso sanguíneo.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  197:
+    nombre: Western Blot
+    descripcion: Western blot es un ANÁLISIS DE LABORATORIO que se usa para detectar proteínas específicas, como las que forman parte de los anticuerpos (elementos producidos en respuesta a una infección)
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  198:
+    nombre: Yodo
+    descripcion: El yodo  es un elemento esencial necesario para la PRODUCCIÓN DE HORMONAS TIROIDEAS. El cuerpo no puede producir yodo por lo que debe obtenerse de la dieta.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  199:
+    nombre: Zinc
+    descripcion: El zinc es un nutriente que las personas necesitan para estar sanas. Se encuentra en las células de todo el cuerpo. Ayuda al sistema inmunitario a combatir contra las bacterias y virus que invaden el cuerpo. Su deficiencia produce: Retardo de crecimiento, retardo de la maduración sexual y ósea, disminución de la función inmune, dermatitis, anorexia, diarrea, caída de cabello, cambios de conducta.
+    tipo: BIOQUÍMICO
+    keywords: ~
+
+  200:
+    nombre: Examen completo de orina
+    descripcion: También llamado uroanálisis, consiste en una serie de exámenes efectuados sobre la orina para determinar la presencia de alguna patología. Está compuesto por un análisis macroscópico, físico-químico, microscópico y si fuese necesario hasta urocultivo.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  201:
+    nombre: Urocultivo
+    descripcion: El urocultivo es un análisis microbiológico de la orina que sirve para determinar si existe presencia de bacterias en la orina.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  202:
+    nombre: Coprocultivo
+    descripcion: El coprocultivo es un análisis microbiológico de las heces que sirve para determinar si existe presencia de bacterias patógenas que pueden estar causando una infección gastrointestinal.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  203:
+    nombre: Thevenon
+    descripcion: La prueba de Thevenon es un estudio con la finalidad de determinar la presencia de sangre en la deposiciones.
+    tipo: INMUNOLÓGICOS
+    keywords: ~
+
+  204:
+    nombre: Cultivo secresión faríngea
+    descripcion: El cultivo de secresión faríngea es un análisis microbiológico de faringe que sirve para determinar si existe presencia de bacterias patógenas que pueden estar causando una infección respiratoria alta.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  205:
+    nombre: Reacción inflamatoria en heces
+    descripcion: El concepto de reacción inflamatoria radica principalmente en la presencia o ausencia de leucocitos en heces, que son células que generalmente aparecen cuando el microorganismo causante de la infección es una bacteria.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  206:
+    nombre: Parasitológico
+    descripcion: Estudio realizado en heces con la intención de identificar parásitos
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  207:
+    nombre: Grasas en heces (SUDAN)
+    descripcion: Examen que consiste en la detección cualitativa de grasa neutra (triglicéridos intactos no hidrolizados) y ácidos grasos en una muestra aleatoria de heces mediante la coloración de Sudan III.
+    tipo: MICROBIOLOGÍA
+    keywords: ~
+
+  208:
+    nombre: Ecografía de abdomen superior
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía de abdomen superior tiene como finalidad evaluar los órganos abdominales supramesocólicos: hígado, estómado, bazo, vesícula, así como organos retroperitoneales: páncreas, riñones.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  209:
+    nombre: Ecografía pélvica
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía pélvica tiene como objetivo evaluar genitales internos en mujeres, en las que NO se puede practicar una ecografía transvaginal (por condición virginal de la paciente).
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  210:
+    nombre: Ecografía transvaginal
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía transvaginal esta indicada en mujeres que han inicado vida sexual, NO ESTÁ INDICADA EN MUJERES QUE NO HAN INICIADO VIDA SEXUAL. A través de la ecografía transvaginal se puede evaluar los genitales internos femeninos: útero, trompa y ovarios. Está indicada para descartar lesiones en ovarios y trompas como quistes, cuadro inflamatorios, embarazos ectópicos, tumoraciones, así como patologías en útero.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  211:
+    nombre: Ecografía obstétrica
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  212:
+    nombre: Ecografía renal
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía renal evalúa la arquitectura de los riñones y vías urinarias superiores (ureteres), identifica la presencia o no de cálculos o tumores.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  213:
+    nombre: Ecografía de Próstata
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía prostática es un estudio por imágenes que permite evaluar la arquitectura de la glándula, sus dimensiones y la presencia o no tumoraciones.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  214:
+    nombre: Ecografía de mamas (bilateral)
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  215:
+    nombre: Ecografía doppler a color
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía doppler evalúa flujo sanguíneo. Su utilidad radica en evaluar regiones vasculares con la finalidad de descartar patología en las mismas
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  216:
+    nombre: Ecografía de partes blandas, cuello, tiroides
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía de partes blandas, es para evaluar lesiones localizadas en región subcutánea. Incluye celular subcutáneo, músculo y aponeurosis.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  217:
+    nombre: Ecografía testicular
+    descripcion: La ecografía o ultrasonido es un estudio por imágenes. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. A diferencia de las radiografías, la ecografía no expone radiación. La ecografía testicular es solicitada para evaluar o buscar lesiones en los testículos.
+    tipo: ECOGRAFÍAS
+    keywords: ~
+
+  218:
+    nombre: Mamografía unilateral
+    descripcion: La mamografía es un tipo especial de radiografía de las mamas. Puede ser utilizada para detectar el cáncer de mama en mujeres que presentan indicios o síntomas de enfermedad.
+    tipo: MAMOGRAFÍA
+    keywords: ~
+
+  219:
+    nombre: Mamografía bilateral
+    descripcion: La mamografía es un tipo especial de radiografía de las mamas. Puede ser utilizada para detectar el cáncer de mama en mujeres que presentan indicios o síntomas de enfermedad.
+    tipo: MAMOGRAFÍA
+    keywords: ~
+
+  220:
+    nombre: Endoscopia alta + Biopsia
+    descripcion: Una endoscopía es un procedimiento que permite al médico ver en el interior del cuerpo. Se denomina endoscopía alta, al proceimiento que visualiza el tracto superior del aparato digestivo: esófago, estómago, duodeno.
+    tipo: ENDOSCOPÍAS
+    keywords: ~
+
+  221:
+    nombre: Endoscopia baja (colonoscopia) + Biopsia
+    descripcion: Una endoscopía es un procedimiento que permite al médico ver en el interior del cuerpo. Se denomina endoscopía baja o colonoscopia, al proceimiento que visualiza el tracto inferior del aparato digestivo: canal anal, recto, colon sigmoides, colon descendente, colon transverso, colon ascendente y ciego.
+    tipo: ENDOSCOPÍAS
+    keywords: ~
+
+  222:
+    nombre: Electrocardiograma
+    descripcion: Representación gráfica de la actividad eléctrica del corazón. Evalúa el ritmo y la función del músculo cardíaco
+    tipo: CARDIOLOGÍA
+    keywords: ~
+
+  223:
+    nombre: Ecocardiograma doppler color
+    descripcion: Examen diagnóstico por imágenes, que permite evaluar la anatomía del corazón, la actividad cardíaca y lde os flujos sanguíneos
+    tipo: CARDIOLOGÍA
+    keywords: ~
+
+  224:
+    nombre: Riesgo Quirúrgico
+    descripcion: Evaluación por cardiología para determinar riesgo cardiovascular previo a un procedimiento, el objetivo es poder disminuir riesgos de complicaciones
+    tipo: CARDIOLOGÍA
+    keywords: ~
+
+  225:
+    nombre: Holter
+    descripcion: Estudio que a través de un pequeño dispositivo resgistra y almacena una lectura continua de la frecuencia y el ritmo cardíaco en un plazo de 24 h
+    tipo: CARDIOLOGÍA
+    keywords: ~
+
+  226:
+    nombre: Prueba de esfuerzo
+    descripcion: La prueba de esfuerzo es un estudio común que se utiliza para diagnosticar la enfermedad arterial coronaria. Permite ver como funciona el corazón durante el ejercicio. Durante la prueba de esfuerzo, se llevan al pecho pequeños discos de metal denominados  electrodos , los cuales están conectados a cables que a su vez se conectan a una maquina que registra la actividad eléctrica del corazón.
+    tipo: CARDIOLOGÍA
+    keywords: ~
+
+  227:
+    nombre: Electroencefalograma
+    descripcion: La electroencefalografía es una exploración neurofisiológica que se basa en el registro de la actividad bioeléctrica cerebral en condiciones basales de reposo, en  vigilia o sueño y durante diversas actividades. El registro se hace mediante un equipo de electroencefalografía.
+    tipo: NEUROLOGÍA
+    keywords: ~
+
+  228:
+    nombre: Densitometría Completa
+    descripcion: La densitometría es una técnica diagnóstica por imágenes para determinar la DENSIDAD de una sustancia, de un cuerpo o incluso de partes del cuerpo humano. El procemimiento más habitual se basa en la proporción de luz que deja pasar y retiene una determinada masa.
+    tipo: DENSITOMETRÍA ÓSEA
+    keywords: ~
+
+  229:
+    nombre: Densitometría por regiones
+    descripcion: La densitometría es una técnica diagnóstica por imágenes para determinar la DENSIDAD de una sustancia, de un cuerpo o incluso de partes del cuerpo humano. El procemimiento más habitual se basa en la proporción de luz que deja pasar y retiene una determinada masa.
+    tipo: DENSITOMETRÍA ÓSEA
+    keywords: ~
+
+  230:
+    nombre: Tórax  (de frente)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE. La radiografía de tórax es solicitada para evaluar corazón, pulmones, vías respiratorias, vasos sanguíneos y huesos de la columna y tórax.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  231:
+    nombre: Tórax   (lateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  232:
+    nombre: Columna cervical
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE. La radiografía de columna cervical es indicada para evaluar problemas o alteraciones, la proyección lateral es la que ofrece mayor información.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  233:
+    nombre: Columna cervical funcional
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE. La radiografía cervical funcional se solicita para evaluar el grado de flexibilidad de la columna cervical.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  234:
+    nombre: Columna dorsal
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  235:
+    nombre: Columna dorso-lumbar
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  236:
+    nombre: Columna lumbar
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  237:
+    nombre: Columna lumbo-sacra
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  238:
+    nombre: Columna sacro-coxigea
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  239:
+    nombre: Pelvis
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  240:
+    nombre: Región sacroiliaca
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  241:
+    nombre: Antebrazo (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  242:
+    nombre: Brazo (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  243:
+    nombre: Codo (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  244:
+    nombre: Hombro (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  245:
+    nombre: Mano (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  246:
+    nombre: Muñecas (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  247:
+    nombre: Muslos (unilateral), articulación coxofemoral
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  248:
+    nombre: Pie (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  249:
+    nombre: Pierna (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  250:
+    nombre: Rodilla (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  251:
+    nombre: Tobillo (unilateral)
+    descripcion: La radiografía es una técnica diagnóstica por imágenes NO INVASIVA, las cuáles se obtienen al exponer al receptor de la imagen radiográfica a una fuente de radiación de alta energía, comúnmente Rayos X o Radiación gamma, procedente de isótopos radiactivos. Al interponer un objeto entre la fuente de radiación y el receptor, las partes más densas aparecen con diferente tonos dentro de una escala de grises. Dado que es radiación NO DEBE REALIZARSE A UNA MUJER GESTANTE.
+    tipo: RADIOGRAFÍA
+    keywords: ~
+
+  252:
+    nombre: Tomografía Cerebro (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  253:
+    nombre: Tomografía Macizo facial (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  254:
+    nombre: Tomografía Hipófisis (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  255:
+    nombre: Tomografía Conductos auditivos (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  256:
+    nombre: Tomografía Senos paranasales (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  257:
+    nombre: Tomografía Órbitas (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  258:
+    nombre: Tomografía Cuello, tiroides, laringe (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  259:
+    nombre: Tomografía Tórax - pulmones (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  260:
+    nombre: Tomografía Mediastino (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  261:
+    nombre: Tomografía Abdomen superior (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  262:
+    nombre: Tomografía Hígado, Bazo (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  263:
+    nombre: Tomografía Páncreas, Riñones (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  264:
+    nombre: Tomografía Pelvis, Vejiga, útero (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  265:
+    nombre: Tomografía Próstata (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  266:
+    nombre: Tomografía Abdomen y Pelvis (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  267:
+    nombre: Tomografía Columna (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  268:
+    nombre: Tomografía Extremidades (sin contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  269:
+    nombre: Tomografía Cerebro (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  270:
+    nombre: Tomografía Macizo facial (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  271:
+    nombre: Tomografía Hipófisis (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  272:
+    nombre: Tomografía Conductos auditivos (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  273:
+    nombre: Tomografía Senos paranasales (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  274:
+    nombre: Tomografía Órbitas (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  275:
+    nombre: Tomografía Cuello, tiroides, laringe (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  276:
+    nombre: Tomografía Tórax - pulmones (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  277:
+    nombre: Tomografía Mediastino (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  278:
+    nombre: Tomografía Abdomen superior (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  279:
+    nombre: Tomografía Hígado, Bazo (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  280:
+    nombre: Tomografía Páncreas, Riñones (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  281:
+    nombre: Tomografía Pelvis, Vejiga, útero (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  282:
+    nombre: Tomografía Próstata (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  283:
+    nombre: Tomografía Abdomen y Pelvis (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  284:
+    nombre: Tomografía Columna (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  285:
+    nombre: Tomografía Extremidades (con contraste)
+    descripcion: La tomografía es un estudio por imágenes NO INVASIVO que se caracteriza por procesamiento de imágenes por secciones. Para generar las imágenes se usa un equipo especial de Rayos X. Al igual que las radiografías, las tomografías utilizan RADIACIÓN, por lo que NO REALIZAR EN MUJER GESTANTE.
+    tipo: TOMOGRAFÍA
+    keywords: ~
+
+  286:
+    nombre: Prueba del cloruro férrico
+    descripcion: ~
+    tipo: PRUEBAS ESPECIALES
+    keywords: ~
+
+  287:
+    nombre: Prueba de Guthrie
+    descripcion: ~
+    tipo: PRUEBAS ESPECIALES
+    keywords: ~
+
+  288:
+    nombre: Colposcopía
+    descripcion: La colposcopia es una forma especial de examinar el cuello uterino. Se utiliza una fuente de luz y un microscopio de baja potencia para hacer que el cuello uterino aparezca mucho más grande y así poder detectar lesiones par luego biopsiar.
+    tipo: ESTUDIO ESPECIAL
+    keywords: ~
+
+  289:
+    nombre: Broncofibroscopía
+    descripcion: La broncofibroscopía es una técnica que permite ver la tráquea y los bronquios por medio de un tubo flexible que se introduce por la naríz o por la boca. Se utiliza este procedimiento para evaluar un gran número de enfermedades del aparato respiratorio, así mismo puede aspirarse secreciones o extraer cuerpos extraños alojados en los bronquios.
+    tipo: ESTUDIO ESPECIAL
+    keywords: ~
+
+  290:
+    nombre: Consulta por Médico Oncólogo
+    descripcion: Evaluación por médico especialista en Oncología para el tratamiento del cáncer con quimioterapia.
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  291:
+    nombre: Consulta médica Cirujano Oncólogo
+    descripcion: Evaluación por médico especialista en el Oncología quirúrgica, detección de lesiones precancerosas y manejo del cáncer en áreas como cabeza y cuello, mamas, partes blandas, tumores digestivos, lesiones en aparato genital masculino y femenino, tórax. Manejo de biopsias: aspiración, quirúrgica.
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  292:
+    nombre: Consulta médica Neumólogo
+    descripcion: Evaluación por médico especialista en el aparato respiratorio
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  293:
+    nombre: Consulta médica Cardiólogo
+    descripcion: Evaluación por médico especialista en enfermedades cardíacas y alteración de la presión arterial
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  294:
+    nombre: Consulta médica Gastroenterólogo
+    descripcion: Evaluación por médico especialista en el aparato digestivo
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  295:
+    nombre: Consulta médica Urología
+    descripcion: Evaluación por médico especialista en el aparato urinario y genital masculino
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  296:
+    nombre: Consulta médica Cabeza y Cuello
+    descripcion: Evaluación por médico especialista en patología de cabeza y cuello
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  297:
+    nombre: Consulta médica Ginecología Oncológica
+    descripcion: Evaluación por médico especialista en el aparato genital femenino
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  298:
+    nombre: Renograma isotopico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas. El renograma isotópico se solicita para evaluar función renal
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  299:
+    nombre: Renograma isotopico + test de lasix
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas. El renograma isotopico + test de lasix se utiliza para evaluar función renal y reserva funcional.
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  300:
+    nombre: Renograma isotopico de riñon transplantado
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas. Se solicita el estudio para evaluar función de riñon transplantado
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  301:
+    nombre: Estudios de vasos iliacos PRE transplante renal
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  302:
+    nombre: Gammagrafía renla morfológica DMSA
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  303:
+    nombre: Perfusión testicular
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  304:
+    nombre: Radiorrenograma isotopico + reflujo uretero-vesical
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  305:
+    nombre: Radiorrenograma isotópico + test de lasix + reflujo uretero-vesical
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  306:
+    nombre: Reflujo gastroesófago
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas. El estudio de reflujo gastroesofágico se solicita evaluar competencia de esfinter del cardias
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  307:
+    nombre: Vaciamiento gástrico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  308:
+    nombre: Gammagrafía hepatoesplénica
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  309:
+    nombre: Gammagrafía de vías biliares
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  310:
+    nombre: Pool hepático
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  311:
+    nombre: Gammagrafía de glándulas salivales
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  312:
+    nombre: Tránsito esofágico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  313:
+    nombre: Detección de Divertículo de Meckel
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  314:
+    nombre: Detección de Hemorragias digestivas con sangrado activo
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  315:
+    nombre: Gammagrafía cerebral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  316:
+    nombre: Cisternografía (no incluye costo Punción lumbar)
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  317:
+    nombre: SPECT cerebral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  318:
+    nombre: SPECT de neuro activación
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  319:
+    nombre: Flebografía de miembros inferiores bilateral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  320:
+    nombre: Flebografía de miembros superiores bilateral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  321:
+    nombre: Flebografía de miembros superiores unilaterales
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  322:
+    nombre: flebografia de miembros inferiores unilateral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  323:
+    nombre: Linfografía de miembros inferiores
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  324:
+    nombre: Linfografía de miembros superiores
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  325:
+    nombre: Ventriculografía isotópica
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  326:
+    nombre: SPECT miocardio primer día físico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  327:
+    nombre: SPECT miocardio dos  días físico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  328:
+    nombre: SPECT de perfusión miocárdica 1 día farmacológico (no incluye adenosina)
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  329:
+    nombre: Gammagrafía de miocardio con pirofosfato
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  330:
+    nombre: Evaluación de sindrome hepato pulmonar
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  331:
+    nombre: Captación y gammagrafía tiroidea
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  332:
+    nombre: Gammagrafía de tiroides con Tc99m
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  333:
+    nombre: Gammagrafía de tiroides con I131
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  334:
+    nombre: Test de supresión tiroidea- Test de Werner
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  335:
+    nombre: Test de estimulación tiroidea
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  336:
+    nombre: Gammagrafía paratiroidea con MIBI
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  337:
+    nombre: Captación con I131
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  338:
+    nombre: Gammagrafía de tiroides con MIBI
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  339:
+    nombre: Gammagrafía pulmonar perfusión
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  340:
+    nombre: Gammagrafía pulmonar cuantitativa
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  341:
+    nombre: Gammagrafía conductos lacrimonasales
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  342:
+    nombre: Gammagrafía osteo articular
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  343:
+    nombre: Gammagrafía ósea + SPECT/tomogréfico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  344:
+    nombre: Gammagrafía con marcadores tumorales
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  345:
+    nombre: Gammagrafía ósea + SPECT/tomográfico
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  346:
+    nombre: Rastreo corporal de tejido tiroideo por operatorio con I131
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  347:
+    nombre: Rastreo corporal de tejido tiroideo por operatorio con Tc99m
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  348:
+    nombre: Gammagrafía de mama bilateral
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  349:
+    nombre: Rastreo corporal de tejido tiroideo post-tratamiento ablativo
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  350:
+    nombre: Gammagrafía de ganglio centinela
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  351:
+    nombre: Gammagrafía ósea completa
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  352:
+    nombre: Gammagrafía con ciprofloxacina
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  353:
+    nombre: Gammagrafía ósea trifásica
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  354:
+    nombre: Gammagrafía ósea de cuatros fases
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  355:
+    nombre: Índice sacro iliaco
+    descripcion: Las gammagrafías son estudios por imágenes. Para su realización es necesaria la ADMINISTRACIÓN DE UN RADIOFÁRMACO, el cuál señalará las partes afectadas de los órganos que queremos estudiar. Un radiofármaco es una molécula con capacidad de acoplarse a las células y proteínas específicas
+    tipo: MEDICINA NUCLEAR
+    keywords: ~
+
+  356:
+    nombre: Perfil de Anemia
+    descripcion: |
+       - Hierro sérico
+       - Ferritinia
+       - Vitamina B12
+       - Ácido fólico
+       - Hemograma completo
+    tipo: PERFILES
+    keywords: ~
+
+  357:
+    nombre: Perfil Lipídico
+    descripcion: |
+       - Colesterol total
+       - Colesterol HDL
+       - Colesterol LDL
+       - Colesterol VLDL
+       - Triglicéridos
+       - Lípidos totales
+    tipo: PERFILES
+    keywords: ~
+
+  358:
+    nombre: Perfil Hepático
+    descripcion: |
+       - Bilirrubinas fraccionadas
+       - Fosfatasa alcalina
+       - Gamma-glutamil transpeptidasa
+       - Proteínas totales y fraccionadas
+       - TGO
+       - TGP
+    tipo: PERFILES
+    keywords: ~
+
+  359:
+    nombre: Perfil Tiroideo
+    descripcion: |
+       - T3 (triiodotironina)
+       - T4 (tiroxina)
+       - TSH ultrasensible
+    tipo: PERFILES
+    keywords: ~
+
+  360:
+    nombre: Perfil Hormonal Femenino Completo
+    descripcion: |
+       - T4 (tiroxina)
+       - Estradiol
+       - TSH ultrasensible
+       - F.S.H.
+       - L.H.
+    tipo: PERFILES
+    keywords: ~
+
+  361:
+    nombre: Perfil de Coagulación
+    descripcion: |
+       - Coagulación y sangría
+       - Tiempo de trombina
+       - Tiempo parcial de tromboplastina
+       - Tiempo de protombina
+       - Fibrinógeno
+    tipo: PERFILES
+    keywords: ~
+
+  362:
+    nombre: Perfil Reumatológico
+    descripcion: |
+       - Ácido úrico
+       - Fenómeno LE
+       - Anticuerpos antinucleares (ANA)
+       - Factor reumatoideo (LATEX)
+       - Proteína C reactiva
+       - Velocidad de sedimentación
+       - Hemograma completo
+    tipo: PERFILES
+    keywords: ~
+
+  363:
+    nombre: Perfil Renal
+    descripcion: |
+       - Creatinina
+       - Depuración de creatinina endógena
+       - Urea
+       - Hemograma completo
+       - Proteina en orina 24 horas
+       - Examen completo de orina
+    tipo: PERFILES
+    keywords: ~
+
+  364:
+    nombre: Perfil hormonal Femenino Simplificado
+    descripcion: |
+       - Estradiol
+       - F.S.H.
+       - L.H.
+    tipo: PERFILES
+    keywords: ~
+
+  365:
+    nombre: Perfil Recién Nacido
+    descripcion: |
+       - Hemoglobina/hematocrito
+       - Glucosa
+       - Grupo sanguíneo
+       - PKU (fenilcetonuria en orina)
+       - TSH ultrasensible
+    tipo: PERFILES
+    keywords: ~
+
+  366:
+    nombre: Perfil PRE-NATAL Básico
+    descripcion: |
+       - Hemograma completo
+       - Glucosa
+       - Urea
+       - Creatinina
+       - Examen completo de orina
+       - Grupo anguíneo y RH
+       - Serología cualitativa para SIFILIS
+    tipo: PERFILES
+    keywords: ~
+
+  367:
+    nombre: Perfil Chequeo General
+    descripcion: |
+       - Hemograma completo
+       - Examen completo de orina
+       - Parasitológico simple
+       - TGO
+       - TGP
+       - Urea
+       - Creatinina
+       - Ácido úrico
+       - Serología cualitativa para SIFILIS
+    tipo: PERFILES
+    keywords: ~
+
+  368:
+    nombre: Perfil estudio genético
+    descripcion: |
+       - Alfa feto proteína (AFP)
+       - b-HCG cuantitativo
+       - Estradiol libre
+    tipo: PERFILES
+    keywords: ~
+
+  369:
+    nombre: Perfil TORCH completo
+    descripcion: |
+       - Citomegalovirus (IgG)
+       - Citomegalovirus (IgM)
+       - Toxoplasmosis (IgG)
+       - Toxoplasmosis (IgM)
+       - Herpes 1 (IgM)
+       - Herpes 1 (IgG)
+       - Herpes 2 (IgM)
+       - Herpes 2 (IgG)
+       - Rubeola (IgG)
+       - Rubeola (IgM)
+    tipo: PERFILES
+    keywords: ~
+
+  370:
+    nombre: Perfil PRE-NATAL completo
+    descripcion: |
+       - Hemograma completo
+       - Glucosa
+       - Urea
+       - Creatinina
+       - Examen completo de orina
+       - Grupo anguíneo y RH
+       - Serología cualitativa para SIFILIS
+       - Hepatitis B antígeno de superficie (Australiano)
+       - HIV 1-2
+    tipo: PERFILES
+    keywords: ~
+
+  371:
+    nombre: Pefil PRE-OPERATORIO
+    descripcion: |
+       - Hemograma completo
+       - Coagulación y sangría
+       - Glucosa
+       - Urea
+       - Creatinina
+       - Examen completo de orina
+       - Grupo anguíneo y RH
+       - Serología cualitativa para SIFILIS
+       - Hepatitis B antígeno de superficie (Australiano)
+       - HIV 1-2
+    tipo: PERFILES
+    keywords: ~
+
+  372:
+    nombre: Pefil Abuso de drogas
+    descripcion: |
+       - Cocaina / PBC cuantitativo
+       - Marihuana - THC cuantitativo
+       - Benzodiazepinas (orina)
+    tipo: PERFILES
+    keywords: ~
+
+  373:
+    nombre: Perfil TORCH evaluación actividad
+    descripcion: |
+       - Citomegalovirus (IgM)
+       - Toxoplasmosis (IgM)
+       - Herpes 1 (IgM)
+       - Herpes 2 (IgM)
+       - Rubeola (IgM)
+    tipo: PERFILES
+    keywords: ~
+
+  374:
+    nombre: Consulta médica Oftalmólogo
+    descripcion: Evaluación por médico especialista en el Oftalmología.
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  375:
+    nombre: Consulta Cirugía Pediátrica
+    descripcion: Evaluación por médico especialista en cirugía de niños (cirugía Pediátrica)
+    tipo: CONSULTA MÉDICA
+    keywords: ~
+
+  376:
+    nombre: Resonancia temporo mandibular
+    descripcion: ~
+    tipo: ARTICULACIONES
+    keywords: ~
+
+  377:
+    nombre: Resonancia de hombro
+    descripcion: ~
+    tipo: ARTICULACIONES
+    keywords: ~
+
+  378:
+    nombre: Resonancia de codo
+    descripcion: ~
+    tipo: ~
+    keywords: ~
+
+  379:
+    nombre: Resonancia de muñeca
+    descripcion: ~
+    tipo: ~
+    keywords: ~
+
+  380:
+    nombre: Resonancia de mano
+    descripcion: ~
+    tipo: ~
+    keywords: ~
+
+  381:
+    nombre: Resonancia sacro coxígea
+    descripcion: ~
+    tipo: ~
+    keywords: ~
